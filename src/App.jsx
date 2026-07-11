@@ -204,7 +204,7 @@ function Card({ item, hero, saved, toggle, onTag, fields }) {
         <span className="ml-auto"><StarBtn on={saved} onClick={toggle} /></span>
       </div>
       <h3 style={{ color: T.ink, letterSpacing: "-0.02em" }}
-        className="font-extrabold leading-snug text-xl md:text-2xl">
+        className={`font-extrabold leading-snug ${hero ? "text-lg md:text-xl" : "text-base md:text-lg"}`}>
         {item.title}
       </h3>
       <ul className="flex flex-col gap-1.5">
