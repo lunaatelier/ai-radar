@@ -358,14 +358,14 @@ export default function AIRadar() {
         <header className="pt-1 pb-4 md:py-6">
           <div className="flex items-center justify-between gap-3 h-14 md:h-auto">
             <button onClick={tabs[0].go} className="shrink-0">
-              <img src="/logo.png" alt="AI RADAR" className="h-8 md:h-6 w-auto" />
+              <img src="/logo.png" alt="AI RADAR" className="h-8 md:h-8 w-auto mt-1 md:mt-0" />
             </button>
             <nav style={{ background: T.surface, border: `1px solid ${T.line}` }} className="hidden md:flex rounded-full p-1">
               {tabs.map((t) => <TabBtn key={t.key} t={t} />)}
             </nav>
             <button onClick={() => { setView("settings"); setTag(null); }} aria-label="설정"
               style={{ background: view === "settings" ? T.ink : T.surface, color: view === "settings" ? "#fff" : T.sub, border: `1px solid ${view === "settings" ? T.ink : T.line}` }}
-              className="rounded-full h-11 w-11 md:h-9 md:w-9 flex items-center justify-center shrink-0">
+              className="rounded-full h-11 w-11 md:h-[2.7rem] md:w-[2.7rem] flex items-center justify-center shrink-0">
               <Icon.gear />
             </button>
           </div>
