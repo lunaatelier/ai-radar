@@ -1,0 +1,14 @@
+{
+  "note": "수집 소스 마스터 목록. on=false로 바꾸면 다음 수집부터 제외됩니다. filter=true인 소스는 AI 관련 키워드 필터를 거칩니다.",
+  "sources": [
+    { "name": "Anthropic Blog", "type": "공식 블로그", "url": "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en", "on": true, "filter": false },
+    { "name": "OpenAI Blog", "type": "공식 블로그", "url": "https://openai.com/news/rss.xml", "on": true, "filter": false },
+    { "name": "Google Blog", "type": "공식 블로그", "url": "https://blog.google/technology/ai/rss/", "on": true, "filter": false },
+    { "name": "TechCrunch AI", "type": "해외 뉴스", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "on": true, "filter": false },
+    { "name": "The Verge AI", "type": "해외 뉴스", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "on": true, "filter": false },
+    { "name": "Product Hunt", "type": "신규 툴", "url": "https://www.producthunt.com/feed", "on": true, "filter": true },
+    { "name": "Hacker News", "type": "커뮤니티", "url": "https://hnrss.org/frontpage", "on": true, "filter": true },
+    { "name": "GeekNews", "type": "커뮤니티 (국내)", "url": "https://news.hada.io/rss/news", "on": true, "filter": true },
+    { "name": "AI타임스", "type": "국내 뉴스", "url": "https://www.aitimes.com/rss/allArticle.xml", "on": true, "filter": false }
+  ]
+}
