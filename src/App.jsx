@@ -437,9 +437,9 @@ export default function AIRadar() {
             <div className="mt-8">
               <SectionTitle>자동 갱신</SectionTitle>
               <ListBox>
-                <div className="p-5 flex items-center justify-between gap-3">
+                <div className="p-5 flex flex-col md:flex-row md:items-center md:justify-between gap-1 md:gap-3">
                   <span style={{ color: T.ink }} className="text-[15px] md:text-sm font-semibold">매일 오전 7시에 새 소식 수집·요약</span>
-                  <span style={{ color: T.faint }} className="text-[13px] md:text-xs text-right">GitHub Actions에서 자동 실행</span>
+                  <span style={{ color: T.faint }} className="text-[13px] md:text-xs md:text-right">GitHub Actions에서 자동 실행</span>
                 </div>
               </ListBox>
             </div>
