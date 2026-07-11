@@ -560,7 +560,7 @@ export default function AIRadar() {
                 {fields.length > 0 && (() => {
                   const fieldItems = items.filter((i) => i.tags.some((t) => fields.includes(t)));
                   if (!fieldItems.length) return null;
-                  const visibleMobile = showAllField ? fieldItems : fieldItems.slice(0, 5);
+                  const visibleMobile = showAllField ? fieldItems : fieldItems.slice(0, 3);
                   const visibleDesktop = showAllField ? fieldItems : fieldItems.slice(0, 3);
                   return (
                     <section className="mt-10">
@@ -572,11 +572,11 @@ export default function AIRadar() {
                             {visibleMobile.map((it) => <Row key={it.id} {...rowProps(it)} />)}
                           </ul>
                         </ListBox>
-                        {fieldItems.length > 5 && (
+                        {fieldItems.length > 3 && (
                           <button onClick={() => setShowAllField((v) => !v)}
                             style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
                             className="w-full mt-2 rounded-2xl py-3.5 text-sm font-bold hover:bg-black/5">
-                            {showAllField ? "접기" : `더보기 (${fieldItems.length - 5}건 더)`}
+                            {showAllField ? "접기" : "더보기"}
                           </button>
                         )}
                       </div>
@@ -591,7 +591,7 @@ export default function AIRadar() {
                           <button onClick={() => setShowAllField((v) => !v)}
                             style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
                             className="w-full mt-3 rounded-2xl py-3 text-sm font-bold hover:bg-black/5">
-                            {showAllField ? "접기" : `더보기 (${fieldItems.length - 3}건 더)`}
+                            {showAllField ? "접기" : "더보기"}
                           </button>
                         )}
                       </div>
@@ -650,10 +650,10 @@ export default function AIRadar() {
                   <div className="flex gap-2 gap-y-2.5 flex-wrap">
                     {visibleTags.map((t) => <Tag key={t} name={t} onTag={goTag} isField={fields.includes(t)} />)}
                     {sortedTags.length > 10 && (
-                      <button onClick={() => setShowAllTags((v) => !v)} className="py-1 -my-1 group">
+                      <button onClick={() => setShowAllTags((v) => !v)} className="w-full md:w-auto py-1 -my-1 group">
                         <span style={{ border: `1px dashed ${T.faint}`, color: T.sub }}
-                          className="inline-flex items-center h-9 md:h-7 rounded-full px-3 text-[13px] md:text-xs font-bold group-hover:opacity-70">
-                          {showAllTags ? "접기" : `태그 더보기 (+${sortedTags.length - 10})`}
+                          className="flex md:inline-flex items-center justify-center w-full md:w-auto h-9 md:h-7 rounded-full px-3 text-[13px] md:text-xs font-bold group-hover:opacity-70">
+                          {showAllTags ? "접기" : "더보기"}
                         </span>
                       </button>
                     )}
