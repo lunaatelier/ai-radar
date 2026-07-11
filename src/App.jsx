@@ -433,18 +433,14 @@ export default function AIRadar() {
                     );
                   })}
                 </ul>
-                <p style={{ borderTop: `1px solid ${T.line}`, color: T.faint }} className="p-4 text-[13px] md:text-xs leading-[19px]">
-                  수집 자체를 중단하거나 새 RSS 소스를 추가하려면 저장소의 <code className="font-bold">public/data/sources.json</code>을 수정하세요. 다음 자동 수집부터 반영돼요.
-                </p>
               </ListBox>
             </div>
 
             <div className="mt-8">
               <SectionTitle>자동 갱신</SectionTitle>
               <ListBox>
-                <div className="p-5 flex flex-col md:flex-row md:items-center md:justify-between gap-1 md:gap-3">
+                <div className="p-5">
                   <span style={{ color: T.ink }} className="text-[15px] md:text-sm font-semibold">매일 오전 7시에 새 소식 수집·요약</span>
-                  <span style={{ color: T.faint }} className="text-[13px] md:text-xs md:text-right">GitHub Actions에서 자동 실행</span>
                 </div>
               </ListBox>
             </div>
@@ -665,10 +661,6 @@ export default function AIRadar() {
                 </section>
               </>
             )}
-
-            <footer style={{ color: T.faint }} className="mt-12 text-xs text-center">
-              매일 오전 7시 자동 갱신 · 모든 소식은 한글로 제공 · 지난 뉴스는 날짜별로 계속 보관
-            </footer>
           </>
         )}
       </div>
