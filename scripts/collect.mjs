@@ -87,11 +87,19 @@ async function collectFeeds(sources) {
 // ─── NVIDIA API ───────────────────────────────────────────
 async function chat(messages, maxTokens = 700) {
   for (let attempt = 1; attempt <= 3; attempt++) {
-    const res = await fetch(API_URL, {
-      method: "POST",
-      headers: { Authorization: `Bearer ${API_KEY}`, "Content-Type": "application/json" },
-      body: JSON.stringify({ model: MODEL, messages, temperature: 0.3, max_tokens: maxTokens }),
-    });
+    let res;
+    try {
+      res = await fetch(API_URL, {
+        method: "POST",
+        headers: { Authorization: `Bearer ${API_KEY}`, "Content-Type": "application/json" },
+        body: JSON.stringify({ model: MODEL, messages, temperature: 0.3, max_tokens: maxTokens }),
+        signal: AbortSignal.timeout(90_000),
+      });
+    } catch (err) {
+      console.warn(`[llm] request failed (attempt ${attempt}): ${err.message}`);
+      await new Promise((r) => setTimeout(r, attempt * 5000));
+      continue;
+    }
     if (res.status === 429 || res.status >= 500) {
       await new Promise((r) => setTimeout(r, attempt * 5000));
       continue;
@@ -231,6 +239,10 @@ async function main() {
   }
 
   const enriched = await enrichAll(rawItems);
+  if (enriched.length === 0) {
+    console.error("[collect] all items failed enrichment — keeping existing data");
+    process.exit(1);
+  }
   enriched.sort((a, b) => b.importance - a.importance);
   enriched.forEach((it, n) => { it.id = `${date}-${String(n + 1).padStart(2, "0")}`; it.top = n < 5; });
 
