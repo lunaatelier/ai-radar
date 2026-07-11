@@ -152,10 +152,10 @@ function Row({ item, expanded, onExpand, saved, toggle, onTag, fields }) {
   );
 }
 
-function Card({ item, hero, saved, toggle, onTag, fields }) {
+function Card({ item, saved, toggle, onTag, fields }) {
   return (
     <article style={{ background: T.surface, border: `1px solid ${T.line}` }}
-      className={`rounded-2xl p-5 flex flex-col gap-3 transition-shadow hover:shadow-md ${hero ? "md:p-7" : ""}`}>
+      className="rounded-2xl p-5 flex flex-col gap-3 transition-shadow hover:shadow-md">
       <div className="flex items-center gap-2 flex-wrap">
         <Badge cat={item.cat} />
         {isNewItem(item.publishedAt) && <NewDot />}
@@ -188,11 +188,17 @@ const ListBox = ({ children }) => (
   </div>
 );
 
-// 섹션 타이틀·설명 두 줄 구조 (모바일 18px, 데스크톱 14px)
+// 섹션 타이틀·설명 — 모바일 두 줄, 데스크톱은 "·"로 이어붙인 한 줄
 const SectionTitle = ({ children, note }) => (
   <div className="mb-3">
-    <h2 style={{ color: T.ink }} className="text-lg leading-[26px] md:text-sm md:leading-normal font-extrabold tracking-wide">{children}</h2>
-    {note && <p style={{ color: T.faint }} className="text-[13px] leading-[19px] md:text-xs font-semibold mt-0.5">{note}</p>}
+    <div className="hidden md:flex md:items-baseline md:gap-1.5">
+      <h2 style={{ color: T.ink }} className="text-sm font-extrabold tracking-wide">{children}</h2>
+      {note && <span style={{ color: T.faint }} className="text-xs font-semibold">· {note}</span>}
+    </div>
+    <div className="md:hidden">
+      <h2 style={{ color: T.ink }} className="text-lg leading-[26px] font-extrabold tracking-wide">{children}</h2>
+      {note && <p style={{ color: T.faint }} className="text-[13px] leading-[19px] font-semibold mt-0.5">{note}</p>}
+    </div>
   </div>
 );
 
@@ -260,7 +266,6 @@ export default function AIRadar() {
   const [view, setView] = useState("today");
   const [tag, setTag] = useState(null);
   const [showCal, setShowCal] = useState(false);
-  const [openCat, setOpenCat] = useState(null);
   const [expandedId, setExpandedId] = useState(null);
   const [showAllTags, setShowAllTags] = useState(false);
 
@@ -352,7 +357,7 @@ export default function AIRadar() {
   return (
     <div style={{ background: T.bg, fontFamily: `'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif`, minHeight: "100vh" }}>
       <style>{`html{scrollbar-gutter:stable;} body{overflow-y:scroll;}`}</style>
-      <div className="mx-auto max-w-5xl px-4 md:px-8 pb-16">
+      <div className="mx-auto max-w-[1200px] px-4 md:px-8 pb-16">
 
         {/* 헤더 — 모바일: 로고+설정(56px) / 아래 50:50 풀폭 탭, 데스크톱: 한 줄 */}
         <header className="pt-1 pb-4 md:py-6">
@@ -549,13 +554,8 @@ export default function AIRadar() {
               <>
                 <section>
                   <SectionTitle note="가장 화제가 된 소식이에요">{isLatest ? "오늘의 주요 소식" : "주요 소식"}</SectionTitle>
-                  <div className="grid gap-3 md:grid-cols-2">
-                    {top5[0] && (
-                      <div className="md:col-span-2">
-                        <Card item={top5[0]} hero {...{ saved: !!savedMap[top5[0].id], toggle: () => toggle(top5[0]), onTag: goTag, fields }} />
-                      </div>
-                    )}
-                    {top5.slice(1).map((it) => (
+                  <div className="grid gap-3 md:grid-cols-3">
+                    {top5.slice(0, 3).map((it) => (
                       <Card key={it.id} item={it} saved={!!savedMap[it.id]} toggle={() => toggle(it)} onTag={goTag} fields={fields} />
                     ))}
                   </div>
@@ -564,22 +564,41 @@ export default function AIRadar() {
                 {fields.length > 0 && (() => {
                   const fieldItems = items.filter((i) => i.tags.some((t) => fields.includes(t)));
                   if (!fieldItems.length) return null;
-                  const visible = showAllField ? fieldItems : fieldItems.slice(0, 5);
+                  const visibleMobile = showAllField ? fieldItems : fieldItems.slice(0, 5);
+                  const visibleDesktop = showAllField ? fieldItems : fieldItems.slice(0, 3);
                   return (
                     <section className="mt-10">
                       <SectionTitle note="중요도와 관심 분야를 기준으로 모았어요">내 관심 소식</SectionTitle>
-                      <ListBox>
-                        <ul className="divide-y" style={{ borderColor: T.line }}>
-                          {visible.map((it) => <Row key={it.id} {...rowProps(it)} />)}
-                        </ul>
+
+                      <div className="md:hidden">
+                        <ListBox>
+                          <ul className="divide-y" style={{ borderColor: T.line }}>
+                            {visibleMobile.map((it) => <Row key={it.id} {...rowProps(it)} />)}
+                          </ul>
+                        </ListBox>
                         {fieldItems.length > 5 && (
                           <button onClick={() => setShowAllField((v) => !v)}
-                            style={{ borderTop: `1px solid ${T.line}`, color: T.sub }}
-                            className="w-full py-3.5 md:py-3 text-sm font-bold hover:bg-black/5">
+                            style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
+                            className="w-full mt-2 rounded-2xl py-3.5 text-sm font-bold hover:bg-black/5">
                             {showAllField ? "접기" : `더보기 (${fieldItems.length - 5}건 더)`}
                           </button>
                         )}
-                      </ListBox>
+                      </div>
+
+                      <div className="hidden md:block">
+                        <div className="grid grid-cols-3 gap-3">
+                          {visibleDesktop.map((it) => (
+                            <Card key={it.id} item={it} saved={!!savedMap[it.id]} toggle={() => toggle(it)} onTag={goTag} fields={fields} />
+                          ))}
+                        </div>
+                        {fieldItems.length > 3 && (
+                          <button onClick={() => setShowAllField((v) => !v)}
+                            style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
+                            className="w-full mt-3 rounded-2xl py-3 text-sm font-bold hover:bg-black/5">
+                            {showAllField ? "접기" : `더보기 (${fieldItems.length - 3}건 더)`}
+                          </button>
+                        )}
+                      </div>
                     </section>
                   );
                 })()}
@@ -589,25 +608,16 @@ export default function AIRadar() {
                   <div className="flex flex-col gap-2">
                     {restByCat.map(([key, list]) => {
                       const c = CATS[key], I = CatIcon[key];
-                      const isOpen = openCat === key;
                       return (
                         <ListBox key={key}>
-                          <button onClick={() => setOpenCat(isOpen ? null : key)}
-                            className="w-full flex items-center justify-between px-5 py-4">
-                            <span className="flex items-center gap-2.5">
-                              <span style={{ color: c.color }}><I /></span>
-                              <span style={{ color: T.ink }} className="font-bold text-base md:text-sm">{c.label}</span>
-                              <span style={{ background: c.tint, color: c.color }} className="rounded-full px-2 py-0.5 text-xs font-bold">{list.length}</span>
-                            </span>
-                            <span style={{ color: T.faint, display: "inline-flex", transform: isOpen ? "rotate(180deg)" : "none", transition: "transform .15s" }}>
-                              <Icon.chevronDown />
-                            </span>
-                          </button>
-                          {isOpen && (
-                            <ul style={{ borderTop: `1px solid ${T.line}` }} className="divide-y">
-                              {list.map((it) => <Row key={it.id} {...rowProps(it)} />)}
-                            </ul>
-                          )}
+                          <div className="flex items-center gap-2.5 px-5 py-4">
+                            <span style={{ color: c.color }}><I /></span>
+                            <span style={{ color: T.ink }} className="font-bold text-base md:text-sm">{c.label}</span>
+                            <span style={{ background: c.tint, color: c.color }} className="rounded-full px-2 py-0.5 text-xs font-bold">{list.length}</span>
+                          </div>
+                          <ul style={{ borderTop: `1px solid ${T.line}` }} className="divide-y">
+                            {list.map((it) => <Row key={it.id} {...rowProps(it)} />)}
+                          </ul>
                         </ListBox>
                       );
                     })}
