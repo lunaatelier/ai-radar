@@ -162,7 +162,7 @@ function Card({ item, hero, saved, toggle, onTag, fields }) {
         <span className="ml-auto"><StarBtn on={saved} onClick={toggle} /></span>
       </div>
       <h3 style={{ color: T.ink, letterSpacing: "-0.02em" }}
-        className={`font-extrabold ${hero ? "text-lg leading-6 md:text-xl md:leading-snug" : "text-base leading-6 md:text-lg md:leading-snug"}`}>
+        className="font-extrabold text-lg leading-6 md:leading-snug">
         {item.title}
       </h3>
       {/* 카드 요약은 2줄 중심 — 3번째 줄부터는 데스크톱에서만 노출 */}
@@ -198,7 +198,7 @@ const SectionTitle = ({ children, note }) => (
 
 // 통계: 문장이 아닌 독립된 칩
 const StatChip = ({ label, value, color }) => (
-  <div style={{ background: T.surface, border: `1px solid ${T.line}` }} className="rounded-xl px-4 py-2.5 flex-1 min-w-[110px]">
+  <div style={{ background: T.surface, border: `1px solid ${T.line}` }} className="rounded-xl px-2.5 md:px-4 py-2.5 flex-1 min-w-0 md:min-w-[110px]">
     <div style={{ color: color || T.ink }} className="text-xl md:text-lg font-extrabold leading-none">{value}</div>
     <div style={{ color: T.faint }} className="text-[13px] md:text-xs font-semibold mt-1">{label}</div>
   </div>
@@ -357,7 +357,7 @@ export default function AIRadar() {
         {/* 헤더 — 모바일: 로고+설정(56px) / 아래 50:50 풀폭 탭, 데스크톱: 한 줄 */}
         <header className="pt-1 pb-4 md:py-6">
           <div className="flex items-center justify-between gap-3 h-14 md:h-auto">
-            <button onClick={tabs[0].go} style={{ color: T.ink }} className="font-extrabold tracking-tight text-lg">
+            <button onClick={tabs[0].go} style={{ color: T.ink }} className="font-extrabold tracking-tight text-2xl md:text-lg">
               AI&nbsp;<span style={{ color: "#0B9E6E" }}>RADAR</span>
             </button>
             <nav style={{ background: T.surface, border: `1px solid ${T.line}` }} className="hidden md:flex rounded-full p-1">
@@ -494,24 +494,24 @@ export default function AIRadar() {
             <section className="pt-0 md:pt-2 pb-8">
               {/* 통합 날짜 네비게이션 */}
               <div className="relative flex items-center gap-1 mb-5">
-                <div style={{ border: `1px solid ${T.line}`, background: T.surface }} className="inline-flex items-center rounded-full overflow-hidden">
+                <div style={{ border: `1px solid ${T.line}`, background: T.surface }} className="flex md:inline-flex items-center rounded-full overflow-hidden flex-1 md:flex-initial">
                   <button onClick={() => setSelDate(dates[di + 1])} disabled={di >= dates.length - 1} aria-label="이전 날짜"
-                    style={{ color: di >= dates.length - 1 ? "#D3DCDA" : T.sub }} className="h-11 w-11 md:h-9 md:w-9 flex items-center justify-center">
+                    style={{ color: di >= dates.length - 1 ? "#D3DCDA" : T.sub }} className="h-11 w-11 md:h-9 md:w-9 flex items-center justify-center shrink-0">
                     <Icon.chevronLeft />
                   </button>
                   <button onClick={() => setShowCal((v) => !v)}
                     style={{ color: T.ink, borderLeft: `1px solid ${T.line}`, borderRight: `1px solid ${T.line}` }}
-                    className="h-11 md:h-9 px-4 text-sm font-extrabold inline-flex items-center gap-1.5">
+                    className="h-11 md:h-9 px-4 text-sm font-extrabold flex-1 md:flex-initial inline-flex items-center justify-center gap-1.5">
                     <Icon.calendar />{selDate ? dateLabel(selDate) : "…"}
                   </button>
                   <button onClick={() => setSelDate(dates[di - 1])} disabled={isLatest || di < 0} aria-label="다음 날짜"
-                    style={{ color: isLatest || di < 0 ? "#D3DCDA" : T.sub }} className="h-11 w-11 md:h-9 md:w-9 flex items-center justify-center">
+                    style={{ color: isLatest || di < 0 ? "#D3DCDA" : T.sub }} className="h-11 w-11 md:h-9 md:w-9 flex items-center justify-center shrink-0">
                     <Icon.chevronRight />
                   </button>
                 </div>
                 {!isLatest && dates.length > 0 && (
                   <button onClick={() => setSelDate(dates[0])} style={{ color: T.field, border: `1px solid #F3D9C6`, background: T.fieldTint }}
-                    className="h-11 md:h-9 rounded-full px-3 text-[13px] md:text-xs font-bold">최신으로</button>
+                    className="h-11 md:h-9 rounded-full px-3 text-[13px] md:text-xs font-bold shrink-0">최신으로</button>
                 )}
                 {showCal && selDate && (
                   <Calendar dates={dates} selected={selDate} onSelect={setSelDate} onClose={() => setShowCal(false)} />
