@@ -218,7 +218,7 @@ function Calendar({ dates, selected, onSelect, onClose }) {
       <div className="fixed inset-0 z-[9]" onClick={onClose} />
       <div style={{ background: T.surface, border: `1px solid ${T.line}` }}
         onClick={(e) => e.stopPropagation()}
-        className="absolute top-12 left-0 z-10 rounded-2xl p-4 shadow-lg w-72">
+        className="absolute top-12 left-0 z-10 rounded-2xl p-4 shadow-lg w-full md:w-72">
         <div className="flex items-center justify-between mb-3">
           <button disabled={mi <= 0} onClick={() => setYm(months[mi - 1])} aria-label="이전 달"
             style={{ color: T.faint, opacity: mi <= 0 ? 0.3 : 1 }} className="h-10 w-10 -m-2 flex items-center justify-center"><Icon.chevronLeft /></button>
