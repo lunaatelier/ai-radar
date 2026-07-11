@@ -357,8 +357,8 @@ export default function AIRadar() {
         {/* 헤더 — 모바일: 로고+설정(56px) / 아래 50:50 풀폭 탭, 데스크톱: 한 줄 */}
         <header className="pt-1 pb-4 md:py-6">
           <div className="flex items-center justify-between gap-3 h-14 md:h-auto">
-            <button onClick={tabs[0].go} style={{ color: T.ink }} className="font-extrabold tracking-tight text-2xl md:text-lg">
-              AI&nbsp;<span style={{ color: "#0B9E6E" }}>RADAR</span>
+            <button onClick={tabs[0].go} className="shrink-0">
+              <img src="/logo.png" alt="AI RADAR" className="h-8 md:h-6 w-auto" />
             </button>
             <nav style={{ background: T.surface, border: `1px solid ${T.line}` }} className="hidden md:flex rounded-full p-1">
               {tabs.map((t) => <TabBtn key={t.key} t={t} />)}
