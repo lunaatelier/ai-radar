@@ -173,15 +173,15 @@ async function enrichAll(rawItems) {
 
 async function makeBriefing(topItems, totalCount) {
   if (DRY_RUN || topItems.length === 0) {
-    return { highlight: topItems[0]?.title || "오늘의 소식", rest: `외 ${Math.max(totalCount - 1, 0)}건의 소식이 수집됐어요.` };
+    return { highlight: topItems[0]?.title || "오늘의 소식", rest: ` 외 ${Math.max(totalCount - 1, 0)}건의 소식을 확인해 보세요.` };
   }
   try {
     const content = await chat([
       { role: "system", content: "너는 한국어 AI 뉴스 에디터다. 반드시 JSON 하나만 출력한다." },
       { role: "user",
         content: `오늘의 주요 뉴스로 한 문장 브리핑을 만들어 JSON만 출력해.
-{"highlight": "가장 중요한 소식 핵심 구절 (15자 이내)", "rest": "highlight 뒤에 자연스럽게 이어지는 나머지 문장 (쉼표로 시작, '~했어요' 종결)"}
-예시: {"highlight": "Claude 화면 공유 출시", "rest": ", 디자인 관련 새 툴 4건이 공개됐어요."}
+{"highlight": "가장 중요한 소식 핵심 구절 (15자 이내, 명사형)", "rest": "highlight 바로 뒤에 이어붙였을 때 자연스러운 나머지 문장 ('~을/를 확인해 보세요' 형태의 안내형 종결)"}
+예시: {"highlight": "Claude 화면 공유 기능", "rest": "과 디자인 관련 새 툴 4건을 확인해 보세요."}
 
 주요 뉴스:
 ${topItems.map((t, n) => `${n + 1}. ${t.title}`).join("\n")}` },
@@ -189,7 +189,7 @@ ${topItems.map((t, n) => `${n + 1}. ${t.title}`).join("\n")}` },
     const p = parseJsonBlock(content);
     return { highlight: String(p.highlight || ""), rest: String(p.rest || "") };
   } catch {
-    return { highlight: topItems[0].title, rest: ` 등 오늘 ${totalCount}건의 소식이 수집됐어요.` };
+    return { highlight: topItems[0].title, rest: ` 등 오늘의 소식 ${totalCount}건을 확인해 보세요.` };
   }
 }
 
