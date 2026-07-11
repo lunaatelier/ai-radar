@@ -1,0 +1,12 @@
+{
+  "name": "AI RADAR",
+  "short_name": "AI RADAR",
+  "description": "매일 아침 한글로 정리되는 AI 소식",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F7F6",
+  "theme_color": "#0B9E6E",
+  "icons": [
+    { "src": "/icon.png", "sizes": "1254x1254", "type": "image/png", "purpose": "any" }
+  ]
+}
