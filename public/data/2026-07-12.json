@@ -1,0 +1,462 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T00:02:28.628Z",
+  "briefing": {
+    "highlight": "AI 추론 칩 16조 가치",
+    "rest": "와 아이폰 AI 모델 구동, 에이전트 투자 유치 소식 등을 확인해 보세요."
+  },
+  "totalCollected": 23,
+  "items": [
+    {
+      "title": "삼바노바, AI 추론 칩으로 16조 가치 인정받아",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212662",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T06:17:37.000Z",
+      "lines": [
+        "AI 추론 칩 스타트업 삼바노바가 16조 원 가치 인정받아 1조5000억 원 투자 유치",
+        "인텔 인수 제안 거절 후 5개월 만에 기업 가치 5배 상승",
+        "제너럴 애틀랜틱 주도 투자 라운드에 셀리그먼 벤처스 등 참여"
+      ],
+      "tags": [
+        "AI",
+        "칩",
+        "투자"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-12-01",
+      "top": true
+    },
+    {
+      "title": "아이폰서 270억 매개변수 모델 구동 성공",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212656",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T03:28:22.000Z",
+      "lines": [
+        "프리즘ML이 아이폰 17 프로에서 270억 매개변수 모델 실행",
+        "알리바바 오픈소스 모델 큐원 3.6 압축 기술 적용",
+        "클라우드 의존도 줄이는 온디바이스 AI 전략 강화"
+      ],
+      "tags": [
+        "오픈소스",
+        "애플",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-12-02",
+      "top": true
+    },
+    {
+      "title": "AI 에이전트 스타트업, 1500억 투자 유치 성공",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212659",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T03:00:37.000Z",
+      "lines": [
+        "AI 에이전트 플랫폼 라이저가 자체 AI로 1500억 투자 유치",
+        "투자자 응대·자료 작성·행동 분석까지 AI가 전담해 효율성 증대",
+        "AI 기업 경영 확산 사례로 주목, 7500억 기업가치 달성"
+      ],
+      "tags": [
+        "에이전트",
+        "투자",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-12-03",
+      "top": true
+    },
+    {
+      "title": "세레브라스·업스테이지, 초고속 추론 서비스 국내 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212665",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T23:54:13.000Z",
+      "lines": [
+        "세레브라스와 업스테이지가 협력해 초당 2000토큰 초고속 추론 서비스 제공",
+        "솔라 31B 모델을 웨이퍼 스케일 엔진 기반 인프라로 구동",
+        "전 세계 개발자와 기업을 대상으로 상용 AI 서비스 제공"
+      ],
+      "tags": [
+        "인프라",
+        "국내",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-12-04",
+      "top": true
+    },
+    {
+      "title": "SpaceX, Starlink 위성 10만 기 추가 발사 계획",
+      "url": "https://news.hada.io/topic?id=31334",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T18:42:20.000Z",
+      "lines": [
+        "FCC에 3세대 Starlink 위성 10만 기 배치를 신청",
+        "초저지연 멀티기가비트 통신 제공을 목표로 함",
+        "현재 궤도에 있는 위성은 약 1만1,000기"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-12-05",
+      "top": true
+    },
+    {
+      "title": "Nvidia·CoreWeave·Nebius GPU 시장 순환금융 구조 분석",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-11T17:21:49.000Z",
+      "lines": [
+        "엔비디아 GPU 수요 급증으로 CoreWeave·Nebius 등 클라우드 기업 성장",
+        "순환금융 구조로 GPU 시장 과열 우려 제기",
+        "투자자들 간 AI 인프라 경쟁 심화"
+      ],
+      "tags": [
+        "엔비디아",
+        "인프라",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-07-12-06",
+      "top": false
+    },
+    {
+      "title": "AI 2040: 초지능 경쟁 피하기 위한 국제 합의",
+      "url": "https://news.hada.io/topic?id=31327",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T14:36:59.000Z",
+      "lines": [
+        "Plan A는 초지능 경쟁을 피하기 위한 국제 합의로 AI 연구를 공개하고 여러 국가·기업이 합류해 2040년에 초지능으로 전환하는 정책 시나리",
+        "핵심 수단은 AI R&D의 완전한 투명성과 국가 간 검증 가능한 안전장치"
+      ],
+      "tags": [
+        "연구",
+        "규제",
+        "인프라"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-12-07",
+      "top": false
+    },
+    {
+      "title": "AI 스크레이핑 공격으로 위태로운 개방형 웹",
+      "url": "https://news.hada.io/topic?id=31323",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T09:02:24.000Z",
+      "lines": [
+        "AI 모델 훈련용 데이터 수집을 위한 웹 스크레이핑 공격이 1년 넘게 증가",
+        "독립 웹사이트가 트래픽 부담으로 개방성 유지에 어려움",
+        "수백만 대의 주거용 프록시 사용으로 IP별 접근 제한 회피"
+      ],
+      "tags": [
+        "AI",
+        "개인정보",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-12-08",
+      "top": false
+    },
+    {
+      "title": "캐릭터닷AI, AI 인터랙티브 드라마 서비스 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212661",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T06:51:58.000Z",
+      "lines": [
+        "AI 캐릭터와 대화하며 새로운 스토리 생성 가능",
+        "오리지널 숏폼 드라마 'c.ai 시리즈' 첫 공개",
+        "엔터테인먼트 플랫폼으로 서비스 확장"
+      ],
+      "tags": [
+        "AI",
+        "영상",
+        "엔터테인먼트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-12-09",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra가 사이클 이중 덮개 추측 증명 제시",
+      "url": "https://news.hada.io/topic?id=31320",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T03:33:26.000Z",
+      "lines": [
+        "GPT-5.6 Sol Ultra가 수학적 추측인 사이클 이중 덮개 증명 제시",
+        "GeekNews에서 해당 논문 PDF 공개",
+        "AI 모델이 고급 수학 분야에 기여한 사례로 주목"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-07-12-10",
+      "top": false
+    },
+    {
+      "title": "애플, 오픈AI에 영업비밀 유출 소송 제기",
+      "url": "https://news.hada.io/topic?id=31318",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T00:45:31.000Z",
+      "lines": [
+        "애플 전직원 2명과 오픈AI에 영업비밀 부정취득 소송 제기",
+        "오픈AI 하드웨어 진출에 애플 기밀 활용 의혹 제기",
+        "전 애플 임원·엔지니어 채용과 io Products 인수 관련"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-12-11",
+      "top": false
+    },
+    {
+      "title": "미니맥스 CEO AGI 달성까지 무급 근무 선언",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212660",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T03:16:13.000Z",
+      "lines": [
+        "미니맥스 CEO 옌쥔제 AGI 달성 전까지 무급 근무 선언",
+        "20억 달러 규모 신규 투자 유치 및 지분 일부 환원 계획",
+        "내부 메모 통해 직원들에게 AGI 달성 의지 재확인"
+      ],
+      "tags": [
+        "오픈소스",
+        "AGI",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-12-12",
+      "top": false
+    },
+    {
+      "title": "메타, 인스타그램 AI 딥페이크 기능 중단",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-10T23:49:50.000Z",
+      "lines": [
+        "인스타그램 공개 계정 콘텐츠 무단 AI 생성 기능 폐지",
+        "사용자 반발에 따라 긴급 조치",
+        "메타 AI 이미지 생성 모델 'Muse' 관련 기능"
+      ],
+      "tags": [
+        "메타",
+        "인스타그램",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-12-13",
+      "top": false
+    },
+    {
+      "title": "Mesh LLM: 분산 AI 연산 플랫폼 iroh 공개",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-11T22:38:57.000Z",
+      "lines": [
+        "분산형 AI 연산 플랫폼 Mesh LLM 공개",
+        "iroh 기반으로 대형 언어 모델 효율적 처리",
+        "Hacker News에서 26점 획득"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-12-14",
+      "top": false
+    },
+    {
+      "title": "LLM 사용 권유에 대한 반론 논쟁",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-11T22:28:48.000Z",
+      "lines": [
+        "LLM 사용 권유에 대한 비판적 시각 제시",
+        "인간 전문가의 역할 재조명 필요성 강조",
+        "과도한 AI 의존성 문제 제기"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-12-15",
+      "top": false
+    },
+    {
+      "title": "뇌 반응 극대화하는 AI 영상 진화 기술 개발",
+      "url": "https://news.hada.io/topic?id=31329",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T16:35:17.000Z",
+      "lines": [
+        "NEvo는 뇌 디지털 트윈을 활용해 특정 시각 영역 반응 극대화",
+        "피사체·조명·움직임 등을 유전자처럼 표현해 영상 진화",
+        "인실리코 환경에서 생성·평가·선택 반복으로 최적화"
+      ],
+      "tags": [
+        "영상",
+        "연구",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-12-16",
+      "top": false
+    },
+    {
+      "title": "ChatGPT 가족·노인 대상 서비스 강화",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-11T14:13:00.000Z",
+      "lines": [
+        "가족·노인 전용 제품 관리자 채용",
+        "가정 내 활용도 확대 전략",
+        "보호자·노인 맞춤형 기능 개발"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-12-17",
+      "top": false
+    },
+    {
+      "title": "AI 모델 오케스트레이션의 한계 연구 발표",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212625",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T08:04:28.000Z",
+      "lines": [
+        "여러 AI 모델 결합 시 공동 실패 현상으로 성능 향상 한계 확인",
+        "단순 모델 추가나 복잡한 라우팅으로 해결 불가",
+        "영국 스타트업 주도 연구로 기존 통념 도전"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스",
+        "영국"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-12-18",
+      "top": false
+    },
+    {
+      "title": "구글 검색, 월드컵 역전극으로 사상 최고 트래픽 기록",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212658",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-11T07:40:34.000Z",
+      "lines": [
+        "AI 강화된 구글 검색이 아르헨티나 역전 승 후 역대 최고 QPS 기록",
+        "실시간 스포츠 정보 확인은 여전히 구글 검색이 주요 창구로 평가",
+        "구글 수석 부사장 '역전골 직후 사용량 기록 경신' 언급"
+      ],
+      "tags": [
+        "구글",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-12-19",
+      "top": false
+    },
+    {
+      "title": "AI 역전타우루스, 인간과 AI의 공존 모델 제시",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-11T17:23:52.000Z",
+      "lines": [
+        "AI 역전타우루스 개념이 인간과 AI의 공존 모델로 제시됨",
+        "기존 AI 중심 접근 방식의 한계를 극복할 수 있는 대안 제시",
+        "2025년 AI 패러독스 해결을 위한 새로운 접근법으로 주목받음"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-12-20",
+      "top": false
+    },
+    {
+      "title": "메타 인스타그램 AI 기능 논란에 삭제",
+      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-10T23:55:07.000Z",
+      "lines": [
+        "인스타그램 AI 기능 사용자 반발로 삭제",
+        "공개 콘텐츠 활용 방식 논란 발생",
+        "메타는 창의적 도구 목적 강조"
+      ],
+      "tags": [
+        "인스타그램",
+        "메타"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-12-21",
+      "top": false
+    },
+    {
+      "title": "AI로 재탄생한 'Damn Interesting'의 미래",
+      "url": "https://news.hada.io/topic?id=31324",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-11T12:33:28.000Z",
+      "lines": [
+        "창립자 Alan Bellows가 전일제 직장 취업 후 사이트 운영 병목 발생",
+        "AI 생성 콘텐츠 도입으로 사이트 재편 계획 발표",
+        "20년간 시간제 엔지니어로 운영해온 독특한 모델 변화"
+      ],
+      "tags": [
+        "AI",
+        "콘텐츠",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 55,
+      "id": "2026-07-12-22",
+      "top": false
+    },
+    {
+      "title": "AI로 한국 제도 100개 체계도로 시각화",
+      "url": "https://news.hada.io/topic?id=31313",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-10T23:47:34.000Z",
+      "lines": [
+        "공무원이 AI로 한국 제도 100개 체계화",
+        "법령을 사람이 읽고 그림으로 표현",
+        "공공행정 전문성 향상 위한 시도"
+      ],
+      "tags": [
+        "국내",
+        "생산성"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-12-23",
+      "top": false
+    }
+  ]
+}
