@@ -319,8 +319,10 @@ export default function AIRadar() {
   const toggleSource = (name) => setHiddenSources((p) => p.includes(name) ? p.filter((n) => n !== name) : [...p, name]);
 
   const items = (data?.items || []).filter((i) => !hiddenSources.includes(i.source));
-  const top5 = items.filter((i) => i.top);
-  const rest = items.filter((i) => !i.top && !i.tags.some((t) => fields.includes(t)));
+  // 주요 소식 카드는 3개만 노출 — 나머지 top 항목은 일반 목록으로 흘려보낸다
+  const top3 = items.filter((i) => i.top).slice(0, 3);
+  const topIds = new Set(top3.map((i) => i.id));
+  const rest = items.filter((i) => !topIds.has(i.id) && !i.tags.some((t) => fields.includes(t)));
   const restByCat = Object.keys(CATS).map((k) => [k, rest.filter((i) => i.cat === k)]).filter(([, l]) => l.length);
   const savedItems = Object.values(savedMap).sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt));
   const tagItems = tag ? items.filter((i) => i.tags.includes(tag)) : [];
@@ -537,7 +539,7 @@ export default function AIRadar() {
                   </h1>
                   <div className="flex gap-2 flex-wrap">
                     <StatChip label="수집한 소식" value={`${data.totalCollected}건`} />
-                    <StatChip label="주요 이슈" value={`${top5.length}건`} />
+                    <StatChip label="주요 이슈" value={`${top3.length}건`} />
                     {fields.map((f) => (
                       <StatChip key={f} label={`${f} 소식`} value={`${items.filter((i) => i.tags.includes(f)).length}건`} color={T.field} />
                     ))}
@@ -551,7 +553,7 @@ export default function AIRadar() {
                 <section>
                   <SectionTitle note="가장 화제가 된 소식이에요">{isLatest ? "오늘의 주요 소식" : "주요 소식"}</SectionTitle>
                   <div className="grid gap-3 md:grid-cols-3">
-                    {top5.slice(0, 3).map((it) => (
+                    {top3.map((it) => (
                       <Card key={it.id} item={it} saved={!!savedMap[it.id]} toggle={() => toggle(it)} onTag={goTag} fields={fields} />
                     ))}
                   </div>
