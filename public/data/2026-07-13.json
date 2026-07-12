@@ -1,0 +1,503 @@
+{
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-12T22:54:43.531Z",
+  "briefing": {
+    "highlight": "메모리 공급난 전망",
+    "rest": "과 GPT-5.6 채택, AI 칩 강자 등극 등 주요 소식 확인해 보세요."
+  },
+  "totalCollected": 25,
+  "items": [
+    {
+      "title": "SK하이닉스, 2027년 메모리 공급난 최악 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212667",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T11:32:09.000Z",
+      "lines": [
+        "SK하이닉스, 2027년 메모리 공급난 역사상 최악 전망",
+        "2030년 이후에도 수요가 공급 능력을 넘어설 것으로 예상",
+        "곽노정 사장, 내년 공급난이 업계 역사상 가장 어려울 것"
+      ],
+      "tags": [
+        "반도체",
+        "메모리",
+        "국내"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-13-01",
+      "top": true
+    },
+    {
+      "title": "MS, GPT-5.6를 365 코파일럿 권장 모델로 채택",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212678",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T18:25:43.000Z",
+      "lines": [
+        "오픈AI GPT-5.6가 MS 365 코파일럿 권장 모델로 선정",
+        "멀티모델 라우팅 전략으로 작업별 최적 모델 활용",
+        "MS 자체 MAI 모델과 오픈AI 모델 병행 사용"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "MS"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-13-02",
+      "top": true
+    },
+    {
+      "title": "GPT-5.6으로 AI 에이전트 마이그레이션 성공 사례",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-12T17:13:07.000Z",
+      "lines": [
+        "GPT-5.6 적용으로 AI 에이전트 성능 2.2배 향상",
+        "운영 비용 27% 절감 효과 확인",
+        "프로덕션 환경에서의 실제 적용 사례 공유"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-13-03",
+      "top": true
+    },
+    {
+      "title": "애플 자율주행 실패 뒤 AI 칩 강자 등극",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-12T16:27:06.000Z",
+      "lines": [
+        "애플 자율주행 프로젝트 실패에도 AI 칩 기술 발전",
+        "Neural Engine 개발로 iPhone AI 성능 향상",
+        "FaceID·Animoji 등 실생활 적용 사례"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-07-13-04",
+      "top": true
+    },
+    {
+      "title": "오픈AI 핵심 임원 연쇄 이탈…안전팀 개편과 연관",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212670",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T12:38:45.000Z",
+      "lines": [
+        "안전 책임자 퇴사 후 최고 미래학자도 이직…조직 개편 영향",
+        "안전팀이 연구 조직과 통합되며 연구 부사장이 총괄",
+        "AI 안전 조직 구조 변화에 업계 관심 집중"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-13-05",
+      "top": true
+    },
+    {
+      "title": "Mesh LLM로 분산 GPU 활용 최적화",
+      "url": "https://news.hada.io/topic?id=31351",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T12:33:54.000Z",
+      "lines": [
+        "여러 GPU를 통합해 OpenAI 호환 API 제공",
+        "로컬/피어 간 분산 실행 지원",
+        "대형 모델을 노드별 파이프라인 처리"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-13-06",
+      "top": false
+    },
+    {
+      "title": "KAIST, 뇌혈관 질환 위험 조기 예측 AI 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212671",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T12:00:00.000Z",
+      "lines": [
+        "KAIST 연구팀이 뇌혈관 질환 위험을 96.5% 정확도로 예측하는 AI 개발",
+        "1224명 고령자 라이프로그 데이터 기반으로 일상 변화 분석",
+        "14일 단위 1만3362개 표본으로 위험 신호 조기 감지 가능"
+      ],
+      "tags": [
+        "연구",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-13-07",
+      "top": false
+    },
+    {
+      "title": "NVIDIA GPU 공급망의 순환 금융 구조 분석",
+      "url": "https://news.hada.io/topic?id=31349",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T09:40:12.000Z",
+      "lines": [
+        "CoreWeave·Nebius가 NVIDIA GPU로 장기 계약을 확보",
+        "전력 계약과 실제 데이터센터 구축 간 자본 부담 문제",
+        "Microsoft·Meta·OpenAI 등 대형 기업의 네오클라우드 투자"
+      ],
+      "tags": [
+        "NVIDIA",
+        "인프라",
+        "투자"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-13-08",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6·Claude Fable 5, 복잡한 앱 제작에서 선두 경쟁",
+      "url": "https://news.hada.io/topic?id=31342",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T00:42:10.000Z",
+      "lines": [
+        "GPT-5.6 Sol과 Claude Fable 5가 복잡한 앱 제작에서 선두를 다툼",
+        "12개 모델에 4가지 앱 제작을 시도해 성공률·비용·시간 비교 분석",
+        "모든 결과물 공개로 모델별 성능 차이 명확히 비교 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-13-09",
+      "top": false
+    },
+    {
+      "title": "테러 조직 Boko Haram, AI 활용 정황 확인",
+      "url": "https://news.hada.io/topic?id=31340",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T00:31:54.000Z",
+      "lines": [
+        "ISWAP·JAS 분파가 2023년부터 프런티어 AI 활용",
+        "ChatGPT·Claude 등 6개 모델로 공격·작전 지원",
+        "나이지리아 북동부에서 27명 대상 인터뷰 진행"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Claude",
+        "Gemini"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-13-10",
+      "top": false
+    },
+    {
+      "title": "Isitsecure: AI 코드 보안 검사 오픈소스 툴 출시",
+      "url": "https://github.com/jaurakunal/isitsecure",
+      "source": "Show HN",
+      "publishedAt": "2026-07-12T20:07:56.000Z",
+      "lines": [
+        "AI 생성 코드 보안 취약점 자동 검사 기능 제공",
+        "SAST+DAST 통합 검사 및 공격 시나리오 자동 생성",
+        "오픈소스 프로젝트로 사용자 피드백 기반 지속 개선"
+      ],
+      "tags": [
+        "오픈소스",
+        "AI",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-07-13-11",
+      "top": false
+    },
+    {
+      "title": "트럼프 행정부, 중국 오픈소스 AI 규제 검토",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212674",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T12:57:09.000Z",
+      "lines": [
+        "트럼프 행정부 중국산 오픈소스 AI 모델 규제 검토",
+        "정부 사용 제한 행정명령 가능성 거론",
+        "보안 위험 대응 정책 논의 진행 중"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "정부"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-13-12",
+      "top": false
+    },
+    {
+      "title": "메타, 인스타 AI 연동 기능 3일 만에 철회",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212666",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T12:20:35.000Z",
+      "lines": [
+        "인스타그램 공개 계정 AI 학습 자동 연동 기능 출시",
+        "프라이버시·저작권 논란으로 3일 만에 중단",
+        "메타는 이용자 선택권 보장 의도 강조"
+      ],
+      "tags": [
+        "메타",
+        "저작권",
+        "인스타그램"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-13-13",
+      "top": false
+    },
+    {
+      "title": "AI 데이터센터 반발, 지역 갈등 본격화",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-12T12:00:00.000Z",
+      "lines": [
+        "애플 2015년 아일랜드 데이터센터 계획에 지역 반발 시작",
+        "AI 수요 증가로 전력·환경 문제 지역 갈등 심화",
+        "미국·유럽 등에서 데이터센터 건설 반발 확대"
+      ],
+      "tags": [
+        "인프라",
+        "저작권",
+        "국내"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-13-14",
+      "top": false
+    },
+    {
+      "title": "Windows용 Redis 대체품 FrostDB 출시",
+      "url": "https://github.com/Suleman-Elahi/frostdb",
+      "source": "Show HN",
+      "publishedAt": "2026-07-12T20:13:48.000Z",
+      "lines": [
+        "Windows 서버 환경에서 네이티브로 실행되는 Redis 호환 DB",
+        "AI 도움으로 개발된 오픈소스 프로젝트",
+        "Docker/WSL 없이 로컬 개발 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-13-15",
+      "top": false
+    },
+    {
+      "title": "AI 연구의 '원스텝 함정' 경고",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-12T18:41:15.000Z",
+      "lines": [
+        "AI 연구에서 단기적 성과에만 집중하는 '원스텝 함정' 문제 지적",
+        "장기적 발전보다 즉시 적용 가능한 연구에 집중하는 현상 비판",
+        "지속 가능한 AI 연구를 위한 새로운 접근 방식 필요성 제기"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-13-16",
+      "top": false
+    },
+    {
+      "title": "클로드 코드, 프롬프트 읽기 전 33k 토큰 전송",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-12T18:25:51.000Z",
+      "lines": [
+        "클로드 코드가 프롬프트 읽기 전 33k 토큰을 전송하는 비효율적 캐시 전략 발견",
+        "오픈코드는 7k 토큰만 전송해 상대적으로 효율적",
+        "실제 사용 사례에서 클로드 코드의 사용량 계량기가 더 빠르게 상승"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-13-17",
+      "top": false
+    },
+    {
+      "title": "오픈서베이, 합성 소비자 기능으로 타깃 분석 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212677",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T11:55:33.000Z",
+      "lines": [
+        "AI로 구현한 합성 소비자 대화 기능 도입",
+        "국내 최초 대규모 소비자 데이터 기반 구현",
+        "실제 소비자 디지털 트윈으로 정밀 타깃 분석 가능"
+      ],
+      "tags": [
+        "연구",
+        "국내",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-13-18",
+      "top": false
+    },
+    {
+      "title": "KT, AI 교육 플랫폼으로 WSIS 프라이즈 챔피언상 수상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212672",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-12T11:10:48.000Z",
+      "lines": [
+        "KT AI 스테이션이 정보·지식 접근 부문 챔피언상 수상",
+        "WSIS 프라이즈는 ITU 주관 정보사회 분야 최고 권위 시상식",
+        "국내 유일 수상작으로 디지털 격차 해소와 AI 역량 강화 목표"
+      ],
+      "tags": [
+        "AI",
+        "교육",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-13-19",
+      "top": false
+    },
+    {
+      "title": "Lazysusan: curl로 원격 명령 실행하는 툴 출시",
+      "url": "https://github.com/belugashark/lazysusan",
+      "source": "Show HN",
+      "publishedAt": "2026-07-12T20:26:19.000Z",
+      "lines": [
+        "SSH 없이 curl로 원격 머신 제어 가능",
+        "LLM 연동해 인프라 관리 간소화",
+        "일시적 연결로 보안 유지"
+      ],
+      "tags": [
+        "인프라",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-13-20",
+      "top": false
+    },
+    {
+      "title": "AI 2040 전망에 대한 현실적 한계 분석",
+      "url": "https://news.hada.io/topic?id=31360",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T19:34:34.000Z",
+      "lines": [
+        "재귀적 자기 개선이 하드 테이크오프로 이어지기는 어렵다",
+        "물리적 제약과 공급망 병목이 AI 발전 속도를 제한한다",
+        "고품질 토큰만으로는 물질 세계를 마음대로 바꿀 수 없다"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-13-21",
+      "top": false
+    },
+    {
+      "title": "AI를 속이는 'Ghost Font' 실험적 시각 커뮤니케이션",
+      "url": "https://news.hada.io/topic?id=31343",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-12T00:44:08.000Z",
+      "lines": [
+        "점들의 움직임으로 글자 생성해 AI 해독 방지",
+        "영상·노이즈·미끼 메시지 결합한 실험적 글꼴",
+        "인간은 메시지 인식하지만 AI는 분석 어려움"
+      ],
+      "tags": [
+        "폰트",
+        "AI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-13-22",
+      "top": false
+    },
+    {
+      "title": "유용성 중심 AI 개발에 대한 비판적 시각",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-12T17:47:07.000Z",
+      "lines": [
+        "AI 개발에서 유용성만 강조하는 접근 방식의 한계 지적",
+        "창의성과 다양성 부재로 인한 기술 발전의 단일화 우려",
+        "사용자 경험과 사회적 영향 고려한 균형 있는 개발 필요성 강조"
+      ],
+      "tags": [
+        "연구",
+        "에이전트"
+      ],
+      "cat": "etc",
+      "importance": 55,
+      "id": "2026-07-13-23",
+      "top": false
+    },
+    {
+      "title": "Adaptive Recall, AI 에이전트 지속적 기억 서비스 출시",
+      "url": "https://www.adaptiverecall.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-12T21:08:20.000Z",
+      "lines": [
+        "AI 에이전트 지속적 기억을 위한 Adaptive Recall 서비스 출시",
+        "MCP 기반으로 작동하는 AI 메모리 시스템",
+        "HN에 소개된 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-13-24",
+      "top": false
+    },
+    {
+      "title": "AI로 제작한 아케이드 게임 평가 플랫폼 출시",
+      "url": "https://ai-arcade.app",
+      "source": "Show HN",
+      "publishedAt": "2026-07-12T21:01:36.000Z",
+      "lines": [
+        "AI가 제작한 아케이드 게임을 평가하는 주관적 플랫폼 출시",
+        "게임 평가와 피드백을 위한 커뮤니티 기능 제공",
+        "Hacker News에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "게임",
+        "AI",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-13-25",
+      "top": false
+    }
+  ]
+}
