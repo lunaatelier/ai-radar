@@ -1,0 +1,721 @@
+{
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-13T22:58:15.626Z",
+  "briefing": {
+    "highlight": "AI 자기 개선 기술",
+    "rest": "과 휴머노이드 촉각, 애플 특허 소송 등 주요 이슈를 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "AI 스스로 연구 방법 개선하는 '이중 루프' 시대 열려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212703",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T19:00:45.000Z",
+      "lines": [
+        "AI가 실험·검증 반복하며 결과 개선하는 루프 엔지니어링 진화",
+        "이중 루프 아키텍처로 연구 방법 자체를 실시간 개선 가능",
+        "목표만 설정하면 AI가 계획·실행·평가·개선 무한 반복"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-14-01",
+      "top": true
+    },
+    {
+      "title": "애플, 오픈AI에 특허 침해 및 산업 간첩 혐의 소송",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-13T17:00:00.000Z",
+      "lines": [
+        "애플 전직원 3명 오픈AI로 이직하며 특허 기술 유출 의혹",
+        "오픈AI가 애플 신제품 샘플과 설계 자료 요구한 것으로 주장",
+        "애플의 핵심 기술인 특허된 제품 설계 기법도 유출된 것으로 의심"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "애플"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-14-02",
+      "top": true
+    },
+    {
+      "title": "ICML 2026서 '재귀적 자기 개선' 화두…AI 연구자 정체성 논의",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212694",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "lines": [
+        "서울 ICML 2026에서 전 세계 2만여명 참여, 오픈AI·구글 등 빅테크와 국내 기업 대거 참석",
+        "재귀적 자기 개선 기술이 주요 화두로 부상, AI 연구자 정체성 위기 논의 활발",
+        "다양한 분야 기술 발표와 워크숍 진행, 글로벌·국내 기업 참여로 현장 활기"
+      ],
+      "tags": [
+        "연구",
+        "국내",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-14-03",
+      "top": true
+    },
+    {
+      "title": "1X 휴머노이드 로봇, 인간 같은 촉각 구현",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212711",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T06:55:00.000Z",
+      "lines": [
+        "1X가 인간과 같은 촉각을 구현한 휴머노이드 로봇 개발",
+        "촉각 센서와 AI 기술로 물체 형태와 질감 인식 가능",
+        "로봇 산업과 서비스 분야 적용 가능성 확대"
+      ],
+      "tags": [
+        "로봇",
+        "AI",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-14-04",
+      "top": true
+    },
+    {
+      "title": "사티아 나델라, AI 기업에 충격적인 경고",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T20:59:00.000Z",
+      "lines": [
+        "AI 기업들이 트로이 목마처럼 행동할 수 있다고 경고",
+        "프로프라이어터리 모델 판매 기업들의 위험성 강조",
+        "실리콘밸리 AI 전문가들 사이에서 가장 큰 우려로 부상"
+      ],
+      "tags": [
+        "AI",
+        "구글",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-14-05",
+      "top": true
+    },
+    {
+      "title": "삼성 헬스, AI 학습 거부 시 데이터 삭제 경고",
+      "url": "https://neow.in/cWsyMTV3",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-13T20:01:43.000Z",
+      "lines": [
+        "삼성 헬스 앱이 AI 학습 거부 시 사용자 데이터 삭제 경고",
+        "개인 정보 보호와 AI 학습 간 갈등 우려",
+        "사용자 선택권 제한 논란 제기"
+      ],
+      "tags": [
+        "삼성",
+        "AI",
+        "개인정보"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-14-06",
+      "top": false
+    },
+    {
+      "title": "PlanWright: AI 코딩 에이전트 제어 플랫폼 출시",
+      "url": "https://planwright.tools",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T19:59:50.000Z",
+      "lines": [
+        "Claude와 Codex를 연동한 AI 코딩 에이전트 제어 플랫폼",
+        "모든 에이전트 결정 기록과 문서화 기능 탑재",
+        "MCP 기반 아키텍처로 개발·검토 프로세스 자동화"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-14-07",
+      "top": false
+    },
+    {
+      "title": "딥노이드, 의료 에이전틱 AI로 상용화 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212722",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T18:48:54.000Z",
+      "lines": [
+        "생성 AI 디지털의료기기 M4CXR로 의료 AI 상용화 본격화",
+        "의료 AI 고도화를 위한 데이터 수집과 인프라 구축 완료",
+        "에이전틱 AI로 생산성 향상과 매출 극대화 목표"
+      ],
+      "tags": [
+        "의료",
+        "에이전트",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-14-08",
+      "top": false
+    },
+    {
+      "title": "Ploy, GPT-5.6 전환으로 AI 에이전트 성능 2.2배 향상",
+      "url": "https://news.hada.io/topic?id=31404",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T18:40:50.000Z",
+      "lines": [
+        "Ploy가 마케팅 웹사이트 구축 에이전트를 Claude Opus에서 GPT-5.6로 전환",
+        "평균 실행 시간 8분 → 3분 42초로 2.2배 향상, 비용 27% 절감",
+        "모든 워크스페이스 기본 모델로 지정해 효율성 극대화"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-14-09",
+      "top": false
+    },
+    {
+      "title": "앤트그룹, 로봇 제어 VLA 모델 '링봇-VA 2.0' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212700",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T18:22:23.000Z",
+      "lines": [
+        "비디오와 로봇 행동 동시 학습하는 네이티브 비디오-액션 아키텍처 적용",
+        "피지컬 AI 플랫폼 구축을 위한 핵심 기반 모델로 공개",
+        "기존 공간 인식 모델에 이어 로봇 제어 특화 모델 출시"
+      ],
+      "tags": [
+        "로봇",
+        "앤트그룹",
+        "중국"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-14-10",
+      "top": false
+    },
+    {
+      "title": "강경 AI 반대 지도자 잠적에 오픈AI 비상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212710",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T17:58:27.000Z",
+      "lines": [
+        "강경 AI 반대 단체 창립자 샘 키르히너가 돌연 잠적해 행방 불명",
+        "AI 초지능에 대한 실존적 위협 경고 운동이 급진화 중",
+        "오픈AI 등 주요 AI 기업에 대한 무장 공격 우려로 안전 조치 강화"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "안전"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-14-11",
+      "top": false
+    },
+    {
+      "title": "gpt-5.6-sol 모델, PowerShell 충돌로 홈 디렉터리 삭제 위기",
+      "url": "https://news.hada.io/topic?id=31390",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T04:17:51.000Z",
+      "lines": [
+        "gpt-5.6-sol 모델이 PowerShell $HOME 변수 충돌로 사용자 홈 디렉터리 삭제 위기 발생",
+        "에이전트 워크플로우에서 우수한 성적에도 안전성 결함 확인",
+        "쉘 환경 격리 부재로 인한 심각한 보안 문제 발견"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-14-12",
+      "top": false
+    },
+    {
+      "title": "애플, 오픈AI에 대한 상업비밀 유출 소송 제기",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T18:22:10.000Z",
+      "lines": [
+        "애플은 오픈AI 직원들이 불법적으로 시스템에 접근한 혐의 제기",
+        "인터뷰 지원자들에게 애플 하드웨어를 가져오도록 요청한 혐의 포함",
+        "소송서에 담긴 가장 주목할 만한 주장들 공개"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "애플"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-14-13",
+      "top": false
+    },
+    {
+      "title": "AI가 범죄를 도울 수 있을까?",
+      "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T16:31:23.000Z",
+      "lines": [
+        "AI가 사용자 의도에 완전히 맞춰질 경우 발생할 윤리적 문제",
+        "범죄 도움 등 악용 가능성에 대한 사회적 논의 필요성",
+        "AI 개발 시 안전성과 윤리적 고려의 중요성 강조"
+      ],
+      "tags": [
+        "에이전트",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-14-14",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 시대 SaaS 전략 변화",
+      "url": "https://news.hada.io/topic?id=31387",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T02:26:01.000Z",
+      "lines": [
+        "소프트웨어 제작 비용 감소로 기능·UI 복제 가능성 증가",
+        "가치는 독점 데이터 루프와 행동 권한으로 이동",
+        "ERP·원장 등 유통 단계가 핵심 방어력으로 부상"
+      ],
+      "tags": [
+        "에이전트",
+        "SaaS",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-14-15",
+      "top": false
+    },
+    {
+      "title": "클로드 코드 세션 통합 관리 툴 'Fleet Deck' 출시",
+      "url": "https://github.com/lacion/fleet-deck",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T20:56:06.000Z",
+      "lines": [
+        "클로드 코드 다중 세션을 한 화면에서 실시간 모니터링 가능",
+        "대시보드에서 세션 상태(대기/작업/입력요청/유휴) 확인 및 관리",
+        "터미널 직접 접속과 추가 세션 생성 기능 지원"
+      ],
+      "tags": [
+        "Claude",
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-14-16",
+      "top": false
+    },
+    {
+      "title": "iOS 27 Siri AI로 아이폰 사용 방식 변화",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-13T20:43:20.000Z",
+      "lines": [
+        "iOS 27 공개 베타 출시, Siri AI 테스트 중",
+        "성능 개선 중심 업데이트, 앱 실행·사진 검색 등 속도 향상",
+        "메시지 앱에 RCS 암호화·인라인 답장 기능 추가"
+      ],
+      "tags": [
+        "음성",
+        "Apple"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-14-17",
+      "top": false
+    },
+    {
+      "title": "Phlox-GW 오픈소스 LLM 게이트웨이 공개",
+      "url": "https://robert-mcdermott.github.io/phlox-gw/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T20:16:14.000Z",
+      "lines": [
+        "오픈소스 LLM 게이트웨이 Phlox-GW 출시",
+        "기업용 유료 버전 없이 무료로 제공",
+        "개발자 커뮤니티에서 주목받는 신규 툴"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-14-18",
+      "top": false
+    },
+    {
+      "title": "클로드가 뉴스 분석가처럼 읽는 스킬 출시",
+      "url": "https://github.com/Vadiml1024/signal-analysis",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T19:35:48.000Z",
+      "lines": [
+        "클로드에 뉴스 분석 전문 스킬 추가",
+        "기술적 분석과 핵심 포인트 추출 지원",
+        "오픈소스로 공개된 GitHub 프로젝트"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-14-19",
+      "top": false
+    },
+    {
+      "title": "와이즈, 제미니 AI로 새로운 기능 추가",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T14:18:16.000Z",
+      "lines": [
+        "구글 제미니 AI 기반 신기능 도입",
+        "애플맵스와 경쟁력 강화",
+        "사용자 맞춤형 서비스 강화"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-14-20",
+      "top": false
+    },
+    {
+      "title": "AI로 한방에 등록되는 SaaS 디렉토리 서비스",
+      "url": "https://news.hada.io/topic?id=31397",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T12:20:18.000Z",
+      "lines": [
+        "사이드 프로젝트 등록을 간소화한 MCP 기반 서비스",
+        "Claude/Cursor 연동으로 음성·텍스트 등록 지원",
+        "국내 SaaS 모음 디렉토리 'saaskr.com' 운영"
+      ],
+      "tags": [
+        "생산성",
+        "Claude",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-14-21",
+      "top": false
+    },
+    {
+      "title": "AI 개발자 대체 논란, Bun의 Rust 전환도 홍보용으로 활용된 것",
+      "url": "https://news.hada.io/topic?id=31406",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T21:51:26.000Z",
+      "lines": [
+        "Anthropic이 AI로 소프트웨어 엔지니어링 종말 주장",
+        "Bun의 Zig→Rust 전환도 AI 대체 홍보에 활용됨",
+        "메모리 버그 이유 제시했지만 Rust 장단점 비교 부족"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-14-22",
+      "top": false
+    },
+    {
+      "title": "AI 모델 게임 성능 비교 플랫폼 출시",
+      "url": "https://system-2-arena.vercel.app/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T19:59:21.000Z",
+      "lines": [
+        "AI 모델 간 게임 성능을 비교하는 플랫폼 출시",
+        "실시간 점수와 순위 제공",
+        "개발자 커뮤니티에서 주목받는 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-14-23",
+      "top": false
+    },
+    {
+      "title": "1시간 훈련으로 딥페이크 얼굴 식별률 2배 향상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212691",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T18:33:29.000Z",
+      "lines": [
+        "AI 딥페이크 얼굴과 실제 구별이 어려워지면서 금융 사기 등 범죄 위험 증가",
+        "1시간 훈련으로 육안 식별률 2배 향상 가능하다는 영국·호주 공동 연구 결과 발표",
+        "PNAS 학술지에 게재된 논문에서 새로운 훈련법 제시"
+      ],
+      "tags": [
+        "AI",
+        "딥페이크",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-14-24",
+      "top": false
+    },
+    {
+      "title": "애플-1 경매 등장… 7.5억 예상가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212696",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-13T18:15:55.000Z",
+      "lines": [
+        "애플 최초의 상용 컴퓨터 애플-1이 소더비 경매에 출품",
+        "완벽히 작동하는 희귀 모델, 최대 7.5억 예상가",
+        "스티브 워즈니악이 직접 조립한 초기 생산분"
+      ],
+      "tags": [
+        "애플",
+        "역사",
+        "경매"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-14-25",
+      "top": false
+    },
+    {
+      "title": "샘 올트먼, 스페이스 데이터센터에 대한 비판 재확인",
+      "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T17:28:37.000Z",
+      "lines": [
+        "샘 올트먼이 엘론 머스크의 비판에 반박",
+        "데이터센터는 단기적 투자에 적합하지 않다는 의견 재확인",
+        "업계 전문가들의 공감 얻는 발언"
+      ],
+      "tags": [
+        "인프라",
+        "구글"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-14-26",
+      "top": false
+    },
+    {
+      "title": "클로드의 모델·언어별 가치관 차이 분석",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42R0NZbVlVSHl5WnhDQkFkTkVnN2pSMW5RQ3cxUDJNVWl4cVp3U1VFNVg0OVpzUmpjcnZ0aTN6WXIwY2YtaVdodENnSmdjanJMY21LM0ItOURxSFhsQ185UmdjejNzQTNRMDZiZUJpSjEwdVE?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-13T17:25:41.000Z",
+      "lines": [
+        "클로드 모델별·언어별로 가치관이 다름",
+        "Anthropic이 모델 특성 비교 연구 발표",
+        "다양한 언어 지원의 중요성 강조"
+      ],
+      "tags": [
+        "Claude",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-14-27",
+      "top": false
+    },
+    {
+      "title": "인도 시장에 맞춘 클로드 구독 가격 적용",
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-13T15:34:59.000Z",
+      "lines": [
+        "클로드 구독 요금 인도 루피로 표시",
+        "미국 다음으로 큰 시장에서 현지화 전략 강화",
+        "인도 시장 공략을 위한 첫 단계"
+      ],
+      "tags": [
+        "Claude",
+        "인프라",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-14-28",
+      "top": false
+    },
+    {
+      "title": "와이즈에 AI 기능 추가…구글 제미니 연동",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-13T09:00:00.000Z",
+      "lines": [
+        "구글 제미니 AI 연동으로 와이즈에 개인화 기능 추가",
+        "음성 명령으로 교통 사고 보고 및 지도 업데이트 가능",
+        "목적지 검색 기능도 음성 명령으로 간편하게 이용"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-14-29",
+      "top": false
+    },
+    {
+      "title": "1프롬프트 해커톤 플랫폼 출시, 무료 참여 가능",
+      "url": "https://1shotchallenge.ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-13T22:14:12.000Z",
+      "lines": [
+        "1프롬프트로 진행되는 해커톤 플랫폼 출시",
+        "무료 참여 가능하며 스폰서 상품 제공",
+        "해커뉴스에 소개되며 현재 4포인트 획득"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-14-30",
+      "top": false
+    },
+    {
+      "title": "Claude를 Mr. Meeseeks에 비유한 개발자 분석",
+      "url": "https://github.com/thephw/claude-meseeks",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-13T22:03:54.000Z",
+      "lines": [
+        "개발자가 Claude를 Mr. Meeseeks에 비유한 분석 글 공개",
+        "Claude의 반응 속도와 유용성 강조하며 AI 에이전트 역할 설명",
+        "GitHub에 공개된 분석 자료에 대한 Hacker News 반응"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-14-31",
+      "top": false
+    },
+    {
+      "title": "AgentsProof로 AI 에이전트 테스트 간편화",
+      "url": "https://www.agentsproof.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T20:23:14.000Z",
+      "lines": [
+        "개인 학습 프로젝트로 개발된 AgentsProof 소개",
+        "에이전트 실행 추적과 평가 케이스 생성 기능 제공",
+        "공유 가능한 테스트 보고서 자동 생성 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-14-32",
+      "top": false
+    },
+    {
+      "title": "유튜브 기타 레슨 동영상을 PDF 탭으로 변환하는 CLI 도구 출시",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T20:13:14.000Z",
+      "lines": [
+        "유튜브 기타 레슨 동영상을 PDF 탭 시트로 변환하는 CLI 도구 개발",
+        "Claude Vision을 활용해 탭 영역 인식 후 프레임별 추출 및 PDF 생성",
+        "현재 초기 버전으로 다양한 동영상에 대한 테스트 필요"
+      ],
+      "tags": [
+        "음성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-14-33",
+      "top": false
+    },
+    {
+      "title": "SQL로 구현한 신경망 모델 공개",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "source": "Show HN",
+      "publishedAt": "2026-07-13T20:00:10.000Z",
+      "lines": [
+        "Xarray-SQL 라이브러리 개발자가 SQL로 신경망 구현",
+        "배열 데이터를 테이블 형식으로 매핑하는 데이터 모델 검증",
+        "기후·지리 데이터 분석을 위한 벤치마크 테스트 진행"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "데이터베이스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-14-34",
+      "top": false
+    },
+    {
+      "title": "AI로 재탄생한 빅마우스빌리베이스 등장",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-13T18:18:23.000Z",
+      "lines": [
+        "오픈소스 프로젝트로 AI 에이전트 적용",
+        "스트랜드 에이전트 기반으로 제작",
+        "Hacker News에서 주목받는 신기한 프로젝트"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-14-35",
+      "top": false
+    },
+    {
+      "title": "AI 팩트체크 도입 시 겪은 커뮤니티 시행착오",
+      "url": "https://news.hada.io/topic?id=31389",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-13T03:01:28.000Z",
+      "lines": [
+        "정치 커뮤니티에 AI 팩트체크 기능 도입",
+        "가짜뉴스 감소와 소모적 논쟁 완화 시도",
+        "기술적 시행착오와 운영 고민 공유"
+      ],
+      "tags": [
+        "AI",
+        "저작권",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-14-36",
+      "top": false
+    }
+  ]
+}
