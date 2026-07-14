@@ -137,7 +137,7 @@ function Row({ item, expanded, onExpand, saved, toggle, onTag, fields }) {
         <div className="px-4 md:px-5 pb-4 pl-9 md:pl-10 flex flex-col gap-3">
           <ul className="flex flex-col gap-1.5">
             {item.lines.map((l, i) => (
-              <li key={i} style={{ color: T.sub }} className="text-sm leading-[21px] md:leading-relaxed flex gap-2">
+              <li key={i} style={{ color: T.sub }} className="text-[15px] leading-[23px] md:text-sm md:leading-relaxed flex gap-2">
                 <span className="font-bold">·</span>{l}
               </li>
             ))}
@@ -169,7 +169,7 @@ function Card({ item, saved, toggle, onTag, fields }) {
       <ul className="flex flex-col gap-1.5">
         {item.lines.map((l, i) => (
           <li key={i} style={{ color: T.sub }}
-            className={`text-sm leading-[21px] md:leading-relaxed gap-2 ${i >= 2 ? "hidden md:flex" : "flex"}`}>
+            className={`text-[15px] leading-[23px] md:text-sm md:leading-relaxed gap-2 ${i >= 2 ? "hidden md:flex" : "flex"}`}>
             <span className="font-bold">·</span>{l}
           </li>
         ))}
@@ -634,7 +634,7 @@ export default function AIRadar() {
                           ) : (
                             <ul className="flex flex-col gap-2.5">
                               {list.map(([d, txt], i) => (
-                                <li key={i} className="flex gap-3 text-sm leading-[21px]">
+                                <li key={i} className="flex gap-3 text-[15px] leading-[23px] md:text-sm md:leading-[21px]">
                                   <span style={{ color: T.faint }} className="font-semibold shrink-0 tabular-nums">{d}</span>
                                   <span style={{ color: T.sub }}>{txt}</span>
                                 </li>
