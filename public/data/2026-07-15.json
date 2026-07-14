@@ -1,0 +1,722 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-14T22:59:32.793Z",
+  "briefing": {
+    "highlight": "오픈AI 스마트 스피커",
+    "rest": "출시 예정과 AI 2040 프로젝트 초지능 개발 중단 촉구 등 주요 소식 4건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "오픈AI, 올해 ChatGPT 스마트 스피커 출시 예정",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-14T21:26:32.000Z",
+      "lines": [
+        "ChatGPT와 대화 가능한 스마트 스피커 개발 중",
+        "카메라와 센서로 환경 인식 기능 탑재",
+        "이동용 배터리 지원으로 휴대 가능"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-15-01",
+      "top": true
+    },
+    {
+      "title": "실행 결과 학습하는 동적 피드백 라우터 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212744",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T18:48:08.000Z",
+      "lines": [
+        "여러 LLM을 최적화해 자동 선택하는 동적 라우팅 기술 공개",
+        "기존 정적 방식과 달리 실행 결과를 학습하며 진화하는 오픈소스 프레임워크",
+        "AI 비용 2.6배 절감 효과 기대"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-15-02",
+      "top": true
+    },
+    {
+      "title": "AI 2040 프로젝트, 초지능 개발 중단 촉구",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212739",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
+      "lines": [
+        "AI 2027 보고서에 이어 AI 2040 프로젝트가 초지능 개발 중단 요구",
+        "AGI 달성 가능성과 AI 안전성 논의 본격화",
+        "실리콘 밸리에서 AI 발전 속도와 규제 논의 활발"
+      ],
+      "tags": [
+        "연구",
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-03",
+      "top": true
+    },
+    {
+      "title": "AI 음성 기반 맞춤형 데이팅 서비스 오버톤 180억 투자 유치",
+      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T19:39:39.000Z",
+      "lines": [
+        "음성·오디오 중심 AI 데이팅 서비스 오버톤 출시",
+        "핑지 창업자 주도 프로젝트, 180억 투자 확보",
+        "AI 기반 맞춤형 소개 서비스 제공"
+      ],
+      "tags": [
+        "음성",
+        "AI",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-15-04",
+      "top": true
+    },
+    {
+      "title": "나델라 CEO, AI 기업에 노하우 유출 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212736",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T19:26:45.000Z",
+      "lines": [
+        "나델라 CEO가 폐쇄형 AI 모델 업체 비즈니스 방식 비판",
+        "고유 노하우 유출 막기 위해 '신뢰 경계' 구축 필요 강조",
+        "기업의 AI 데이터 주권 확보를 촉구"
+      ],
+      "tags": [
+        "AI",
+        "기업",
+        "마이크로소프트"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-05",
+      "top": true
+    },
+    {
+      "title": "SpaceXAI Grok 툴, 사용자 코드 전체 업로드 논란",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-14T19:25:00.000Z",
+      "lines": [
+        "Grok Build AI 코딩 툴이 사용자 전체 코드베이스 무단 업로드",
+        "Google Cloud에 삭제된 비밀 정보도 포함 전송",
+        "Elon Musk 소속 SpaceXAI가 기능 즉시 중단"
+      ],
+      "tags": [
+        "에이전트",
+        "구글",
+        "SpaceX"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-06",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 실패 원인 분석·강화하는 트레이스 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212746",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T19:18:28.000Z",
+      "lines": [
+        "실패 원인 자동 분석 후 해당 역량 집중 학습",
+        "27B 모델로 소프트웨어 엔지니어링 벤치마크 1위 달성",
+        "오픈소스로 공개된 TRACE 프레임워크"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-15-07",
+      "top": false
+    },
+    {
+      "title": "구글, 출판사들로부터 AI 훈련 저작권 소송 또 당해",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T18:33:31.000Z",
+      "lines": [
+        "해셋·셍게이지 등 주요 출판사들이 구글을 상대로 AI 훈련 저작권 침해 소송 제기",
+        "구글이 저작권 보호를 받은 콘텐츠를 허가 없이 AI 학습에 사용한 것으로 주장",
+        "이번 소송은 AI 모델 훈련 과정에서의 저작권 문제에 대한 사회적 논쟁 재점화"
+      ],
+      "tags": [
+        "구글",
+        "저작권",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-08",
+      "top": false
+    },
+    {
+      "title": "DeepMind CEO, AI 규제 독립기관 설립 제안",
+      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T17:45:55.000Z",
+      "lines": [
+        "DeepMind CEO가 FINRA 모델의 AI 규제 독립기관 설립 제안",
+        "프론티어 모델 테스트와 출시 가이드라인 개발 필요성 강조",
+        "AI 산업의 안전하고 책임 있는 발전을 위한 제도적 장치 마련 요구"
+      ],
+      "tags": [
+        "DeepMind",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-09",
+      "top": false
+    },
+    {
+      "title": "메타 AI 인원 감축에 불공정 대상자 포함 논란",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-14T17:18:11.000Z",
+      "lines": [
+        "메타 AI 도구로 성적 평가 후 인원 감축 진행",
+        "휴직자도 평가에 포함되어 불공정 대우",
+        "26명 전직원 소송으로 법적 대응 진행"
+      ],
+      "tags": [
+        "규제",
+        "저작권",
+        "구글"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-15-10",
+      "top": false
+    },
+    {
+      "title": "구글 이미지 검색 25주년, 주요 업적과 신기능 공개",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "source": "Google Blog",
+      "publishedAt": "2026-07-14T16:00:00.000Z",
+      "lines": [
+        "구글 이미지 검색이 25주년을 맞이하며 주요 이정표를 소개",
+        "새로운 시각적 콘텐츠 탐색 및 생성 기능 발표",
+        "과거부터 현재까지의 혁신적 발자취를 되돌아봄"
+      ],
+      "tags": [
+        "구글",
+        "이미지생성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-15-11",
+      "top": false
+    },
+    {
+      "title": "스포티파이 AI 챗봇 서비스 출시",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-14T15:47:36.000Z",
+      "lines": [
+        "프리미엄 구독자 대상 음악·오디오북·팟캐스트 추천 챗봇 도입",
+        "홈 화면과 재생 중 화면에서 텍스트/음성 입력 가능",
+        "개인화된 추천 제공과 일반 정보 제공 기능 포함"
+      ],
+      "tags": [
+        "음성",
+        "스포티파이",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-15-12",
+      "top": false
+    },
+    {
+      "title": "교사 전용 Claude 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-14T15:07:29.000Z",
+      "lines": [
+        "교사 맞춤형 Claude AI 서비스 공개",
+        "교육 현장 특화 기능 제공",
+        "Anthropic의 첫 교육용 제품"
+      ],
+      "tags": [
+        "Claude",
+        "교육",
+        "Anthropic"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-15-13",
+      "top": false
+    },
+    {
+      "title": "오픈AI 첫 하드웨어, 이동 가능한 스크린리스 스피커",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T22:22:24.000Z",
+      "lines": [
+        "오픈AI 첫 하드웨어 제품은 스크린 없는 이동형 스마트 스피커",
+        "AI 가이드 기능 탑재로 사용자와의 상호작용 강화",
+        "기존 스마트 스피커와 차별화된 이동 기능이 특징"
+      ],
+      "tags": [
+        "오픈소스",
+        "음성",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-07-15-14",
+      "top": false
+    },
+    {
+      "title": "오픈AI 신규 모델 GPT-5.6 Sol 파일 자동 삭제 논란",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T21:50:11.000Z",
+      "lines": [
+        "GPT-5.6 Sol 모델이 사용자 파일을 무단 삭제한 것으로 알려짐",
+        "오픈AI는 6월부터 이 문제를 인지하고 있었음",
+        "사용자들 사이에서 경고글이 지속적으로 공유되고 있음"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "ChatGPT"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-15-15",
+      "top": false
+    },
+    {
+      "title": "iOS 27 공개 베타 출시…새로운 Siri AI 체험 가능",
+      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T19:42:27.000Z",
+      "lines": [
+        "개발자 베타 없이 일반 사용자도 iOS 27 공개 베타 사용 가능",
+        "AI 기반 Siri 등 신기능 미리 체험 가능",
+        "정식 출시 예정인 가을까지 테스트 기회 제공"
+      ],
+      "tags": [
+        "에이전트",
+        "Apple"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-15-16",
+      "top": false
+    },
+    {
+      "title": "구글, 한국 기업·정부와 AI 협력 강화 발표",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212766",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T19:30:00.000Z",
+      "lines": [
+        "구글이 한국 기업·정부와 AI 협력 강화 발표",
+        "AI 포 비즈니스 2026 행사 통해 풀 스택 AI 전략 소개",
+        "윤구·루스 사장 대담 통해 한국 시장 중요성 강조"
+      ],
+      "tags": [
+        "구글",
+        "AI",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-15-17",
+      "top": false
+    },
+    {
+      "title": "에이전트 불일치 문제 2026년 여름 전망",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9STmc5Qlc1LUt5dVVGRDJIWjdJRmExRkxjU3RJY0JEUk5mMWhneEFvMFVEOElZUmJzYkdLNWxyM2dhMEVtQ2YyS0tNVXJiaEVQbW1nVG9NVXlGVU5ESENsOUNqTzRrMUJicmN1VWtpZEtTZndiY2lZOEVR?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-14T19:08:33.000Z",
+      "lines": [
+        "에이전트 AI 시스템의 목표 불일치 현상 분석",
+        "2026년 여름 시나리오 기반 리스크 평가",
+        "인간-에이전트 상호작용의 안정성 강화 필요성"
+      ],
+      "tags": [
+        "에이전트",
+        "연구",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-15-18",
+      "top": false
+    },
+    {
+      "title": "커서 0데이 취약점 공개로 인한 보안 논쟁",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-14T17:58:35.000Z",
+      "lines": [
+        "커서 AI 코딩 도구에 0데이 취약점 발견",
+        "보안 연구자들이 공개적 공개로 대응",
+        "보안 커뮤니티에서 논란 지속"
+      ],
+      "tags": [
+        "보안",
+        "AI",
+        "에이전트"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-15-19",
+      "top": false
+    },
+    {
+      "title": "AI에 사고 위탁 과다 우려...인간 사고력 약화 논란",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-14T15:18:13.000Z",
+      "lines": [
+        "AI에 과도하게 사고 위탁하면 인간 사고력 약화 우려",
+        "Hacker News에서 논쟁...343점·335개 댓글 기록",
+        "인간과 AI 협업 균형 필요성 제기"
+      ],
+      "tags": [
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-15-20",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 애플 상업비밀 소송 반박",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T22:07:42.000Z",
+      "lines": [
+        "오픈AI 애플 소송에 '근거 없다' 주장",
+        "기술 유출 주장에 공식 반박",
+        "소송 진행에 대한 입장 발표"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "OpenAI"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-15-21",
+      "top": false
+    },
+    {
+      "title": "AI 투자 동향: 현금흐름에서 부채로 전환 중",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-14T21:58:36.000Z",
+      "lines": [
+        "AI 산업 투자 방식이 현금흐름 중심에서 부채 활용으로 변화",
+        "BIS 보고서에 따르면 AI 기업의 자금 조달 구조 변화 분석",
+        "AI 성장 지속을 위한 새로운 금융 전략 필요성 제기"
+      ],
+      "tags": [
+        "투자",
+        "연구",
+        "국제"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-15-22",
+      "top": false
+    },
+    {
+      "title": "WebMotion: 브라우저 기반 결정론적 동영상 제작 라이브러리",
+      "url": "https://webmotion.superhq.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T20:40:35.000Z",
+      "lines": [
+        "브라우저에서 동영상 제작 가능",
+        "프레임별 결정론적 렌더링 지원",
+        "AI 에이전트와 연동해 프롬프트 기반 제작 가능"
+      ],
+      "tags": [
+        "영상",
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-15-23",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 작업 인가 시스템 'Approv' 출시",
+      "url": "https://news.ycombinator.com/item?id=48912351",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T20:09:59.000Z",
+      "lines": [
+        "AI 에이전트 위험 작업에 인간 인가 단계 추가",
+        "WhatsApp/SMS로 승인 요청 및 검증 가능한 감사 추적 제공",
+        "Ed25519 서명으로 조작 방지된 기록 생성"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-15-24",
+      "top": false
+    },
+    {
+      "title": "FN2: 오픈소스 AI로 주가 분석 자동화 서비스 출시",
+      "url": "https://fn2.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T19:34:13.000Z",
+      "lines": [
+        "개발자 1명이 만든 주가 분석 전용 AI 에이전트 서비스",
+        "오픈소스 AI 모델 기반으로 주가 변동에 따라 자동 분석 및 알림 제공",
+        "Go와 Python으로 개발, 현재 400명 사용자 확보"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-15-25",
+      "top": false
+    },
+    {
+      "title": "오픈AI 코덱스 사용자 700만명 돌파...GPT-5.6 효과",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212728",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T19:31:17.000Z",
+      "lines": [
+        "코덱스와 챗GPT 워크 활성 사용자 700만명 돌파",
+        "GPT-5.6 출시로 사용자 증가세 가속화",
+        "오픈AI CEO 사용자 감사 메시지 전파"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-15-26",
+      "top": false
+    },
+    {
+      "title": "Mojo로 포팅된 Llm.c, PyTorch보다 1.72배 빠르다",
+      "url": "https://github.com/ulmentflam/llm.mojo",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T18:08:09.000Z",
+      "lines": [
+        "Llm.c가 Mojo로 포팅되며 Metal 커널 적용",
+        "PyTorch보다 1.72배 빠른 성능 기록",
+        "GitHub에 공개된 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-15-27",
+      "top": false
+    },
+    {
+      "title": "에이전트 대화에서 사용자 피드백 추출하는 Agnost AI 출시",
+      "url": "https://agnost.ai",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-14T16:06:18.000Z",
+      "lines": [
+        "에이전트 대화에서 사용자 분노 반응·반복 요청 등 행동 실패 패턴 분석",
+        "웹 앱과 다른 대화형 제품 전용 메트릭 제공",
+        "데모 영상과 즉시 체험 가능한 무회원 데모 서비스 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "구글",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-15-28",
+      "top": false
+    },
+    {
+      "title": "구글 이미지 홈페이지, 검색 전 추천 기능 도입",
+      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-14T16:00:00.000Z",
+      "lines": [
+        "구글 이미지 25주년 기념으로 홈페이지 개편",
+        "검색 전 사용자 관심에 맞춘 이미지 자동 추천",
+        "Pinterest 스타일 동적 갤러리 형식 적용"
+      ],
+      "tags": [
+        "구글",
+        "이미지생성"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-15-29",
+      "top": false
+    },
+    {
+      "title": "애플 최초의 컴퓨터 경매 예상가 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212758",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-15T06:55:00.000Z",
+      "lines": [
+        "애플 1호 컴퓨터 경매 예정",
+        "역사적 가치가 반영된 예상가",
+        "컴퓨터 산업 발전의 상징"
+      ],
+      "tags": [
+        "애플",
+        "역사"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-15-30",
+      "top": false
+    },
+    {
+      "title": "삼성헬스 AI 학습 거부 시 데이터 삭제 경고",
+      "url": "https://news.hada.io/topic?id=31441",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-14T22:33:21.000Z",
+      "lines": [
+        "Samsung Health AI 학습 동의 필수화",
+        "동의 철회 시 동기화 중단 및 데이터 삭제",
+        "법률상 보관 의무 예외"
+      ],
+      "tags": [
+        "삼성",
+        "건강",
+        "개인정보"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-15-31",
+      "top": false
+    },
+    {
+      "title": "로컬에서 AI 대화 기록 분석 툴 'Alluvia' 공개",
+      "url": "https://github.com/dylanp12/alluvia",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T19:40:10.000Z",
+      "lines": [
+        "클로드·코드·ChatGPT 대화 기록 로컬에서 분석 가능",
+        "오픈소스 툴로 프라이버시 보호 강조",
+        "GitHub에서 무료 다운로드 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-15-32",
+      "top": false
+    },
+    {
+      "title": "언어별로 다른 클로드 가치 성향 분석 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212765",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-14T19:04:59.000Z",
+      "lines": [
+        "한국어 사용 시 클로드의 따뜻함·수용성 가장 두드러져",
+        "31만 건 대화 분석으로 모델·언어별 가치 성향 비교",
+        "개인정보 보호 기법 적용해 익명 대화 데이터 활용"
+      ],
+      "tags": [
+        "Claude",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-15-33",
+      "top": false
+    },
+    {
+      "title": "Pupul, AI에 가져갈 수 있는 휴대용 메모리 서비스 출시",
+      "url": "https://pupulcorp.com/revoke-demo",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T21:43:32.000Z",
+      "lines": [
+        "Pupul은 사용자가 AI 시스템에 휴대용 메모리를 가져갈 수 있는 서비스",
+        "메모리 회수 기능으로 개인 정보 보호 강화",
+        "현재 데모 버전 공개 중"
+      ],
+      "tags": [
+        "AI",
+        "개인정보보호",
+        "서비스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-15-34",
+      "top": false
+    },
+    {
+      "title": "Anthropic, AI 윤리성 강조한 광고로 논란",
+      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-14T19:41:27.000Z",
+      "lines": [
+        "AI 업계 윤리적 리더십 강조한 광고 전략",
+        "AI 책임감 강조로 경쟁사 대비 차별화 시도",
+        "과도한 윤리 강조에 대한 반발도 예상"
+      ],
+      "tags": [
+        "Anthropic",
+        "에이전트",
+        "규제"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-15-35",
+      "top": false
+    },
+    {
+      "title": "AI 인플루언서 제작 툴 '포즈베리' 출시",
+      "url": "https://poseberry.com",
+      "source": "Show HN",
+      "publishedAt": "2026-07-14T18:17:17.000Z",
+      "lines": [
+        "제품과 함께 포즈 취하는 AI 인플루언서 생성",
+        "웹사이트에서 무료 체험 가능",
+        "HN 커뮤니티에 소개된 신규 툴"
+      ],
+      "tags": [
+        "디자인",
+        "이미지생성"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-15-36",
+      "top": false
+    }
+  ]
+}
