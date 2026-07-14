@@ -62,14 +62,14 @@ const Badge = ({ cat }) => {
   const c = CATS[cat] || CATS.etc, I = CatIcon[cat] || CatIcon.etc;
   return (
     <span style={{ background: c.tint, color: c.color }}
-      className="inline-flex items-center gap-1 rounded-full px-2.5 py-1 md:py-0.5 text-[13px] md:text-xs font-bold">
+      className="inline-flex items-center gap-1 rounded-full px-2.5 py-1 md:py-0.5 text-[14px] md:text-[13px] font-bold">
       <I />{c.label}
     </span>
   );
 };
 
 const NewDot = () => (
-  <span className="inline-flex items-center gap-1 text-[10px] font-extrabold" style={{ color: "#D97706" }}>
+  <span className="inline-flex items-center gap-1 text-[11px] font-extrabold" style={{ color: "#D97706" }}>
     <span style={{ background: "#D97706" }} className="h-1.5 w-1.5 rounded-full" />NEW
   </span>
 );
@@ -82,7 +82,7 @@ const Tag = ({ name, onTag, isField }) => (
       style={isField
         ? { background: T.fieldTint, color: T.field, border: "1px solid #F3D9C6" }
         : { background: "#EEF3F2", color: T.sub, border: "1px solid transparent" }}
-      className="inline-flex items-center h-9 md:h-7 rounded-full px-3 text-[13px] leading-[18px] md:text-xs font-semibold group-hover:opacity-70 transition-opacity">
+      className="inline-flex items-center h-9 md:h-7 rounded-full px-3 text-[14px] leading-[18px] md:text-[13px] font-semibold group-hover:opacity-70 transition-opacity">
       {name}
     </span>
   </button>
@@ -100,7 +100,7 @@ const StarBtn = ({ on, onClick, size = 20 }) => (
 
 const SourceLink = ({ url }) => url ? (
   <a href={url} target="_blank" rel="noreferrer" style={{ color: "#2D66E0" }}
-    className="inline-flex items-center gap-1 text-[13px] leading-[19px] md:text-xs font-bold hover:opacity-70 p-2 -m-2"
+    className="inline-flex items-center gap-1 text-[14px] leading-[19px] md:text-[13px] font-bold hover:opacity-70 p-2 -m-2"
     onClick={(e) => e.stopPropagation()}>
     원문 보기<Icon.external />
   </a>
@@ -109,7 +109,7 @@ const SourceLink = ({ url }) => url ? (
 // 카드/행 하단 — 구분선 + 좌우 배치 (출처 좌측, 원문 링크 우측)
 const MetaLine = ({ source, publishedAt, url }) => (
   <div style={{ borderTop: `1px solid ${T.line}` }} className="pt-2.5 flex items-center justify-between">
-    <span style={{ color: T.faint }} className="text-[13px] leading-[19px] md:text-xs font-medium">
+    <span style={{ color: T.faint }} className="text-[14px] leading-[19px] md:text-[13px] font-medium">
       {source}{publishedAt ? ` · ${timeAgo(publishedAt)}` : ""}
     </span>
     <SourceLink url={url} />
@@ -122,11 +122,11 @@ function Row({ item, expanded, onExpand, saved, toggle, onTag, fields }) {
       <button onClick={onExpand} className="w-full flex items-center justify-between px-4 md:px-5 py-3.5 md:py-3 gap-3 text-left">
         <span className="flex items-center gap-2.5 min-w-0">
           <span style={{ color: (CATS[item.cat] || CATS.etc).color }} className="shrink-0"><CatIcon.tool /></span>
-          <span style={{ color: T.ink }} className="text-base leading-6 md:text-sm font-semibold truncate">{item.title}</span>
+          <span style={{ color: T.ink }} className="text-[17px] leading-6 md:text-[15px] font-semibold truncate">{item.title}</span>
           {isNewItem(item.publishedAt) && <NewDot />}
         </span>
         <span className="flex items-center gap-3 shrink-0">
-          <span style={{ color: T.faint }} className="text-xs hidden md:inline">{item.source}</span>
+          <span style={{ color: T.faint }} className="text-[13px] hidden md:inline">{item.source}</span>
           <StarBtn on={saved} onClick={toggle} size={18} />
           <span style={{ color: T.faint, display: "inline-flex", transform: expanded ? "rotate(180deg)" : "none", transition: "transform .15s" }}>
             <Icon.chevronDown />
@@ -137,7 +137,7 @@ function Row({ item, expanded, onExpand, saved, toggle, onTag, fields }) {
         <div className="px-4 md:px-5 pb-4 pl-9 md:pl-10 flex flex-col gap-3">
           <ul className="flex flex-col gap-1.5">
             {item.lines.map((l, i) => (
-              <li key={i} style={{ color: T.sub }} className="text-[15px] leading-[23px] md:text-sm md:leading-relaxed flex gap-2">
+              <li key={i} style={{ color: T.sub }} className="text-[16px] leading-[23px] md:text-[15px] md:leading-relaxed flex gap-2">
                 <span className="font-bold">·</span>{l}
               </li>
             ))}
@@ -162,14 +162,14 @@ function Card({ item, saved, toggle, onTag, fields }) {
         <span className="ml-auto"><StarBtn on={saved} onClick={toggle} /></span>
       </div>
       <h3 style={{ color: T.ink, letterSpacing: "-0.02em" }}
-        className="font-extrabold text-lg leading-6 md:leading-snug">
+        className="font-extrabold text-[19px] leading-6 md:leading-snug">
         {item.title}
       </h3>
       {/* 카드 요약은 2줄 중심 — 3번째 줄부터는 데스크톱에서만 노출 */}
       <ul className="flex flex-col gap-1.5">
         {item.lines.map((l, i) => (
           <li key={i} style={{ color: T.sub }}
-            className={`text-[15px] leading-[23px] md:text-sm md:leading-relaxed gap-2 ${i >= 2 ? "hidden md:flex" : "flex"}`}>
+            className={`text-[16px] leading-[23px] md:text-[15px] md:leading-relaxed gap-2 ${i >= 2 ? "hidden md:flex" : "flex"}`}>
             <span className="font-bold">·</span>{l}
           </li>
         ))}
@@ -192,12 +192,12 @@ const ListBox = ({ children }) => (
 const SectionTitle = ({ children, note }) => (
   <div className="mb-3">
     <div className="hidden md:flex md:items-baseline md:gap-1.5">
-      <h2 style={{ color: T.ink }} className="text-sm font-extrabold tracking-wide">{children}</h2>
-      {note && <span style={{ color: T.faint }} className="text-xs font-semibold">· {note}</span>}
+      <h2 style={{ color: T.ink }} className="text-[15px] font-extrabold tracking-wide">{children}</h2>
+      {note && <span style={{ color: T.faint }} className="text-[13px] font-semibold">· {note}</span>}
     </div>
     <div className="md:hidden">
-      <h2 style={{ color: T.ink }} className="text-lg leading-[26px] font-extrabold tracking-wide">{children}</h2>
-      {note && <p style={{ color: T.faint }} className="text-[13px] leading-[19px] font-semibold mt-0.5">{note}</p>}
+      <h2 style={{ color: T.ink }} className="text-[19px] leading-[26px] font-extrabold tracking-wide">{children}</h2>
+      {note && <p style={{ color: T.faint }} className="text-[14px] leading-[19px] font-semibold mt-0.5">{note}</p>}
     </div>
   </div>
 );
@@ -205,8 +205,8 @@ const SectionTitle = ({ children, note }) => (
 // 통계: 문장이 아닌 독립된 칩
 const StatChip = ({ label, value, color }) => (
   <div style={{ background: T.surface, border: `1px solid ${T.line}` }} className="rounded-xl px-2.5 md:px-4 py-2.5 flex-1 min-w-0 md:min-w-[110px]">
-    <div style={{ color: color || T.ink }} className="text-xl md:text-lg font-extrabold leading-none">{value}</div>
-    <div style={{ color: T.faint }} className="text-[13px] md:text-xs font-semibold mt-1">{label}</div>
+    <div style={{ color: color || T.ink }} className="text-[21px] md:text-[19px] font-extrabold leading-none">{value}</div>
+    <div style={{ color: T.faint }} className="text-[14px] md:text-[13px] font-semibold mt-1">{label}</div>
   </div>
 );
 
@@ -228,13 +228,13 @@ function Calendar({ dates, selected, onSelect, onClose }) {
         <div className="flex items-center justify-between mb-3">
           <button disabled={mi <= 0} onClick={() => setYm(months[mi - 1])} aria-label="이전 달"
             style={{ color: T.faint, opacity: mi <= 0 ? 0.3 : 1 }} className="h-10 w-10 -m-2 flex items-center justify-center"><Icon.chevronLeft /></button>
-          <span style={{ color: T.ink }} className="text-sm font-extrabold">{y}년 {m}월</span>
+          <span style={{ color: T.ink }} className="text-[15px] font-extrabold">{y}년 {m}월</span>
           <button disabled={mi >= months.length - 1} onClick={() => setYm(months[mi + 1])} aria-label="다음 달"
             style={{ color: T.faint, opacity: mi >= months.length - 1 ? 0.3 : 1 }} className="h-10 w-10 -m-2 flex items-center justify-center"><Icon.chevronRight /></button>
         </div>
         <div className="grid grid-cols-7 mb-1">
           {["일", "월", "화", "수", "목", "금", "토"].map((d) => (
-            <span key={d} style={{ color: T.faint }} className="text-center text-[11px] font-bold py-1">{d}</span>
+            <span key={d} style={{ color: T.faint }} className="text-center text-[12px] font-bold py-1">{d}</span>
           ))}
         </div>
         <div className="grid grid-cols-7 gap-y-1">
@@ -247,13 +247,13 @@ function Calendar({ dates, selected, onSelect, onClose }) {
               <button key={d} disabled={!hasData}
                 onClick={() => { onSelect(dateStr); onClose(); }}
                 style={sel ? { background: T.ink, color: "#fff" } : hasData ? { color: T.ink } : { color: "#D3DCDA" }}
-                className="h-9 w-9 md:h-8 md:w-8 mx-auto rounded-full text-xs font-bold flex items-center justify-center">
+                className="h-9 w-9 md:h-8 md:w-8 mx-auto rounded-full text-[13px] font-bold flex items-center justify-center">
                 {d}
               </button>
             );
           })}
         </div>
-        <p style={{ borderTop: `1px solid ${T.line}`, color: T.faint }} className="text-xs mt-3 pt-3">
+        <p style={{ borderTop: `1px solid ${T.line}`, color: T.faint }} className="text-[13px] mt-3 pt-3">
           옅은 날짜는 수집 데이터가 없는 날이에요
         </p>
       </div>
@@ -347,11 +347,11 @@ export default function AIRadar() {
     <button onClick={t.go}
       style={t.active ? { background: T.ink, color: "#fff" } : { color: T.sub, background: T.surface }}
       className={`rounded-full transition-colors inline-flex items-center justify-center gap-1.5
-        ${mobile ? "flex-1 h-11 px-4 text-[15px] font-semibold" : "px-4 py-1.5 text-sm font-bold"}`}>
+        ${mobile ? "flex-1 h-11 px-4 text-[16px] font-semibold" : "px-4 py-1.5 text-[15px] font-bold"}`}>
       {t.label}
       {t.count !== undefined && (
         <span style={{ background: t.active ? "rgba(255,255,255,.2)" : T.line, color: t.active ? "#fff" : T.sub }}
-          className="h-5 min-w-[20px] px-1 rounded-full inline-flex items-center justify-center text-[11px] font-extrabold">{t.count}</span>
+          className="h-5 min-w-[20px] px-1 rounded-full inline-flex items-center justify-center text-[12px] font-extrabold">{t.count}</span>
       )}
     </button>
   );
@@ -384,27 +384,27 @@ export default function AIRadar() {
         {/* ───────── 설정 ───────── */}
         {view === "settings" ? (
           <section className="pt-2">
-            <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-2xl md:text-3xl font-extrabold mb-6">설정</h1>
+            <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-[25px] md:text-[31px] font-extrabold mb-6">설정</h1>
 
             <SectionTitle note="여러 개 등록할 수 있어요 · 이 분야의 글은 중요도와 상관없이 메인에 모두 표시돼요">관심 분야</SectionTitle>
             <ListBox>
               <div className="p-5">
                 <div className="flex gap-2 flex-wrap mb-4">
-                  {fields.length === 0 && <span style={{ color: T.faint }} className="text-[15px] md:text-sm">등록된 관심 분야가 없어요.</span>}
+                  {fields.length === 0 && <span style={{ color: T.faint }} className="text-[16px] md:text-[15px]">등록된 관심 분야가 없어요.</span>}
                   {fields.map((f) => (
                     <span key={f} style={{ background: T.fieldTint, color: T.field, border: "1px solid #F3D9C6" }}
-                      className="inline-flex items-center gap-1.5 rounded-full h-9 px-3 text-sm font-bold">
+                      className="inline-flex items-center gap-1.5 rounded-full h-9 px-3 text-[15px] font-bold">
                       {f}
                       <button onClick={() => toggleField(f)} className="hover:opacity-60 inline-flex p-2 -m-1.5" aria-label={`${f} 제거`}><Icon.x /></button>
                     </span>
                   ))}
                 </div>
-                <p style={{ color: T.faint }} className="text-[13px] md:text-xs font-bold mb-2">자동 생성된 태그에서 추가하기</p>
+                <p style={{ color: T.faint }} className="text-[14px] md:text-[13px] font-bold mb-2">자동 생성된 태그에서 추가하기</p>
                 <div className="flex gap-2 flex-wrap">
                   {allTags.filter((t) => !fields.includes(t)).map((t) => (
                     <button key={t} onClick={() => toggleField(t)} className="py-1 -my-1 group">
                       <span style={{ border: `1px dashed ${T.faint}`, color: T.sub }}
-                        className="inline-flex items-center h-9 md:h-7 rounded-full px-3 text-[13px] md:text-xs font-bold group-hover:opacity-70 gap-1">
+                        className="inline-flex items-center h-9 md:h-7 rounded-full px-3 text-[14px] md:text-[13px] font-bold group-hover:opacity-70 gap-1">
                         <Icon.plus />{t}
                       </span>
                     </button>
@@ -422,8 +422,8 @@ export default function AIRadar() {
                     return (
                       <li key={s.name} className="flex items-center justify-between px-5 py-3.5">
                         <span>
-                          <span style={{ color: on ? T.ink : T.faint }} className="text-[15px] md:text-sm font-semibold">{s.name}</span>
-                          <span style={{ color: T.faint }} className="text-[13px] md:text-xs ml-2">{s.type}</span>
+                          <span style={{ color: on ? T.ink : T.faint }} className="text-[16px] md:text-[15px] font-semibold">{s.name}</span>
+                          <span style={{ color: T.faint }} className="text-[14px] md:text-[13px] ml-2">{s.type}</span>
                         </span>
                         <button onClick={() => toggleSource(s.name)} aria-label={`${s.name} ${on ? "끄기" : "켜기"}`}
                           style={{ background: on ? "#0B9E6E" : "#D3DCDA" }}
@@ -442,7 +442,7 @@ export default function AIRadar() {
               <SectionTitle>자동 갱신</SectionTitle>
               <ListBox>
                 <div className="p-5">
-                  <span style={{ color: T.ink }} className="text-[15px] md:text-sm font-semibold">매일 오전 7시에 새 소식 수집·요약</span>
+                  <span style={{ color: T.ink }} className="text-[16px] md:text-[15px] font-semibold">매일 오전 7시에 새 소식 수집·요약</span>
                 </div>
               </ListBox>
             </div>
@@ -451,23 +451,23 @@ export default function AIRadar() {
         ) : tag ? (
           /* ───────── 태그별 모아보기 ───────── */
           <section className="pt-2">
-            <button onClick={() => setTag(null)} style={{ color: T.sub }} className="text-sm font-bold mb-4 py-2 -my-2">← 오늘의 소식으로 돌아가기</button>
+            <button onClick={() => setTag(null)} style={{ color: T.sub }} className="text-[15px] font-bold mb-4 py-2 -my-2">← 오늘의 소식으로 돌아가기</button>
             <div className="flex items-center gap-3 flex-wrap mb-1">
-              <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-2xl md:text-3xl font-extrabold">#{tag}</h1>
+              <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-[25px] md:text-[31px] font-extrabold">#{tag}</h1>
               <button onClick={() => toggleField(tag)}
                 style={fields.includes(tag) ? { background: T.fieldTint, color: T.field, border: "1px solid #F3D9C6" } : { border: `1px dashed ${T.faint}`, color: T.sub }}
-                className="rounded-full h-9 px-3 text-[13px] md:text-xs font-bold inline-flex items-center gap-1">
+                className="rounded-full h-9 px-3 text-[14px] md:text-[13px] font-bold inline-flex items-center gap-1">
                 {fields.includes(tag) ? <><Icon.x />관심 분야에서 제거</> : <><Icon.plus />관심 분야로 추가</>}
               </button>
             </div>
-            <p style={{ color: T.sub }} className="text-[15px] md:text-sm mb-5">'{tag}' 태그가 붙은 글 {tagItems.length}건 · 태그는 AI가 기사 내용을 읽고 자동으로 붙여요</p>
+            <p style={{ color: T.sub }} className="text-[16px] md:text-[15px] mb-5">'{tag}' 태그가 붙은 글 {tagItems.length}건 · 태그는 AI가 기사 내용을 읽고 자동으로 붙여요</p>
             <ListBox>
               <ul className="divide-y" style={{ borderColor: T.line }}>
                 {tagItems.map((it) => <Row key={it.id} {...rowProps(it)} />)}
               </ul>
             </ListBox>
             <div className="mt-6">
-              <p style={{ color: T.faint }} className="text-[13px] md:text-xs font-bold mb-2">다른 태그 둘러보기</p>
+              <p style={{ color: T.faint }} className="text-[14px] md:text-[13px] font-bold mb-2">다른 태그 둘러보기</p>
               <div className="flex gap-2 gap-y-2.5 flex-wrap">
                 {allTags.filter((t) => t !== tag).map((t) => <Tag key={t} name={t} onTag={goTag} isField={fields.includes(t)} />)}
               </div>
@@ -477,11 +477,11 @@ export default function AIRadar() {
         ) : view === "saved" ? (
           /* ───────── 저장한 소식 ───────── */
           <section className="pt-2">
-            <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-2xl md:text-3xl font-extrabold mb-1">저장한 소식</h1>
-            <p style={{ color: T.sub }} className="text-[15px] md:text-sm mb-6">별표한 글이 날짜와 상관없이 모여요. 이 기기 브라우저에 저장돼요.</p>
+            <h1 style={{ color: T.ink, letterSpacing: "-0.03em" }} className="text-[25px] md:text-[31px] font-extrabold mb-1">저장한 소식</h1>
+            <p style={{ color: T.sub }} className="text-[16px] md:text-[15px] mb-6">별표한 글이 날짜와 상관없이 모여요. 이 기기 브라우저에 저장돼요.</p>
             {savedItems.length === 0 ? (
               <div style={{ background: T.surface, border: `1px dashed ${T.line}`, color: T.faint }}
-                className="rounded-2xl p-10 text-center text-[15px] md:text-sm">아직 저장한 글이 없어요. 별표를 눌러 저장해보세요.</div>
+                className="rounded-2xl p-10 text-center text-[16px] md:text-[15px]">아직 저장한 글이 없어요. 별표를 눌러 저장해보세요.</div>
             ) : (
               <div className="grid gap-3 md:grid-cols-2">
                 {savedItems.map((it) => (
@@ -504,7 +504,7 @@ export default function AIRadar() {
                   </button>
                   <button onClick={() => setShowCal((v) => !v)}
                     style={{ color: T.ink, borderLeft: `1px solid ${T.line}`, borderRight: `1px solid ${T.line}` }}
-                    className="h-11 md:h-9 px-4 text-sm font-extrabold flex-1 md:flex-initial inline-flex items-center justify-center gap-1.5">
+                    className="h-11 md:h-9 px-4 text-[15px] font-extrabold flex-1 md:flex-initial inline-flex items-center justify-center gap-1.5">
                     <Icon.calendar />{selDate ? dateLabel(selDate) : "…"}
                   </button>
                   <button onClick={() => setSelDate(dates[di - 1])} disabled={isLatest || di < 0} aria-label="다음 날짜"
@@ -514,7 +514,7 @@ export default function AIRadar() {
                 </div>
                 {!isLatest && dates.length > 0 && (
                   <button onClick={() => setSelDate(dates[0])} style={{ color: T.field, border: `1px solid #F3D9C6`, background: T.fieldTint }}
-                    className="h-11 md:h-9 rounded-full px-3 text-[13px] md:text-xs font-bold shrink-0">최신으로</button>
+                    className="h-11 md:h-9 rounded-full px-3 text-[14px] md:text-[13px] font-bold shrink-0">최신으로</button>
                 )}
                 {showCal && selDate && (
                   <Calendar dates={dates} selected={selDate} onSelect={setSelDate} onClose={() => setShowCal(false)} />
@@ -523,18 +523,18 @@ export default function AIRadar() {
 
               {loadState === "loading" ? (
                 <div style={{ background: T.surface, border: `1px solid ${T.line}`, color: T.faint }}
-                  className="rounded-2xl p-8 text-center text-sm">불러오는 중…</div>
+                  className="rounded-2xl p-8 text-center text-[15px]">불러오는 중…</div>
               ) : loadState === "error" ? (
                 <div style={{ background: T.surface, border: `1px dashed ${T.line}` }} className="rounded-2xl p-8 text-center">
                   <p style={{ color: T.ink }} className="font-bold mb-1">아직 수집된 데이터가 없어요</p>
-                  <p style={{ color: T.faint }} className="text-sm">매일 오전 7시 자동 수집이 실행되면 이곳에 소식이 채워져요.</p>
+                  <p style={{ color: T.faint }} className="text-[15px]">매일 오전 7시 자동 수집이 실행되면 이곳에 소식이 채워져요.</p>
                 </div>
               ) : (
                 <div style={{ background: T.surface, border: `1px solid ${T.line}` }} className="rounded-2xl p-5 md:p-6">
-                  <p style={{ color: T.field }} className="text-[13px] md:text-xs font-extrabold tracking-wide mb-2">
+                  <p style={{ color: T.field }} className="text-[14px] md:text-[13px] font-extrabold tracking-wide mb-2">
                     {isLatest ? "오늘의 브리핑" : `${dateLabel(selDate)} 브리핑`}
                   </p>
-                  <h1 style={{ color: T.ink, letterSpacing: "-0.02em" }} className="text-xl leading-7 md:text-2xl md:leading-snug font-bold mb-4">
+                  <h1 style={{ color: T.ink, letterSpacing: "-0.02em" }} className="text-[21px] leading-7 md:text-[25px] md:leading-snug font-bold mb-4">
                     <span style={{ color: T.field }}>{data.briefing.highlight}</span>{data.briefing.rest}
                   </h1>
                   <div className="flex gap-2 flex-wrap">
@@ -577,7 +577,7 @@ export default function AIRadar() {
                         {fieldItems.length > 3 && (
                           <button onClick={() => setShowAllField((v) => !v)}
                             style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
-                            className="w-full mt-2 rounded-2xl py-3.5 text-sm font-bold hover:bg-black/5">
+                            className="w-full mt-2 rounded-2xl py-3.5 text-[15px] font-bold hover:bg-black/5">
                             {showAllField ? "접기" : "더보기"}
                           </button>
                         )}
@@ -592,7 +592,7 @@ export default function AIRadar() {
                         {fieldItems.length > 3 && (
                           <button onClick={() => setShowAllField((v) => !v)}
                             style={{ border: `1px solid ${T.line}`, background: T.surface, color: T.sub }}
-                            className="w-full mt-3 rounded-2xl py-3 text-sm font-bold hover:bg-black/5">
+                            className="w-full mt-3 rounded-2xl py-3 text-[15px] font-bold hover:bg-black/5">
                             {showAllField ? "접기" : "더보기"}
                           </button>
                         )}
@@ -610,8 +610,8 @@ export default function AIRadar() {
                         <ListBox key={key}>
                           <div className="flex items-center gap-2.5 px-5 py-4">
                             <span style={{ color: c.color }}><I /></span>
-                            <span style={{ color: T.ink }} className="font-bold text-base md:text-sm">{c.label}</span>
-                            <span style={{ background: c.tint, color: c.color }} className="rounded-full px-2 py-0.5 text-xs font-bold">{list.length}</span>
+                            <span style={{ color: T.ink }} className="font-bold text-[17px] md:text-[15px]">{c.label}</span>
+                            <span style={{ background: c.tint, color: c.color }} className="rounded-full px-2 py-0.5 text-[13px] font-bold">{list.length}</span>
                           </div>
                           <ul style={{ borderTop: `1px solid ${T.line}` }} className="divide-y">
                             {list.map((it) => <Row key={it.id} {...rowProps(it)} />)}
@@ -628,13 +628,13 @@ export default function AIRadar() {
                     <div className="grid gap-3 md:grid-cols-3">
                       {Object.entries(tracker).map(([name, list]) => (
                         <div key={name} style={{ background: T.surface, border: `1px solid ${T.line}` }} className="rounded-2xl p-5">
-                          <div style={{ color: T.ink }} className="font-extrabold text-base md:text-sm mb-3">{name}</div>
+                          <div style={{ color: T.ink }} className="font-extrabold text-[17px] md:text-[15px] mb-3">{name}</div>
                           {list.length === 0 ? (
-                            <p style={{ color: T.faint }} className="text-[13px] md:text-xs">아직 수집된 업데이트가 없어요</p>
+                            <p style={{ color: T.faint }} className="text-[14px] md:text-[13px]">아직 수집된 업데이트가 없어요</p>
                           ) : (
                             <ul className="flex flex-col gap-2.5">
                               {list.map(([d, txt], i) => (
-                                <li key={i} className="flex gap-3 text-[15px] leading-[23px] md:text-sm md:leading-[21px]">
+                                <li key={i} className="flex gap-3 text-[16px] leading-[23px] md:text-[15px] md:leading-[21px]">
                                   <span style={{ color: T.faint }} className="font-semibold shrink-0 tabular-nums">{d}</span>
                                   <span style={{ color: T.sub }}>{txt}</span>
                                 </li>
@@ -654,7 +654,7 @@ export default function AIRadar() {
                     {sortedTags.length > 10 && (
                       <button onClick={() => setShowAllTags((v) => !v)} className="w-full md:w-auto py-1 -my-1 group">
                         <span style={{ border: `1px dashed ${T.faint}`, color: T.sub }}
-                          className="flex md:inline-flex items-center justify-center w-full md:w-auto h-9 md:h-7 rounded-full px-3 text-[13px] md:text-xs font-bold group-hover:opacity-70">
+                          className="flex md:inline-flex items-center justify-center w-full md:w-auto h-9 md:h-7 rounded-full px-3 text-[14px] md:text-[13px] font-bold group-hover:opacity-70">
                           {showAllTags ? "접기" : "더보기"}
                         </span>
                       </button>
