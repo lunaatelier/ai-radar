@@ -1,0 +1,720 @@
+{
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-17T22:53:06.946Z",
+  "briefing": {
+    "highlight": "메타 앤트로픽 AI 인프라 협력",
+    "rest": "과 데이터브릭스 188조 원 가치, 엔비디아 코스모스 3 엣지 공개 등을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "메타, 앤트로픽에 AI 인프라 임대 논의…클라우드 진출",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212896",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-18T06:45:57.000Z",
+      "lines": [
+        "메타가 앤트로픽에 AI 인프라 임대 논의 중",
+        "2년간 최대 15조 규모 계약 추진",
+        "메타의 첫 클라우드 시장 진출 가능성"
+      ],
+      "tags": [
+        "인프라",
+        "메타",
+        "앤트로픽"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-18-01",
+      "top": true
+    },
+    {
+      "title": "데이터브릭스, AI 전략으로 188조 원 가치 달성",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T22:12:56.000Z",
+      "lines": [
+        "오픈소스 AI 모델로 코딩 비용 절감 연구 발표",
+        "AI 기업으로 재편성 성공",
+        "가치 188조 원으로 급성장"
+      ],
+      "tags": [
+        "AI",
+        "오픈소스",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-18-02",
+      "top": true
+    },
+    {
+      "title": "애플 소송으로 오픈AI IPO에 그림자",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T17:45:46.000Z",
+      "lines": [
+        "애플이 오픈AI에 특허 및 상업비밀 침해 소송 제기",
+        "400여 명 전 애플 직원 오픈AI로 이직한 것으로 주장",
+        "IPO 추진 중인 오픈AI에 부정적 영향 예상"
+      ],
+      "tags": [
+        "OpenAI",
+        "규제",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-18-03",
+      "top": true
+    },
+    {
+      "title": "엔비디아, 4B 모듈형 월드 모델 '코스모스 3 엣지' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212880",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T13:06:12.000Z",
+      "lines": [
+        "엔비디아, 로봇·비전 AI용 4B 매개변수 월드 모델 공개",
+        "실시간 환경 인식·추론·로봇 행동 생성 지원",
+        "네모트론 기반 오픈소스 모델, 엣지 컴퓨팅 최적화"
+      ],
+      "tags": [
+        "엔비디아",
+        "로봇",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-18-04",
+      "top": true
+    },
+    {
+      "title": "중국, 오픈소스 AI로 미국 패권에 도전장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212893",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T19:41:41.000Z",
+      "lines": [
+        "시진핑 주석이 WAIC에서 오픈소스 AI와 국제 협력 강조",
+        "미국 기술 제한 정책에 대한 중국의 정면 견제",
+        "개발도상국 지원으로 글로벌 AI 주도권 확보 시도"
+      ],
+      "tags": [
+        "오픈소스",
+        "구글",
+        "국제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-18-05",
+      "top": true
+    },
+    {
+      "title": "LM Studio Bionic로 오픈 모델 AI 에이전트 활용",
+      "url": "https://news.hada.io/topic?id=31525",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T16:34:46.000Z",
+      "lines": [
+        "로컬/클라우드 오픈 모델로 코딩·조사·문서 작업 처리",
+        "개인정보 보호와 비용 직접 통제 가능",
+        "LM Link 또는 Secure Cloud로 확장 활용"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-18-06",
+      "top": false
+    },
+    {
+      "title": "애플, OpenAI에 특허소송 제기...IPO 앞두고 위기",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T14:00:00.000Z",
+      "lines": [
+        "애플이 OpenAI를 상대로 특허권 침해 소송 제기",
+        "400여명 전 애플 직원 OpenAI로 이직한 것으로 알려져",
+        "OpenAI IPO 추진 중인 시점이라 영향 우려"
+      ],
+      "tags": [
+        "OpenAI",
+        "규제",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-18-07",
+      "top": false
+    },
+    {
+      "title": "에이전트 하네스 개선으로 ARC-AGI-3서 99% 효율 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212889",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T13:42:28.000Z",
+      "lines": [
+        "ARC-AGI-3 벤치마크서 98.98% 성능 기록",
+        "모델 가중치 변경 없이 실행 방식만 개선",
+        "에이전트 아키텍처 개발 연구소 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-18-08",
+      "top": false
+    },
+    {
+      "title": "100달러 AI 뮤직비디오 제작 대결 결과 발표",
+      "url": "https://news.hada.io/topic?id=31522",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T13:35:41.000Z",
+      "lines": [
+        "Claude Fable 5와 GPT-5.6 Sol이 100달러 예산으로 뮤직비디오 제작",
+        "네 번 중 세 번은 원곡을 결합한 완전한 길이의 영상 완성",
+        "모델이 생성 방식과 편집 도구도 스스로 선택해 제작"
+      ],
+      "tags": [
+        "영상",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-18-09",
+      "top": false
+    },
+    {
+      "title": "구글 비즈에 제미나이 옴니·개인 아바타 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212891",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T13:14:02.000Z",
+      "lines": [
+        "구글 비즈에 제미나이 옴니와 개인 아바타 기능 추가",
+        "업무용 도구에서 종합 AI 영상 플랫폼으로 진화",
+        "텍스트·이미지 결합 AI 영상 생성 기능 제공"
+      ],
+      "tags": [
+        "구글",
+        "영상",
+        "Gemini"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-18-10",
+      "top": false
+    },
+    {
+      "title": "스타십 V3 발사 중단…우주 데이터센터 검증 연기",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212894",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T20:49:07.000Z",
+      "lines": [
+        "스타십 V3 두 번째 시험 발사 중 엔진 시동 실패로 중단",
+        "우주 클라우드 시장 진출 지연으로 주가 하락",
+        "일론 머스크 CEO는 엔진 문제로 인한 자동 취소 확인"
+      ],
+      "tags": [
+        "인프라",
+        "스페이스X",
+        "우주"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-18-11",
+      "top": false
+    },
+    {
+      "title": "애플, 오픈AI를 상대로 소송 제기",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-17T17:41:32.000Z",
+      "lines": [
+        "애플이 오픈AI를 상대로 소송을 제기하며 경쟁 우려를 드러냄",
+        "전문가들은 애플의 주장이 일반적인 비즈니스 관행에 불과하다고 분석",
+        "애플이 오픈AI의 약점을 노린 공세인지 경쟁자 견제인지 논란"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "애플"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-18-12",
+      "top": false
+    },
+    {
+      "title": "패트리언, AI 크롤링 차단 강화",
+      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T15:21:17.000Z",
+      "lines": [
+        "클라우드플레어와 협력해 AI 모델 학습용 크롤링 차단",
+        "robots.txt 대신 적극적인 차단 정책 전환",
+        "콘텐츠 무단 사용 방지 강화"
+      ],
+      "tags": [
+        "AI",
+        "저작권",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-18-13",
+      "top": false
+    },
+    {
+      "title": "AI 코딩 확산으로 시니어 개발자 수요 급증 전망",
+      "url": "https://news.hada.io/topic?id=31518",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T03:01:49.000Z",
+      "lines": [
+        "AI 코딩 확산으로 주니어 채용 감소",
+        "코드 복잡성 증가로 시니어 개발자 수요 증가",
+        "기업이 인력 대신 토큰 구매로 전환"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-18-14",
+      "top": false
+    },
+    {
+      "title": "AI·감시 시스템으로 간호사 업무 악화",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-17T22:26:30.000Z",
+      "lines": [
+        "카이저 간호사들이 AI와 직장 감시 시스템이 업무 효율과 환자 치료 질을 떨어뜨린다고 호소",
+        "간호사들은 과도한 모니터링과 AI 도입으로 업무 부담이 증가했다고 주장",
+        "의료 현장에서 AI와 감시 기술의 부작용에 대한 우려가 제기됨"
+      ],
+      "tags": [
+        "의료",
+        "AI",
+        "직장감시"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-18-15",
+      "top": false
+    },
+    {
+      "title": "LLM 비판에도 실무 활용은 계속된다",
+      "url": "https://news.hada.io/topic?id=31528",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T21:36:04.000Z",
+      "lines": [
+        "LLM의 저작권·환경 문제와 저품질 산출물 인정",
+        "사고 품질 향상 도구로 지속 활용",
+        "단순 증폭 도구로 유창한 쓰레기 대량 생산 가능성"
+      ],
+      "tags": [
+        "LLM",
+        "저작권",
+        "생산성"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-18-16",
+      "top": false
+    },
+    {
+      "title": "애지리티 로보틱스, 테슬라 인근에 Digit 로봇 훈련센터 오픈",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T20:19:49.000Z",
+      "lines": [
+        "애지리티 로보틱스가 Digit 로봇 전용 훈련센터를 캘리포니아 프레몬트에 오픈",
+        "테슬라 본사 인근에 위치해 로봇 생산·교육 인프라 구축 강화",
+        "Digit 로봇의 상용화 및 산업 현장 적용을 위한 준비 단계"
+      ],
+      "tags": [
+        "로봇",
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-18-17",
+      "top": false
+    },
+    {
+      "title": "틱톡 AI 얼굴 복제 탐지 도구 테스트 시작",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-17T19:34:30.000Z",
+      "lines": [
+        "미국 일부 크리에이터 대상 AI 얼굴 복제 탐지 도구 테스트",
+        "Jumio를 통해 신원 확인 후 사용 가능",
+        "유튜브도 유사 기능 제공 중"
+      ],
+      "tags": [
+        "TikTok",
+        "AI",
+        "저작권"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-18-18",
+      "top": false
+    },
+    {
+      "title": "Maxx: 실시간 CLI 토큰 트래커 출시",
+      "url": "https://meetmaxx.co/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T18:41:26.000Z",
+      "lines": [
+        "Claude 에이전트용 실시간 토큰 사용량 모니터링 도구",
+        "5시간 롤링 윈도우로 과도한 토큰 사용 방지",
+        "주간 할당량 관리 최적화를 위한 10회 이상 반복 개발"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-18-19",
+      "top": false
+    },
+    {
+      "title": "오픈소스 AI 현황 분석 리포트 공개",
+      "url": "https://stateofopensource.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-17T14:31:10.000Z",
+      "lines": [
+        "오픈소스 AI 현황 분석 리포트 공개",
+        "핵심 트렌드와 주요 프로젝트 소개",
+        "오픈소스 생태계 발전 방향 제시"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-18-20",
+      "top": false
+    },
+    {
+      "title": "OpenVM ZkVM에서 AI가 발견한 보안 취약점",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-17T14:21:35.000Z",
+      "lines": [
+        "AI를 활용한 OpenVM ZkVM의 보안 취약점 분석 결과 발표",
+        "Hacker News에서 78점의 높은 평가를 받은 기술 기사",
+        "암호화 기술과 AI의 결합이 보안 검증에 기여"
+      ],
+      "tags": [
+        "연구",
+        "보안"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-18-21",
+      "top": false
+    },
+    {
+      "title": "OpenAI, AI 효율성 측정 '스코어카드' 공개",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "lines": [
+        "OpenAI CFO가 AI ROI 측정 방법 제안",
+        "성공률·비용·신뢰성·연산 효율성 4가지 기준",
+        "실무 적용 가능성 강조"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-18-22",
+      "top": false
+    },
+    {
+      "title": "명세 중심 개발로 AI 코드 관리 효율화",
+      "url": "https://news.hada.io/topic?id=31521",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T06:59:40.000Z",
+      "lines": [
+        "AI 코드 생성 과정의 의도 기록 문제 해결",
+        "명세 중심 개발 방식으로 코드 유지보수 개선",
+        "PWA 앱+서버 개발에 3장 명세 적용 사례 공유"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-18-23",
+      "top": false
+    },
+    {
+      "title": "인도 스마트폰 시장 AI 영향력 확대",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T20:09:27.000Z",
+      "lines": [
+        "AI 기술 수요 증가로 스마트폰 시장 변화",
+        "가격·수요·기업 전략에 영향을 미침",
+        "소비자 전자산업 재편 촉진"
+      ],
+      "tags": [
+        "인도",
+        "스마트폰",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-18-24",
+      "top": false
+    },
+    {
+      "title": "YC 창업자 105명, OpenAI·Anthropic로 이동",
+      "url": "https://news.hada.io/topic?id=31527",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T19:35:10.000Z",
+      "lines": [
+        "YC 창업자 105명 이상 OpenAI·Anthropic로 이직",
+        "전 CEO·CTO도 Member of Technical Staff로 활동",
+        "연구·안전 분야 직무가 가장 많은 60%"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-18-25",
+      "top": false
+    },
+    {
+      "title": "Hermes 에이전트 샌드박스에서 Kimi 3로 실행",
+      "url": "https://news.ycombinator.com/item?id=48951167",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T19:13:25.000Z",
+      "lines": [
+        "Hermes 에이전트를 Kimi K3 모델로 샌드박스 환경에서 실행 가능",
+        "10분 내로 Telegram 연결 설정 완료, Mac mini 필요 없음",
+        "에이전트 구성 변경·플러그인 추가·네트워크 제한 등 제어 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-18-26",
+      "top": false
+    },
+    {
+      "title": "SpaceX 주가, IPO 공모가 아래로 떨어지며 상승분 전량 반납",
+      "url": "https://news.hada.io/topic?id=31523",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-17T15:34:26.000Z",
+      "lines": [
+        "SpaceX 주가, IPO 공모가 135달러 아래로 하락하며 상승분 전량 상실",
+        "시가총액 2조 2,000억 달러와 AI 사업 계획 열기 약화",
+        "일부 회복해 135.27달러로 마감"
+      ],
+      "tags": [
+        "SpaceX",
+        "주가",
+        "IPO"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-18-27",
+      "top": false
+    },
+    {
+      "title": "중국 CXMT IPO 청약 212대 1 기록...14조 원 유치",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212892",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T13:49:50.000Z",
+      "lines": [
+        "중국 메모리 반도체 기업 CXMT가 상하이 IPO에서 98억 달러(14조 원) 유치",
+        "개인 투자자 청약 경쟁률 212대 1 기록, 당첨률 0.47%로 매우 낮은 확률",
+        "STAR Market 상장을 앞두고 반도체 시장 열기 반영"
+      ],
+      "tags": [
+        "중국",
+        "반도체",
+        "IPO"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-18-28",
+      "top": false
+    },
+    {
+      "title": "4억 달러 규모 AI 추론 칩 투자 동향",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T12:00:00.000Z",
+      "lines": [
+        "GPU 금융 기업이 추론 칩 시장으로 전환",
+        "4억 달러 규모의 AI 인프라 투자 진행 중",
+        "AI 인프라 투자 동향 변화 예고"
+      ],
+      "tags": [
+        "인프라",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-18-29",
+      "top": false
+    },
+    {
+      "title": "Anthropic 인증 포털 오픈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hR1F6el9wazZuaWs5bThVSGpLV3hKdjJRVy1hdWo3Zk5NNmRlcFd5Rl9mQWM0czROcVVwdFNjS2FzRHRONE5zWkg1d1BycVZET1hMc1E5UmZTOFowX21Gak5kVk5sbHh3cGJWWWh3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-17T10:00:00.000Z",
+      "lines": [
+        "Anthropic 공식 인증 포털 서비스 출시",
+        "사용자 계정 관리 및 보안 강화 지원",
+        "AI 모델 접근 권한 확인 가능"
+      ],
+      "tags": [
+        "Anthropic",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-18-30",
+      "top": false
+    },
+    {
+      "title": "LLM의 영향력 차단하는 브라우저 확장기능 출시",
+      "url": "https://frog1230.itch.io/mind-shield",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T21:58:58.000Z",
+      "lines": [
+        "로컬 브라우저 확장기능으로 LLM 영향력 차단",
+        "개인적 비판적 사고 보호에 초점",
+        "오픈소스 기반으로 무료 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-18-31",
+      "top": false
+    },
+    {
+      "title": "젠슨 황, 도쿄서 단팥빵·모츠나베로 현지 파트너와 소통",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=212895",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-17T21:22:56.000Z",
+      "lines": [
+        "엔비디아 젠슨 황 CEO가 도쿄에서 현지 반도체 기업들과 이자카야에서 만찬",
+        "TEL·키옥시아 등 주요 공급망 기업 관계자들과 비공식 회동 진행",
+        "황 CEO 특유의 '음식 소통' 전략으로 현지 파트너십 강화"
+      ],
+      "tags": [
+        "엔비디아",
+        "반도체",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-18-32",
+      "top": false
+    },
+    {
+      "title": "LIA: 오픈소스 멀티 에이전트 AI 어시스턴트 출시",
+      "url": "https://github.com/jgouviergmail/LIA-Assistant",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T21:21:58.000Z",
+      "lines": [
+        "FastAPI와 LangGraph로 구축된 셀프 호스팅 AI 어시스턴트",
+        "GitHub 오픈소스로 공개된 멀티 에이전트 시스템",
+        "Hacker News에 소개된 신규 AI 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-18-33",
+      "top": false
+    },
+    {
+      "title": "줌 회의 녹음 거부 기능 등장",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-17T21:20:47.000Z",
+      "lines": [
+        "줌에 회의 녹음 거부 옵션 추가",
+        "개인 정보 보호 강화 조치",
+        "AI 요약 서비스에 대한 회의적 시각 반영"
+      ],
+      "tags": [
+        "생산성",
+        "Zoom"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-07-18-34",
+      "top": false
+    },
+    {
+      "title": "Visuali: 이미지 생성용 Claude 코드와 같은 툴 출시",
+      "url": "https://visuali.io",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T21:00:43.000Z",
+      "lines": [
+        "Visuali라는 툴이 Claude 코드처럼 이미지 생성에 특화된 AI 서비스로 출시됨",
+        "Hacker News에 소개되며 개발자 커뮤니티에서 주목받고 있음",
+        "현재 링크만 공개된 상태로 구체적인 기능은 아직 알려지지 않음"
+      ],
+      "tags": [
+        "이미지생성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-18-35",
+      "top": false
+    },
+    {
+      "title": "AI 심판이 판결하는 논쟁 게임 출시",
+      "url": "https://wram.chat",
+      "source": "Show HN",
+      "publishedAt": "2026-07-17T20:11:25.000Z",
+      "lines": [
+        "친구와 논쟁 게임을 즐기며 AI가 승패를 결정",
+        "웹 기반 서비스로 간편하게 이용 가능",
+        "Hacker News에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "AI",
+        "게임",
+        "서비스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-18-36",
+      "top": false
+    }
+  ]
+}
