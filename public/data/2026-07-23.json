@@ -1,0 +1,718 @@
+{
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-22T23:09:13.012Z",
+  "briefing": {
+    "highlight": "삼성 갤럭시 Z8 AI",
+    "rest": "에이전트형 탑재와 구글 클라우드 성장, 머스크 신모델 출시 등 AI 주요 소식 4건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "삼성 갤럭시 Z8 시리즈, 에이전트형 AI 탑재 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213062",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-23T05:48:54.000Z",
+      "lines": [
+        "갤럭시 Z 폴드8 울트라·폴드8·플립8 출시, 모바일 최초로 제미나이 인텔리전스 탑재",
+        "에이전트형 AI로 맥락 이해 및 40여 개 앱 자동 실행 가능",
+        "2026년 22일 영국 런던에서 공개"
+      ],
+      "tags": [
+        "삼성",
+        "에이전트",
+        "Gemini"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-23-01",
+      "top": true
+    },
+    {
+      "title": "구글 클라우드 사업 성장으로 AI 투자 정당화",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T22:01:52.000Z",
+      "lines": [
+        "구글 클라우드 사업이 AI 서비스 수요 증가로 기록적 수익 달성",
+        "AI 인프라 서비스 수요 증가로 구글 AI 투자 효과 확인",
+        "기업 고객들의 AI 채택이 구글 클라우드 성장 동력"
+      ],
+      "tags": [
+        "구글",
+        "인프라",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-23-02",
+      "top": true
+    },
+    {
+      "title": "머스크, 2조 매개변수 모델 출시 예정...'키미' 능가할 것",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213047",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-22T18:37:40.000Z",
+      "lines": [
+        "머스크, 2조 매개변수 모델 학습 완료 예정",
+        "기존 1.5조 모델보다 모든 면에서 개선",
+        "키미 K3를 뛰어넘을 가능성 제시"
+      ],
+      "tags": [
+        "ChatGPT",
+        "구글",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-23-03",
+      "top": true
+    },
+    {
+      "title": "오픈AI AI 에이전트 서비스 사용자 1000만 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213027",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-22T18:18:58.000Z",
+      "lines": [
+        "코덱스·챗GPT 워크 사용자 1000만명 넘어",
+        "일주일 만에 200만명 추가 유입",
+        "유료 이용자 사용량 한도 정책 변경 예정"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-23-04",
+      "top": true
+    },
+    {
+      "title": "엔비디아, MoE 모델 학습 성능 3배 향상",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213050",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-22T18:09:56.000Z",
+      "lines": [
+        "GB300 NVL72 플랫폼으로 MoE 모델 학습 성능 세계 최고 기록 달성",
+        "GPU당 1648TFLOPs 처리 성능으로 이전 대비 3배 향상",
+        "딥시크-V3 671B 모델 사전학습 환경에서 256GPU 활용 테스트"
+      ],
+      "tags": [
+        "엔비디아",
+        "인프라",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-23-05",
+      "top": true
+    },
+    {
+      "title": "삼성 AI 안경 신규 디자인 공개…연내 출시 예정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213063",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-23T05:58:02.000Z",
+      "lines": [
+        "삼성, AI 안경 '인텔리전트 아이웨어' 신규 디자인 2종 추가",
+        "퀄컴 스냅드래곤 AR1 Gen1 칩셋 탑재",
+        "핸즈프리 AI 경험 제공…연내 출시 예정"
+      ],
+      "tags": [
+        "디자인",
+        "삼성",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-23-06",
+      "top": false
+    },
+    {
+      "title": "Anthropic, 투자팀 전용 Claude 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleUV6and5RDlsRC1LNHMzd2xPaVVqamtRMEFocE1DcVJTaGhEeFBxMzlTYTN0Rm5oMTV2TTcwd2RMbUE5d1psUFdpOFIxdXBFbFRrakdpSWFPbW5PdVlHMTNwVmNVT2Y1aGdkSGtR?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-22T22:53:07.000Z",
+      "lines": [
+        "투자 분석·결정 지원 전용 Claude 서비스 공개",
+        "금융 데이터 분석·시장 예측 기능 강화",
+        "기존 Claude 모델을 투자 업무에 특화"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-23-07",
+      "top": false
+    },
+    {
+      "title": "미국, 문샷 AI 모델에 제재 위협",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T20:49:03.000Z",
+      "lines": [
+        "미 재무부가 문샷 AI 모델에 제재 위협",
+        "백악관이 앤트로픽의 페이블 모델을 무단 복제한 혐의 제기",
+        "중국 오픈 모델 확산에 대한 논의 심화"
+      ],
+      "tags": [
+        "규제",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-23-08",
+      "top": false
+    },
+    {
+      "title": "트래비스 칼라닉의 로봇 기업 17억 달러 유치",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T18:50:44.000Z",
+      "lines": [
+        "트래비스 칼라닉의 AI 로봇 기업 아톰스 17억 달러 투자 유치",
+        "a16z 주도, 우버도 참여",
+        "산업용 AI로 세계 현대화 주장"
+      ],
+      "tags": [
+        "투자",
+        "로봇",
+        "Uber"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-23-09",
+      "top": false
+    },
+    {
+      "title": "Jack Dorsey, AI 에이전트 통합 오픈소스 워크스페이스 Buzz 출시",
+      "url": "https://news.hada.io/topic?id=31701",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-22T18:34:23.000Z",
+      "lines": [
+        "Slack·GitHub 대체 오픈소스 워크스페이스 Buzz 출시",
+        "AI 에이전트·팀 채팅·코드 저장소 통합",
+        "Nostr 기반 서명된 이벤트로 작업 추적"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-23-10",
+      "top": false
+    },
+    {
+      "title": "캐커스, Gemma 4에 신뢰도 점수 부가해 효율적 하이브리드 모델 구현",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T17:56:29.000Z",
+      "lines": [
+        "Gemma 4에 신뢰도 점수(0~1) 부여해 정확도 향상",
+        "신뢰도 낮을 때만 Gemini 3.1 Flash-Lite로 전환해 비용 절감",
+        "주요 벤치마크에서 15~55% 효율성 증명"
+      ],
+      "tags": [
+        "구글",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-23-11",
+      "top": false
+    },
+    {
+      "title": "삼성 구글 AI 스마트글라스 디자인 공개",
+      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-22T16:35:34.000Z",
+      "lines": [
+        "구글·삼성 AI 스마트글라스 2종 디자인 공개, 9시간 배터리",
+        "Gentle Monster·Warby Parker 협업, 올가을 출시 예정",
+        "개인정보 보호 논란은 메타와 동일한 문제 예상"
+      ],
+      "tags": [
+        "디자인",
+        "삼성",
+        "구글"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-23-12",
+      "top": false
+    },
+    {
+      "title": "크리스토퍼 놀란, AI 기술에 강력한 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213057",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-23T06:55:00.000Z",
+      "lines": [
+        "AI 기술이 인간 창의성에 위협이 될 수 있다고 경고",
+        "영화 제작 현장에서 AI의 과도한 사용에 우려 표시",
+        "예술적 가치를 유지하기 위한 논의 필요성 강조"
+      ],
+      "tags": [
+        "영화",
+        "창의성",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-23-13",
+      "top": false
+    },
+    {
+      "title": "미국 5대 기술기업, AI 투자로 숨은 부채 2,475조원 발생",
+      "url": "https://news.hada.io/topic?id=31702",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-22T19:33:31.000Z",
+      "lines": [
+        "미국 5대 기술기업의 숨은 부채가 4년 만에 8배 증가해 1.65조 달러에 달함",
+        "데이터센터 임대와 GPU 공급 계약에서 발생한 의무가 Meta와 Oracle 등의 부채를 키움",
+        "숨은 부채가 공개된 실제 부채보다 많아 재무제표에 미치는 영향이 우려됨"
+      ],
+      "tags": [
+        "AI",
+        "투자",
+        "인프라"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-23-14",
+      "top": false
+    },
+    {
+      "title": "오픈AI 인적 실수로 허깅페이스 AI 해킹 가능해져",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T19:11:46.000Z",
+      "lines": [
+        "오픈AI 고립된 테스트 환경 설정 중 실수",
+        "인적 오류로 허깅페이스 AI 해킹 발생",
+        "사이버보안 전문가 분석 결과 발표"
+      ],
+      "tags": [
+        "오픈소스",
+        "보안",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-23-15",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 시대에도 여행 계획은 인간만의 행복",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213026",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "lines": [
+        "AI 에이전트가 항공권·호텔·관광지까지 자동 예약하는 시대 도래",
+        "익스피디아 CEO '여행 계획 과정 자체를 즐기는 인간 특성' 강조",
+        "AI 효율성 vs 인간 경험 가치 간 균형이 핵심 과제"
+      ],
+      "tags": [
+        "에이전트",
+        "여행",
+        "인간"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-23-16",
+      "top": false
+    },
+    {
+      "title": "LiquidBrain 출시... 무제한 토큰·컨텍스트 고정가",
+      "url": "https://liquidbrain.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T20:59:57.000Z",
+      "lines": [
+        "무제한 토큰과 컨텍스트 지원하는 AI 서비스 출시",
+        "고정 가격제 적용으로 비용 예측 가능",
+        "HN에 소개되며 주목받는 신규 툴"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-23-17",
+      "top": false
+    },
+    {
+      "title": "The Daily FM: AI로 만드는 일일 팟캐스트 서비스",
+      "url": "https://thedaily.fm/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T20:50:40.000Z",
+      "lines": [
+        "AI 뉴스 등 다양한 소스를 자동으로 요약해 팟캐스트로 제공",
+        "블로그/웹사이트/X 계정/법률 변경사항 등 다양한 콘텐츠 지원",
+        "MAI-2 스튜디오 음성 사용, RSS 피드로 구독 가능"
+      ],
+      "tags": [
+        "음성",
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-23-18",
+      "top": false
+    },
+    {
+      "title": "테런스 타오, ChatGPT와 야코비안 추측 반례 논의",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T17:30:40.000Z",
+      "lines": [
+        "수학자 테런스 타오가 ChatGPT와 야코비안 추측 반례 탐구",
+        "ChatGPT의 수학적 논리 분석 능력 평가 주목",
+        "Hacker News에서 496점·299개 댓글 기록"
+      ],
+      "tags": [
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-23-19",
+      "top": false
+    },
+    {
+      "title": "AI 연구실의 과도한 확장 전략 논란",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T17:17:54.000Z",
+      "lines": [
+        "AI 연구실이 과도한 확장으로 인재 유치 경쟁 심화",
+        "Pelicanmaxxing 현상으로 연구 품질 저하 우려 제기",
+        "Hacker News에서 논란 확산 중"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-23-20",
+      "top": false
+    },
+    {
+      "title": "AI 모델 최적화 논란, '펠리컨맥싱' 증거 미발견",
+      "url": "https://news.hada.io/topic?id=31705",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-22T21:22:37.000Z",
+      "lines": [
+        "7개 프런티어 모델에서 1,008개 SVG 비교 결과 펠리컨맥싱 증거 없음",
+        "동물·탈것 조합 프롬프트 48개로 일관성 검증 진행",
+        "GPT-5.6 Luna로 동물·탈것·행동 일관성 분석"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-23-21",
+      "top": false
+    },
+    {
+      "title": "0MB VRAM으로 LLM 가이딩 가능한 오토그래드 프리 기술 공개",
+      "url": "https://github.com/PJHkorea/Continuous_Wave_Field_LLM_Brain",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T21:05:14.000Z",
+      "lines": [
+        "VRAM 사용 없이 LLM 가이딩 가능",
+        "오토그래드 없이 연속적 웨이브 필드 적용",
+        "코드 공개로 오픈소스 활용 가능성"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-23-22",
+      "top": false
+    },
+    {
+      "title": "Yope, 알고리즘·광고 없는 소셜망에 123억 투자 유치",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T18:13:58.000Z",
+      "lines": [
+        "친구·가족 중심 비공개 소셜앱 Yope가 123억 투자 유치",
+        "알고리즘·광고 없는 소셜 네트워크에 집중",
+        "AI 기능으로 현실적 관계를 강화하는 서비스"
+      ],
+      "tags": [
+        "소셜네트워크",
+        "AI",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-23-23",
+      "top": false
+    },
+    {
+      "title": "AI 생성물과 인간 작품 구분의 중요성",
+      "url": "https://news.hada.io/topic?id=31700",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-22T18:01:59.000Z",
+      "lines": [
+        "AI 생성물과 인간 작품을 구분하는 것이 독자에게 정확한 정보를 제공하는 수단",
+        "수제품·손그림 등 전통적으로 제작 방식을 밝혀온 사례와 유사",
+        "이용자가 외관만으로 판별하기 어렵다는 점에서 'No AI' 표시의 필요성 강조"
+      ],
+      "tags": [
+        "저작권",
+        "에이전트"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-23-24",
+      "top": false
+    },
+    {
+      "title": "Monday.com 20% 인원 감축, AI 플랫폼 집중",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T17:54:14.000Z",
+      "lines": [
+        "월요일닷컴 630명 감원",
+        "AI 워크 플랫폼에 집중",
+        "경영 효율화 모델 전환"
+      ],
+      "tags": [
+        "생산성",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-23-25",
+      "top": false
+    },
+    {
+      "title": "앤트로픽 경제지수 커넥터 출시",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-22T17:13:51.000Z",
+      "lines": [
+        "앤트로픽이 경제지수 분석을 위한 커넥터 출시",
+        "AI 모델과 경제 데이터 연동 가능",
+        "경제 분석 및 예측에 활용 가능"
+      ],
+      "tags": [
+        "Anthropic",
+        "AI",
+        "경제"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-23-26",
+      "top": false
+    },
+    {
+      "title": "Anthropic, 경제 미래 연구 펀드 로드맵 발표",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMldWaTVQMzdleERTR0FWVGR2eHIwY3lqQ3VwM2c5MnVlSS14WWFzSTlSQmJ0RG5ER3VSemFVaUYxVjg4NVE5Q2hqcko5cFgyTGtod2J5MFl6RmNoaGdfdld4aUxrR29IY3QxTDZJUXpTcjlRWXdV?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-22T17:13:46.000Z",
+      "lines": [
+        "AI 경제적 영향 연구를 위한 펀드 운영 계획 제시",
+        "장기적 경제 구조 변화 예측 및 대응 방안 탐구",
+        "인공지능과 노동시장 관계 심층 분석"
+      ],
+      "tags": [
+        "Anthropic",
+        "연구",
+        "경제"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-23-27",
+      "top": false
+    },
+    {
+      "title": "미국 오픈소스 AI 연구소, 중국 모델 위험성 부인",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T16:24:08.000Z",
+      "lines": [
+        "미국 Arcee 연구소, 중국 AI 모델 위험성 주장 반박",
+        "중국 모델 미국 기업 인기 증가로 논란 확대",
+        "AI 모델 경쟁력과 보안 문제 논쟁 지속"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "국제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-23-28",
+      "top": false
+    },
+    {
+      "title": "서브스택, AI 작성 뉴스레터 비율 공개 툴 출시",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-22T16:23:09.000Z",
+      "lines": [
+        "서브스택이 AI 작성 뉴스레터 비율 추정 툴을 출시했다",
+        "AI 보조 콘텐츠에 대한 투명성 강화 추세 반영",
+        "독자들에게 AI 사용량 확인 방법을 제공한다"
+      ],
+      "tags": [
+        "생산성",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-23-29",
+      "top": false
+    },
+    {
+      "title": "Unlayer로 앱에 이메일·문서 제작기능 추가",
+      "url": "https://unlayer.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-22T16:02:03.000Z",
+      "lines": [
+        "Unlayer는 앱에 이메일·웹페이지·문서 제작 기능을 추가하는 툴",
+        "코드·시각적·AI 3가지 방법으로 콘텐츠 제작 가능",
+        "CRM·마케팅툴 등 다양한 SaaS 제품에 적용 가능"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-23-30",
+      "top": false
+    },
+    {
+      "title": "프롬트랙, 로컬 메뉴바로 클로드 코드 사용량 추적",
+      "url": "https://promptrack.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T22:01:04.000Z",
+      "lines": [
+        "클로드 코드 사용량 실시간 모니터링 가능",
+        "로컬 메뉴바 앱으로 간편한 사용",
+        "오픈소스 기반 무료 서비스 제공"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-23-31",
+      "top": false
+    },
+    {
+      "title": "안드로이드 에뮬레이터 브라우저에서 스트리밍 가능",
+      "url": "https://github.com/hsandhu/serve-avd",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T21:30:29.000Z",
+      "lines": [
+        "안드로이드 에뮬레이터를 웹 브라우저로 스트리밍",
+        "Agent 툴과 연동해 로컬/원격 사용 지원",
+        "npx serve로 간편하게 호스팅 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-23-32",
+      "top": false
+    },
+    {
+      "title": "에이전트 행동 승인 및 팀 MCP 접근 관리 툴 출시",
+      "url": "https://gettrustloop.app",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T21:03:29.000Z",
+      "lines": [
+        "에이전트 행동에 대한 정책 기반 승인 시스템 구현",
+        "관리자 권한 부여 및 툴 통합 간편성 강조",
+        "실시간 대시보드와 간단한 코드 통합 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-23-33",
+      "top": false
+    },
+    {
+      "title": "클로라이트: 텔레그램에서 로컬 AI 어시스턴트",
+      "url": "https://github.com/forgesynapseltd/ClawLite",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T20:33:28.000Z",
+      "lines": [
+        "로컬 AI 어시스턴트를 텔레그램으로 제공하는 오픈소스 툴",
+        "개인 데이터 보안 강화와 오프라인 사용 가능",
+        "Github에서 오픈소스로 공개된 프로젝트"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-23-34",
+      "top": false
+    },
+    {
+      "title": "Netmon: AI로 분석한 LAN 모니터링 도구 출시",
+      "url": "https://github.com/Role1776/netmon",
+      "source": "Show HN",
+      "publishedAt": "2026-07-22T20:26:37.000Z",
+      "lines": [
+        "개인용 LAN 모니터링 도구 Netmon 출시",
+        "사설 서버에서 작동하며 AI로 분석 결과를 텔레그램에 전송",
+        "GitHub 오픈소스로 무료 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-23-35",
+      "top": false
+    },
+    {
+      "title": "광양만권, 동부권 지자체와 미래 산업 협력 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213059",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-22T18:20:00.000Z",
+      "lines": [
+        "구충곤 광양만권경자청장, 동부권 지자체장들과 회동해 미래 산업 투자유치 협력 논의",
+        "세풍산업단지 2단계 공영개발 사업 2030년 준공 목표로 3813억원 투자",
+        "황금산업단지·세풍산업단지·광양항 등 산업단지 내 첨단기업 유치 협력"
+      ],
+      "tags": [
+        "내국",
+        "투자",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-23-36",
+      "top": false
+    }
+  ]
+}
