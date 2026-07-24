@@ -1,0 +1,698 @@
+{
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-24T23:04:22.506Z",
+  "briefing": {
+    "highlight": "Claude Opus 5 출시",
+    "rest": "와 블랙 포레스트의 플럭스 3 등 차세대 AI 모델 2건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "Anthropic, Claude Opus 5 출시…프론티어급 성능",
+      "url": "https://news.hada.io/topic?id=31783",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T22:48:13.000Z",
+      "lines": [
+        "Claude Opus 5 출시…Fable 5 수준 지능 절반 가격 제공",
+        "프론티어 모델에 근접한 성능으로 경쟁력 강화",
+        "2026년 7월 24일 공식 공개"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-25-01",
+      "top": true
+    },
+    {
+      "title": "블랙 포레스트 랩스, 차세대 멀티모달 AI '플럭스 3' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213133",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-24T18:20:38.000Z",
+      "lines": [
+        "20초 영상과 오디오를 텍스트 한 줄로 생성 가능",
+        "로봇 제어와 피지컬 AI까지 하나의 모델로 구현",
+        "이미지·영상·오디오 통합 학습한 최초의 멀티모달 모델"
+      ],
+      "tags": [
+        "영상",
+        "음성",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-25-02",
+      "top": true
+    },
+    {
+      "title": "젠스파크 국내 진출, 1억달러 투자 예고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213146",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-24T18:04:03.000Z",
+      "lines": [
+        "AI 에이전트 전문 기업 젠스파크가 국내 시장 진출 선언",
+        "3년간 1억달러 투자 계획과 기업용 AI 워크스페이스 6.0 출시",
+        "한국을 최상위 시장으로 선정, 팀과 파트너십 확장 예고"
+      ],
+      "tags": [
+        "에이전트",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-25-03",
+      "top": true
+    },
+    {
+      "title": "클로드 오퍼스 5 출시, AI 성능 업그레이드",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-24T17:00:57.000Z",
+      "lines": [
+        "Anthropic의 최신 모델 'Claude Opus 5' 출시",
+        "성능 향상과 안정성 강화로 업계 주목",
+        "기존 모델 대비 정확도와 응답 속도 개선"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "업데이트"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-25-04",
+      "top": true
+    },
+    {
+      "title": "Anthropic, Opus 5 모델 출시...가격·제한 완화",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "lines": [
+        "Opus 5 모델이 Fable 대비 저렴하고 제한 사항이 적어 실용성 향상",
+        "대부분의 사용 사례에서 Fable보다 선호될 전망",
+        "Anthropic의 최신 모델로 AI 시장 경쟁력 강화"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-25-05",
+      "top": true
+    },
+    {
+      "title": "클로드 오퍼스 5 출시, 고성능 모델 공개",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-24T16:57:41.000Z",
+      "lines": [
+        "엔트로픽이 클로드 오퍼스 5 모델 출시",
+        "고성능 언어 모델로 업계 주목",
+        "시스템 카드 공개로 투명성 강화"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-25-06",
+      "top": false
+    },
+    {
+      "title": "키미 K3 논란, 증류 기술이 도둑질로 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213131",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-25T07:00:00.000Z",
+      "lines": [
+        "문샷 AI 키미 K3 모델이 앤트로픽의 페이블 5 증류 의혹",
+        "미국 정부와 기업들, 무단 기술 활용으로 제재 검토",
+        "중국 AI 견제 근거로 활용될 가능성 제기"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "국제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-25-07",
+      "top": false
+    },
+    {
+      "title": "클로드5 모델 컨텍스트 엔지니어링 최적화",
+      "url": "https://news.hada.io/topic?id=31782",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T22:46:42.000Z",
+      "lines": [
+        "클로드 오퍼스5와 패블5에서 시스템 프롬프트 80% 감소해도 코딩 성능 유지",
+        "과거 모델의 세부 규칙 충돌 문제 해소",
+        "최신 모델에 더 간결한 컨텍스트 엔지니어링 적용"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-25-08",
+      "top": false
+    },
+    {
+      "title": "OpenAI·Anthropic, 오픈 웨이트 AI에 공동 대응",
+      "url": "https://news.hada.io/topic?id=31781",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T22:34:05.000Z",
+      "lines": [
+        "OpenAI와 Anthropic이 오픈 웨이트 AI의 위험성을 경고하며 협력",
+        "Anthropic은 가중치 공개 후 안전장치 갱신·오용 방지가 어렵다고 지적",
+        "지지자들은 기업이 사용을 통제할 수 없다는 점을 강조"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "OpenAI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-25-09",
+      "top": false
+    },
+    {
+      "title": "프렌티스, AI로 일상적 컴퓨터 작업 자동화에 도전",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T22:25:58.000Z",
+      "lines": [
+        "리드 호프먼·마크 핀커스 공동 창업 AI 연구소 프렌티스",
+        "일상적 컴퓨터 작업 자동화가 코딩보다 큰 시장이 될 것으로 전망",
+        "1억 달러 규모 투자 유치 협상 중"
+      ],
+      "tags": [
+        "에이전트",
+        "투자",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-25-10",
+      "top": false
+    },
+    {
+      "title": "오픈소스 OCR 모델로 저렴한 문서 분석 서비스 공개",
+      "url": "https://www.openparser.dev/cheapest-ocr",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T20:41:09.000Z",
+      "lines": [
+        "PaddleOCR-VL-1.6 모델로 문서 파싱 성능 최상위 달성",
+        "GPU 최적화로 1,000페이지당 $1의 저렴한 비용 구현",
+        "기존 대비 4배 저렴하면서도 고품질 서비스 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "OCR",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-25-11",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 데스크톱 앱에 음성 제어 기능 도입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-24T18:50:18.000Z",
+      "lines": [
+        "GPT-라이브 음성 모델을 맥·윈도우용 챗GPT 데스크톱 앱에 통합",
+        "음성으로 코딩 에이전트 제어 가능해져 음성 코딩 시대 개막",
+        "2주 만에 업데이트 적용해 빠른 서비스 개선 보여"
+      ],
+      "tags": [
+        "음성",
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-25-12",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 클로드 음성 모드 업그레이드 발표",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-24T18:46:22.000Z",
+      "lines": [
+        "하이쿠·소네트·오퍼스 모델 전환 지원",
+        "지메일·슬랙·노션 등 업무 도구 연동",
+        "챗GPT와 차별화한 실무 활용성 강화"
+      ],
+      "tags": [
+        "음성",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-25-13",
+      "top": false
+    },
+    {
+      "title": "런웨이, 생성 미디어 최적화 '미디어 라우터' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213145",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-24T18:04:42.000Z",
+      "lines": [
+        "이미지·영상·음성 생성 모델 자동 선택 기능 제공",
+        "품질·속도·비용 고려해 최적 모델 추천",
+        "대형언어모델 분야의 모델 라우터와 유사한 서비스"
+      ],
+      "tags": [
+        "영상",
+        "이미지생성",
+        "음성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-25-14",
+      "top": false
+    },
+    {
+      "title": "구글과 웹의 계약 종료, AI 시대 새로운 도전",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:29:48.000Z",
+      "lines": [
+        "구글과 웹사이트 간 트래픽 교환 협력 관계 종결",
+        "Reddit 등 플랫폼이 AI 학습용 데이터 제공 거부",
+        "출판사들이 구글 크롤링 차단 고려"
+      ],
+      "tags": [
+        "구글",
+        "저작권",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-25-15",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 클로드 오퍼스 5 출시...파블 5 수준 성능",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "lines": [
+        "앤트로픽이 클로드 오퍼스 5 모델 출시",
+        "파블 5 수준 성능과 복잡한 코딩 능력 강화",
+        "정부 규제 이슈 이후 보안 강화된 모델"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-25-16",
+      "top": false
+    },
+    {
+      "title": "메타 AI, 에이전트 기능 추가로 경쟁력 강화",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T17:00:00.000Z",
+      "lines": [
+        "일정 관리·리서치 지원 등 생산성 기능 추가",
+        "Muse Spark 1.1 모델로 성능 향상",
+        "개인형 슈퍼인텔리전스 목표 발표"
+      ],
+      "tags": [
+        "에이전트",
+        "Meta",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-25-17",
+      "top": false
+    },
+    {
+      "title": "오픈AI의 해커 에이전트 논란에 회의적 시각",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-24T16:33:31.000Z",
+      "lines": [
+        "오픈AI의 해커 에이전트 관련 주장에 대한 의혹 제기",
+        "해커 뉴스 커뮤니티에서 논란 확산 중",
+        "보안 전문가들 사이에서도 회의적 반응"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "OpenAI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-25-18",
+      "top": false
+    },
+    {
+      "title": "Anthropic, 투자팀 전용 Claude 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBleUV6and5RDlsRC1LNHMzd2xPaVVqamtRMEFocE1DcVJTaGhEeFBxMzlTYTN0Rm5oMTV2TTcwd2RMbUE5d1psUFdpOFIxdXBFbFRrakdpSWFPbW5PdVlHMTNwVmNVT2Y1aGdkSGtR?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-24T15:00:00.000Z",
+      "lines": [
+        "투자 분석과 의사결정 지원 전용 Claude 서비스 출시",
+        "금융 데이터 분석과 리서치 자동화 기능 제공",
+        "기존 Claude 모델을 투자 분야에 특화"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-25-19",
+      "top": false
+    },
+    {
+      "title": "코그니션, Poke 인수…AI 성격이 경쟁력으로 부상",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T18:07:32.000Z",
+      "lines": [
+        "코그니션이 Poke 인수…대화 스타일과 상호작용 모델 적용",
+        "AI 에이전트의 사용자 상호작용 방식이 중요해지는 추세",
+        "코딩 에이전트 Devin에 Poke의 대화 방식 적용"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-25-20",
+      "top": false
+    },
+    {
+      "title": "미국 AI 규제 논의에 업계 경고",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:51:49.000Z",
+      "lines": [
+        "Nvidia·Mistral 등 AI 기업이 오픈소스 모델 제한 반대",
+        "중국 AI 대응 논의 중 모델 추출 기술 규제 우려",
+        "정책 결정에 산업 참여 강조"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "Nvidia"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-25-21",
+      "top": false
+    },
+    {
+      "title": "XYSQ AI - 자체 학습 컨텍스트 엔지니어링 플랫폼 출시",
+      "url": "https://xysq.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T20:06:07.000Z",
+      "lines": [
+        "XYSQ AI가 컨텍스트 엔지니어링 분야 최초의 자기 학습 플랫폼 출시",
+        "Hacker News에 소개되며 AI 개발자 커뮤니티 주목",
+        "기존 AI 시스템의 컨텍스트 이해 능력을 자동 개선하는 기술 적용"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-25-22",
+      "top": false
+    },
+    {
+      "title": "블루스카이 AI 어시스턴트, 오픈 소셜 리서치 툴로 확장",
+      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:13:57.000Z",
+      "lines": [
+        "Attie AI가 블루스카이 및 AT 프로토콜 앱의 뉴스·트렌드·대화 분석 지원",
+        "사용자가 다양한 소셜 플랫폼의 데이터를 AI로 검색·분석 가능",
+        "오픈 소셜 리서치 툴로 진화하며 데이터 활용성 강화"
+      ],
+      "tags": [
+        "AI",
+        "소셜미디어",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-25-23",
+      "top": false
+    },
+    {
+      "title": "AI 모델로 드론 조종 가능할까? 프로젝트 파일럿",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tMGRJdGNvVFVLMllZZUF4NFluMlNrekRxVnA0Z0F5UmJCVU9oZ3g1YnAwdWZWLUVyWDEtWUNfa255WkY0WGVkbjk5ay1HTlVSanpLd2hDUEdvZERZ?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-24T15:04:42.000Z",
+      "lines": [
+        "Anthropic이 AI 모델로 드론 조종 가능성 연구",
+        "Project Pilot로 AI 드론 조종 기술 개발 중",
+        "드론 자동비행 기술 발전 방향 제시"
+      ],
+      "tags": [
+        "에이전트",
+        "Anthropic"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-25-24",
+      "top": false
+    },
+    {
+      "title": "AI로 내 목소리 노래 제작 가능해져",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213148",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-25T06:55:00.000Z",
+      "lines": [
+        "음악 전문가 아닌 일반인도 AI로 내 목소리로 노래 제작 가능",
+        "AI타임스 조예주 기자 보도",
+        "AI 기술이 음악 제작 진입 장벽 낮추는 역할"
+      ],
+      "tags": [
+        "음성",
+        "AI타임스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-25-25",
+      "top": false
+    },
+    {
+      "title": "Fractal: Git 기반 코딩 에이전트 트리 구조 공개",
+      "url": "https://github.com/plasma-ai/fractal",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T21:59:49.000Z",
+      "lines": [
+        "Git 워크트리 기반 에이전트 트리 구조 공개",
+        "개별 노드별 Git 워크트리 관리 가능",
+        "플라즈마 AI팀 개발한 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "Git"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-25-26",
+      "top": false
+    },
+    {
+      "title": "Opus 5가 인공지능 리더보드 1위 등극",
+      "url": "https://artificialanalysis.ai/models",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-24T19:45:10.000Z",
+      "lines": [
+        "Opus 5가 Artificial Analysis 인공지능 리더보드에서 1위를 차지",
+        "Hacker News에서 28점, 14개의 댓글을 기록한 인기 기사",
+        "인공지능 모델 성능 평가에서 우수한 결과 보임"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-25-27",
+      "top": false
+    },
+    {
+      "title": "미드저니, AI 천문학 앱 '코스타' 인수",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-24T19:06:58.000Z",
+      "lines": [
+        "AI 이미지 생성기 미드저니가 천문학 앱 코스타 인수",
+        "코스타는 NASA 데이터와 AI로 개인화된 운세 제공",
+        "인수 조건은 공개되지 않음"
+      ],
+      "tags": [
+        "미드저니",
+        "AI",
+        "인수"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-25-28",
+      "top": false
+    },
+    {
+      "title": "ADHDev 1.0 공개 및 클라우드 서비스 계획 발표",
+      "url": "https://news.hada.io/topic?id=31773",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T15:43:04.000Z",
+      "lines": [
+        "AGPL 라이선스로 스탠드얼론 버전 공개",
+        "클라우드 버전으로 운영비 회수 계획",
+        "터미널 에이전트 관리 불편함 해결 목표"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "클라우드"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-25-29",
+      "top": false
+    },
+    {
+      "title": "Codeberg 이전 후유증: LLM 프로젝트 차단 논란",
+      "url": "https://news.hada.io/topic?id=31772",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T15:43:02.000Z",
+      "lines": [
+        "GitHub 대안 Codeberg로 이전한 개발자들, LLM 프로젝트 차단 정책에 실망",
+        "Codeberg는 LLM 프로젝트를 자원 과다 사용·저작권 문제 이유로 차단",
+        "비영리 플랫폼도 자유로운 개발 환경 구축에 한계"
+      ],
+      "tags": [
+        "오픈소스",
+        "LLM",
+        "GitHub"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-25-30",
+      "top": false
+    },
+    {
+      "title": "미드저니, 별점 앱 코스타 인수",
+      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-24T15:09:55.000Z",
+      "lines": [
+        "AI 이미지·영상 생성 전문 기업 미드저니가 별점 앱 코스타 인수",
+        "AI 연구 범위 확장 중인 미드저니의 새로운 도전",
+        "코스타는 개인화된 별점 분석으로 유명"
+      ],
+      "tags": [
+        "미드저니",
+        "인수"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-25-31",
+      "top": false
+    },
+    {
+      "title": "Kalytera, AI 에이전트 실패 원인 분석 도구 출시",
+      "url": "https://kalytera.dev",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T22:26:07.000Z",
+      "lines": [
+        "AI 에이전트 실패 원인 단계별 진단 가능",
+        "개발자용 디버깅 툴로 제공",
+        "Hacker News에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-07-25-32",
+      "top": false
+    },
+    {
+      "title": "크로스플랫폼 시리얼 터미널 'SerTerm' 출시",
+      "url": "https://github.com/eliachiarucci/SerTerm",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T21:28:44.000Z",
+      "lines": [
+        "인터랙티브/비인터랙티브 모드 지원하는 시리얼 통신 도구",
+        "7MB 경량 바이너리, 외부 의존성 없음",
+        "macOS/Linux/Windows 지원, 패키지 제공"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-25-33",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 결함 진단 툴 'Lotor' 공개",
+      "url": "https://github.com/githubscum/lotor",
+      "source": "Show HN",
+      "publishedAt": "2026-07-24T20:56:50.000Z",
+      "lines": [
+        "AI 에이전트 결함을 자동 진단하는 오픈소스 툴",
+        "GitHub에 공개된 Lotor 프로젝트",
+        "에이전트 개발자용 디버깅 보드 제공"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-25-34",
+      "top": false
+    },
+    {
+      "title": "오픈소스 AI 반대 논거의 한계 분석",
+      "url": "https://news.hada.io/topic?id=31779",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-24T19:45:45.000Z",
+      "lines": [
+        "오픈소스 AI를 위협으로 보는 주장은 설득력 부족",
+        "상용 AI도 오픈소스 기반으로 개발되는 현상",
+        "차별화된 상위 제품에서 경쟁이 핵심"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-25-35",
+      "top": false
+    }
+  ]
+}
