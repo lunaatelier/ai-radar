@@ -1,0 +1,426 @@
+{
+  "date": "2026-07-27",
+  "generatedAt": "2026-07-26T23:02:34.766Z",
+  "briefing": {
+    "highlight": "엔비디아 모델익스프레스",
+    "rest": "공개와 스타십 13차 시험비행 성공 등 AI·우주 분야 주요 소식 3건을 확인해 보세요."
+  },
+  "totalCollected": 21,
+  "items": [
+    {
+      "title": "엔비디아, LLM 배포 속도 8배 향상하는 '모델익스프레스' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213179",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T12:19:54.000Z",
+      "lines": [
+        "GPU 간 직접 전송 기술로 모델 가중치 이동 최적화",
+        "서버 대기 시간 8분→1분대로 단축하는 인프라",
+        "RL 사후학습 과정도 효율화 지원"
+      ],
+      "tags": [
+        "엔비디아",
+        "인프라",
+        "LLM"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-27-01",
+      "top": true
+    },
+    {
+      "title": "스타십 13차 시험비행 성공, V3 위성 성능 첫 검증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213184",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T11:47:31.000Z",
+      "lines": [
+        "기업공개 후 첫 스타십 시험비행 성공, 13차 시도",
+        "슈퍼 헤비 부스터와 우주선 분리 후 착수 성공",
+        "차세대 V3 위성 성능 검증에 첫 성공"
+      ],
+      "tags": [
+        "스페이스X",
+        "위성",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-27-02",
+      "top": true
+    },
+    {
+      "title": "AI 수학 연구로 인한 인간적 경험 위기",
+      "url": "https://news.hada.io/topic?id=31839",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T21:34:56.000Z",
+      "lines": [
+        "LLM이 수학적 추측 반례를 대량 생성하며 인간 연구자 역할 축소",
+        "수학적 숭고함과 신비 경험 통로 사라짐 우려 증가",
+        "인간이 평가·교육·감상만 담당한다는 위안도 연구자 고용 문제와 연결"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-27-03",
+      "top": true
+    },
+    {
+      "title": "Stripe, OpenRouter 인수 협상 시작",
+      "url": "https://news.hada.io/topic?id=31838",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T20:51:12.000Z",
+      "lines": [
+        "Stripe가 AI 모델 라우팅 스타트업 OpenRouter 인수 협상 중",
+        "플랫폼 차원에서 모델 선택·라우팅 기능 내장 추세 확산",
+        "결제·미디어·엔터프라이즈 플랫폼들이 모델 호출 기능 강화"
+      ],
+      "tags": [
+        "OpenAI",
+        "구글",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-27-04",
+      "top": true
+    },
+    {
+      "title": "중국 AI Kimi가 실리콘밸리·월스트리트를 뒤흔든 이유",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T19:40:57.000Z",
+      "lines": [
+        "미국 기술·금융계가 중국 AI 스타트업 무어샷의 Kimi에 경각심",
+        "Kimi의 성능과 시장 진출 가능성으로 우려 심화",
+        "중국 AI 기술 발전이 글로벌 AI 경쟁 구도에 변화 예고"
+      ],
+      "tags": [
+        "AI",
+        "중국",
+        "경쟁"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-27-05",
+      "top": true
+    },
+    {
+      "title": "허깅페이스 CEO, 오픈AI 해킹에 '극한의 투명성' 촉구",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T16:33:13.000Z",
+      "lines": [
+        "오픈AI 해킹 사건, AI 에이전트 자율 공격 첫 사례",
+        "허깅페이스 CEO, '역대급 대응' 필요성 강조",
+        "AI 보안 강화 논의 촉발"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-27-06",
+      "top": false
+    },
+    {
+      "title": "클로드5, 컨텍스트 엔지니어링 전략 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213178",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T16:30:23.000Z",
+      "lines": [
+        "AI 성능 향상 핵심이 프롬프트에서 컨텍스트 설계로 이동",
+        "과도한 규칙보다 모델의 자율적 판단 활용 권장",
+        "앤트로픽이 클로드5 계열 모델 전략 공개"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-27-07",
+      "top": false
+    },
+    {
+      "title": "ESP32-S3에서 2,890만 매개변수 LLM 구동 성공",
+      "url": "https://news.hada.io/topic?id=31832",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T15:32:54.000Z",
+      "lines": [
+        "8달러 마이크로컨트롤러에서 서버 없이 LLM 실행",
+        "초당 9토큰 속도로 텍스트 생성 가능",
+        "플래시 메모리 최적화로 2,500만 매개변수 저장"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-27-08",
+      "top": false
+    },
+    {
+      "title": "KAIST-엔비디아, 피지컬 AI 공동연구센터 설립",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213187",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T15:15:29.000Z",
+      "lines": [
+        "KAIST와 엔비디아가 피지컬 AI 공동연구 위한 NVAITC 설립",
+        "인간 중심 로봇 기술과 엔비디아 AI 기술 결합해 원천기술 확보",
+        "인간물리지능 테크놀로지 센터에서 웨어러블 로봇 연구 추진"
+      ],
+      "tags": [
+        "연구",
+        "로봇",
+        "엔비디아"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-27-09",
+      "top": false
+    },
+    {
+      "title": "애플-마이크론 중국 반도체 갈등에 트럼프 행정부 고심",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213182",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T12:02:36.000Z",
+      "lines": [
+        "애플은 중국산 메모리 사용으로 제품 가격 안정화 추구",
+        "마이크론은 국가 안보 위협 우려하며 강하게 반대",
+        "트럼프 행정부는 소비자 물가 안정과 반도체 산업 육성 사이에서 갈등"
+      ],
+      "tags": [
+        "반도체",
+        "중국",
+        "애플"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-27-10",
+      "top": false
+    },
+    {
+      "title": "안두릴, 146조원 투자 추진…록히드 마틴 추격",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213188",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T17:00:32.000Z",
+      "lines": [
+        "안두릴 기업가치 1000억달러 목표로 신규 자금 조달 추진",
+        "1년 전 평가액의 3배 규모로 610억달러 조달 후 2개월 만에 재추진",
+        "2단계 프로세스 구조로 투자자들과 초기 협상 중"
+      ],
+      "tags": [
+        "국내",
+        "투자",
+        "방산"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-27-11",
+      "top": false
+    },
+    {
+      "title": "AI 도입으로 인한 기술 기업 인원 감축 현황",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-26T01:30:00.000Z",
+      "lines": [
+        "Monday.com 등 20여 기술 기업이 AI 도입을 이유로 인원 감축",
+        "최근 1년간 AI 관련 인력 조정 사례 역순 정리",
+        "대형 기술 기업들의 AI 전환 전략에 따른 조직 구조 변화"
+      ],
+      "tags": [
+        "기업",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-27-12",
+      "top": false
+    },
+    {
+      "title": "Fly.io, Sprites로 핵심 사업 전환",
+      "url": "https://news.hada.io/topic?id=31835",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T18:43:01.000Z",
+      "lines": [
+        "Fly.io가 Docker 전 CEO를 영입하며 Sprites로 사업 전환",
+        "AI 맞춤형 소프트웨어 개발 플랫폼으로 진화",
+        "퍼블릭 클라우드와 개발자 편의성 강화"
+      ],
+      "tags": [
+        "인프라",
+        "클라우드",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-27-13",
+      "top": false
+    },
+    {
+      "title": "딥시크, 2차 투자 유치 중단…IPO 준비와 연구 집중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213180",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T15:28:03.000Z",
+      "lines": [
+        "수조원 규모 2차 투자 유치 중단, 미·중 AI 경쟁 발언 영향",
+        "IPO 준비와 장기적 AI 연구 개발에 집중할 계획",
+        "투자자들에게 계약 체결 보류 통보"
+      ],
+      "tags": [
+        "AI",
+        "투자",
+        "중국"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-27-14",
+      "top": false
+    },
+    {
+      "title": "AI 업계의 새로운 강자들: 집중과 실행력",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-26T13:13:03.000Z",
+      "lines": [
+        "AI 업계에서 성공하는 핵심은 집중과 실행력",
+        "신생 기업들이 기존 거대 기업을 위협하는 현상 분석",
+        "실용성 중심의 접근이 AI 발전의 새로운 동력"
+      ],
+      "tags": [
+        "AI",
+        "기업",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-27-15",
+      "top": false
+    },
+    {
+      "title": "telepty로 AI 에이전트 세션 원격 제어 가능",
+      "url": "https://news.hada.io/topic?id=31842",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T22:52:04.000Z",
+      "lines": [
+        "여러 머신에 흩어진 AI CLI 세션을 원격 제어",
+        "경량 컨트롤 플레인으로 에이전트 작업 효율화",
+        "추론은 각 에이전트에서 수행하며 세션 관리만 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-27-16",
+      "top": false
+    },
+    {
+      "title": "AI 채용 영향력, 과대광고 vs 현실 데이터",
+      "url": "https://news.hada.io/topic?id=31837",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T19:35:32.000Z",
+      "lines": [
+        "AI 노출도 높은 직종에 대규모 고용 감소는 확인되지 않음",
+        "신규 졸업자·젊은 사무직 채용 부진에 AI 영향 가능성",
+        "AI 노출 직군 실업률 상승률이 더 낮게 나타남"
+      ],
+      "tags": [
+        "채용",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-27-17",
+      "top": false
+    },
+    {
+      "title": "DeepSeek 자금 조달 중단, 미국과의 컴퓨팅 격차 발언 영향",
+      "url": "https://news.hada.io/topic?id=31833",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T18:37:01.000Z",
+      "lines": [
+        "DeepSeek의 자금 조달이 중단된 것으로 알려짐",
+        "미국과의 컴퓨팅 격차 관련 발언이 유출된 영향",
+        "녹취록 PDF를 통해 확인된 상황"
+      ],
+      "tags": [
+        "인프라",
+        "국내",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-27-18",
+      "top": false
+    },
+    {
+      "title": "SKT, 스타트업 3곳에 자체 AI 모델 API 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213185",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-26T12:03:30.000Z",
+      "lines": [
+        "SKT가 자체 파운데이션 모델 'A.X K1' API를 스타트업 3곳에 지원",
+        "2026년 모두의 챌린지 AX-LLM 사업의 일환으로 진행",
+        "팀리미티드·퍼셀리·데브올컴퍼니 등 선정"
+      ],
+      "tags": [
+        "국내",
+        "기업",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-27-19",
+      "top": false
+    },
+    {
+      "title": "멀티웨이 튜링 머신 연구 소개 (2021)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-26T20:49:43.000Z",
+      "lines": [
+        "튜링 머신의 확장 개념인 멀티웨이 머신 연구 논문",
+        "복잡계 시스템 분석에 활용 가능한 새로운 모델 제시",
+        "2021년 초기에 발표된 Wolfram Physics 프로젝트 일부"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-27-20",
+      "top": false
+    },
+    {
+      "title": "엄랭으로 구현한 틱택토 AI 소개",
+      "url": "https://news.hada.io/topic?id=31827",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-26T11:39:14.000Z",
+      "lines": [
+        "엄랭이라는 특이한 언어로 틱택토 AI 구현",
+        "반복문/함수 없이 단순한 구조 사용",
+        "정수 표현도 없는 독특한 특성"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 30,
+      "id": "2026-07-27-21",
+      "top": false
+    }
+  ]
+}
