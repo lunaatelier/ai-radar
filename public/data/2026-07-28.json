@@ -1,0 +1,712 @@
+{
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-27T23:06:42.108Z",
+  "briefing": {
+    "highlight": "AI 보안 모델 출시",
+    "rest": "와 중국 AI 경쟁 격화, 엔비디아 보안 연합 등 주요 뉴스를 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "마이크로소프트, 첫 AI 보안 모델과 에이전트 시스템 출시",
+      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T18:32:11.000Z",
+      "lines": [
+        "마이크로소프트가 AI 기반 보안 모델과 에이전트 시스템 출시",
+        "기존 보안 솔루션에 AI 기술을 접목해 강화",
+        "업계 첫 AI 전용 보안 모델로 주목"
+      ],
+      "tags": [
+        "에이전트",
+        "마이크로소프트",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-28-01",
+      "top": true
+    },
+    {
+      "title": "중국 AI 모델 무료 공개로 글로벌 경쟁 격화",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-27T16:51:50.000Z",
+      "lines": [
+        "중국 Moonshot AI의 Kimi K3 모델이 미국 AI 모델과 성능 경쟁력 보임",
+        "모델 가중치 무료 공개로 오픈소스 AI 경쟁 심화 전망",
+        "미국 AI 기업들의 폐쇄형 모델 지위 위협받을 수 있음"
+      ],
+      "tags": [
+        "오픈소스",
+        "중국",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-28-02",
+      "top": true
+    },
+    {
+      "title": "엔비디아 주축 개방형 AI 보안 연합 출범",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213231",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T06:33:39.000Z",
+      "lines": [
+        "엔비디아 주도로 40개사 참여한 AI 보안 연합 출범",
+        "개방형 기술 개발로 AI 취약점 선제 대응 강화",
+        "네이버·SKT 등 국내 기업도 참여한 글로벌 협력"
+      ],
+      "tags": [
+        "보안",
+        "엔비디아",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-28-03",
+      "top": true
+    },
+    {
+      "title": "나델라, 단일 AI 의존 기업은 생존 불가능하다고 경고",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T21:17:11.000Z",
+      "lines": [
+        "마이크로소프트 CEO 나델라, 단일 AI 모델에만 의존하는 기업은 위기에 처할 것",
+        "AI 게이트웨이 인프라 구축이 핵심 경쟁력으로 부상",
+        "자체 모델 보유 또는 AI 중개 계층 구축이 생존 전략"
+      ],
+      "tags": [
+        "인프라",
+        "기업",
+        "마이크로소프트"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-28-04",
+      "top": true
+    },
+    {
+      "title": "CXMT 상장 첫날 466% 폭등…중국 시총 1위 등극",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213229",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-27T18:05:12.000Z",
+      "lines": [
+        "창신메모리 상하이 상장 첫날 466% 급등하며 시가총액 1위",
+        "중국공상은행 제치고 3조3000억위안(716조7930억원) 달성",
+        "579억위안(12조4000억원) 규모 IPO로 반도체 시장 주목"
+      ],
+      "tags": [
+        "중국",
+        "반도체",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-07-28-05",
+      "top": true
+    },
+    {
+      "title": "OpenAI 허깅페이스 해킹, AI 제어 논쟁 재점화",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T17:28:42.000Z",
+      "lines": [
+        "OpenAI 허깅페이스 계정 해킹으로 AI 제어 논쟁 재점화",
+        "능력 향상된 AI에 대한 정렬 vs 격리 접근법 대립",
+        "보안 강화와 함께 AI 통제 방식 재검토 필요성 제기"
+      ],
+      "tags": [
+        "OpenAI",
+        "보안",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-28-06",
+      "top": false
+    },
+    {
+      "title": "마이크로소프트, MAI-Cyber-1-Flash 모델 공개",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-27T16:52:22.000Z",
+      "lines": [
+        "MAI-Cyber-1-Flash 모델은 MDASH 시스템에 통합되어 제공됨",
+        "Hacker News에서 204점, 107개의 댓글 기록",
+        "마이크로소프트 AI 뉴스 페이지에 공식 소개"
+      ],
+      "tags": [
+        "마이크로소프트",
+        "AI",
+        "모델"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-28-07",
+      "top": false
+    },
+    {
+      "title": "구글 AI 검색이 43% 검색에 적용되며 기본으로 자리잡아",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:57:12.000Z",
+      "lines": [
+        "구글 AI 오버뷰가 전체 검색 결과의 43%에 적용되며 기본 검색 방식으로 자리잡음",
+        "AI 생성 답변이 온라인 정보 탐색의 주류 방식으로 빠르게 확산 중"
+      ],
+      "tags": [
+        "구글",
+        "검색"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-28-08",
+      "top": false
+    },
+    {
+      "title": "마이크로소프트·엔비디아 등 오픈 AI 보안 동맹 출범",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-27T12:06:22.000Z",
+      "lines": [
+        "엔비디아·마이크로소프트 등 주력 기업이 오픈소스 AI 보안 도구 개발에 협력",
+        "오픈 AI 보안 동맹 설립은 최신 AI 모델로부터의 공격 방어를 목표로 함",
+        "오픈AI·구글·앤트로픽 등 주요 기업은 참여하지 않음"
+      ],
+      "tags": [
+        "보안",
+        "오픈소스",
+        "엔비디아"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-07-28-09",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 오픈 모델 정책 입장 발표",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVU84Xy1NRFVUV1l6QjNvVTl0QncwbVM0bnRpbmNvUFBNSHNaR3lmTlk0cWRHQ3hKVEZkNGNOVVNaMWFfXzVqTVgxeENSdGV0THY2SUF5VjdPS0h5SUZmTzhfdUgyOExsOG5V?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-27T22:05:11.000Z",
+      "lines": [
+        "오픈 가중치 모델에 대한 공식 입장 발표",
+        "안전성·윤리적 고려사항 강조",
+        "오픈소스 생태계 지원 방향 제시"
+      ],
+      "tags": [
+        "오픈소스",
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-28-10",
+      "top": false
+    },
+    {
+      "title": "클로드 공유 채팅과 아티팩트가 구글에 노출된 사안",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T20:19:42.000Z",
+      "lines": [
+        "클로드의 공유 채팅 기능으로 생성된 링크가 구글 검색에 노출됨",
+        "공유된 대화 내용과 프로젝트가 공개적으로 접근 가능해짐",
+        "사용자 프라이버시 보호를 위한 추가 조치가 필요해 보임"
+      ],
+      "tags": [
+        "Claude",
+        "구글",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-28-11",
+      "top": false
+    },
+    {
+      "title": "AI가 위협하는 '독창성'...혁신 이론가의 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213213",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-27T17:30:00.000Z",
+      "lines": [
+        "AI가 평균적인 답에 의존할수록 혁신적 아이디어가 사라질 수 있다는 지적",
+        "노스타랩 창립자 존 노스타가 AI가 독창적 사고를 밀어내고 있다고 경고",
+        "구글 헬스 자문위원이 세계보건기구와 함께 AI의 창의성 한계를 지적"
+      ],
+      "tags": [
+        "연구",
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-28-12",
+      "top": false
+    },
+    {
+      "title": "Anthropic 신규 AI 모델 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-27T05:06:29.000Z",
+      "lines": [
+        "Anthropic이 신규 AI 모델 출시",
+        "모델 세부사항은 공개되지 않음",
+        "기존 모델 대비 성능 향상 기대"
+      ],
+      "tags": [
+        "Anthropic",
+        "AI 모델"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-07-28-13",
+      "top": false
+    },
+    {
+      "title": "AI로 업무 영역 확장…직무 경계 재정의",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-07-27T03:30:00.000Z",
+      "lines": [
+        "ChatGPT 사용자 직무 영역 확장",
+        "역할 간 경계 모호화",
+        "OpenAI 연구 결과 발표"
+      ],
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-28-14",
+      "top": false
+    },
+    {
+      "title": "배경 제거 AI 모델 'FeyNoBg' 오픈소스 공개",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-27T16:59:08.000Z",
+      "lines": [
+        "Feyn이 배경 제거 AI 모델 FeyNoBg와 훈련 라이브러리 NoBg 오픈소스 공개",
+        "Hugging Face와 GitHub에서 모델과 라이브러리 무료 제공",
+        "다양한 테스트 이미지와 라이브 데모 영상 제공"
+      ],
+      "tags": [
+        "이미지생성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-28-15",
+      "top": false
+    },
+    {
+      "title": "Bun의 러스트 재구현 현황 분석",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-27T11:12:26.000Z",
+      "lines": [
+        "Bun 자바스크립트 런타임의 러스트 재구현 진행 상황 검토",
+        "성능 개선과 안정성 강화에 집중한 개발 과정 설명",
+        "커뮤니티 반응과 향후 로드맵에 대한 논의"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-28-16",
+      "top": false
+    },
+    {
+      "title": "Show GN: 브라우저 작업 자동 설명서 생성 AI 도구 출시",
+      "url": "https://news.hada.io/topic?id=31865",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-27T07:20:03.000Z",
+      "lines": [
+        "Chrome 확장 프로그램으로 브라우저 작업 기록을 사용자 설명서로 변환",
+        "DOM 맥락과 이벤트를 활용해 사람이 이해하기 쉬운 단계 구성",
+        "화면 녹화 방식과 차별화된 접근 방식 적용"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-28-17",
+      "top": false
+    },
+    {
+      "title": "Cloudflare, AI 트래픽 세분화 제어 기능 출시",
+      "url": "https://news.hada.io/topic?id=31857",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-27T01:12:32.000Z",
+      "lines": [
+        "고객별로 AI 트래픽을 검색·에이전트·학습으로 분류해 차단 가능",
+        "기존 일괄 차단보다 세밀한 정책 설정 지원",
+        "사이트 내 행동과 콘텐츠 용도를 기준으로 분류"
+      ],
+      "tags": [
+        "인프라",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-28-18",
+      "top": false
+    },
+    {
+      "title": "AI 챗봇이 대화 코치로 변신…젊은 세대 활용법",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213232",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "lines": [
+        "젊은 세대가 챗봇을 대화 파트너로 활용하는 사례 증가",
+        "데이트 메시지 작성·파티 대화 주제 추천 등 실생활 적용",
+        "WSJ 보고서에 따르면 젊은 층에서 두드러진 현상"
+      ],
+      "tags": [
+        "ChatGPT",
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-28-19",
+      "top": false
+    },
+    {
+      "title": "런웨이, 생성 미디어 시장 경쟁 심화에 대응",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213225",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T06:55:00.000Z",
+      "lines": [
+        "런웨이가 생성 미디어 시장 경쟁 심화에 대응 전략 수립 중",
+        "AI타임스 조예주 기자 보도",
+        "생성 미디어 시장 경쟁 심화로 인한 업계 변화 예상"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-28-20",
+      "top": false
+    },
+    {
+      "title": "Scout, 엔터프라이즈 플랫폼을 빠르게 이해하는 오픈소스 툴",
+      "url": "https://github.com/prabhuavula7/scout",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T20:56:14.000Z",
+      "lines": [
+        "OpenAPI 스펙과 문서 입력으로 플랫폼 구조와 엔티티 분석",
+        "로컬 실행 가능, 계정이나 호스팅 백엔드 필요 없음",
+        "MIT 라이선스, 코딩 에이전트 개발자 대상"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "API"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-28-21",
+      "top": false
+    },
+    {
+      "title": "메타 AI, 스레드 DM에 도입…1:1 채팅 가능",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T16:45:24.000Z",
+      "lines": [
+        "메타 AI 챗봇이 스레드 DM 서비스에 추가됨",
+        "사용자와 AI 간 1:1 채팅 기능 제공",
+        "메타의 AI 서비스 확장 전략의 일환"
+      ],
+      "tags": [
+        "ChatGPT",
+        "메타"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-28-22",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 코그니즌트와 협력 확대",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zRV9FTFpYXzJpNTZtMGE1ckUxZWJPS01XS2xkN3JXNXBFNkZIZ3VSSWtjMW9sWFBzU1dPVFNrT0ZBZEt3SHhrQldMX3lvdnliRlpmZ2x1VngtR3NyUndR?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-27T15:39:43.000Z",
+      "lines": [
+        "AI 솔루션 개발 및 고객 지원 강화",
+        "코그니즌트와 함께 시장 진출 가속화",
+        "클라우드 기반 AI 서비스 제공 확대"
+      ],
+      "tags": [
+        "Claude",
+        "업계협력"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-07-28-23",
+      "top": false
+    },
+    {
+      "title": "comux로 AI 코딩 에이전트 관리 효율화",
+      "url": "https://news.hada.io/topic?id=31859",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-27T03:17:24.000Z",
+      "lines": [
+        "tmux의 한계를 극복한 AI 코딩 에이전트 관리 도구",
+        "백그라운드 프로세스 모니터링과 사용량 제한 알림 기능",
+        "여러 세션 동시 운영 시 발생하는 문제 해결"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-28-24",
+      "top": false
+    },
+    {
+      "title": "FileForge Finder: AI 최적화 로컬 파일 검색 툴 출시",
+      "url": "https://news.ycombinator.com/item?id=49076401",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T22:38:50.000Z",
+      "lines": [
+        "로컬 파일 검색과 AI 챗봇 연동 지원",
+        "오프라인 작동 및 온디바이스 처리로 보안 강화",
+        "Windows 사용자 중심 최적화"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-07-28-25",
+      "top": false
+    },
+    {
+      "title": "2026 테크크런치 AI 인프라 세션 첫 공개",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:30:00.000Z",
+      "lines": [
+        "AI 인프라와 에너지 시스템 연동 주제",
+        "퓨전 기술부터 AI 전력 수요까지 다룸",
+        "경제 전반에 미치는 AI 영향 분석"
+      ],
+      "tags": [
+        "인프라",
+        "연구",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 55,
+      "id": "2026-07-28-26",
+      "top": false
+    },
+    {
+      "title": "에이전트 협업 플랫폼 'Aidress' 오픈소스 공개",
+      "url": "https://github.com/Aidress-ai/Aidress",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T22:35:19.000Z",
+      "lines": [
+        "에이전트 간 협업 지원하는 Aidress 오픈소스 출시",
+        "GitHub에 프로젝트 공개, 현재 3 포인트 획득",
+        "Hacker News에 소개되며 개발자 관심 모으는 중"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-28-27",
+      "top": false
+    },
+    {
+      "title": "데스크탑용 오디오-시각적 신경 자극 툴 출시",
+      "url": "https://go10am.com",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T20:55:20.000Z",
+      "lines": [
+        "10am은 데스크탑에서 오디오와 시각적 자극을 결합한 신경 자극 툴",
+        "신경과학적 접근으로 집중력 향상과 스트레스 완화 효과 목표",
+        "HN 커뮤니티에서 3개의 코멘트와 2포인트 획득"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-28-28",
+      "top": false
+    },
+    {
+      "title": "2026 Q2 AI SaaS 시장 동향 리포트 공개",
+      "url": "https://relvehq.com/ai-reports/2026-q2-the-state-of-ai-for-saas-companies-fullview",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T20:36:54.000Z",
+      "lines": [
+        "RelveHQ에서 2026년 Q2 AI SaaS 시장 현황 분석 리포트 발표",
+        "SaaS 기업의 AI 적용 현황과 주요 트렌드 종합 정리",
+        "Hacker News에서 공유되며 업계 관심 집중"
+      ],
+      "tags": [
+        "연구",
+        "SaaS"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-28-29",
+      "top": false
+    },
+    {
+      "title": "오프라인 전용 안드로이드 금융 관리 앱 'Nexmy' 출시",
+      "url": "https://nexmy.app/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-27T20:20:53.000Z",
+      "lines": [
+        "로컬 AI 기반 오프라인 금융 트래커",
+        "안드로이드 전용 서비스",
+        "개인 금융 관리에 특화"
+      ],
+      "tags": [
+        "생산성",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-28-30",
+      "top": false
+    },
+    {
+      "title": "한전KDN, 2026 빛가람 AI·ICT 경진대회 개최",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213230",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-27T18:25:00.000Z",
+      "lines": [
+        "산학연계 ESG 활동과 에너지ICT 인재 발굴 목적으로 개최",
+        "기존 SW 경진대회를 AI·ICT로 확장해 미래 인재 양성",
+        "AI·IoT·빅데이터 등 최신 기술 활용 작품 공모"
+      ],
+      "tags": [
+        "국내",
+        "에이전트",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-28-31",
+      "top": false
+    },
+    {
+      "title": "순천 동천야광축제 8월 개막, AI 생성 영상 활용",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213218",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-27T17:50:00.000Z",
+      "lines": [
+        "8월1~15일 동천에서 야광축제 개최, 야간 활동 프로그램 운영",
+        "주제 '빛의 캔버스'로 조형물·포토존 설치, AI 생성 영상 활용",
+        "개막식 8월1일 오후7시, LED 미디어 퍼포먼스 포함"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-07-28-32",
+      "top": false
+    },
+    {
+      "title": "NFC 키로 앱 잠금 해제하는 $9 제품 출시",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-27T15:25:37.000Z",
+      "lines": [
+        "NFC 키를 스캔해야 앱 사용 가능",
+        "분산 집중력 유지 도구",
+        "$9 가격으로 저렴한 솔루션"
+      ],
+      "tags": [
+        "생산성",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-28-33",
+      "top": false
+    },
+    {
+      "title": "에이전트 관리 실패 사례: 줄인 이유 기록 안 해 후회",
+      "url": "https://news.hada.io/topic?id=31873",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-27T08:47:41.000Z",
+      "lines": [
+        "Claude Code로 프로젝트 관리 중 에이전트 22개에서 17개로 줄임",
+        "접기 전 이유를 기록하지 않아 3개월 후 아카이브 확인 시 혼란",
+        "에이전트 관리 시 접기 전 기록의 중요성 강조"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-07-28-34",
+      "top": false
+    },
+    {
+      "title": "코드로 사주 판정·LLM으로 풀이하는 '방울당' 서비스",
+      "url": "https://news.hada.io/topic?id=31869",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-27T08:18:41.000Z",
+      "lines": [
+        "사주 리포트 서비스 '방울당' 출시",
+        "만세력 계산·오행·용신 판정은 코드로 처리",
+        "서술 부분은 LLM이 생성"
+      ],
+      "tags": [
+        "국내",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-28-35",
+      "top": false
+    },
+    {
+      "title": "광양시 폭염 속 물놀이터 안전 점검",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213220",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-27T17:45:00.000Z",
+      "lines": [
+        "백운제 테마공원과 마동근린공원 물놀이터 안전 관리 현장 점검",
+        "수질·안전요원 배치·그늘막 설치 등 종합 점검 진행",
+        "시민과 보호자 의견 수렴과 온열질환 예방 대책 확인"
+      ],
+      "tags": [
+        "국내",
+        "안전"
+      ],
+      "cat": "issue",
+      "importance": 40,
+      "id": "2026-07-28-36",
+      "top": false
+    }
+  ]
+}
