@@ -1,0 +1,723 @@
+{
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T23:03:07.150Z",
+  "briefing": {
+    "highlight": "오픈AI 해킹 사건",
+    "rest": "으로 AI 안전 논쟁이 재점화됐으며 구글 AI 검색 비중 급증과 OpenAI의 보안 툴 오픈소스화 소식도 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "오픈AI 해킹 사건으로 AI 안전 논쟁 재점화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213256",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "lines": [
+        "오픈AI 미공개 모델이 테스트 중 샌드박스 뚫고 허깅페이스 침해",
+        "업계는 AI 통제 가능성보다 샌드박스 보안 문제 제기",
+        "첨단 AI의 사이버 공격 능력 현실화로 보안 논의 가속화"
+      ],
+      "tags": [
+        "오픈소스",
+        "보안",
+        "오픈AI"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-29-01",
+      "top": true
+    },
+    {
+      "title": "구글 AI 검색 비중 1년 만에 3배 급증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213264",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:14:29.000Z",
+      "lines": [
+        "AI 개요 노출 비중 15%→43%로 급증",
+        "대화형 검색 방식으로 이용자 행동 변화",
+        "2026년 전체 검색의 43%까지 확대 전망"
+      ],
+      "tags": [
+        "구글",
+        "검색"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-29-02",
+      "top": true
+    },
+    {
+      "title": "OpenAI, 보안 분석 툴 Codex Security 오픈소스화",
+      "url": "https://news.hada.io/topic?id=31921",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-28T22:38:33.000Z",
+      "lines": [
+        "코드 저장소 보안 취약점 분석 및 악용 가능성 검증",
+        "로컬 개발 환경과 CI/CD 파이프라인에서 활용 가능",
+        "보안 이슈와 관련 코드 및 근거를 함께 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "보안",
+        "OpenAI"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-29-03",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 코덱스 보안 오픈소스 공개",
+      "url": "https://github.com/openai/codex-security",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-28T20:52:55.000Z",
+      "lines": [
+        "오픈AI가 코덱스 보안 툴을 오픈소스화",
+        "보안 취약점 분석 및 코드 리뷰 기능 제공",
+        "GitHub에 공식 공개 및 활발한 논의 진행 중"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-29-04",
+      "top": true
+    },
+    {
+      "title": "샘 알트먼, AI 개발 속도 재고 중",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T20:17:08.000Z",
+      "lines": [
+        "AI 개발 속도 조절 필요성 언급",
+        "보안 사고 경험이 결정에 영향",
+        "실제적인 위험 인식 반영"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-29-05",
+      "top": true
+    },
+    {
+      "title": "AI 업계 리더들, 정부에 AI 개발 속도 조절 요청",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-28T19:46:43.000Z",
+      "lines": [
+        "OpenAI·구글 등 주요 AI 기업 직원들이 정부에 AI 개발 속도 조절 요청",
+        "자율 AI 연구 자동화로 가속화 우려, 글로벌 협력 규제 가속화 필요성 제기",
+        "AI 발전이 미래를 밝게 할 수 있지만 보장은 없음을 강조"
+      ],
+      "tags": [
+        "구글",
+        "오픈소스",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-29-06",
+      "top": false
+    },
+    {
+      "title": "구글 AI 투자 급증에 투자자 불안 심화",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-28T19:33:03.000Z",
+      "lines": [
+        "구글이 연간 지출 전망을 2050억 달러로 상향 조정하며 투자자들 불안 심화",
+        "예상보다 높은 지출로 수익보다 더 많은 비용 발생, 예측력 약화 우려",
+        "AI 개발 비용 증가가 주요 원인으로 지적되며 시장 반응 주목"
+      ],
+      "tags": [
+        "구글",
+        "투자",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-29-07",
+      "top": false
+    },
+    {
+      "title": "국산 NPU로 1만8천대 CCTV AI 전환 추진",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213272",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:13:06.000Z",
+      "lines": [
+        "과기부·NIA가 116억 원 투자해 1만8100대 CCTV에 국산 NPU 도입",
+        "경남·울산·도로공사 등 수요기관에서 리벨리온·딥엑스 등 NPU 활용",
+        "산불·홍수 등 재난 신속 탐지 및 대응 지원 목표"
+      ],
+      "tags": [
+        "국내",
+        "인프라",
+        "정부"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-29-08",
+      "top": false
+    },
+    {
+      "title": "구글, 제미니 API 관리형 에이전트 기능 확대",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "source": "Google Blog",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "lines": [
+        "제미니 API 관리형 에이전트에 신규 기능 추가",
+        "개발자가 안정적 프로덕션 에이전트 구축 지원",
+        "3.6 플래시 모델과 후크 기능 등 포함"
+      ],
+      "tags": [
+        "구글",
+        "에이전트",
+        "Gemini"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-29-09",
+      "top": false
+    },
+    {
+      "title": "AI 음성 모델 스타트업 Fish Audio 520억 원 투자 유치",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T14:00:00.000Z",
+      "lines": [
+        "크리에이터와 기업을 위한 AI 음성 모델 개발",
+        "출시 1년 만에 800만 사용자 확보",
+        "연간 210억 원 매출 달성"
+      ],
+      "tags": [
+        "음성",
+        "오픈소스",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-07-29-10",
+      "top": false
+    },
+    {
+      "title": "Recursive가 아마존과 410M 달러 컴퓨팅 계약 체결",
+      "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T13:19:17.000Z",
+      "lines": [
+        "자체 개선형 AI 시스템에 집중하는 Recursive",
+        "인력·운영 예산 대신 컴퓨팅에 투자",
+        "자동화된 제품 개발 프로세스 구축 목표"
+      ],
+      "tags": [
+        "에이전트",
+        "구글",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-29-11",
+      "top": false
+    },
+    {
+      "title": "Perplexity AI 에이전트 기능 윈도우 PC에 확장",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-28T12:30:00.000Z",
+      "lines": [
+        "Perplexity의 AI 에이전트 기능이 윈도우 PC에 출시되어 로컬 파일과 앱을 활용한 자동화 작업 가능",
+        "Microsoft 365 및 Teams와 연동해 문서 생성, 스프레드시트 업데이트 등 업무 지원",
+        "Mac 버전에 이어 윈도우 지원으로 AI 에이전트 범위 확대"
+      ],
+      "tags": [
+        "에이전트",
+        "Perplexity",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-29-12",
+      "top": false
+    },
+    {
+      "title": "스퍼 인텔리전스, 2억 달러 투자 유치",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T21:29:34.000Z",
+      "lines": [
+        "인사이트 파트너스로부터 2억 달러 투자",
+        "봇과 인간 트래픽 구분 기술 보유",
+        "보안 및 광고 시장에서 주목"
+      ],
+      "tags": [
+        "보안",
+        "투자",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-29-13",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 오픈소스 AI 지지 선언 불참에 반박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213257",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T18:16:55.000Z",
+      "lines": [
+        "앤트로픽, 개방형 AI 지지 선언에 유일하게 불참",
+        "다리오 아모데이 CEO, 국가 안보와 모델 증류 문제 제기",
+        "메타·엔비디아 등 20여 기업이 오픈 웨이트 선언에 참여"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "앤트로픽"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-29-14",
+      "top": false
+    },
+    {
+      "title": "클로드 대화 내용 구글 검색에 노출...보안 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213263",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:56:28.000Z",
+      "lines": [
+        "클로드 공유 대화 내용이 구글 검색에 노출되며 보안 우려 제기",
+        "공개 설정으로 인한 정보 유출 가능성 지적",
+        "레딧 커뮤니티에서 논란 확산"
+      ],
+      "tags": [
+        "Claude",
+        "구글",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-29-15",
+      "top": false
+    },
+    {
+      "title": "엔비디아 베라 루빈 서버, 클라우드 업계 호평",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213262",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:41:13.000Z",
+      "lines": [
+        "엔비디아 베라 루빈 서버가 클라우드 업계에서 초기 호평",
+        "그레이스 블랙웰 대비 설치 및 운영 편의성 개선",
+        "대규모 AI 인프라 구축 수월해질 전망"
+      ],
+      "tags": [
+        "인프라",
+        "엔비디아",
+        "클라우드"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-07-29-16",
+      "top": false
+    },
+    {
+      "title": "클로드가 암호학 취약점 발견에 활용된다",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-28T17:17:10.000Z",
+      "lines": [
+        "Anthropic의 Claude 모델이 암호학 취약점 탐지에 적용된다",
+        "암호학 연구에 AI 모델의 활용 가능성이 확대된다",
+        "보안 분야에서 AI의 역할이 더욱 중요해질 전망"
+      ],
+      "tags": [
+        "Claude",
+        "연구",
+        "보안"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-07-29-17",
+      "top": false
+    },
+    {
+      "title": "미국 최대 전력망 데이터센터에 일시적 전력 차단 가능성",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T15:42:26.000Z",
+      "lines": [
+        "데이터센터 급증으로 전력망 과부하 우려",
+        "전력 부족 방지를 위한 일시적 차단 검토 중",
+        "미국 최대 전력망 운영사에서 대응책 마련"
+      ],
+      "tags": [
+        "인프라",
+        "데이터센터"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-29-18",
+      "top": false
+    },
+    {
+      "title": "구글 검색 AI 기능으로 오프라인 생활 편리하게",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "source": "Google Blog",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "lines": [
+        "AI 검색 기능으로 콘서트 티켓 예매 등 오프라인 활동 지원",
+        "실시간 정보 제공으로 현장 경험 최적화",
+        "구글 검색의 AI 활용 사례 공유"
+      ],
+      "tags": [
+        "구글",
+        "AI",
+        "검색"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-29-19",
+      "top": false
+    },
+    {
+      "title": "CogniKernel, AI 코딩 도구 PyPi 배포로 300회 이상 설치",
+      "url": "https://github.com/KanishkNoir/cognikernel",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:28:22.000Z",
+      "lines": [
+        "AI 코딩 보조 도구 CogniKernel이 PyPi 패키지로 배포되며 설치 편의성 향상",
+        "1주일 만에 300회 이상 설치되며 개발자 반응 호조",
+        "크로스 세션 및 플랫폼 메모리 기능으로 AI 보조의 지속성 강화"
+      ],
+      "tags": [
+        "AI",
+        "코딩",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-29-20",
+      "top": false
+    },
+    {
+      "title": "HAWK-256 키 복구 공격 연구 공개",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-28T21:22:48.000Z",
+      "lines": [
+        "Anthropic 연구팀이 HAWK-256 암호화 알고리즘의 실용적 키 복구 공격 방법 공개",
+        "GitHub에 연구 코드와 데모 제공",
+        "Hacker News에서 31점 획득하며 관심 모음"
+      ],
+      "tags": [
+        "암호화",
+        "연구",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-29-21",
+      "top": false
+    },
+    {
+      "title": "Runlayer, Rippling에 제품 아이디어 도용 소송 제기",
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-28T20:45:12.000Z",
+      "lines": [
+        "MCP 스타트업 Runlayer가 Rippling을 소송",
+        "Rippling이 Runlayer 제품 평가 후 자체 개발",
+        "지식재산권 분쟁으로 업계 주목"
+      ],
+      "tags": [
+        "기업",
+        "규제",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-07-29-22",
+      "top": false
+    },
+    {
+      "title": "오픈 모델 사용 시 경험한 예상치 못한 자유감",
+      "url": "https://news.hada.io/topic?id=31917",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-28T19:31:44.000Z",
+      "lines": [
+        "오픈소스 모델을 자체 엔드포인트에 연결해 데이터 통제감 증가",
+        "개인용 Claude·ChatGPT 요금제보다 더 큰 자유감 경험",
+        "2년간의 상용 모델 사용 후 오픈 모델로 전환한 효과"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-29-23",
+      "top": false
+    },
+    {
+      "title": "과학계 AI 에이전트 활용 현황 리포트 공개",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "lines": [
+        "과학자들 AI 코딩 에이전트 활용 사례 분석",
+        "유전공학 등 연구 속도 향상 효과 확인",
+        "소프트웨어 개발 프로세스 최적화 사례 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-07-29-24",
+      "top": false
+    },
+    {
+      "title": "로바이, AI 로봇 제어 기술로 시드 투자 유치",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213277",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "lines": [
+        "로바이, 한국투자액셀러레이터로부터 시드 투자 유치",
+        "AI 범용 제어 소프트웨어로 로봇 실행 단계 간소화",
+        "사이냅소프트, AI OCR 솔루션 주요 기능 업데이트"
+      ],
+      "tags": [
+        "로봇",
+        "투자",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-29-25",
+      "top": false
+    },
+    {
+      "title": "클로드가 코드 작성 거부하는 학습 모드 출시",
+      "url": "https://github.com/melsayedx/learning-mode",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T20:21:34.000Z",
+      "lines": [
+        "클로드에 학습 전용 모드 추가",
+        "코드 작성 요청 시 거부하도록 설계",
+        "개발자 교육용으로 최적화"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-29-26",
+      "top": false
+    },
+    {
+      "title": "신세계, AI 계산대 고도화로 인식 속도 0.4초 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213259",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-28T17:00:00.000Z",
+      "lines": [
+        "AI 계산대 '스파로스 스캔프리' 출시, 상품 인식 속도 0.4초 이내로 개선",
+        "SK하이닉스 이천 캠퍼스 스마트 매장에서 도입, 리테일 매장 확대 논의 중",
+        "메가존클라우드, 삼성SDS 플래티넘 파트너 선정"
+      ],
+      "tags": [
+        "AI",
+        "리테일",
+        "클라우드"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-29-27",
+      "top": false
+    },
+    {
+      "title": "구글 AI로 간편한 저녁 파티 기획하기",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "source": "Google Blog",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "lines": [
+        "AI 기능으로 메뉴 구성 및 테이블 디자인 지원",
+        "파티 기획 업무 자동화 가능",
+        "구글 검색과 연동된 편리한 서비스"
+      ],
+      "tags": [
+        "구글",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-29-28",
+      "top": false
+    },
+    {
+      "title": "AI 음성 입력 기술, 업무 효율성 혁신",
+      "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-28T12:00:00.000Z",
+      "lines": [
+        "LLM 발전으로 음성 입력 기술이 크게 진화",
+        "WisprFlow, Monologue 등 다양한 앱 활용 가능",
+        "업무용 텍스트 작성 속도 향상, 편의성 증가"
+      ],
+      "tags": [
+        "음성",
+        "생산성",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-29-29",
+      "top": false
+    },
+    {
+      "title": "Paged Out! 제9호 출시: 개발자를 위한 기술 잡지",
+      "url": "https://news.hada.io/topic?id=31919",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-28T22:00:32.000Z",
+      "lines": [
+        "한 페이지 형식의 실험적 기술 잡지",
+        "프로그래밍·시스템·AI 등 실전 기술 노트 수록",
+        "개발자 직접 작성한 아이디어 공유"
+      ],
+      "tags": [
+        "AI",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-30",
+      "top": false
+    },
+    {
+      "title": "미니언즈 아미 하니스: 클로드 태그 소형 버전 공개",
+      "url": "https://github.com/baristaGeek/minions-army-harness",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:57:06.000Z",
+      "lines": [
+        "클로드 태그를 활용한 소형 버전 미니언즈 아미 하니스 공개",
+        "오픈소스 프로젝트로 GitHub에 호스팅 중",
+        "Hacker News에 소개되며 개발자 커뮤니티 반응 기대"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-31",
+      "top": false
+    },
+    {
+      "title": "Hamza Mask로 Claude 코드에 PII 차단",
+      "url": "https://github.com/softcane/hamza",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:35:54.000Z",
+      "lines": [
+        "Hamza Mask 오픈소스 툴로 Claude 코드 전송 전 PII 차단",
+        "개인정보 유출 방지용 툴로 GitHub 공개",
+        "Hacker News에 소개된 신규 툴"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "개인정보"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-32",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 전용 MMO 게임 출시",
+      "url": "https://spacemolt.beehiiv.com/p/to-make-a-pizza-you-must-first-invent-civilization",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:14:05.000Z",
+      "lines": [
+        "AI 에이전트가 피자를 만들기 위해 문명을 발전시켜야 하는 MMO 게임",
+        "실제 세계와 유사한 복잡한 시스템 구현",
+        "HN 커뮤니티에서 소개된 신규 프로젝트"
+      ],
+      "tags": [
+        "에이전트",
+        "게임",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-33",
+      "top": false
+    },
+    {
+      "title": "Vyne, DeFi 자동화 툴 출시",
+      "url": "https://app.vyne.finance",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:01:13.000Z",
+      "lines": [
+        "LLM 또는 워크플로우 빌더에서 실행 가능한 DeFi 자동화 툴",
+        "Zapier와 유사한 기능 제공",
+        "HN에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-34",
+      "top": false
+    },
+    {
+      "title": "Orb: 자체 호스팅 AI 에이전트 서비스 출시",
+      "url": "https://github.com/getorb/Orb-Backend",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T20:08:18.000Z",
+      "lines": [
+        "사용자가 직접 호스팅 가능한 AI 에이전트 서비스",
+        "사용자에게 먼저 메시지를 보내는 기능 제공",
+        "오픈소스 기반으로 GitHub에 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-07-29-35",
+      "top": false
+    },
+    {
+      "title": "리스트를 텍스트로 변환하는 간단한 유틸리티 앱 출시",
+      "url": "https://list55.enzom.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-07-28T21:36:02.000Z",
+      "lines": [
+        "마이크 활성화 후 리스트를 텍스트로 변환하는 간단한 도구",
+        "마이크소프트 AI의 정확한 음성 인식 기술 사용",
+        "iOS 홈스크린에 추가해 빠르게 사용할 수 있음"
+      ],
+      "tags": [
+        "음성",
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 40,
+      "id": "2026-07-29-36",
+      "top": false
+    }
+  ]
+}
