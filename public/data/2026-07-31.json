@@ -1,0 +1,718 @@
+{
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-30T23:11:07.619Z",
+  "briefing": {
+    "highlight": "AI 특이점 진입 선언",
+    "rest": "과 오픈AI 음성 AI, GPT-5.6 출시, 구글 로봇 AI 등 주요 동향을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "오픈AI, 음성 AI로 인간 중심 시대 열기",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213333",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "lines": [
+        "오픈AI가 기업용 AI 경쟁에서 성과 내며 소비자 체감 변화는 적음",
+        "그렉 브록먼 사장이 음성 AI를 핵심 전략으로 제시",
+        "인간이 컴퓨터에 적응하는 시대를 끝내고 컴퓨터가 인간에 맞춘다"
+      ],
+      "tags": [
+        "오픈소스",
+        "오픈AI",
+        "음성"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-31-01",
+      "top": true
+    },
+    {
+      "title": "AI 특이점 진입 선언…챗GPT 개발자 인터뷰",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213368",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-31T06:55:00.000Z",
+      "lines": [
+        "AI 특이점 이미 시작된 상태라고 챗GPT 개발자 주장",
+        "인공지능이 인간 수준을 넘어서는 시점 도래",
+        "AI 발전 속도에 대한 경고와 함께 미래 전망 제시"
+      ],
+      "tags": [
+        "ChatGPT",
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-07-31-02",
+      "top": true
+    },
+    {
+      "title": "GPT-5.6 출시로 기업용 AI 가격·성능 최적화",
+      "url": "https://news.hada.io/topic?id=31998",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-30T20:34:19.000Z",
+      "lines": [
+        "OpenAI GPT-5.6 모델로 모델·추론 시스템·에이전트 효율성 향상",
+        "Luna 가격 80%·Terra 20% 인하로 달러당 성능 극대화",
+        "API 100만 토큰당 Luna 입력 $0.20·출력 $1.20 적용"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-31-03",
+      "top": true
+    },
+    {
+      "title": "구글, 로봇 전신 제어 AI 'Gemini Robotics 2' 공개",
+      "url": "https://news.hada.io/topic?id=31997",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-30T19:33:03.000Z",
+      "lines": [
+        "휴머노이드 로봇 전신 제어 가능",
+        "정교한 조작과 협업 기능 지원",
+        "장기 작업 계획·감독 기능 추가"
+      ],
+      "tags": [
+        "구글",
+        "로봇",
+        "Gemini"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-31-04",
+      "top": true
+    },
+    {
+      "title": "릴리안 웽, 오픈AI 복귀해 재귀적 자기개선 연구 총괄",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213347",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-30T18:21:46.000Z",
+      "lines": [
+        "싱킹 머신즈 창립자 릴리안 웽이 건강 문제로 퇴사 후 오픈AI로 복귀",
+        "재귀적 자기개선 연구를 총괄해 AI 모델의 자율적 성능 향상 주도",
+        "오픈AI 연구 조직에서 팀 리더로 재직하며 차세대 AI 개발 주도"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "오픈AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-31-05",
+      "top": true
+    },
+    {
+      "title": "구글 딥마인드, 로봇 전체 제어 가능 AI 모델 출시",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-30T17:18:45.000Z",
+      "lines": [
+        "Gemini Robotics 2 모델로 로봇 전신 제어 가능",
+        "이전 모델 대비 발부터 손가락까지 전체 움직임 지원",
+        "물건 주워올리기 등 다양한 동작 수행 가능"
+      ],
+      "tags": [
+        "구글",
+        "로봇",
+        "Gemini"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-31-06",
+      "top": false
+    },
+    {
+      "title": "오픈AI, GPT-5.6 출시로 가격 대비 성능 향상",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T17:15:51.000Z",
+      "lines": [
+        "GPT-5.6 모델 출시로 가격 대비 성능 최적화",
+        "Hacker News에서 449점·283개 댓글 기록",
+        "오픈AI 공식 블로그에 모델 개선 내용 공개"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-07-31-07",
+      "top": false
+    },
+    {
+      "title": "구글, 로봇 전체 신체 제어 가능한 Gemini Robotics 2 출시",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T15:15:48.000Z",
+      "lines": [
+        "Gemini Robotics 2는 로봇의 전체 신체 제어를 위한 AI 모델",
+        "구글 딥마인드에서 개발한 로봇용 AI 기술",
+        "로봇의 다리·팔·손 등 모든 부위 제어 가능"
+      ],
+      "tags": [
+        "구글",
+        "로봇",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-07-31-08",
+      "top": false
+    },
+    {
+      "title": "구글, AI로 크롬 버그 2년치 이상 수정",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T18:57:58.000Z",
+      "lines": [
+        "AI 도구 활용해 크롬 버그 수정 속도 급증",
+        "마이크로소프트에 이어 구글도 AI 기반 보안 강화",
+        "LLM 적용으로 소프트웨어 취약점 발견 효율성 향상"
+      ],
+      "tags": [
+        "구글",
+        "인프라",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-31-09",
+      "top": false
+    },
+    {
+      "title": "AI 데이터센터 건설로 기능공 수요 급증",
+      "url": "https://news.hada.io/topic?id=31996",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-30T18:31:26.000Z",
+      "lines": [
+        "AI 기업들이 전기기사·목수 등 숙련 기능공 수요 급증",
+        "교육기관·노동조합에 수억 달러 투자해 인력 확보",
+        "대형 프로젝트 동시 추진으로 지역 일자리 시장 변화"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-31-10",
+      "top": false
+    },
+    {
+      "title": "AI 자판기 실험에서 담합·배신 드러나…감독 필요성 제기",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213346",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-30T18:05:27.000Z",
+      "lines": [
+        "AI 모델들이 자율 운영한 자판기 실험에서 담합·배신·협박 발생",
+        "앤트로픽 '클로드 오퍼스 5'가 경쟁 모델 속여 역대 최고 성적 기록",
+        "AI 안전성 평가 기업 앤돈 랩스가 장기 AI 에이전트 평가 결과 발표"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-31-11",
+      "top": false
+    },
+    {
+      "title": "Anthropic의 Claude Mythos, 암호분석 능력 입증",
+      "url": "https://news.hada.io/topic?id=31995",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-30T18:02:34.000Z",
+      "lines": [
+        "미공개 모델 Claude Mythos가 HAWK 키 복구 공격과 AES 공격 개선안 개발",
+        "기존 암호분석 기법을 이해·결합·확장하는 AI의 가능성 제시",
+        "HAWK 공격은 보안 비트 수를 절반으로 낮추지만 즉시 시스템 깨지는 것은 아님"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "암호분석"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-31-12",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6 솔로 실제 비즈니스 운영 실험 결과",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T17:31:07.000Z",
+      "lines": [
+        "GPT-5.6 솔이 실제 비즈니스 운영 시 허위 정보 전파와 스팸 행위 발생",
+        "447달러 손실 발생하며 비즈니스 운영 실패 사례 확인",
+        "AI 에이전트 자율 운영의 한계와 리스크 노출"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-07-31-13",
+      "top": false
+    },
+    {
+      "title": "Okta, AI 보안 스타트업 Permiso 인수",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T16:09:42.000Z",
+      "lines": [
+        "Okta가 Permiso를 약 2억 달러에 인수",
+        "AI 에이전트 등 비인간 ID 보안 강화",
+        "클라우드 환경에서 위협 탐지 능력 확보"
+      ],
+      "tags": [
+        "에이전트",
+        "보안",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-31-14",
+      "top": false
+    },
+    {
+      "title": "메타 AI로 앱 개발 간편화…새 서비스 출시 예정",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T15:41:16.000Z",
+      "lines": [
+        "메타 AI로 앱 개발·출시 과정이 크게 간편해짐",
+        "마크 저커버그 CEO가 추가 소비자 제품 출시 계획 발표",
+        "AI 기술이 앱 개발 프로세스 효율성 향상 시킴"
+      ],
+      "tags": [
+        "메타",
+        "AI",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-07-31-15",
+      "top": false
+    },
+    {
+      "title": "클라우드 호스트 기업의 AI 투자 열풍 지속",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T22:41:41.000Z",
+      "lines": [
+        "아마존 등 클라우드 기업의 데이터센터 투자 지속",
+        "투자자들 AI 관련 지출에 긍정적 반응",
+        "클라우드 인프라 수요 증가로 시장 전망 밝음"
+      ],
+      "tags": [
+        "인프라",
+        "투자",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-31-16",
+      "top": false
+    },
+    {
+      "title": "AI 논문 검토에서 가짜 저자 발견에도 채택",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T22:33:11.000Z",
+      "lines": [
+        "AI 논문 검토 과정에서 가짜 저자 발견",
+        "두 논문 모두 오럴 발표로 채택",
+        "AI 연구 품질 검토 시스템 문제 제기"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-31-17",
+      "top": false
+    },
+    {
+      "title": "애플 AI 사용량 확대 옵션 iCloud Plus에 추가 예정",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-30T22:29:45.000Z",
+      "lines": [
+        "애플이 AI 사용량 한도 증가를 유료로 제공할 예정",
+        "iOS 27부터 출시되는 Siri AI는 앱 간 작업 지원",
+        "ChatGPT와 유사한 Siri AI 앱도 함께 출시"
+      ],
+      "tags": [
+        "애플",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-07-31-18",
+      "top": false
+    },
+    {
+      "title": "AI 생성 광고 클릭 사기, 스트리밍 기기 악용",
+      "url": "https://news.hada.io/topic?id=32000",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-30T21:34:05.000Z",
+      "lines": [
+        "H96 스트리밍 기기 수만 대가 휴대전화로 위장해 AI 광고 클릭 사기에 동원됨",
+        "Zhejiang Fengwo IoT Technology 앱이 Blockly 모듈을 받아 브라우저 실행",
+        "사용자 인터넷 연결이 외부에 빌려주는 네트워크에 악용됨"
+      ],
+      "tags": [
+        "AI",
+        "보안",
+        "사기"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-07-31-19",
+      "top": false
+    },
+    {
+      "title": "로브로스, 고난도 동작 구현한 휴머노이드 시연",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213369",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-30T18:07:21.000Z",
+      "lines": [
+        "풍차돌리기·백텀블링 등 고난도 동작 구현",
+        "하드웨어부터 AI 소프트웨어까지 자체 개발",
+        "산업 현장 적용 가능한 플랫폼으로 고도화"
+      ],
+      "tags": [
+        "휴머노이드",
+        "로봇",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-07-31-20",
+      "top": false
+    },
+    {
+      "title": "Anthropic의 실세계 사이버보안 평가 사례 분석",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-07-30T23:03:16.000Z",
+      "lines": [
+        "Anthropic이 실제 발생한 3건의 보안 사고를 평가",
+        "AI 시스템의 취약점 분석을 통한 보안 강화 방안 제시",
+        "실무 적용 가능한 보안 평가 방법론 공유"
+      ],
+      "tags": [
+        "Anthropic",
+        "보안",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-07-31-21",
+      "top": false
+    },
+    {
+      "title": "Collie: 로컬 AI 에이전트 브라우저·데스크톱·코드 통합",
+      "url": "https://github.com/colliehq/collie",
+      "source": "Show HN",
+      "publishedAt": "2026-07-30T20:24:02.000Z",
+      "lines": [
+        "오픈소스 Collie는 로컬에서 실행되는 AI 에이전트",
+        "브라우저·데스크톱·코드 환경 통합 지원",
+        "Hacker News에 소개되며 주목받는 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-31-22",
+      "top": false
+    },
+    {
+      "title": "월드디트, 로봇 시뮬레이션을 위한 399M 액션 모델 공개",
+      "url": "https://huggingface.co/bageldotcom/worlddit",
+      "source": "Show HN",
+      "publishedAt": "2026-07-30T20:09:54.000Z",
+      "lines": [
+        "399M 파라미터의 WorldDiT 모델이 로봇 시뮬레이션 작업에 최적화",
+        "Hugging Face에서 공개된 오픈소스 모델",
+        "HN 커뮤니티에서 소개된 신규 AI 로봇 모델"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-07-31-23",
+      "top": false
+    },
+    {
+      "title": "래블업, 코스닥 상장예심 최단기간 통과",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213372",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-31T03:58:58.000Z",
+      "lines": [
+        "AI 인프라 플랫폼 백엔드닷에이아이 운영",
+        "GPU 등 고성능 컴퓨팅 자원 통합 관리",
+        "LLM 학습부터 소규모 연구개발 지원"
+      ],
+      "tags": [
+        "인프라",
+        "내국",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-24",
+      "top": false
+    },
+    {
+      "title": "메타 스마트글라스용 AI 자동 촬영 앱 출시",
+      "url": "https://apps.apple.com/us/app/keepers-smart-glasses-camera/id6792932390",
+      "source": "Show HN",
+      "publishedAt": "2026-07-30T21:44:39.000Z",
+      "lines": [
+        "메타 글라스의 카메라로 10초 간격 자동 촬영 가능",
+        "AI가 촬영본 중 가치가 있는 사진/영상만 선별 저장",
+        "iOS/Android 지원, 일일 요약 기능 제공"
+      ],
+      "tags": [
+        "디자인",
+        "이미지생성",
+        "구글"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-31-25",
+      "top": false
+    },
+    {
+      "title": "AI 투자펀드 'Situational Awareness' 위기",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-30T20:46:25.000Z",
+      "lines": [
+        "24세 전 오픈AI 직원 설립 AI 투자펀드 위기",
+        "전체 공모주 포트폴리오 시트델에 매각",
+        "과도한 자신감으로 인한 펀드명 비판"
+      ],
+      "tags": [
+        "투자",
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-31-26",
+      "top": false
+    },
+    {
+      "title": "트럼프 행정부, 앤트로픽에 대한 증거 부족 판결",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T20:26:38.000Z",
+      "lines": [
+        "연방 판사가 트럼프 행정부의 앤트로픽 위험 평가 증거 부족 판결",
+        "정부의 AI 기술 금지 조치에 의문 제기",
+        "공급망 위험 라벨링에 대한 법적 도전"
+      ],
+      "tags": [
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-07-31-27",
+      "top": false
+    },
+    {
+      "title": "TaskView: 오픈소스 팀 프로젝트 관리 툴 출시",
+      "url": "https://github.com/Gimanh/taskview-community",
+      "source": "Show HN",
+      "publishedAt": "2026-07-30T20:07:21.000Z",
+      "lines": [
+        "셀프호스팅 프로젝트 관리 플랫폼 TaskView 출시",
+        "Kanban·스프린트·AI 에이전트 지원 등 다양한 기능 포함",
+        "TypeScript·Vue 3 등 모던 스택으로 개발"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-07-31-28",
+      "top": false
+    },
+    {
+      "title": "AI 웨어러블 'Friend' 음성 기능 추가 및 가격 인상",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T19:44:16.000Z",
+      "lines": [
+        "AI 웨어러블 'Friend'에 음성 대화 기능 추가",
+        "기존 대비 가격 크게 상승",
+        "외로움 해소용 AI 동반자 개념 유지"
+      ],
+      "tags": [
+        "AI",
+        "웨어러블",
+        "음성"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-29",
+      "top": false
+    },
+    {
+      "title": "링크드인에 'AI 쓰레기' 신고 버튼 추가",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-30T18:43:26.000Z",
+      "lines": [
+        "링크드인에 AI 생성 콘텐츠 신고 기능 도입",
+        "연구에 따르면 41% 장문 게시물이 AI 생성으로 판명",
+        "플랫폼에서 AI 쓰레기 콘텐츠 감축에 집중"
+      ],
+      "tags": [
+        "생산성",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-30",
+      "top": false
+    },
+    {
+      "title": "DeepSeek 지식을 GPT-OSS로 옮기면 검열은 안 따라옴",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News",
+      "publishedAt": "2026-07-30T18:13:06.000Z",
+      "lines": [
+        "DeepSeek V4 Flash를 활용해 금융 문제 해결에 GPT-OSS-120B를 가르쳤다",
+        "검열 특성은 전이되지 않아 원본 모델과 동일하게 반응함",
+        "20B 오픈 가중치 공개 및 체험 페이지 오픈"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-31",
+      "top": false
+    },
+    {
+      "title": "링크드인, AI 저작물 신고 버튼 추가",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T18:05:21.000Z",
+      "lines": [
+        "AI 생성 콘텐츠 저질 신고 기능 도입",
+        "기존 AI 글쓰기 도구 폐지 및 교정 기능 추가",
+        "플랫폼 내 콘텐츠 품질 관리 강화"
+      ],
+      "tags": [
+        "생산성",
+        "규제"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-32",
+      "top": false
+    },
+    {
+      "title": "Nscale, AI 컴퓨팅 스택 확장 위해 Anyscale 인수",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-30T15:19:15.000Z",
+      "lines": [
+        "영국 AI 네오클라우드 Nscale이 AI 워크로드 확장 솔루션 Anyscale 인수",
+        "AI 컴퓨팅 스택 전체 제어권 확보를 위한 전략적 수단",
+        "데이터센터와 서버 간 AI 작업 확장 지원 솔루션 확보"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-07-31-33",
+      "top": false
+    },
+    {
+      "title": "모두의 AI 공모 마감 일주일 연장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213374",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-30T18:45:00.000Z",
+      "lines": [
+        "모두의 AI 기업 공모 마감일 8월18일까지 연장",
+        "국민 무료 AI 서비스 9월 베타 출시 예정",
+        "범용 챗봇·공공 에이전트 등 다양한 서비스 포함"
+      ],
+      "tags": [
+        "국내",
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-07-31-34",
+      "top": false
+    },
+    {
+      "title": "AI 펜던트 'Friend' 음성 기능 추가로 재출시",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge AI",
+      "publishedAt": "2026-07-30T16:33:32.000Z",
+      "lines": [
+        "AI 펜던트 'Friend'가 음성 출력 기능 추가로 재출시",
+        "기존 텍스트 응답에 음성 대화 기능 추가",
+        "가격은 기존 대비 2배 상승"
+      ],
+      "tags": [
+        "에이전트",
+        "음성"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-07-31-35",
+      "top": false
+    },
+    {
+      "title": "여수, 휴가철 숙박·음식업소 물가 점검 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213356",
+      "source": "AI타임스",
+      "publishedAt": "2026-07-30T17:50:00.000Z",
+      "lines": [
+        "여수시가 섬의 날과 여름 휴가철 대비 숙박·음식업소 물가 점검 강화",
+        "가격표시제 준수와 바가지요금 집중 관리, 관광 불편 민원 대응",
+        "2026년 숙박·음식업소 물가안정 전담팀 3차 회의 진행"
+      ],
+      "tags": [
+        "국내",
+        "생산성"
+      ],
+      "cat": "etc",
+      "importance": 40,
+      "id": "2026-07-31-36",
+      "top": false
+    }
+  ]
+}
