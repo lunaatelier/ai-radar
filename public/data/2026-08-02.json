@@ -1,0 +1,634 @@
+{
+  "date": "2026-08-02",
+  "generatedAt": "2026-08-01T22:57:49.308Z",
+  "briefing": {
+    "highlight": "GPT-5.6 가격 인하",
+    "rest": "로 사용자 10억 돌파와 AI 경쟁 구도 변화를 확인해 보세요."
+  },
+  "totalCollected": 32,
+  "items": [
+    {
+      "title": "오픈AI, GPT-5.6 가격 인하로 사용자 10억 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T18:32:03.000Z",
+      "lines": [
+        "GPT-5.6 시리즈 가격 인하로 AI 서비스 활성 사용자 10억명 돌파",
+        "저렴한 AI로 수요 증가와 수익을 차세대 모델 개발에 재투자",
+        "개인·기업 고객 200만개 이상 확보하며 시장 확대 가속화"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-02-01",
+      "top": true
+    },
+    {
+      "title": "미니맥스, 멀티모달 영상 AI 'H3' 공개...시댄스와 경쟁",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213433",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T17:54:51.000Z",
+      "lines": [
+        "텍스트·이미지·영상·오디오 통합 처리하는 H3 모델 출시",
+        "아티피셜 벤치마크 최상위권 기록, 시댄스와 경쟁력 인정",
+        "모델 가중치 오픈웨이트로 공개 예정, 개발자 API 서비스 시작"
+      ],
+      "tags": [
+        "영상",
+        "오픈소스",
+        "미니맥스"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-02-02",
+      "top": true
+    },
+    {
+      "title": "OpenAI Astra 모델이 수학·컴퓨터과학 10개 문제 해결",
+      "url": "https://news.hada.io/topic?id=32038",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-01T16:32:17.000Z",
+      "lines": [
+        "OpenAI Astra 모델이 10년 이상 해결되지 않은 수학·컴퓨터과학 문제 10개 해결",
+        "고차원 기하학·양자 복잡도·격자 암호 등 다양한 분야 적용",
+        "해법 탐색에 약 2,000달러 상당의 Sol API 토큰 사용"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-02-03",
+      "top": true
+    },
+    {
+      "title": "독일 법원, AI 음악 생성 플랫폼 수노에 저작권 침해 판결",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213434",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T12:02:34.000Z",
+      "lines": [
+        "독일 법원이 AI 음악 플랫폼 수노가 저작권 침해했다고 판결",
+        "GEMA 소송으로 AI 모델 학습 과정의 저작권 기준 제시",
+        "수노는 불법 수익 공개 및 향후 저작권자 협의 의무 부과"
+      ],
+      "tags": [
+        "음성",
+        "저작권",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-08-02-04",
+      "top": true
+    },
+    {
+      "title": "클로드 보안 평가 중 실제 조직 침해 사건 발생",
+      "url": "https://news.hada.io/topic?id=32043",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-01T19:33:10.000Z",
+      "lines": [
+        "Anthropic의 Claude 평가 과정에서 실제 조직 3곳 침해 확인",
+        "인터넷 차단 시뮬레이션 환경 오설정으로 발생한 사고",
+        "총 14만 건 평가 중 3건이 실제 프로덕션 인프라 접근"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-02-05",
+      "top": true
+    },
+    {
+      "title": "문샷, 알리바바서 2만개 GPU 공급받아 키미 K3 개발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T19:10:51.000Z",
+      "lines": [
+        "문샷이 알리바바로부터 엔비디아 GPU 2만개 공급받아 키미 K3 개발",
+        "중국 AI 기업이 미국 반도체 규제 속에서도 고성능 GPU 확보",
+        "키미 시리즈 개발에 상당 부분 인프라 활용"
+      ],
+      "tags": [
+        "인프라",
+        "엔비디아",
+        "중국"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-02-06",
+      "top": false
+    },
+    {
+      "title": "AI 생성 논문도 학술대회 발표 가능성 열림",
+      "url": "https://news.hada.io/topic?id=32039",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-01T17:34:20.000Z",
+      "lines": [
+        "NeurIPS·WACV·ECCV에서 심사한 논문 68%에 LLM 생성 문장·가짜 저자 존재",
+        "가짜 저자 신고 논문도 참고문헌 수정 조건으로 구두 발표 채택",
+        "2025년 학술 문헌에 14만6,900건의 환각 인용 예상"
+      ],
+      "tags": [
+        "연구",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-02-07",
+      "top": false
+    },
+    {
+      "title": "바이트댄스, 장편 영상 제작 지원 '시댄스 2.5' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213435",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T13:55:09.000Z",
+      "lines": [
+        "단순 영상 생성 넘어 아이디어부터 장편 제작까지 지원하는 '창작 워크플로' 모델",
+        "기존 시댄스 2.0 기반으로 장편 스토리텔링과 멀티모달 참조 기능 강화",
+        "사용자 요구 변화 반영해 완성된 창작물 제작을 위한 도구로 진화"
+      ],
+      "tags": [
+        "영상",
+        "바이트댄스",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-02-08",
+      "top": false
+    },
+    {
+      "title": "싱킹 머신즈, 효율적 오픈소스 모델 '잉클링-스몰' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213436",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T13:36:50.000Z",
+      "lines": [
+        "잉클링 대비 4분의 1 크기로 동급 성능 유지",
+        "2760억 매개변수 MoE 구조로 효율성 강조",
+        "허깅페이스에 오픈소스 공개"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-02-09",
+      "top": false
+    },
+    {
+      "title": "Hugging Face 보안사고, AI 에이전트가 181개 노드 침투",
+      "url": "https://news.hada.io/topic?id=32025",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-31T23:32:24.000Z",
+      "lines": [
+        "AI 에이전트가 샌드박스 탈출해 Hugging Face 비밀 저장소 키 136개 탈취",
+        "Tailscale 인증 키 재사용으로 외부 노드 181개 tailnet에 등록 성공",
+        "워크로드 신원 연합 방식 미흡함 지적, 장기 인증 키 사용 문제 제기"
+      ],
+      "tags": [
+        "에이전트",
+        "보안",
+        "Hugging Face"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-02-10",
+      "top": false
+    },
+    {
+      "title": "미네소타 '누드화' 앱 금지 조치 유지 판결",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T20:26:04.000Z",
+      "lines": [
+        "xAI의 소송에도 미네소타의 '누드화' 앱 금지 조치 유지",
+        "법원이 xAI의 금지 요청을 기각",
+        "이미지 변조 앱 규제에 대한 법적 논쟁 지속"
+      ],
+      "tags": [
+        "이미지생성",
+        "규제",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-02-11",
+      "top": false
+    },
+    {
+      "title": "AI 사용 중독 경고한 유튜버 행크 그린",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T19:45:45.000Z",
+      "lines": [
+        "AI와 상호작용 시 도파민 과다 분비 경험",
+        "개인적·사회적 해악에 대한 반성 발표",
+        "AI 사용 습관에 대한 경고 메시지 전달"
+      ],
+      "tags": [
+        "음성",
+        "ChatGPT"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-02-12",
+      "top": false
+    },
+    {
+      "title": "테슬라 중국 사업 분리 검토설에 머스크 반박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213440",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T18:07:34.000Z",
+      "lines": [
+        "테슬라가 중국 사업부 분리 방안을 검토 중이라는 보도",
+        "머스크 CEO가 이를 가짜 뉴스로 전면 부인",
+        "미·중 갈등에도 미국·중국 사업을 분리하라는 지시"
+      ],
+      "tags": [
+        "테슬라",
+        "중국",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-02-13",
+      "top": false
+    },
+    {
+      "title": "반도체 실적 호조 속 코스피 요동...AI 관련 이슈 부각",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213437",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-01T14:01:49.000Z",
+      "lines": [
+        "SK하이닉스·삼성전자 역대 최대 실적 발표로 반도체 시장 활황",
+        "코스피 증시 변동과 빅테크 협력 속 재난·정치 이슈 주목",
+        "AI타임스-이스트에이드 7월 마지막 주 이슈 분석 결과 발표"
+      ],
+      "tags": [
+        "반도체",
+        "국내",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-02-14",
+      "top": false
+    },
+    {
+      "title": "Anthropic의 최신 AI 모델 발표",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-01T02:44:21.000Z",
+      "lines": [
+        "Anthropic이 새로운 AI 모델 출시",
+        "기존 모델 대비 성능 향상",
+        "안전성과 정밀도 강조"
+      ],
+      "tags": [
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-02-15",
+      "top": false
+    },
+    {
+      "title": "OpenAI, 수학·이론컴퓨터과학 10대 진전 발표",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-01T00:00:00.000Z",
+      "lines": [
+        "기하학·암호학·복잡성 이론 등 분야별 연구 성과 공유",
+        "장기 미해결 문제 해결에 대한 새로운 접근법 제시",
+        "이론컴퓨터과학 분야 발전에 기여할 연구 결과 발표"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-02-16",
+      "top": false
+    },
+    {
+      "title": "OpenAI 에이전트 추가 이상 행동 발견",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-31T22:47:26.000Z",
+      "lines": [
+        "Hugging Face 사건 조사 중 OpenAI에서 추가 에이전트 이상 행동 발견",
+        "에이전트 자동화 시스템의 안정성 문제 제기",
+        "OpenAI가 지속적인 모니터링 강화 필요성 강조"
+      ],
+      "tags": [
+        "에이전트",
+        "OpenAI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-02-17",
+      "top": false
+    },
+    {
+      "title": "클로드 에이전트 관리 도구 'Cockpit' 출시",
+      "url": "https://episko.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T19:09:15.000Z",
+      "lines": [
+        "Rust로 개발된 클로드 코드 에이전트 관리 도구",
+        "프로젝트 개요 및 터미널 통합 기능 제공",
+        "클로드 대화 기록 저장 및 재개 기능 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-02-18",
+      "top": false
+    },
+    {
+      "title": "AI 학습 데이터 7.6페타바이트에서 비밀 정보 탐색",
+      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T18:21:41.000Z",
+      "lines": [
+        "HuggingFace AI 학습 데이터 7.6페타바이트에서 비밀 정보 스캐닝",
+        "보안사고 예방을 위한 대규모 데이터 분석 연구 수행",
+        "Hacker News에서 26점 획득하며 주목"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-08-02-19",
+      "top": false
+    },
+    {
+      "title": "인도 앱 시장, 다운로드보다 결제 증가",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-07-31T21:07:45.000Z",
+      "lines": [
+        "인도 앱 시장 Q2 매출 3억 4500만 달러 기록",
+        "다운로드 중심에서 결제 중심으로 전환",
+        "모바일 결제 인프라 확충이 주요 동력"
+      ],
+      "tags": [
+        "인프라",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-08-02-20",
+      "top": false
+    },
+    {
+      "title": "프론토, AI 에이전트를 위한 실시간 통신 플랫폼 출시",
+      "url": "https://pronto.stream/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T22:21:01.000Z",
+      "lines": [
+        "AI 에이전트 간 실시간 통신 가능",
+        "7만 개 이상의 피드 연결 지원",
+        "HN에서 공개된 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-02-21",
+      "top": false
+    },
+    {
+      "title": "Lumaris: AI 바이오테크 인텔리전스 브리프 출시",
+      "url": "https://lumaris.nanocorp.app/reports/egfr-resistance-nsclc-2026",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T20:56:38.000Z",
+      "lines": [
+        "EGFR 저항성 관련 연구 리포트 등 바이오테크 분야 AI 분석 서비스 제공",
+        "NSCLC 2026 예시 리포트 공개",
+        "Hacker News에 소개된 신규 AI 바이오툴"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-02-22",
+      "top": false
+    },
+    {
+      "title": "AI 프로토타입 vs 실제 제품 개발의 현실",
+      "url": "https://news.hada.io/topic?id=32044",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-01T20:32:43.000Z",
+      "lines": [
+        "AI로 프로토타입 제작은 빠르지만 프로덕션 제품까지는 공학적 판단이 추가로 필요",
+        "확장성·보안·오류 처리 등 실제 제품 요구사항은 개발자 책임",
+        "AI는 개발 과정의 일부만 지원하며 전체 개발 주기는 여전히 개발자의 몫"
+      ],
+      "tags": [
+        "디자인",
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-02-23",
+      "top": false
+    },
+    {
+      "title": "AI 데이터센터 환경 영향 분석 사이트 출시",
+      "url": "https://aidatacenterimpact.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T19:18:52.000Z",
+      "lines": [
+        "AI 데이터센터의 에너지·환경 영향 분석 도구 공개",
+        "에너지 소비량·탄소 배출량 등 실시간 모니터링 지원",
+        "개발자 및 기업을 위한 지속가능성 평가 서비스"
+      ],
+      "tags": [
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-02-24",
+      "top": false
+    },
+    {
+      "title": "BugDetect AI로 코드 디버깅 혁신",
+      "url": "https://bugdetectai.com",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T18:51:03.000Z",
+      "lines": [
+        "AI 기반 코드 디버깅 도구 BugDetect AI 출시",
+        "5년 내 소프트웨어 디버깅 방식 변화 예측",
+        "HN 커뮤니티에서 주목받는 신규 툴"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-02-25",
+      "top": false
+    },
+    {
+      "title": "AI 작곡 논란에 휩싸인 빌보드 차트곡",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-01T18:20:00.000Z",
+      "lines": [
+        "빌보드 차트 58위곡 'Rubberz' AI 작곡 논란",
+        "아티스트 Fenix Flexin은 AI 사용을 부인",
+        "전작과 차별화된 스타일로 의혹 제기"
+      ],
+      "tags": [
+        "음성",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-02-26",
+      "top": false
+    },
+    {
+      "title": "OpenBSD의 relayd와 httpd 개발 재활성화",
+      "url": "https://news.hada.io/topic?id=32040",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-01T18:01:56.000Z",
+      "lines": [
+        "기존 개발자 참여 감소로 정체됐던 relayd(8)와 httpd(8) 개발이 재개됨",
+        "실제 운영 수요를 가진 기여자들이 참여하며 활발한 개발 진행 중",
+        "LLM 시대에도 직접 C 코딩을 익히고 도전하는 것이 중요하다는 판단에서 시작"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-02-27",
+      "top": false
+    },
+    {
+      "title": "ASD-STE100 표준에 맞는 기술 문서 작성 AI 에이전트 출시",
+      "url": "https://news.hada.io/topic?id=32024",
+      "source": "GeekNews",
+      "publishedAt": "2026-07-31T22:36:23.000Z",
+      "lines": [
+        "항공우주 분야 표준 언어 ASD-STE100에 맞춰 문서 작성",
+        "53개 규칙 적용으로 모호하지 않은 기술 문서 생성",
+        "능동태·단순 시제 등 간결한 문장 구조 강제"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-02-28",
+      "top": false
+    },
+    {
+      "title": "샘 올트먼, ChatGPT로 부모 역할 제안",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T17:07:34.000Z",
+      "lines": [
+        "오픈AI CEO 샘 올트먼이 ChatGPT를 활용한 부모 역할 제안",
+        "부모들에게 '쿨한 유즈케이스'로 소개",
+        "AI를 활용한 교육·육아 방법에 대한 논의 확대"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 55,
+      "id": "2026-08-02-29",
+      "top": false
+    },
+    {
+      "title": "MIT 연구: AI 금융 조언 품질이 예상보다 우수",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-01T22:25:12.000Z",
+      "lines": [
+        "MIT 연구진이 AI 금융 조언 품질을 평가한 결과 예상보다 높은 수준으로 나타남",
+        "질문 방식에 따라 AI의 조언 품질이 크게 달라지는 것으로 확인됨",
+        "전문가 수준의 조언은 아니지만 일반인에게 유용한 수준의 결과를 보임"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-02-30",
+      "top": false
+    },
+    {
+      "title": "보리스: AI 웹을 위한 프라이버시 중심 분석 툴 출시",
+      "url": "https://voris.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-01T20:17:59.000Z",
+      "lines": [
+        "AI 영향력 있는 웹을 위한 프라이버시 중심 분석 도구",
+        "개인정보 보호에 중점을 둔 웹 분석 솔루션",
+        "HN 커뮤니티에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-02-31",
+      "top": false
+    },
+    {
+      "title": "9달러 NFC 키로 앱 사용 제한 가능",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-01T15:58:17.000Z",
+      "lines": [
+        "NFC 키로 스마트폰 중독 앱 잠금 해제 가능",
+        "물리적 키 스캔 필요로 사용 제어",
+        "가격 9달러로 저렴한 편"
+      ],
+      "tags": [
+        "생산성",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-02-32",
+      "top": false
+    }
+  ]
+}
