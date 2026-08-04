@@ -1,0 +1,722 @@
+{
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-04T23:09:22.834Z",
+  "briefing": {
+    "highlight": "AI 업계 협약 및 기술 혁신",
+    "rest": "과 시장 변화 관련 주요 뉴스 5건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "앤트로픽, 볼타와 100억 달러 협약 체결",
+      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:48:40.000Z",
+      "lines": [
+        "AI 클라우드 스타트업 볼타와 100억 달러 규모 계약",
+        "앤트로픽의 최근 클라우드 파트너십 확장에 따른 추가 협력",
+        "AI 인프라 구축을 위한 대규모 투자 진행"
+      ],
+      "tags": [
+        "인프라",
+        "투자",
+        "Anthropic"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-05-01",
+      "top": true
+    },
+    {
+      "title": "중국 AI 업계 글로벌 최상위 모델 연이어 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213523",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-04T18:10:31.000Z",
+      "lines": [
+        "중국 AI 기업들이 고성능 모델 연이어 출시하며 시장 재편",
+        "저렴한 가격 경쟁력 넘어 최첨단 기술까지 확보",
+        "미국 중소 개발사 생존 위협 '데드 존' 진입"
+      ],
+      "tags": [
+        "AI",
+        "중국",
+        "경쟁"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-08-05-02",
+      "top": true
+    },
+    {
+      "title": "오픈AI, GPT-라이브로 실시간 음성 대화 구현",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213525",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-04T17:28:13.000Z",
+      "lines": [
+        "기존 음성 AI의 차례 대기 구조를 버리고 전이중 음성 시스템 도입",
+        "실시간 음성 처리와 비동기적 추론 모델 호출로 자연스러운 대화 구현",
+        "GPT-5.5와 연동해 높은 지능과 실시간성을 동시에 달성"
+      ],
+      "tags": [
+        "음성",
+        "오픈소스",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-05-03",
+      "top": true
+    },
+    {
+      "title": "AMD 데이터센터 사업 급성장, 게이밍은 부진",
+      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-04T20:57:49.000Z",
+      "lines": [
+        "AI 수요 증가로 데이터센터 매출 107% 증가, 67억 달러 기록",
+        "게이밍 부문 매출 31% 감소, 콘솔·스팀덱 판매 부진",
+        "2027년 데이터센터 매출 2배 이상 성장 전망"
+      ],
+      "tags": [
+        "인프라",
+        "AMD"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-05-04",
+      "top": true
+    },
+    {
+      "title": "SpaceX AI 사업수익이 우주사업보다 더 많아져",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-04T20:47:55.000Z",
+      "lines": [
+        "SpaceX AI 사업수익이 3배 증가해 26억 달러 기록",
+        "Anthropic·구글과 협력해 AI 컴퓨팅 제공으로 경쟁력 강화",
+        "AI 부문 손실 15억 달러 발생하지만 전년 대비 감소"
+      ],
+      "tags": [
+        "AI",
+        "구글",
+        "Anthropic"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-05-05",
+      "top": true
+    },
+    {
+      "title": "Z.ai 오픈 모델이 선두 AI에 근접하며 안전성 논란 재점화",
+      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T20:05:26.000Z",
+      "lines": [
+        "Z.ai의 GLM-5.2 오픈 모델이 선두 AI 수준에 근접한 성능 보임",
+        "안전 조치 부재로 오픈 모델의 규제 지연 우려 재기",
+        "SaferAI 보고서가 오픈 모델의 안전성 격차 경고"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-05-06",
+      "top": false
+    },
+    {
+      "title": "iPhone에서 초고속 20B MoE 모델 실행 가능",
+      "url": "https://deepgrove.ai/maple-preview",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T19:44:55.000Z",
+      "lines": [
+        "Maple-Preview로 20B MoE 모델 120 tok/s 속도 달성",
+        "iPhone에서 고성능 AI 모델 실행 가능성 입증",
+        "Deepgrove AI의 ternary 기술 적용"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-05-07",
+      "top": false
+    },
+    {
+      "title": "엔비디아 주도 오픈 AI 연맹, 1주 만에 첫 성과 발표",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:28:49.000Z",
+      "lines": [
+        "엔비디아 등이 주도한 오픈 AI 연맹이 1주 만에 첫 제안 발표",
+        "AI 에이전트 방어 방안 등 실질적 논의 진행 중",
+        "120개 회사 참여로 산업 협력 본격화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "엔비디아"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-05-08",
+      "top": false
+    },
+    {
+      "title": "구글, AI 투자 정당화 핵심으로 RSI 제시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213506",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-04T17:54:44.000Z",
+      "lines": [
+        "구글이 AI 투자 정당화 핵심 기술로 재귀적 자기 개선(RSI) 제시",
+        "RSI는 AI가 스스로 더 나은 버전 설계·개선하는 능력",
+        "RSI로 AI 투자와 수익 격차 해소 가능성 전망"
+      ],
+      "tags": [
+        "구글",
+        "연구",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-08-05-09",
+      "top": false
+    },
+    {
+      "title": "AI 자율 해킹 책임 소재 논쟁 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213510",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-04T17:38:31.000Z",
+      "lines": [
+        "AI 에이전트가 자율적으로 시스템 침투하며 법적 책임 문제 제기",
+        "오픈AI·앤트로픽 사례로 AI 해킹 책임 주체 논란 확대",
+        "기존 해킹법이 인간 공격자 전제로 AI 행위 규율 한계 지적"
+      ],
+      "tags": [
+        "에이전트",
+        "규제",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-05-10",
+      "top": false
+    },
+    {
+      "title": "미스트랄, Shieldstral 3B 오픈소스 모델 공개",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T16:36:05.000Z",
+      "lines": [
+        "미스트랄이 Shieldstral 3B 오픈소스 모델을 공개",
+        "다양한 콘텐츠의 적합성 평가에 최적화된 모델",
+        "3B 파라미터 규모로 효율적인 모더레이션 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-05-11",
+      "top": false
+    },
+    {
+      "title": "스포티파이 AI 리믹스 프로젝트 확장, Merlin과 협력",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:50:06.000Z",
+      "lines": [
+        "스포티파이 AI 리믹스 도구에 Merlin이 참여, 3만 개 독립 레이블 지원",
+        "유저가 AI로 커버/리믹스 생성 가능, 아티스트 동의 및 수익 분배 보장",
+        "유니버설 뮤직과 함께 업계 표준화 추진"
+      ],
+      "tags": [
+        "음성",
+        "Spotify",
+        "저작권"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-05-12",
+      "top": false
+    },
+    {
+      "title": "애플, 오픈AI로 이직한 전직원 추가 조사",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T15:37:42.000Z",
+      "lines": [
+        "애플이 오픈AI로 이직한 전직원 중 비밀 자료 유출 가능성 조사",
+        "기존 조사 대상자 외 추가 인원도 포함된 것으로 알려짐",
+        "기술 유출 방지 강화 및 인력 이동에 대한 경각심 고조"
+      ],
+      "tags": [
+        "애플",
+        "오픈소스",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-05-13",
+      "top": false
+    },
+    {
+      "title": "애플 시리 AI 베타 테스트, '아이폰 이해력' 호평",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213507",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "lines": [
+        "개인 데이터 검색과 화면 이해 기능으로 기존 시리보다 진화",
+        "범용 챗봇보다 아이폰 최적화된 음성비서로 평가",
+        "올가을 정식 출시 예정, 챗GPT 대체제보다는 다른 역할"
+      ],
+      "tags": [
+        "음성",
+        "애플",
+        "챗GPT"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-05-14",
+      "top": false
+    },
+    {
+      "title": "휴머노이드 로봇 안전 문제 논란 제기",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213530",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-05T06:55:00.000Z",
+      "lines": [
+        "대규모 행사에서 휴머노이드 로봇이 쓰러지는 사고 발생",
+        "안전성 문제로 인해 로봇 활용에 대한 우려 제기",
+        "로봇 기술 발전 속도와 안전 규제 미비로 인한 논란"
+      ],
+      "tags": [
+        "로봇",
+        "안전",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-15",
+      "top": false
+    },
+    {
+      "title": "이스트에이드, AI 요약 서비스 '줌'으로 포털 혁신",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-05T06:00:00.000Z",
+      "lines": [
+        "국내 포털 최초로 AI 1초 요약 기능과 K-엑사원 모델 적용",
+        "2년 전부터 AI 요약 서비스 시범 도입해 선제적 대응",
+        "버티컬 에이전트 진화로 차별화 전략 구사"
+      ],
+      "tags": [
+        "국내",
+        "AI",
+        "포털"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-05-16",
+      "top": false
+    },
+    {
+      "title": "아프리카 사이버범죄 50% 이상 AI 활용, 사기 급증",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T22:01:41.000Z",
+      "lines": [
+        "인터폴 보고서에 따르면 아프리카 사이버범죄의 50% 이상이 AI 기술로 이뤄짐",
+        "AI를 활용한 사기 및 피싱 공격이 급증하는 추세",
+        "국제경찰기구는 각국 정부에 AI 기반 범죄 대응 강화 촉구"
+      ],
+      "tags": [
+        "AI",
+        "보안",
+        "국제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-17",
+      "top": false
+    },
+    {
+      "title": "오픈AI 모델, 제3자 사이버 평가 사고 대응 강화",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-04T19:00:00.000Z",
+      "lines": [
+        "오픈AI 모델 제3자 평가 과정에서 발생한 보안 사고 설명",
+        "AI 모델 테스트 및 평가 강화를 위한 새로운 안전장치 발표",
+        "사고 재발 방지를 위한 추가 조치 공유"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-18",
+      "top": false
+    },
+    {
+      "title": "오픈AI 인플루언서 행사 논란 속속",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-04T17:46:41.000Z",
+      "lines": [
+        "오픈AI 첫 브랜드 여행 행사 논란",
+        "인플루언서 초청에 비판 제기",
+        "소셜미디어 홍보 전략 비판"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-19",
+      "top": false
+    },
+    {
+      "title": "중국 AI 금지로 미국 기업 연간 16조원 손실 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213505",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-04T17:15:09.000Z",
+      "lines": [
+        "중국산 오픈소스 AI 모델 사용 금지 시 미국 기업 연간 16조원 추가 비용 발생",
+        "중국 AI 모델이 미국 기업의 주요 비용 절감 수단으로 자리잡아",
+        "대체 모델 전환 시 경제적 충격 우려"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "중국"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-20",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 글로벌 정책 담당 최고책임자 채용",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vODE3REpJODF0TzhuZTBCTFpEdTNMNXFsV2QtOHhzZ0NUVUlmTDVESzZQM2ZHQWl4MkxaSzY1Z0pNSWVUaTB4NzRsX0dUVGxqWWIwVkFB?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-04T17:05:54.000Z",
+      "lines": [
+        "앤트로픽이 전 글로벌 정책 담당 최고책임자로 티노 쿠엘라를 영입",
+        "AI 정책 및 규제 전략 수립을 위한 핵심 인력 확보",
+        "전직 미 국무부 고위 관계자로 국제적 경험 보유"
+      ],
+      "tags": [
+        "Anthropic",
+        "규제"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-05-21",
+      "top": false
+    },
+    {
+      "title": "텍사스 데이터센터 신규 건설 중단, 감사 요구",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T15:42:35.000Z",
+      "lines": [
+        "텍사스 주정부 데이터센터 신규 건설 중단",
+        "전력 수요 급증으로 인한 인프라 한계",
+        "주지사 감사 요구로 추가 검토 필요"
+      ],
+      "tags": [
+        "인프라",
+        "국내"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-05-22",
+      "top": false
+    },
+    {
+      "title": "스마트글라스로 수어 번역 서비스 출시",
+      "url": "https://github.com/aadisang/hand-wave",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T21:58:28.000Z",
+      "lines": [
+        "메타글라스와 수어 번역 소프트웨어를 결합한 첫 프로젝트",
+        "CNN+GRU 아키텍처로 훈련된 오픈소스 모델 적용",
+        "웹·iOS 호환 및 일반 카메라 사용 가능"
+      ],
+      "tags": [
+        "디자인",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-05-23",
+      "top": false
+    },
+    {
+      "title": "Watchfire, 오픈소스 AI 코딩 에이전트 통합 제어실 출시",
+      "url": "https://github.com/watchfire-io/watchfire",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T20:57:28.000Z",
+      "lines": [
+        "여러 AI 에이전트를 동시에 실행할 수 있는 오픈소스 도구",
+        "보안 강화와 태스크 기반 개발 접근 방식 지원",
+        "MCP 서버로 노출 가능해 협업 확장성 강화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-05-24",
+      "top": false
+    },
+    {
+      "title": "AI 앱 256개 검사 결과 대부분 보안 취약점 발견",
+      "url": "https://necktochoke.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T20:12:45.000Z",
+      "lines": [
+        "AI 기반 앱 256개 중 대부분이 노출된 자격증명 발견",
+        "보안 검사 툴 'necktochoke' 출시",
+        "AI 개발 시 보안 검토 필요성 강조"
+      ],
+      "tags": [
+        "보안",
+        "AI",
+        "툴"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-05-25",
+      "top": false
+    },
+    {
+      "title": "EdotEnv, 금융 시장을 활용한 LLM 학습 환경 출시",
+      "url": "https://edotenv.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T18:36:02.000Z",
+      "lines": [
+        "EdotEnv는 금융 시장을 기반으로 한 강화학습 환경 제공",
+        "시장 효율성 증가가 LLM 학습 난이도 조절에 활용됨",
+        "전문가용 퀀트 워크플로우를 안정적인 학습 환경으로 전환"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-05-26",
+      "top": false
+    },
+    {
+      "title": "AMD MI300X에서 DeepSeek V4 Flash 실행 방법 공개",
+      "url": "https://news.hada.io/topic?id=32149",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-04T18:31:57.000Z",
+      "lines": [
+        "304B 매개변수 DeepSeek-V4-Flash-0731을 단일 AMD MI300X에서 실행 가능",
+        "추가 양자화 없이 192GB HBM3 메모리 활용",
+        "프리픽스 캐시 96GiB CPU 계층에 배치"
+      ],
+      "tags": [
+        "AI",
+        "인프라",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-05-27",
+      "top": false
+    },
+    {
+      "title": "AI 벤치마크 포화 현상 심층 분석 연구 발표",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-04T16:10:39.000Z",
+      "lines": [
+        "AI 벤치마크 포화 현상 체계적 분석 연구 논문 발표",
+        "기존 벤치마크 한계점과 새로운 평가 방법론 제시",
+        "Hacker News에서 68점·74개 댓글 기록"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-08-05-28",
+      "top": false
+    },
+    {
+      "title": "스페이스X, 올해 테슬라 메가팩 3억2900만 달러 구매",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T21:07:26.000Z",
+      "lines": [
+        "엘론 머스크 계열사 간 협업 강화",
+        "테슬라 메가팩 대량 구매로 에너지 인프라 구축",
+        "스페이스X의 지속 가능한 에너지 전략 확산"
+      ],
+      "tags": [
+        "테슬라",
+        "스페이스X",
+        "에너지"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-05-29",
+      "top": false
+    },
+    {
+      "title": "인터뷰 효율화 툴 'TopRec.io' 출시",
+      "url": "https://toprec.io",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T20:00:19.000Z",
+      "lines": [
+        "채용·인터뷰 과정에서 JD와 이력서를 분석해 강점·약점 진단",
+        "AI 챗봇 기능으로 면접 질문 추천 지원",
+        "분산 시스템·이벤트 기반 아키텍처 등 기술 분야 특화"
+      ],
+      "tags": [
+        "생산성",
+        "인터뷰",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-05-30",
+      "top": false
+    },
+    {
+      "title": "AI 사용 논란에 유튜버 행크 그린 활동 축소",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-04T17:33:46.000Z",
+      "lines": [
+        "행크 그린이 AI 사용 논란으로 유튜브 활동 축소 선언",
+        "AI로 연구 자료 검색만 사용했지만 비판에 직면",
+        "저작권 문제와 허위 정보 생성 논란이 주요 이슈"
+      ],
+      "tags": [
+        "유튜브",
+        "AI",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-05-31",
+      "top": false
+    },
+    {
+      "title": "AI 코딩 CLI용 불필요한 인사 차단 툴 출시",
+      "url": "https://github.com/QAInsights/pleasantries",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T21:59:30.000Z",
+      "lines": [
+        "AI 코딩 CLI에서 '안녕', '감사' 등 인사만 입력하는 사용자 차단",
+        "실제 코딩 작업 요청만 허용하는 프리훅 스크립트 제공",
+        "HN에 공개된 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-05-32",
+      "top": false
+    },
+    {
+      "title": "클로드가 영상 편집을 도와주는 서비스 소개",
+      "url": "https://www.shorz.ai",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T21:52:22.000Z",
+      "lines": [
+        "MCP 서버를 이용한 영상 편집 자동화 서비스",
+        "클로드 AI가 영상 편집을 지원하는 방식",
+        "Show HN에 소개된 신규 툴"
+      ],
+      "tags": [
+        "영상",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-05-33",
+      "top": false
+    },
+    {
+      "title": "Golang 전용 음성 AI 툴 'Jargo' 출시",
+      "url": "https://github.com/gojargo/jargo",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T20:28:47.000Z",
+      "lines": [
+        "Golang 개발자를 위한 음성 AI 라이브러리",
+        "실험 단계로 현재 진행 중",
+        "Hacker News에 소개된 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "음성",
+        "오픈소스",
+        "Golang"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-05-34",
+      "top": false
+    },
+    {
+      "title": "브라우저에서 시각적 AI 튜터링 서비스 출시",
+      "url": "https://useknowable.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-04T20:19:52.000Z",
+      "lines": [
+        "Safari 전용 AI 튜터링 앱 출시",
+        "2022년 이후 MacBook Pro 또는 2023년 이후 MacBook Air 필요",
+        "페이지 콘텍스트 분석해 실제 튜터처럼 응답"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-05-35",
+      "top": false
+    },
+    {
+      "title": "AI 오디오 가이드로 숨은 역사 탐방",
+      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-04T19:34:34.000Z",
+      "lines": [
+        "Wrinkles 앱은 iOS/안드로이드에서 제공되는 AI 오디오 가이드",
+        "지역의 숨은 역사와 스토리를 음성으로 안내",
+        "관광객과 현지인 모두에게 유용한 서비스"
+      ],
+      "tags": [
+        "음성",
+        "AI",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-05-36",
+      "top": false
+    }
+  ]
+}
