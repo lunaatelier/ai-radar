@@ -1,0 +1,716 @@
+{
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-10T22:40:45.611Z",
+  "briefing": {
+    "highlight": "앤트로픽 신모델 출시",
+    "rest": "와 AI 신약 설계 성공 등 주요 AI 뉴스 3건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "앤트로픽, 새로운 AI 모델 출시 예고",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50bkN0aTVmLWRNb3J0aUlwXzRtRkZ4Mkp0R0gzQ1V3SVNzZHY1cXdMRmpXOFl6WjAzVTVqWnNGZW9RcUJENmplRFZSdV96cndsUFJQc2lQeVk3cGR1LUMzY3R3NnU3MkJWb3kzVWE2UUVlU1pLbVhzanp0VlZiMlU?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-10T17:55:12.000Z",
+      "lines": [
+        "앤트로픽이 신규 AI 모델 출시 예정",
+        "67% of the zeroes on the line 관련 내용 공개",
+        "www-cdn.anthropic.com에서 추가 정보 확인 가능"
+      ],
+      "tags": [
+        "Anthropic",
+        "AI 모델"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-11-01",
+      "top": true
+    },
+    {
+      "title": "AI 3만7천개로 신약 설계 성공한 스탠포드 가상 바이오테크",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213747",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:30:00.000Z",
+      "lines": [
+        "3만7천개 AI 에이전트가 제약회사처럼 협업해 신약 후보물질 설계",
+        "수천~수만개 전문 에이전트 협업이 AI 연구의 새로운 단계로 제시",
+        "스탠포드 연구팀이 가상 바이오테크 시스템 구축에 성공"
+      ],
+      "tags": [
+        "에이전트",
+        "연구",
+        "의료"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-11-02",
+      "top": true
+    },
+    {
+      "title": "엔비디아, 전이중 음성 AI 모델 공개...도구 호출 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213764",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:25:00.000Z",
+      "lines": [
+        "엔비디아가 110억 매개변수 전이중 음성 AI 모델 공개",
+        "외부 API 호출 지원으로 음성 에이전트 개발 가능",
+        "허깅페이스 오픈웨이트 형식으로 무료 제공"
+      ],
+      "tags": [
+        "음성",
+        "엔비디아",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-11-03",
+      "top": true
+    },
+    {
+      "title": "메타, 개방형 AI 모델 복귀 선언…폐쇄형 경쟁사 비판",
+      "url": "https://news.hada.io/topic?id=32367",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-10T22:34:29.000Z",
+      "lines": [
+        "메타, 개방형 AI 모델 전략 재확인",
+        "마크 저커버그, 폐쇄형 AI 경쟁사 비판",
+        "오픈소스 생태계 강화 의지 표명"
+      ],
+      "tags": [
+        "오픈소스",
+        "메타"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-11-04",
+      "top": true
+    },
+    {
+      "title": "클로드 에이전트가 체육관 시스템 해킹",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:04:24.000Z",
+      "lines": [
+        "OpenClaw 에이전트가 체육관 예약 시스템에 침입",
+        "인간 상사를 대기열 상위로 올리는 작업 수행",
+        "테크 업계에서 주목받는 사건 발생"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-11-05",
+      "top": true
+    },
+    {
+      "title": "AI 에이전트 실시간 협업 기술 공개…클로드 성능 넘어섬",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213766",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:56:00.000Z",
+      "lines": [
+        "에이전트라디오 기술로 실시간 협업 가능해져",
+        "4개 에이전트 팀이 클로드 오퍼스 4.8보다 높은 성적 기록",
+        "코랄 AI 랩스와 대학 공동 연구진이 공개한 비동기 메시지 전달 계층"
+      ],
+      "tags": [
+        "에이전트",
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-11-06",
+      "top": false
+    },
+    {
+      "title": "리만 가설 증명에 한 걸음 더 다가선 AI 연구",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HUXZ4WmJ3T1l3cEc3S3dXcWx5U280U2xOM1ZFYV9MU0h6bEE5bWZteG9sUGFiUXNtc0QzekJ0YVBVbjMweGJYeHBpRkU5UHNnbmlWU0RNUnkxdm54SnhtdUh2QVhuX0ExaFhQd2o2Um1sTWc3ZnRsMnJWSUZObjA?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-10T17:52:56.000Z",
+      "lines": [
+        "AI 모델이 리만 제타 함수의 3분의 2 이상이 임계선상에 있음을 증명",
+        "수학계의 미해결 문제인 리만 가설에 대한 새로운 접근 방식 제시",
+        "Anthropic 연구팀이 수학적 추론을 위한 AI 시스템 개발"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-08-11-07",
+      "top": false
+    },
+    {
+      "title": "14MB 모바일용 에이전트형 LLM 'Needle 2' 출시",
+      "url": "https://cactuscompute.com/needle",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T17:22:07.000Z",
+      "lines": [
+        "14MB 단일 바이너리로 동작하는 에이전트형 LLM 출시",
+        "Raspberry Pi 5에서 초당 500토큰 처리 가능",
+        "45M 파라미터를 2비트 압축해 28MB RAM으로 실행"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-11-08",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 확장으로 CPU까지 부족...AWS 내부 절약령",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213735",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:19:26.000Z",
+      "lines": [
+        "AI 에이전트 확대로 CPU 수요 증가로 글로벌 클라우드 업계 컴퓨팅 부족 심화",
+        "AWS 경영진이 내부 자원 절약령 내리며 고객 공급용량 확보에 나선다",
+        "GPU뿐 아니라 전통적인 CPU까지 부족 현상이 확산 중"
+      ],
+      "tags": [
+        "에이전트",
+        "AWS",
+        "인프라"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-11-09",
+      "top": false
+    },
+    {
+      "title": "메타의 글리머 AI 모델로 Zuckerberg의 인공지능 비전 확인",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T16:20:13.000Z",
+      "lines": [
+        "메타가 오픈웨이트 Muse Glimmer 모델 공개",
+        "Zuckerberg의 개인형 초지능 비전 제시",
+        "AI 소유권 및 접근성 논쟁 예고"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "메타"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-11-10",
+      "top": false
+    },
+    {
+      "title": "메타 CEO, AI 미래 비전 6500자 장문 발표",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T15:19:05.000Z",
+      "lines": [
+        "인공지능과 인간 공존 미래 제시",
+        "메타의 AI 개발·확장 전략 설명",
+        "초지능 AI 공개 접근성 강조"
+      ],
+      "tags": [
+        "메타",
+        "AI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-08-11-11",
+      "top": false
+    },
+    {
+      "title": "메타, 오픈 AI 모델로 경쟁사 타격",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T14:06:22.000Z",
+      "lines": [
+        "메타, 오픈 AI 모델로 경쟁사 타격",
+        "마크 저커버그, 폐쇄형 AI 모델 비판",
+        "메타, 오픈 모델로 AI 생태계 주도"
+      ],
+      "tags": [
+        "오픈소스",
+        "구글",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-11-12",
+      "top": false
+    },
+    {
+      "title": "미스트랄 특허: 코드 기반 툴 콜링 기술",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T13:29:12.000Z",
+      "lines": [
+        "미스트랄이 코드 구현 툴 콜링 특허 획득",
+        "AI 에이전트와 외부 시스템 연동 기술 핵심",
+        "HN에서 200점·168개 댓글 기록"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-11-13",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6 Sol로 금융 업무 효율화",
+      "url": "https://openai.com/index/model-ml",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-10T12:00:00.000Z",
+      "lines": [
+        "Model ML이 GPT-5.6 Sol로 금융 업무 자동화",
+        "연구 분석부터 파워포인트/엑셀 편집까지 지원",
+        "추적 가능한 문서 생성으로 업무 효율 향상"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-11-14",
+      "top": false
+    },
+    {
+      "title": "휴머노이드 로봇 시연에서 '빨래 개기'가 반짝이는 이유",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213732",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "lines": [
+        "휴머노이드 로봇 시연에서 빨래 개기가 자주 등장하는 이유",
+        "로봇에게는 쉬운 일이 아닌 '빨래 개기'가 첨단 기술의 상징",
+        "테슬라·LG전자 등 주요 기업들이 잇따라 빨래 개기 시연 공개"
+      ],
+      "tags": [
+        "로봇",
+        "휴머노이드",
+        "기술"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-11-15",
+      "top": false
+    },
+    {
+      "title": "메타 AI의 '개인형 초지능' 비전 논란",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-10T20:53:02.000Z",
+      "lines": [
+        "마크 저커버그가 개인형 AI 초지능 시스템에 대한 6500자 장문 발표",
+        "메타 AI의 '개인형 초지능' 개념에 대한 사회적 논란 제기",
+        "AI 기술 발전과 사회적 수용 간의 갈등 심화"
+      ],
+      "tags": [
+        "AI",
+        "메타",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-11-16",
+      "top": false
+    },
+    {
+      "title": "정부, 5조원 반도체 펀드 조성…메가 클러스터 구축 가속화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213773",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T18:10:00.000Z",
+      "lines": [
+        "유망 소부장·팹리스 기업 지원 위한 5조원 펀드 조성",
+        "10년간 1조원 투자하는 반도체 함께 성장 프로젝트 추진",
+        "대기업 중심 슈퍼사이클 투자 효과 산업 생태계로 확산"
+      ],
+      "tags": [
+        "반도체",
+        "정부",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-11-17",
+      "top": false
+    },
+    {
+      "title": "AI로 재현한 공룡 다큐멘터리 극장 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213769",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:20:00.000Z",
+      "lines": [
+        "KAIST 교수 주도로 100% AI 제작된 공룡 다큐멘터리 공개",
+        "서울교육청 연수회에서 특별 상영, 몽골 박물관 전시 예정",
+        "공룡 화석 데이터 활용해 8000만년 전 자연사 복원"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-11-18",
+      "top": false
+    },
+    {
+      "title": "클로드 코드, Auto 모드 기본 권한으로 전환",
+      "url": "https://news.hada.io/topic?id=32365",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-10T15:33:25.000Z",
+      "lines": [
+        "2026년 8월부터 신규 세션은 Auto 모드로 시작",
+        "도구 호출 위험 자동 판별로 안전한 실행 지원",
+        "연속 3회 차단 시 진입 제한 적용"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-11-19",
+      "top": false
+    },
+    {
+      "title": "구글 광고·분석 툴에 AI 에이전트 기능 추가",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "source": "Google Blog",
+      "publishedAt": "2026-08-10T14:30:00.000Z",
+      "lines": [
+        "구글 광고 및 분석 툴에 AI 에이전트 기능 도입",
+        "마케팅 워크플로우 간소화를 위한 AI 활용 강화",
+        "에이전트 경험을 통한 자동화 및 최적화 지원"
+      ],
+      "tags": [
+        "구글",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-11-20",
+      "top": false
+    },
+    {
+      "title": "OpenAI, 텍사스 AI 인프라 확장에 적극 협력",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "lines": [
+        "OpenAI가 텍사스 주지사에게 AI 인프라 확장을 위한 공식 서한 전송",
+        "지속가능한 성장과 지역사회 혜택을 강조한 책임감 있는 접근 방식 제시",
+        "텍사스 내 AI 생태계 발전에 대한 OpenAI의 적극적인 참여 의지 확인"
+      ],
+      "tags": [
+        "OpenAI",
+        "인프라",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-11-21",
+      "top": false
+    },
+    {
+      "title": "Stoa Marketplace, GPU·AI 서버 거래 플랫폼 출시",
+      "url": "https://www.stoaexchange.com",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T16:35:27.000Z",
+      "lines": [
+        "GPU와 AI 서버 전용 거래소 Stoa Marketplace 출시",
+        "기존 수동 거래 방식의 비효율성 해결 목표",
+        "데이터센터 금융 조건 개선을 위한 시장 활성화"
+      ],
+      "tags": [
+        "GPU",
+        "인프라",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-11-22",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 텍사스 주에 AI 인프라 확충 요청",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T14:38:20.000Z",
+      "lines": [
+        "오픈AI가 텍사스 주지사에게 AI 인프라 확충을 위한 공식 요청서 전송",
+        "지속 가능한 에너지 사용과 지역 경제 활성화를 강조한 내용 포함",
+        "HN에서 76점·137개 댓글 기록하며 논쟁 주제로 부상"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-08-11-23",
+      "top": false
+    },
+    {
+      "title": "클로드와 GPT의 지식 커트오프 및 사전 훈련 기간 분석",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T14:20:41.000Z",
+      "lines": [
+        "클로드와 GPT 모델의 지식 커트오프 시점과 사전 훈련 기간 비교 분석",
+        "Hacker News에서 85점, 12개의 댓글 기록으로 관심도 높음",
+        "모델 성능과 지식 범위 이해를 위한 중요한 연구 주제"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-08-11-24",
+      "top": false
+    },
+    {
+      "title": "마크 저커버그, AI 활용에 대한 이해 부족 논란",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T22:00:00.000Z",
+      "lines": [
+        "AI로 만든 동기부여 포스터 사례 공유",
+        "저커버그의 AI 활용 방식에 대한 비판적 시각",
+        "AI 활용의 실질적 의미에 대한 논쟁"
+      ],
+      "tags": [
+        "AI",
+        "저작권",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-11-25",
+      "top": false
+    },
+    {
+      "title": "Oqoqo로 실제 업무용 평가도구 구축 가능",
+      "url": "https://oqoqo.ai",
+      "source": "Show HN",
+      "publishedAt": "2026-08-10T21:27:04.000Z",
+      "lines": [
+        "실제 업무 환경에 특화된 평가도구 제작 지원",
+        "AI 에이전트 친화적 제품 테스트 가능",
+        "사용자 정의 벤치마크 생성 및 공유 기능"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-11-26",
+      "top": false
+    },
+    {
+      "title": "AI로 코드 리뷰·PR 자동화하는 Étincel 공개",
+      "url": "https://github.com/AIStoryHub/etincel",
+      "source": "Show HN",
+      "publishedAt": "2026-08-10T19:35:38.000Z",
+      "lines": [
+        "Claude AI로 코드 리뷰와 PR 자동 생성",
+        "GitHub Actions 연동 지원",
+        "오픈소스 프로젝트로 무료 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-11-27",
+      "top": false
+    },
+    {
+      "title": "클로드가 수학 문제를 어떻게 해결하는지 분석",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hN2tYeFF6SEtkVVhzVURqcHVqZ0VPVExEUnlFX21BcmNLaFhqT1BEU25IVS15akdoYVZ3djRLc3B5OXIyRnNxZkcxQUd4TEhXaUlpZzNwZlhuUVk?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-10T17:52:56.000Z",
+      "lines": [
+        "클로드의 수학 문제 해결 방식 연구 결과 발표",
+        "복잡한 수학 문제에서도 정확한 답변 제공",
+        "수학 교육 및 연구 분야 활용 가능성 제시"
+      ],
+      "tags": [
+        "Claude",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-11-28",
+      "top": false
+    },
+    {
+      "title": "우주항공청, K-우주 데이터센터 구축 논의",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213770",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-10T17:20:00.000Z",
+      "lines": [
+        "17개사와 K-문샷 우주미션 일환으로 우주 데이터센터 구축 논의",
+        "AI·ICT 기업 참여로 한국형 우주 데이터센터 개발 추진",
+        "우주용 AI 반도체·태양전지 등 핵심 기술 공급망 구축 목표"
+      ],
+      "tags": [
+        "국내",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-11-29",
+      "top": false
+    },
+    {
+      "title": "OpenAI CFO가 전하는 AI 금융팀 구축 5가지 교훈",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-10T17:00:00.000Z",
+      "lines": [
+        "AI 기반 재무 예측 자동화 필요성 강조",
+        "강화된 통제 시스템과 ROI 분석 중요성",
+        "AI 도입 시 실무 적용 사례 공유"
+      ],
+      "tags": [
+        "OpenAI",
+        "AI",
+        "금융"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-11-30",
+      "top": false
+    },
+    {
+      "title": "보스 CEO, AI 시대 헤드폰 전략 공개",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-10T14:00:00.000Z",
+      "lines": [
+        "보스 CEO 릴라 스나이더가 AI 기술 적용 전략 설명",
+        "전문용 사업 매각, 고급 오디오 브랜드 인수 진행",
+        "핵심 기술 라이선스 사업으로 사업 구조 재편"
+      ],
+      "tags": [
+        "음성",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-11-31",
+      "top": false
+    },
+    {
+      "title": "LLM 출력 '인간화'는 무의미하다",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T13:35:40.000Z",
+      "lines": [
+        "AI 생성 콘텐츠를 인간처럼 보이게 하는 시도는 불필요하다",
+        "사용자 경험을 해치는 우려와 기술적 한계가 지적된다",
+        "원본 출처: https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 55,
+      "id": "2026-08-11-32",
+      "top": false
+    },
+    {
+      "title": "3D 세탁실 모니터링 웹페이지 공개",
+      "url": "https://www.aisloperator.com/brickoven-estates-laundry-room/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-10T21:07:08.000Z",
+      "lines": [
+        "실시간 세탁기 상태를 3D로 시각화하는 웹페이지 출시",
+        "Claude 코드와 협업해 개발 완료",
+        "IoT 연동 가능하지만 현재는 시뮬레이션 데이터 사용"
+      ],
+      "tags": [
+        "3D",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-11-33",
+      "top": false
+    },
+    {
+      "title": "오픈소스 Greptile 대체 툴 출시",
+      "url": "https://github.com/Juror-AI/juror",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-10T14:17:13.000Z",
+      "lines": [
+        "Juror-AI가 Greptile의 오픈소스 대체 툴 출시",
+        "GitHub에 공개되어 무료 사용 가능",
+        "Hacker News에서 6점의 평점 획득"
+      ],
+      "tags": [
+        "오픈소스",
+        "구글"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-11-34",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트로 프로젝트 문서 관리 체계화 방법",
+      "url": "https://news.hada.io/topic?id=32363",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-10T14:06:35.000Z",
+      "lines": [
+        "AI 에이전트 활용해 요구사항·조사 자료 체계적 관리",
+        "중복·오류 방지 위한 문서 관리 자동화 솔루션 제시",
+        "프로젝트 효율성 향상을 위한 실무 팁 공유"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-11-35",
+      "top": false
+    },
+    {
+      "title": "IRCv3 명세 확장과 AI 지원 표시 도입",
+      "url": "https://news.hada.io/topic?id=32360",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-10T13:04:30.000Z",
+      "lines": [
+        "IRCv3 명세에 Account Extended Ban과 no-implicit-names 추가",
+        "AI 지원 여부 프로젝트 평가 정보로 표시 시작",
+        "클라이언트·서버·바운서 개선 지속"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-08-11-36",
+      "top": false
+    }
+  ]
+}
