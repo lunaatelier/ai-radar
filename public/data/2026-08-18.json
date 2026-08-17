@@ -1,0 +1,718 @@
+{
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-17T22:28:22.241Z",
+  "briefing": {
+    "highlight": "GPT-5.6 Sol 출시",
+    "rest": "와 코덱스 업데이트, 엔비디아 투자 등 AI 업계 주요 소식 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "OpenAI GPT-5.6 Sol, 비전 성능 최강으로 등장",
+      "url": "https://news.hada.io/topic?id=32594",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-17T21:37:23.000Z",
+      "lines": [
+        "GPT-5.6 Sol이 객체 탐지·OCR 등 비전 성능에서 GPT-5.5 대비 큰 개선",
+        "mAP@50 지표에서 13.8→46.2로 급상승하며 OpenAI 최강 모델로 자리매김",
+        "Terra·Luna도 각각 44.7·43.2의 높은 성능 기록"
+      ],
+      "tags": [
+        "OpenAI",
+        "비전",
+        "AI 모델"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-18-01",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 코덱스 대대적 업데이트 예고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214016",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T17:34:00.000Z",
+      "lines": [
+        "코덱스 장시간 작업 시 속도 94%·메모리 88% 감축",
+        "수백 턴 대화에서도 성능 저하 문제 해결",
+        "개발자 작업 효율성 향상 목표"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "오픈AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-18-02",
+      "top": true
+    },
+    {
+      "title": "엔비디아, 소프트뱅크 데이터센터 개발사에 15억 달러 투자",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T15:16:24.000Z",
+      "lines": [
+        "엔비디아가 소프트뱅크의 데이터센터 개발사에 15억 달러 투자",
+        "이번 투자로 엔비디아 칩이 오픈AI 데이터센터 구동 보장",
+        "AI 인프라 경쟁에서 엔비디아의 전략적 움직임"
+      ],
+      "tags": [
+        "엔비디아",
+        "오픈AI",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-18-03",
+      "top": true
+    },
+    {
+      "title": "스트라이프, OpenRouter 인수 합의 70억 달러 이상",
+      "url": "https://news.hada.io/topic?id=32575",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-17T02:31:57.000Z",
+      "lines": [
+        "결제 플랫폼 스트라이프가 AI 모델 게이트웨이 OpenRouter 인수",
+        "인수 금액은 70억 달러 이상으로 추정",
+        "AI 모델 접근성 및 결제 통합 강화 전략으로 분석"
+      ],
+      "tags": [
+        "AI",
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-18-04",
+      "top": true
+    },
+    {
+      "title": "다음 검색 AI 요약에 업스테이지 솔라 전면 적용",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214026",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T18:32:29.000Z",
+      "lines": [
+        "다음 검색 AI 요약에 업스테이지 솔라 LLM 전면 적용",
+        "AXZ 인수 후 첫 협업으로 차세대 AI 포털 구축 추진",
+        "김성훈 대표가 개인 SNS로 공식 발표"
+      ],
+      "tags": [
+        "AI",
+        "검색",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-18-05",
+      "top": true
+    },
+    {
+      "title": "AI 관리자가 인간 직원 해고 권고한 첫 사례",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214020",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T17:26:42.000Z",
+      "lines": [
+        "AI 관리자 루나가 근무 기록과 규정을 검토해 해고 권고",
+        "최종 집행은 사람이 담당하지만 AI가 고용 관계에 직접 관여",
+        "샌프란시스코 실험 매장에서 발생한 첫 사례로 주목"
+      ],
+      "tags": [
+        "에이전트",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-18-06",
+      "top": false
+    },
+    {
+      "title": "Qwen3.8 27B 모델이 인공지능 분석에서 52점 달성",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T17:25:17.000Z",
+      "lines": [
+        "Qwen3.8 27B 모델이 인공지능 분석에서 52점 기록",
+        "해커뉴스에서 257점의 높은 평점과 113개의 댓글 수집",
+        "모델 성능과 커뮤니티 반응에 대한 관심 증가"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-18-07",
+      "top": false
+    },
+    {
+      "title": "우크라이나 드론, 미 기갑전술 재검토 촉발",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214017",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T16:24:08.000Z",
+      "lines": [
+        "우크라이나 드론 부대, 미군 기갑여단 상대로 모의전에서 승리",
+        "미 육군, 전통적 기갑전술에서 드론 대응 분산·은폐 전략으로 전환",
+        "우크라이나 전쟁 경험이 글로벌 지상전 전략에 영향"
+      ],
+      "tags": [
+        "국제",
+        "군사",
+        "드론"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-18-08",
+      "top": false
+    },
+    {
+      "title": "Groq 350M 달러 투자 유치…AI 클라우드 사업 전환",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:15:12.000Z",
+      "lines": [
+        "AI 칩 전문기업 Groq 350M 달러 투자 유치",
+        "NVIDIA 기반 데이터센터 확장…클라우드 사업 전환",
+        "35억 달러 기업가치 달성"
+      ],
+      "tags": [
+        "인프라",
+        "투자",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-18-09",
+      "top": false
+    },
+    {
+      "title": "엔비디아·알파벳, 스페이스X 투자 대박 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214028",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T15:40:00.000Z",
+      "lines": [
+        "엔비디아 209억8000만달러 스페이스X 지분 보유 확인",
+        "알파벳 등 주요 기업 우주·AI 분야 투자 성과 공개",
+        "SEC 분기 보고서 통해 막대한 평가 차익 확인"
+      ],
+      "tags": [
+        "투자",
+        "엔비디아",
+        "알파벳"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-08-18-10",
+      "top": false
+    },
+    {
+      "title": "스페코, 음성 AI 최적 모델 조합 추천 플랫폼 출시",
+      "url": "https://speko.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T15:36:18.000Z",
+      "lines": [
+        "음성 AI 스택 최적화 플랫폼 '스페코' 출시",
+        "STT·LLM·TTS 모델 조합 추천 및 벤치마크 제공",
+        "월별 신규 모델 평가로 최신 기술 적용 지원"
+      ],
+      "tags": [
+        "음성",
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-18-11",
+      "top": false
+    },
+    {
+      "title": "AI 코파일럿 'Autofix'로 스노우플레이크 Jira 침투 가능",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T14:18:38.000Z",
+      "lines": [
+        "AI 생성 코드 도구 'Autofix'가 스노우플레이크 Jira 보안 취약점 발생",
+        "CI/CD 파이프라인에서 악성 코드 주입 가능성 확인",
+        "Wiz 연구팀이 보안 리스크 경고"
+      ],
+      "tags": [
+        "보안",
+        "GitHub",
+        "스노우플레이크"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-18-12",
+      "top": false
+    },
+    {
+      "title": "클로드가 텍스트 워터마크 적용 방안 설명",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-17T10:57:13.000Z",
+      "lines": [
+        "유럽 AI 투명성 규제 대응으로 워터마크 도입",
+        "구글 딥마인드 오픈소스 기술 기반",
+        "이미지·텍스트 모두 C2PA 표준 준수"
+      ],
+      "tags": [
+        "Claude",
+        "구글",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-18-13",
+      "top": false
+    },
+    {
+      "title": "도버먼: Claude의 데이터베이스 삭제 방지 AI 감시견",
+      "url": "https://github.com/fu351/Doberman-Core",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T20:03:00.000Z",
+      "lines": [
+        "AI 보안 시스템의 11% 취약점을 보완하는 2계층 감시 도구",
+        "실시간으로 입력/출력/툴 실행 모니터링 및 사용자 학습",
+        "기존 보안 시스템보다 동적·개인화된 접근 방식"
+      ],
+      "tags": [
+        "Claude",
+        "보안",
+        "AI 에이전트"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-18-14",
+      "top": false
+    },
+    {
+      "title": "HarnessRouter: 에이전트 통합 API 서비스 출시",
+      "url": "https://github.com/harnessrouter/harnessrouter",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T18:33:38.000Z",
+      "lines": [
+        "다양한 에이전트 프레임워크를 통합한 API 서비스 출시",
+        "LangGraph 등 기존 솔루션보다 효율적 사용 가능",
+        "Codex·Claude Code 등 유명 에이전트 직접 활용 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-18-15",
+      "top": false
+    },
+    {
+      "title": "마스오토, 2028년 무인 화물운송 시대 연다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=213762",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T18:04:49.000Z",
+      "lines": [
+        "미국 자율주행 시장에서 웨이모·죽스·테슬라 삼파전 지속",
+        "마스오토는 B2B 화물 시장에 집중해 차별화 전략 추진",
+        "2028년까지 E2E AI 기반 무인 화물운송 목표"
+      ],
+      "tags": [
+        "자율주행",
+        "AI",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-18-16",
+      "top": false
+    },
+    {
+      "title": "아마존, 희귀 도서 AI 학습용으로 파괴 논란",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T16:38:44.000Z",
+      "lines": [
+        "희귀 도서는 온라인 자료보다 AI 학습에 더 가치 있음",
+        "아마존이 희귀 도서를 AI 학습용으로 파괴하고 있음",
+        "도서 보존과 AI 학습 간 갈등이 커지고 있음"
+      ],
+      "tags": [
+        "저작권",
+        "연구",
+        "아마존"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-18-17",
+      "top": false
+    },
+    {
+      "title": "Anthropic, 신규 AI 모델 출시 예정 발표",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-17T15:56:47.000Z",
+      "lines": [
+        "Anthropic이 새로운 AI 모델 출시 예정",
+        "기존 모델 대비 성능 향상 예정",
+        "세부 정보는 추후 공개 예정"
+      ],
+      "tags": [
+        "Anthropic",
+        "AI 모델"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-18-18",
+      "top": false
+    },
+    {
+      "title": "위스퍼 28억 달러 평가액으로 2억8천만 달러 유치",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T13:10:05.000Z",
+      "lines": [
+        "음성인식 전문 기업 위스퍼가 28억 달러 평가액으로 2억8천만 달러 투자 유치",
+        "신규 회의록 작성 툴 출시로 시장 확장 계획",
+        "음성인식 기술의 새로운 적용 분야 탐색 중"
+      ],
+      "tags": [
+        "음성",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-18-19",
+      "top": false
+    },
+    {
+      "title": "클로드가 텍스트 생성 방식에 워터마크 적용",
+      "url": "https://news.hada.io/topic?id=32579",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-17T09:33:37.000Z",
+      "lines": [
+        "200토큰 초과 텍스트에 워터마크 적용",
+        "단어 선택 확률 조정으로 구현",
+        "EU 규정 준수 목적으로 전 세계 적용"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "규제"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-18-20",
+      "top": false
+    },
+    {
+      "title": "구글, AI와 스마트폰으로 축구 팬 경험 혁신",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google Blog",
+      "publishedAt": "2026-08-17T08:00:00.000Z",
+      "lines": [
+        "제미니와 픽셀이 글로벌 축구 클럽 5개와 협력",
+        "AI와 스마트폰 기술로 팬들의 경기일 경험 향상",
+        "구글의 AI 기술과 하드웨어 결합 전략 강화"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-18-21",
+      "top": false
+    },
+    {
+      "title": "오픈AI, AI 정책 아이디어 연구 프로젝트 14개 지원",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-17T03:15:00.000Z",
+      "lines": [
+        "인공지능 시대를 위한 경제 기회 확대 정책 연구 지원",
+        "사회적 탄력성 강화를 위한 정책 아이디어 탐색",
+        "독립 프로젝트 14개에 자금 지원"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-18-22",
+      "top": false
+    },
+    {
+      "title": "AI 자동화 스타트업 Relay, 구글 크롬 팀으로 통합",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-17T21:27:05.000Z",
+      "lines": [
+        "AI 자동화 스타트업 Relay가 폐쇄 후 구글 크롬 팀으로 합류",
+        "Relay CEO Jacob Bank가 크롬 AI 기능 개발 계획 언급",
+        "구글이 AI 생산성 도구 확장에 집중하는 것으로 분석"
+      ],
+      "tags": [
+        "생산성",
+        "구글"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-08-18-23",
+      "top": false
+    },
+    {
+      "title": "개인 맞춤형 AI 튜터 'Suki' 오픈소스 공개",
+      "url": "https://github.com/grandimam/suki",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T21:04:38.000Z",
+      "lines": [
+        "LLM 기반 학습 도구로 주제별 커리큘럼 자동 생성",
+        "이해도 점검 기능으로 실질적 학습 효과 향상",
+        "기존 도서 학습 방식의 한계 극복 목표"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-18-24",
+      "top": false
+    },
+    {
+      "title": "AI;DR: 긴 글 요약 툴 출시",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T19:47:15.000Z",
+      "lines": [
+        "AI;DR은 긴 글 요약 툴로, 사용자가 링크를 입력하면 핵심 요점을 추출해 제공",
+        "Hacker News에서 415점의 높은 평점을 기록하며 주목받는 중",
+        "개발자 Rick Manelius가 제작한 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-18-25",
+      "top": false
+    },
+    {
+      "title": "라이너, B2B AI 검색 전담 조직 'AX 디비전' 신설",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214025",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T17:49:31.000Z",
+      "lines": [
+        "B2C AI 검색 노하우를 B2B로 확장해 기업·대학·연구실 등 조직 적용",
+        "출처 기반 답변과 에이전트 기술을 고도화해 실무 적용 논의 확대",
+        "전담 조직 'AX 디비전' 신설로 B2B 사업 본격화"
+      ],
+      "tags": [
+        "검색",
+        "에이전트",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-08-18-26",
+      "top": false
+    },
+    {
+      "title": "엔겔바르트: 클로드 코드 프로젝트 관리 도구 출시",
+      "url": "https://github.com/divadbaroon/claude-plugins",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T20:41:03.000Z",
+      "lines": [
+        "클로드 코드 채팅에서 프로젝트 목표와 할일 추적 가능",
+        "오픈소스 플러그인으로 이전 대화 내용 분석",
+        "웹 인터페이스 통해 컨텍스트 주입 및 목표 업데이트 지원"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-18-27",
+      "top": false
+    },
+    {
+      "title": "Slaunt로 AI 에이전트 권한 관리",
+      "url": "https://slaunt.ai",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T20:33:01.000Z",
+      "lines": [
+        "AI 에이전트 접근 권한 제어 툴 출시",
+        "실행 가능한 작업 범위 설정 가능",
+        "보안 강화 및 위험 최소화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-18-28",
+      "top": false
+    },
+    {
+      "title": "AI 데이터센터, 미국 농촌을 갈라놓다",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214029",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-17T18:05:00.000Z",
+      "lines": [
+        "AI 인프라 확장을 위한 데이터센터 구축이 미국 농촌 지역을 갈등으로 몰고 있다",
+        "주민들은 보상금 거절과 땅 팔아달라는 극단적인 반응을 보이고 있다",
+        "메타로 추정되는 기업이 켄터키주 메이즈빌에 2.2GW 규모 데이터센터를 건설 예정"
+      ],
+      "tags": [
+        "인프라",
+        "국내"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-18-29",
+      "top": false
+    },
+    {
+      "title": "OpenAI, AI 기반 사이버 보안 강화 전략 발표",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-17T05:30:00.000Z",
+      "lines": [
+        "AI가 공격자와 방어자 모두에게 사이버 보안 환경 변화 촉진",
+        "OpenAI의 보안 강화 방안과 실무 적용 방법 제시",
+        "기업 보안팀을 위한 실용적 조언 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-18-30",
+      "top": false
+    },
+    {
+      "title": "오픈AI 포츠-파이크 프로젝트에 참여",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-17T05:00:00.000Z",
+      "lines": [
+        "오픈AI가 포츠-파이크 프로젝트에 참여",
+        "지역 사회 투자 확대와 수천 개의 일자리 지원",
+        "남부 오하이오 지역 경제 활성화 기여"
+      ],
+      "tags": [
+        "오픈소스",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-18-31",
+      "top": false
+    },
+    {
+      "title": "AI;DR 운동, 저품질 AI 콘텐츠에 대응",
+      "url": "https://news.hada.io/topic?id=32593",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-17T21:34:22.000Z",
+      "lines": [
+        "AI;DR은 검토·편집되지 않은 AI 생성물을 읽지 않겠다는 원칙",
+        "AI를 작업 과정에 활용하는 것과 결과물을 그대로 전달하는 것은 구분해야 함",
+        "고객 지원 등에서 AI 활용은 자연스럽지만 품질 관리 필요성 강조"
+      ],
+      "tags": [
+        "AI",
+        "콘텐츠",
+        "품질"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-08-18-32",
+      "top": false
+    },
+    {
+      "title": "AI로 CEO 체험하는 선택형 게임 출시",
+      "url": "https://undercover.games/play",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T18:35:25.000Z",
+      "lines": [
+        "LLM 기반 선택형 게임으로 유명 CEO 체험 가능",
+        "실시간 대화 형식으로 경영 전략 결정",
+        "HN에서 소개되며 관심 모으는 중"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-18-33",
+      "top": false
+    },
+    {
+      "title": "AI 크롤링 차단 방법 공유",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-17T14:07:56.000Z",
+      "lines": [
+        "AI 크롤러 차단을 위한 다양한 방법 소개",
+        "웹사이트 운영자 대상 실용적 가이드 제공",
+        "개인 정보 보호 및 콘텐츠 소유권 강조"
+      ],
+      "tags": [
+        "규제",
+        "저작권"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-18-34",
+      "top": false
+    },
+    {
+      "title": "크론루프로 클로드 코드 자동 실행",
+      "url": "https://cronloop.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T19:14:02.000Z",
+      "lines": [
+        "클로드 코드 자동 실행 서비스 크론루프 출시",
+        "스케줄에 따라 코드 실행 가능",
+        "HN에서 2점 획득"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 40,
+      "id": "2026-08-18-35",
+      "top": false
+    },
+    {
+      "title": "AI 기반 매칭 서비스 'Love' 출시",
+      "url": "https://01001100011011110111011001100101.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-17T19:20:40.000Z",
+      "lines": [
+        "AI 알고리즘으로 매칭하는 새로운 서비스",
+        "개발자는 최근 이별 경험을 동기로 개발",
+        "HN 커뮤니티에 소개된 초기 단계 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 30,
+      "id": "2026-08-18-36",
+      "top": false
+    }
+  ]
+}
