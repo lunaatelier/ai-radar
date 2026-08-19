@@ -1,0 +1,716 @@
+{
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-19T22:31:12.356Z",
+  "briefing": {
+    "highlight": "Cerebras CS-4 출시",
+    "rest": "와 하비 II, OpenRouter 합류 등 AI 업계 주요 소식 3건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "Cerebras CS-4, GPU 대비 30배 빠른 AI 추론 시스템 공개",
+      "url": "https://news.hada.io/topic?id=32656",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T12:21:47.000Z",
+      "lines": [
+        "WSE-3 Turbo 3개 탑재한 랙 규모 AI 시스템 CS-4 출시",
+        "GPU 대비 최대 30배 빠른 추론 속도 구현",
+        "CS-3 대비 와트당 처리량 10배 향상"
+      ],
+      "tags": [
+        "인프라",
+        "Cerebras"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-20-01",
+      "top": true
+    },
+    {
+      "title": "하비, 법률 특화 AI '하비 II' 출시…메모리 기능 탑재",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214100",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "lines": [
+        "법률 특화 AI '하비 II' 공개",
+        "테넷 모델과 메모리 기능 탑재",
+        "오픈웨이트 키미 K3 기반 개발"
+      ],
+      "tags": [
+        "에이전트",
+        "ChatGPT",
+        "법률"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-20-02",
+      "top": true
+    },
+    {
+      "title": "OpenRouter가 Stripe에 합류하며 AI 마켓플레이스 확장",
+      "url": "https://news.hada.io/topic?id=32674",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T21:34:45.000Z",
+      "lines": [
+        "AI 모델 게이트웨이 OpenRouter가 Stripe에 합류하며 인프라 강화",
+        "400개 모델 처리·10조 토큰 일일 처리량 유지하며 개발자 1,000만 명 지원",
+        "기존 서비스·로드맵 유지하며 AI 추론 인프라 확장"
+      ],
+      "tags": [
+        "인프라",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-20-03",
+      "top": true
+    },
+    {
+      "title": "커서, AI 에이전트 전용 코드 플랫폼 '오리진' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214101",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T19:24:03.000Z",
+      "lines": [
+        "AI 에이전트 코드 관리를 위한 자체 플랫폼 출시",
+        "깃허브 대체 가능성 제시, 베타 서비스 시작",
+        "유료 사용자 대상 단계적 제공, 관리자 제어 기능 포함"
+      ],
+      "tags": [
+        "에이전트",
+        "클라우드",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-20-04",
+      "top": true
+    },
+    {
+      "title": "구글, 안드로이드 크롬에 제미나이 통합",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214118",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T19:03:48.000Z",
+      "lines": [
+        "안드로이드 크롬에 제미나이 AI 통합",
+        "자동 탐색 기능으로 반복 작업 자동화",
+        "모바일 웹 브라우징 AI 전환 가속화"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "모바일"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-20-05",
+      "top": true
+    },
+    {
+      "title": "OpenAI, 프론티어 모델에 제로 데이터 보존 적용",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "lines": [
+        "API 고객 대상 데이터 보존 정책 강화",
+        "개인정보 보호와 AI 안전성 동시 보장",
+        "고급 안전 처리 시스템 미리 공개"
+      ],
+      "tags": [
+        "OpenAI",
+        "AI안전",
+        "개인정보보호"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-20-06",
+      "top": false
+    },
+    {
+      "title": "구글 제미니 학생 전용 허브 출시",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "lines": [
+        "학습 노트 작성, 플래시카드 제작 등 학업 지원 기능 통합",
+        "시험 일정 자동 캘린더 등록과 그래프/이미지 지원 강화",
+        "Gemini Live에 심층 연구 기능 추가로 보고서 생성 가능"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-20-07",
+      "top": false
+    },
+    {
+      "title": "구글, FDE 업무 AI로 자동화...인간 한계 극복",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214122",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T18:54:40.000Z",
+      "lines": [
+        "구글이 FDE 업무 일부를 AI 에이전트로 대체 실험 시작",
+        "기업 데이터 처리 한계 극복 위해 AI 자동화 도입",
+        "제미나이 활용 애플리케이션 개발 지원 인력 채용 계획"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "AI 에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-20-08",
+      "top": false
+    },
+    {
+      "title": "중국 유니트리, 미국 기술 기반 로봇견으로 시장 선점",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214124",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T18:32:51.000Z",
+      "lines": [
+        "미 육군 지원 연구 기반 사족보행 로봇 상용화",
+        "미국 기술 개발, 중국 기업이 상업화 성공",
+        "전문가들, 미국 연구 성과와 유사성 지적"
+      ],
+      "tags": [
+        "로봇",
+        "중국",
+        "미국"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-20-09",
+      "top": false
+    },
+    {
+      "title": "OpenAI AI 개발 속도 줄여 안전성 강화",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-19T17:10:09.000Z",
+      "lines": [
+        "OpenAI가 AI 개발 속도 저하 및 안전 강화 조치 발표",
+        "주요 모델 RL 훈련 2주간 중단 및 대형 모델 출시 연기",
+        "AI 안전성 논쟁과 경쟁 압력 속 자발적 속도 조절"
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "안전성"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-20-10",
+      "top": false
+    },
+    {
+      "title": "OneCLI, 팀용 샌드박스 에이전트 오픈소스 출시",
+      "url": "https://github.com/onecli/onecli",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T16:29:02.000Z",
+      "lines": [
+        "팀원 각각에게 보안 강화된 개인 에이전트 제공",
+        "GitHub·Gmail·Notion 등 서비스 간편 연결 지원",
+        "팀 정책 중앙화 관리 및 공유 LLM 키 활용 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-20-11",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 엔터프라이즈 고객 데이터 보호 강화",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T22:10:46.000Z",
+      "lines": [
+        "오픈AI와 앤트로픽 간 기업 고객 데이터 보호 경쟁 심화",
+        "고객 데이터 프라이버시 강화로 경쟁 우위 확보 시도",
+        "엔터프라이즈 시장에서 데이터 보안 경쟁 본격화"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-20-12",
+      "top": false
+    },
+    {
+      "title": "오픈AI, GPT-5.6 제품군 오픈라우터서 50% 할인",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214099",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T19:54:38.000Z",
+      "lines": [
+        "오픈라우터에서 GPT-5.6 제품군 가격 50% 할인 적용",
+        "앤트로픽과 개발자 시장 공략 본격화",
+        "플래그십 모델 솔까지 할인 확대"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "오픈AI"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-20-13",
+      "top": false
+    },
+    {
+      "title": "클로드 워터마크 도입에 제거 도구 속속 등장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T19:39:30.000Z",
+      "lines": [
+        "앤트로픽 클로드에 비가시적 워터마크 도입",
+        "워터마크 제거 도구 개발자들 사이에서 유포",
+        "통계적 패턴 기반 워터마크로 우회 어려움"
+      ],
+      "tags": [
+        "Claude",
+        "안전",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-20-14",
+      "top": false
+    },
+    {
+      "title": "챗GPT 비속어 사용 논란 급증...모델 변경 영향",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214117",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-19T19:17:03.000Z",
+      "lines": [
+        "챗GPT가 대화 중 비속어 사용 사례 증가",
+        "레딧·X 등에서 노골적 표현 캡처 공유",
+        "요리 레시피·기술 설명에서도 욕설 등장"
+      ],
+      "tags": [
+        "ChatGPT",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-08-20-15",
+      "top": false
+    },
+    {
+      "title": "구글 검색과 제미니에 AI 학습 도구 추가",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "lines": [
+        "구글이 제미니 AI에 학습 지원 기능을 추가",
+        "학습 및 검색 경험을 강화해 학생 타겟",
+        "오픈AI 등 경쟁사와의 경쟁 강화"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-20-16",
+      "top": false
+    },
+    {
+      "title": "AI 컴퓨팅 비용을 평가하는 스타트업 등장",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T17:26:48.000Z",
+      "lines": [
+        "AI 데이터센터 및 GPU 투자 증가로 컴퓨팅 비용이 주요 문제로 부상",
+        "컴퓨팅 비용을 평가하고 가격 변동에 대비하는 솔루션 제공",
+        "실리콘 데이터가 AI 시장 공백을 메우는 스타트업으로 주목"
+      ],
+      "tags": [
+        "인프라",
+        "투자",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-20-17",
+      "top": false
+    },
+    {
+      "title": "메타 AI 맥 앱 출시…화면 공유 기능 지원",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-19T17:00:00.000Z",
+      "lines": [
+        "메타 AI 맥 전용 앱 출시…화면 공유로 콘텐츠 생성 및 제안 가능",
+        "음성 입력 지원…생산성 보조 기능 강화",
+        "구글 제미니·오픈AI 챗GPT 등 경쟁사 대비 뒤처짐 해소"
+      ],
+      "tags": [
+        "메타",
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-20-18",
+      "top": false
+    },
+    {
+      "title": "테라파워, AI 데이터센터 전력 공급에 핵발전소 활용",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T15:44:53.000Z",
+      "lines": [
+        "테라파워의 핵발전소가 데이터센터 시장 경쟁력 확보",
+        "AI 데이터센터 전력 공급에 핵발전소 활용 전략",
+        "기존 경쟁사 대비 차별화된 에너지 공급 방식"
+      ],
+      "tags": [
+        "AI",
+        "인프라",
+        "에너지"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-20-19",
+      "top": false
+    },
+    {
+      "title": "Mojo 컴파일러와 툴체인 오픈소스 공개",
+      "url": "https://news.hada.io/topic?id=32663",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T13:01:09.000Z",
+      "lines": [
+        "Modular가 Mojo 컴파일러와 전체 툴체인을 Apache 2.0 라이선스로 공개",
+        "GPU와 AI 가속기 등 고급 컴퓨팅 자원을 활용하도록 설계된 최신 언어",
+        "누구나 소스에서 직접 빌드 가능해짐"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-20-20",
+      "top": false
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs 출시",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T18:36:45.000Z",
+      "lines": [
+        "Unsloth Dynamic 3.0 버전 GGUF 모델 출시",
+        "Hacker News에서 128 포인트, 37개 댓글 기록",
+        "모델 최적화 및 효율성 향상"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-20-21",
+      "top": false
+    },
+    {
+      "title": "Ornith-1.5: 자기 강화로 성능 향상",
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T14:48:39.000Z",
+      "lines": [
+        "Ornith-1.5 모델이 자기 강화 기법으로 성능 개선",
+        "Hacker News에서 153점·49개 댓글 기록",
+        "기존 모델 대비 정확도와 효율성 향상"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-08-20-22",
+      "top": false
+    },
+    {
+      "title": "웹사이트를 마이크로 CLI로 변환해 Claude 코드 토큰 절약",
+      "url": "https://github.com/only-cli/oc",
+      "source": "Show HN",
+      "publishedAt": "2026-08-19T21:26:15.000Z",
+      "lines": [
+        "oc 툴로 웹사이트를 CLI 형식으로 변환 가능",
+        "Claude 코드 실행 시 토큰 사용량 감소 효과",
+        "GitHub 오픈소스로 공개된 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-20-23",
+      "top": false
+    },
+    {
+      "title": "AI 보급 확대에도 소비자 신뢰는 미흡",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T19:11:40.000Z",
+      "lines": [
+        "AI 기술 보급 확대에도 소비자 신뢰 부족",
+        "실리콘밸리도 수용과 보급은 별개",
+        "AI 기술에 대한 소비자 경계심 증가"
+      ],
+      "tags": [
+        "연구",
+        "규제",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-20-24",
+      "top": false
+    },
+    {
+      "title": "구글 검색으로 학습 효율 극대화하는 5가지 방법",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "source": "Google Blog",
+      "publishedAt": "2026-08-19T19:00:00.000Z",
+      "lines": [
+        "표준화 시험 대비 맞춤 학습 자료 추천",
+        "시험 문제 유형별 실시간 검색 기능",
+        "학습 자료 생성 및 정리 도구 제공"
+      ],
+      "tags": [
+        "구글",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-20-25",
+      "top": false
+    },
+    {
+      "title": "오픈AI 사이버 프로그램 접근권한 회수 논란",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T18:46:14.000Z",
+      "lines": [
+        "오픈AI가 사이버 보안 프로그램 접근 권한을 연구자들에게 회수",
+        "신고된 취약점 패치 촉진을 위한 프로그램 운영 중",
+        "연구자들로부터 프로그램 접근권한 회수에 대한 불만 제기"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-20-26",
+      "top": false
+    },
+    {
+      "title": "AI 시대 수학의 역할과 발전 방향",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T15:14:25.000Z",
+      "lines": [
+        "AI 발전이 수학 분야에 미치는 영향 분석",
+        "수학의 미래 발전 방향 제시",
+        "연구 논문과 커뮤니티 반응 요약"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-20-27",
+      "top": false
+    },
+    {
+      "title": "파이어TV에서 프라임 없이 무료 제공되는 Alexa+",
+      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T15:00:00.000Z",
+      "lines": [
+        "아마존이 파이어TV에서 프라임 구독 없이 Alexa+ 무료 제공",
+        "모든 호환 기기 사용자에게 자동 업그레이드 적용",
+        "AI 기능 강화된 Alexa+ 서비스 확대"
+      ],
+      "tags": [
+        "음성",
+        "아마존"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-20-28",
+      "top": false
+    },
+    {
+      "title": "AI 사용률 2배 증가, 업무 효율성 변화 분석",
+      "url": "https://news.hada.io/topic?id=32661",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T12:31:31.000Z",
+      "lines": [
+        "2026년 상반기 AI 기능 사용률 모든 직군에서 2배 증가",
+        "기업 규모와 관계없이 AI 확산, 기존 업무에 추가 활용",
+        "이슈 처리 시간 증가, 기획 시간 유지"
+      ],
+      "tags": [
+        "생산성",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-08-20-29",
+      "top": false
+    },
+    {
+      "title": "스페이스X, 코그니션 인수 협상 소식 부인",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-19T21:51:23.000Z",
+      "lines": [
+        "스페이스X가 코그니션 인수 협상 중이라는 보도에 대해 CEO가 부인",
+        "스페이스X는 이미 커서 AI 스타트업을 인수하며 경쟁사들과의 격차를 줄이는 중",
+        "AI 분야에서 오픈AI와 앤트로픽 등 경쟁사들과의 경쟁이 치열해지고 있음"
+      ],
+      "tags": [
+        "AI",
+        "인수",
+        "SpaceX"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-20-30",
+      "top": false
+    },
+    {
+      "title": "에이전트 스택 포크 후 성능 비교 실험 결과 공개",
+      "url": "https://toolbay.ai/stack",
+      "source": "Show HN",
+      "publishedAt": "2026-08-19T20:59:35.000Z",
+      "lines": [
+        "개발자가 오픈소스 에이전트 스택을 포크해 성능 측정",
+        "실험 결과와 손실 분석을 공개한 글",
+        "HN 커뮤니티에서 공유된 기술 실험 사례"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-20-31",
+      "top": false
+    },
+    {
+      "title": "DFlash 2 출시: 병렬 초안 유지 기능 추가",
+      "url": "https://inco.ai/blog/dflash2/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-19T20:28:43.000Z",
+      "lines": [
+        "DFlash 2 버전 출시로 병렬 초안 유지 기능 추가",
+        "기존 초안 유지와 병렬 작업 동시 지원 가능",
+        "인코AI에서 개발한 툴로 생산성 향상 목표"
+      ],
+      "tags": [
+        "생산성",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-08-20-32",
+      "top": false
+    },
+    {
+      "title": "DeepSeek Harness용 LLM 검증 플러그인 출시",
+      "url": "https://github.com/uson1x/dsh-plugin-llm-verifier",
+      "source": "Show HN",
+      "publishedAt": "2026-08-19T19:25:27.000Z",
+      "lines": [
+        "DeepSeek Harness에 적용 가능한 LLM 검증 플러그인 공개",
+        "GitHub에서 오픈소스로 배포 중",
+        "Hacker News에 소개되며 관심 모으는 중"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-20-33",
+      "top": false
+    },
+    {
+      "title": "Notula: AI 에이전트가 읽는 마크다운 편집 플랫폼",
+      "url": "https://notula.org/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-19T19:18:54.000Z",
+      "lines": [
+        "AI 에이전트가 읽는 마크다운 문서를 인간이 편집할 수 있는 플랫폼",
+        "오픈소스 프로젝트로 개발 중이며 현재 초기 버전 출시",
+        "Hacker News에 소개되며 관심을 모으는 중"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-20-34",
+      "top": false
+    },
+    {
+      "title": "AI 시대 개발자의 역할 재정의: 목욕탕 만들기",
+      "url": "https://news.hada.io/topic?id=32662",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T12:49:43.000Z",
+      "lines": [
+        "건축가 정기용의 사례에서 영감을 얻은 AI 개발자 역할 재정의",
+        "주민 중심 접근법으로 진정한 니즈 파악이 핵심",
+        "기술 중심이 아닌 사용자 경험 최적화로 패러다임 전환"
+      ],
+      "tags": [
+        "생산성",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-20-35",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트가 ESP32를 고장내도록 의도적으로 허용",
+      "url": "https://github.com/GLechevalier/nff-core",
+      "source": "Show HN",
+      "publishedAt": "2026-08-19T19:55:23.000Z",
+      "lines": [
+        "AI 에이전트가 저비용 ESP32를 고장내도록 허용한 실험",
+        "오픈소스 프로젝트 nff-core를 활용한 실험 결과 공유",
+        "Hacker News에 게시된 실험 결과에 대한 논의"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 30,
+      "id": "2026-08-20-36",
+      "top": false
+    }
+  ]
+}
