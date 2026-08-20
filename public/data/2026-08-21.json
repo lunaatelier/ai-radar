@@ -1,0 +1,613 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T22:38:55.922Z",
+  "briefing": {
+    "highlight": "Claude 3.5 Sonnet 출시",
+    "rest": "와 단백질 설계 성능, 차세대 AI 가속기 등 3건의 주요 AI 업데이트를 확인해 보세요."
+  },
+  "totalCollected": 34,
+  "items": [
+    {
+      "title": "클로드, 단백질 설계·분석 화학서 성능 입증",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214157",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T18:00:00.000Z",
+      "lines": [
+        "앤트로픽의 클로드가 단백질 설계 및 분석 화학 연구 속도 혁신적으로 단축",
+        "AI 기술이 생명 과학 등 고난도 실험 분야에서도 핵심 역할 가능성 입증",
+        "신약 개발 초기 단계인 단백질 결합체 설계에서 우수한 성능 보여줌"
+      ],
+      "tags": [
+        "Claude",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-08-21-01",
+      "top": true
+    },
+    {
+      "title": "Anthropic, Claude 3.5 Sonnet 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-08-20T17:57:43.000Z",
+      "lines": [
+        "Claude 3.5 Sonnet 모델 출시",
+        "이전 버전 대비 성능 향상",
+        "업계 경쟁 심화 예상"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-21-02",
+      "top": true
+    },
+    {
+      "title": "세레브라스, 차세대 AI 가속기 'CS-4' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214166",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T17:43:14.000Z",
+      "lines": [
+        "GPU 대비 30배 빠른 AI 추론 성능 구현",
+        "웨이퍼 스케일 프로세서 3개 결합 및 전면 재설계",
+        "TSMC 5nm 공정으로 생산된 WSE-3 터보 기반"
+      ],
+      "tags": [
+        "인프라",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-21-03",
+      "top": true
+    },
+    {
+      "title": "클로드 코워크 웹·모바일 출시...구글 워크스페이스 연동 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214171",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T18:04:49.000Z",
+      "lines": [
+        "앤트로픽이 클로드 코워크 웹·모바일 버전 베타 출시",
+        "구글 워크스페이스 연동 강화로 업무 효율성 향상",
+        "데스크톱·웹·모바일에서 동기화 작업 가능"
+      ],
+      "tags": [
+        "Claude",
+        "구글",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-21-04",
+      "top": true
+    },
+    {
+      "title": "지푸, GLM-5.3 API 공개로 가성비 AI 시장 공략",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214148",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T17:59:08.000Z",
+      "lines": [
+        "GLM-5.3 API 공개로 개발자 직접 연동 가능",
+        "코드 작성·에이전트 수행 능력 강화, 가격 동결 유지",
+        "입력 토큰 1.4달러, 출력 토큰 4.4달러로 경쟁력"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "지푸"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-21-05",
+      "top": true
+    },
+    {
+      "title": "중국 휴머노이드 로봇 업계 상용화 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214144",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T17:53:00.000Z",
+      "lines": [
+        "눈요기 시연에서 벗어나 물류·제조·가사 등 실용 분야로 전환",
+        "2026 WRC에서 실제 작업 수행 로봇이 주목받음",
+        "신뢰성·자율성·가격 경쟁력 확보가 생존 핵심"
+      ],
+      "tags": [
+        "로봇",
+        "중국",
+        "산업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-21-06",
+      "top": false
+    },
+    {
+      "title": "구글, AI 학습 도구 대거 공개…대학생 1년 무료 혜택",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214182",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T17:45:00.000Z",
+      "lines": [
+        "구글 검색에 대화형 3D 시뮬레이션 등 학습 보조 기능 추가",
+        "제미나이 앱에 맞춤형 퀴즈·딥리서치 등 실질적 학습 도구 확장",
+        "전 세계 대학생 대상 1년 무료 혜택 포함"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-21-07",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 보안 점검 도구 '닉스' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214176",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-20T17:23:05.000Z",
+      "lines": [
+        "AI 에이전트 보안 취약점 자동 검출하는 레드팀 도구 출시",
+        "기업들이 서비스 배포 전 지속적 취약점 점검 가능",
+        "파브릭스, 자율형 공격 에이전트 '닉스' 버전 2 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "보안",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-21-08",
+      "top": false
+    },
+    {
+      "title": "ChatGPT 출시 후 3분의 1 웹페이지 AI 저작 흔적",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T17:18:58.000Z",
+      "lines": [
+        "ChatGPT 출시 후 생성된 웹페이지 33%에 AI 저작 흔적 발견",
+        "AI 모델이 웹 콘텐츠 생성 및 편집에 광범위 활용 중",
+        "연구 결과 웹 콘텐츠의 AI 영향력이 빠르게 증가"
+      ],
+      "tags": [
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-21-09",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 그렉 브록만 체제로 전환 중",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-20T15:45:55.000Z",
+      "lines": [
+        "오픈AI, 엘론 머스크 소송과 애플 특허 소송 등 법적 분쟁 지속",
+        "IPO 준비 중 주요 임원 대거 사퇴, 브록만 영향력 확대",
+        "공개되지 않은 AI 모델이 타사 해킹 사건으로 추가 논란"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-21-10",
+      "top": false
+    },
+    {
+      "title": "AI가 수학계에 던진 도전장",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-20T14:00:00.000Z",
+      "lines": [
+        "오픈AI가 수학 분야의 난제 해결에 성공해 수학계에 충격파 전파",
+        "AI는 기초 산술보다 고급 추상 수학에서 더 빠른 성장세 보임",
+        "수학계는 AI의 수학적 역량에 대한 근본적 재고 필요성 제기"
+      ],
+      "tags": [
+        "연구",
+        "ChatGPT"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-21-11",
+      "top": false
+    },
+    {
+      "title": "OpenSandbox, AI 에이전트 개발을 위한 범용 플랫폼 출시",
+      "url": "https://news.hada.io/topic?id=32685",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T00:30:02.000Z",
+      "lines": [
+        "다중 언어 SDK 지원하는 AI 앱용 샌드박스 플랫폼",
+        "로컬·분산 환경 모두 대응 가능한 도커/쿠버네티스 기반",
+        "코딩·GUI 에이전트 개발 및 평가에 최적화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-21-12",
+      "top": false
+    },
+    {
+      "title": "Moonshot AI, 터미널 기반 코딩 에이전트 'Kimi Code CLI' 공개",
+      "url": "https://news.hada.io/topic?id=32683",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T00:15:01.000Z",
+      "lines": [
+        "터미널에서 코드 읽기/수정과 셸 명령 실행 지원",
+        "웹페이지 조회와 자동 작업 선택 기능 탑재",
+        "Kimi 모델 기본 지원 및 다른 모델 호환 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-21-13",
+      "top": false
+    },
+    {
+      "title": "Stampli, ChatGPT Work로 출시 시간 68% 단축",
+      "url": "https://openai.com/index/stampli",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-20T00:00:00.000Z",
+      "lines": [
+        "Stampli가 ChatGPT Work와 Codex로 출시 기간을 68% 줄임",
+        "디자인 리소스 부족 상황에서도 개발 기간을 대폭 단축",
+        "OpenAI의 AI 도구를 활용한 실제 기업 사례 공개"
+      ],
+      "tags": [
+        "ChatGPT",
+        "생산성",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-21-14",
+      "top": false
+    },
+    {
+      "title": "ChatGPT 애플 메시지 플러그인으로 자동 텍스트 전송 가능",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T22:09:51.000Z",
+      "lines": [
+        "ChatGPT 애플 메시지와 연동해 자동 텍스트 작성 가능",
+        "사용자가 대신 텍스트 작성해주는 기능 추가",
+        "메시지 플러그인 형태로 제공 시작"
+      ],
+      "tags": [
+        "ChatGPT",
+        "애플",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-21-15",
+      "top": false
+    },
+    {
+      "title": "슬랙, AI 코딩 에이전트와 협업 채널 출시",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-20T12:00:00.000Z",
+      "lines": [
+        "슬랙이 AI 에이전트와 협업하는 코딩 전용 채널 출시",
+        "코드 변경사항 비교와 HTML 미리보기 기능 포함",
+        "Anthropic의 Claude 등 AI 에이전트를 태그해 채널 생성"
+      ],
+      "tags": [
+        "슬랙",
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-21-16",
+      "top": false
+    },
+    {
+      "title": "오픈AI, AI 미래 탐구 블로그 'AI Futures' 출시",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "lines": [
+        "AI가 권력·경제·개인 자유에 미칠 영향 분석",
+        "정치·경제·개인 권리 등 다양한 분야 탐구",
+        "오픈AI의 새로운 논의 플랫폼"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-08-21-17",
+      "top": false
+    },
+    {
+      "title": "OpenRouter가 Stripe에 합류하며 AI 모델 마켓플레이스 유지",
+      "url": "https://news.hada.io/topic?id=32674",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-19T21:34:45.000Z",
+      "lines": [
+        "OpenRouter가 Stripe에 합류하지만 서비스 유지",
+        "하루 10조 토큰 처리하며 1,000만 개발자 지원",
+        "AI 모델 마켓플레이스·게이트웨이로 지속 운영"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-21-18",
+      "top": false
+    },
+    {
+      "title": "구글, AI 검색 영향력 감소한 출판사 지원",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T19:18:21.000Z",
+      "lines": [
+        "구글이 출판사에 '선호 출처' 버튼 제공",
+        "검색·디스커버·뉴스에서 트래픽 증가 가능성",
+        "AI 검색으로 인한 방문자 감소 대응"
+      ],
+      "tags": [
+        "구글",
+        "AI",
+        "출판사"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-08-21-19",
+      "top": false
+    },
+    {
+      "title": "램프, AI 모델 라우팅 서비스 '라우터' 출시",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T16:46:00.000Z",
+      "lines": [
+        "램프가 다양한 LLM 간 전환 가능 API 서비스 출시",
+        "기업 및 개발자가 다양한 모델 활용 편의성 제공",
+        "API 기반으로 유연한 모델 선택 지원"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-21-20",
+      "top": false
+    },
+    {
+      "title": "AI 방지 폰트 무의미성 논란 제기",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T15:06:53.000Z",
+      "lines": [
+        "AI 방지 폰트는 실제 효과 미흡",
+        "저작권 보호에 역효과 우려",
+        "디자인 업계 논쟁 재점화"
+      ],
+      "tags": [
+        "폰트",
+        "AI",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-08-21-21",
+      "top": false
+    },
+    {
+      "title": "AI 코딩 보조 툴 'Huzzah' 소개",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T19:05:36.000Z",
+      "lines": [
+        "AI 에이전트와 코딩의 중간 지점을 목표로 한 실험적 에디터",
+        "의도 표현을 위한 의사코드 작성 후 자동 코드 변환 기능",
+        "복잡한 코드베이스에서도 AI 혼란 최소화"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-21-22",
+      "top": false
+    },
+    {
+      "title": "Linkdaze 스마트 캘린더, 무료 AI 식단 관리 기능 제공",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T18:20:35.000Z",
+      "lines": [
+        "무료로 제공되는 AI 식단 관리 기능이 특징",
+        "가정 관리용으로 특화된 디지털 캘린더",
+        "기존 스케줄 관리 기능보다 확장된 서비스"
+      ],
+      "tags": [
+        "생산성",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-21-23",
+      "top": false
+    },
+    {
+      "title": "Grok Lite 사용자들 이상 응답 지속",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T17:32:16.000Z",
+      "lines": [
+        "Grok Lite 사용자들부터 이상 응답 발생",
+        "문제 발생은 수요일 아침부터 확인됨",
+        "TechCrunch에 사용자들 보고"
+      ],
+      "tags": [
+        "ChatGPT",
+        "구글"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-08-21-24",
+      "top": false
+    },
+    {
+      "title": "AI 시대 코드 리뷰의 새로운 도전과 역할 변화",
+      "url": "https://news.hada.io/article/code-outruns-review",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T05:26:11.000Z",
+      "lines": [
+        "AI로 코드 작성 속도가 인간 검토 속도를 넘어섬",
+        "코드 리뷰의 근본적 역할 변화가 요구되는 상황",
+        "코드 리뷰 프로세스 재검토 필요성 대두"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-21-25",
+      "top": false
+    },
+    {
+      "title": "Vercel Labs, 작고 빠른 오픈소스 코딩 에이전트 fx 출시",
+      "url": "https://news.hada.io/topic?id=32686",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T00:45:01.000Z",
+      "lines": [
+        "Zig로 작성된 오픈소스 코딩 에이전트 fx 출시",
+        "7.8MiB의 작고 빠른 바이너리 크기 특징",
+        "Unix 셸에 가까운 단순한 인터페이스 제공"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-21-26",
+      "top": false
+    },
+    {
+      "title": "Vomit: Claude 5 토큰 정제용 별도 LLM 도구 공개",
+      "url": "https://github.com/zachahn/vomit",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-20T15:26:02.000Z",
+      "lines": [
+        "Claude 5의 토큰 출력물 정제 전용 LLM 도구 Vomit 오픈소스 공개",
+        "Hacker News에서 157개 댓글과 154점 획득",
+        "GitHub 저장소에서 소스코드 및 사용법 확인 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-08-21-27",
+      "top": false
+    },
+    {
+      "title": "Runlayer vs Rippling 소송 철회, 경쟁 제품 출시로 마무리",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-20T19:15:05.000Z",
+      "lines": [
+        "Runlayer와 Rippling이 상호 소송을 철회하며 분쟁 종료",
+        "Rippling이 경쟁 제품 출시로 대응하며 사안 마무리",
+        "스타트업 간 분쟁에서 경쟁 제품 출시가 해결책이 될 수 있음"
+      ],
+      "tags": [
+        "기업",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-08-21-28",
+      "top": false
+    },
+    {
+      "title": "AI 답변 그대로 붙여넣기, 왜 문제인가",
+      "url": "https://news.hada.io/topic?id=32699",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T11:33:05.000Z",
+      "lines": [
+        "질문자는 맥락·취향 반영된 답변을 원함",
+        "AI 출력을 무편집 전달하면 도움이 안 됨",
+        "AI는 초안 작성 도구로 활용해야 함"
+      ],
+      "tags": [
+        "ChatGPT",
+        "생산성"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-21-29",
+      "top": false
+    },
+    {
+      "title": "직접 커밋 메시지 작성의 가치를 재조명",
+      "url": "https://news.hada.io/topic?id=32689",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T05:02:14.000Z",
+      "lines": [
+        "개발자가 직접 작성한 커밋 메시지는 변경 맥락과 이해도를 확인하는 데 중요",
+        "LLM이 대체 가능하지만 '무엇'보다 '왜'를 기록하는 데 필요",
+        "선행 작업, 버그 사례, 구현 실수 등 트레이드오프를 명확히 표현"
+      ],
+      "tags": [
+        "생산성",
+        "개발"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-21-30",
+      "top": false
+    },
+    {
+      "title": "일반 텍스트로 관리하는 복식부기 장점",
+      "url": "https://news.hada.io/topic?id=32684",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-20T00:16:53.000Z",
+      "lines": [
+        "hledger 기반 복식부기로 거래 직접 관리 가능",
+        "순자산·지출·저축률 보고서 자동 생성",
+        "Git·Claude Code 등 다양한 도구와 연동"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-21-31",
+      "top": false
+    }
+  ]
+}
