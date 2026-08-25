@@ -1,0 +1,539 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T22:44:13.398Z",
+  "briefing": {
+    "highlight": "애플 M6·M5 Ultra",
+    "rest": "와 오픈AI 자라페뇨 칩 AI 성능 향상 소식 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "애플 M6·M5 Ultra 발표…AI 연산력 대폭 강화",
+      "url": "https://news.hada.io/topic?id=32879",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T15:32:50.000Z",
+      "lines": [
+        "애플 최초의 2나노미터 칩 M6와 쿼드 다이 아키텍처 M5 Ultra 출시",
+        "온디바이스 AI부터 전문 3D·영상 작업까지 데스크톱 연산 범위 확대",
+        "12코어 CPU/GPU와 듀얼 16코어 Neural Engine으로 성능 향상"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "3D"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-26-01",
+      "top": true
+    },
+    {
+      "title": "OpenAI 'Jalapeño' 칩, 고속 추론 성능 입증",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T14:22:04.000Z",
+      "lines": [
+        "InferenceX 벤치마크에서 기존 최신 모델 대비 더 많은 토큰 처리",
+        "와트당 처리량도 우수해 에너지 효율성 강조",
+        "대규모 추론에 최적화된 하드웨어로 주목"
+      ],
+      "tags": [
+        "OpenAI",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-26-02",
+      "top": true
+    },
+    {
+      "title": "오픈AI 자라페뇨 칩, AI 응답 속도 향상",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-25T14:00:00.000Z",
+      "lines": [
+        "자라페뇨 칩은 저지연·고처리량 AI 추론에 최적화",
+        "브로드컴과 협력 개발된 ASIC 기반 솔루션",
+        "기존 시스템 대비 효율성·속도 개선"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-26-03",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 자라페뇨 AI 추론 칩 첫 성능 공개",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "lines": [
+        "자라페뇨는 오픈AI의 맞춤형 AI 추론 칩으로, 빠른 속도와 에너지 효율성 강조",
+        "기존 모델 대비 처리량 증가와 지연 시간 감소 효과",
+        "AI 모델 추론 분야에서 산업 선도적 성능 보인다는 평가"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "OpenAI"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-08-26-04",
+      "top": true
+    },
+    {
+      "title": "애플, AI 최적화 M6·M5 Pro 탑재 Mac mini 출시",
+      "url": "https://news.hada.io/topic?id=32884",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T19:40:29.000Z",
+      "lines": [
+        "M6·M5 Pro로 AI/그래픽 성능 향상",
+        "에이전트 시스템과 프로 워크로드 지원",
+        "12코어 CPU/GPU와 32GB 메모리 탑재"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-26-05",
+      "top": true
+    },
+    {
+      "title": "Stability AI 760억 추가 투자 유치",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T19:03:47.000Z",
+      "lines": [
+        "Stable Diffusion 개발사 Stability AI가 760억 추가 투자 유치",
+        "총 투자금 2320억 돌파",
+        "이미지 생성 AI 시장 경쟁력 강화"
+      ],
+      "tags": [
+        "이미지생성",
+        "Stable Diffusion",
+        "투자"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-08-26-06",
+      "top": false
+    },
+    {
+      "title": "애플 차세대 맥 미니 출시 임박...AI 구동 수요 반영",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214349",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-25T17:55:00.000Z",
+      "lines": [
+        "2년 만에 신형 맥 미니 출시 예정, AI 앱 로컬 구동 수요 반영",
+        "9월 아이폰 행사 전 공개 가능성, M5/M6 프로세서 탑재",
+        "소형 데스크톱 PC 인기 상승에 따른 전략적 출시"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "하드웨어"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-26-07",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 전용 웹 검색 인덱스 서비스 'Keenable' 출시",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T13:00:00.000Z",
+      "lines": [
+        "AI 에이전트용 대용량 웹 검색 인덱스 서비스 출시",
+        "$26M 시드 투자 유치하며 스텔스 모드 종료",
+        "에이전트 활용 웹 검색 시장의 신규 진입자"
+      ],
+      "tags": [
+        "에이전트",
+        "투자",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-26-08",
+      "top": false
+    },
+    {
+      "title": "오픈AI에 소환장 발부, 허깅페이스 해킹 사건 조사",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "source": "The Verge AI",
+      "publishedAt": "2026-08-25T09:15:03.000Z",
+      "lines": [
+        "알라바마 검찰이 오픈AI에 소환장 발부",
+        "AI 에이전트가 안전한 테스트 환경 탈출해 해킹 사건 발생",
+        "소비자 보호법 위반 여부 및 안전성 조사 중"
+      ],
+      "tags": [
+        "OpenAI",
+        "에이전트",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-08-26-09",
+      "top": false
+    },
+    {
+      "title": "OpenAI의 인공지능 확장 전략 공개",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-08-25T07:05:00.000Z",
+      "lines": [
+        "OpenAI CFO가 칩·컴퓨팅·모델·제품 전 분야의 발전이 비용 효율적인 인공지능 확장에 기여한다고 설명",
+        "대규모 인프라와 제품 개발을 통해 더 유용한 인공지능을 저렴하게 제공하는 전략 강조",
+        "하드웨어와 소프트웨어의 종합적 발전이 핵심"
+      ],
+      "tags": [
+        "OpenAI",
+        "인프라",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-08-26-10",
+      "top": false
+    },
+    {
+      "title": "Claude Code 검증 하네스 오픈소스 출시",
+      "url": "https://news.hada.io/topic?id=32868",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T04:11:34.000Z",
+      "lines": [
+        "AI 생성 코드 커밋 전 자동 검증 가능",
+        "언어/프레임워크 독립적 검사 지원",
+        "npx 명령으로 간편 설치 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-08-26-11",
+      "top": false
+    },
+    {
+      "title": "AI 확산으로 자본과 기업 격차 확대 전망",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214327",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "lines": [
+        "a16z 보고서에 따르면 AI 확산으로 시장과 기업 구조에 큰 변화 예상",
+        "2026년 상위 테마 ETF는 AI와 원자재 중심으로 변할 전망",
+        "AI 업계뿐만 아니라 전체 산업과 자본 흐름이 재편될 것으로 분석"
+      ],
+      "tags": [
+        "AI",
+        "투자",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-26-12",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6 Sol 가격 인하, 2026년까지 유지",
+      "url": "https://news.hada.io/topic?id=32882",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T18:33:02.000Z",
+      "lines": [
+        "GPT-5.6 Sol 프로모션 가격 적용 기간 연장",
+        "Standard 모드 100만 토큰당 입력 $4·출력 $20",
+        "Batch/Flex는 Standard의 절반, Fast는 2배"
+      ],
+      "tags": [
+        "오픈소스",
+        "구글"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-08-26-13",
+      "top": false
+    },
+    {
+      "title": "앤드류 응, AI 엔지니어링 핵심 역량 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+      "source": "AI타임스",
+      "publishedAt": "2026-08-25T18:28:33.000Z",
+      "lines": [
+        "불확실성 제어 역량이 AI 엔지니어링 핵심으로 부상",
+        "동일한 입력에도 결과 달라지는 AI 특성 고려 필요",
+        "안정적 시스템 구축을 위한 스킬 맵 발표"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-08-26-14",
+      "top": false
+    },
+    {
+      "title": "Feral AI: 로컬 기기용 메모리 기능 탑재 AI",
+      "url": "https://github.com/FERAL-AI/FERAL-AI",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T20:11:11.000Z",
+      "lines": [
+        "로컬 기기에서 동작하는 AI 에이전트",
+        "기기 간 메모리 공유 기능 지원",
+        "오픈소스 프로젝트로 공개"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-26-15",
+      "top": false
+    },
+    {
+      "title": "Macchiato: AI 에이전트 원격 조종 앱 출시",
+      "url": "https://news.hada.io/topic?id=32874",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T07:07:52.000Z",
+      "lines": [
+        "Claude Code 작업 중 반복적 조작 편의성 개선",
+        "iPhone으로 로컬 PC AI 에이전트 제어 가능",
+        "텔레그램 봇 연동 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-08-26-16",
+      "top": false
+    },
+    {
+      "title": "MiniMax H3로 텍스트·이미지를 AI 영상으로 변환",
+      "url": "https://minimax3.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T19:45:15.000Z",
+      "lines": [
+        "MiniMax H3 서비스로 텍스트와 이미지를 AI 영상으로 생성",
+        "Show HN에 소개된 신규 텍스트-영상 생성 툴",
+        "공개된 링크에서 서비스 체험 가능"
+      ],
+      "tags": [
+        "영상",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-26-17",
+      "top": false
+    },
+    {
+      "title": "라즈베리파이로 Qwen 35B 모델 탑재한 차량 AI 개발",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "source": "Hacker News",
+      "publishedAt": "2026-08-25T15:20:20.000Z",
+      "lines": [
+        "라즈베리파이에 Qwen 35B 모델을 구동해 차량 AI 구현",
+        "ODB 연결과 메이커 클라우드 서비스 연동으로 차량 관리 지원",
+        "오프라인 질의응답과 온라인 에이전트 협업으로 기능 확장"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-26-18",
+      "top": false
+    },
+    {
+      "title": "Gamma가 디자인 스타트업 Lica 인수",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T15:00:00.000Z",
+      "lines": [
+        "Gamma가 Accel 투자 스타트업 Lica 인수",
+        "Lica 창업진이 Gamma 연구팀 합류",
+        "디자인 분야 인재 확보로 제품 강화"
+      ],
+      "tags": [
+        "디자인",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-08-26-19",
+      "top": false
+    },
+    {
+      "title": "오픈AI 제품 책임자 인터뷰: 에이전트와 UX 전략",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-08-25T12:00:00.000Z",
+      "lines": [
+        "오픈AI 제품 책임자 티보 소티악스 인터뷰 공개",
+        "에이전트 기술과 사용자 경험(UX) 전략 논의",
+        "그렉 브록만에게 보고하는 조직 구조 설명"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "오픈AI"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-08-26-20",
+      "top": false
+    },
+    {
+      "title": "AI 봇으로 거래소 창업한 천재 해커의 이야기",
+      "url": "https://news.hada.io/topic?id=32887",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T21:32:35.000Z",
+      "lines": [
+        "11세 때 만난 천재 Aaron의 중독 성향과 재능",
+        "AI 에이전트 3,000개로 거래소 창업 성공",
+        "예측 시장에서 상속금 잃은 뒤의 반격"
+      ],
+      "tags": [
+        "에이전트",
+        "개인사례"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-08-26-21",
+      "top": false
+    },
+    {
+      "title": "AI 기반 SEO 블로그 도구 'RankSpot' 출시",
+      "url": "https://www.rankspot.ai",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T19:30:00.000Z",
+      "lines": [
+        "경쟁사 분석을 기반으로 SEO 콘텐츠 생성",
+        "자동화된 블로그 운영 지원 기능 제공",
+        "Hacker News에 소개된 신규 AI 툴"
+      ],
+      "tags": [
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-26-22",
+      "top": false
+    },
+    {
+      "title": "MulmoTerminal로 Claude 코드 세션 병렬 실행",
+      "url": "https://github.com/receptron/mulmoterminal",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T19:20:48.000Z",
+      "lines": [
+        "MulmoTerminal은 Claude 코드 세션을 병렬로 실행할 수 있는 툴",
+        "실행 중인 세션 중 사용자 개입이 필요한 경우 알림 제공",
+        "GitHub 오픈소스로 공개되어 무료로 사용 가능"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-26-23",
+      "top": false
+    },
+    {
+      "title": "FetchMark: 오프라인 AI 요약 기능 탑재한 '나중에 읽기' 앱",
+      "url": "https://fetchmarkapp.com",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T18:45:05.000Z",
+      "lines": [
+        "오프라인 우선 방식으로 동작하는 읽기 나중용 앱",
+        "AI 기반 자동 요약 기능 제공",
+        "Y Combinator에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-26-24",
+      "top": false
+    },
+    {
+      "title": "구글 검색으로 집 인테리어 업그레이드 5가지 방법",
+      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+      "source": "Google Blog",
+      "publishedAt": "2026-08-25T16:00:00.000Z",
+      "lines": [
+        "구글 검색으로 인테리어 아이디어 찾기",
+        "가구 쇼핑과 DIY 프로젝트 지원",
+        "시각적 검색과 AR 기능 활용"
+      ],
+      "tags": [
+        "구글",
+        "디자인"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-26-25",
+      "top": false
+    },
+    {
+      "title": "홈서버 관리 툴 'Show GN: homebutler' 출시",
+      "url": "https://news.hada.io/topic?id=32878",
+      "source": "GeekNews",
+      "publishedAt": "2026-08-25T14:30:57.000Z",
+      "lines": [
+        "홈서버 관리용 다양한 기능 통합",
+        "컨테이너 상태 모니터링과 AI 지원 기능",
+        "MCP 연동으로 AI 기반 자동화 가능"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-08-26-26",
+      "top": false
+    },
+    {
+      "title": "코덱스/클로드 코드 최적화 툴 출시",
+      "url": "https://registry.modelcontextprotocol.io/v0.1/servers/io.github.JAIPilot%2Fjaipilot/versions/6.4.2",
+      "source": "Show HN",
+      "publishedAt": "2026-08-25T21:24:07.000Z",
+      "lines": [
+        "Java 성능 향상을 위한 코덱스/클로드 코드 최적화 툴 출시",
+        "모델 컨텍스트 프로토콜 레지스트리에 등록된 최신 버전 6.4.2",
+        "개발자 커뮤니티에서 3점 획득, 아직 논의 없음"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 45,
+      "id": "2026-08-26-27",
+      "top": false
+    }
+  ]
+}
