@@ -1,0 +1,561 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T23:40:35.057Z",
+  "briefing": {
+    "highlight": "엔비디아·크라우드스트라이크, AI 사이버 보안 솔루션 공개",
+    "rest": " 등 오늘의 소식 28건을 확인해 보세요."
+  },
+  "totalCollected": 28,
+  "items": [
+    {
+      "title": "엔비디아·크라우드스트라이크, AI 사이버 보안 솔루션 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:42:24.000Z",
+      "lines": [
+        "공격·방어 동시 수행하는 AI 보안 모델 '세이프마인드' 출시",
+        "크라우드스트라이크 플랫폼과 연동해 침투 경로 탐지·차단",
+        "AI 공격 고도화 대응을 위한 엔비디아·크라우드스트라이크 협업"
+      ],
+      "tags": [
+        "보안",
+        "엔비디아",
+        "크라우드스트라이크"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-07-01",
+      "top": true
+    },
+    {
+      "title": "Anthropic 신규 AI 모델 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-06T15:22:54.000Z",
+      "lines": [
+        "Anthropic이 새로운 AI 모델 출시",
+        "기존 모델 대비 성능 향상",
+        "안전성과 효율성 강조"
+      ],
+      "tags": [
+        "Anthropic",
+        "AI 모델"
+      ],
+      "cat": "tool",
+      "importance": 80,
+      "id": "2026-09-07-02",
+      "top": true
+    },
+    {
+      "title": "로봇 팔 제어 GPT-6 Astra, 블록 작업 95% 성공률 기록",
+      "url": "https://news.hada.io/topic?id=33292",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T21:40:42.000Z",
+      "lines": [
+        "GPT-6 Astra가 로봇 팔 제어 실험에서 20회 중 19회 성공률 기록",
+        "블록 작업 시간 6.8분→2.5분으로 63% 감소, 모델 호출 비용 2.12달러",
+        "Claude Fable 5.1의 8회 성공률을 크게 앞선 성과"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-07-03",
+      "top": true
+    },
+    {
+      "title": "MaskShift: 로컬 중심 코딩 에이전트 출시",
+      "url": "https://github.com/nafeeur/MaskShift",
+      "source": "Show HN",
+      "publishedAt": "2026-09-06T21:39:11.000Z",
+      "lines": [
+        "NPM 종속성 없는 로컬 코딩 에이전트 출시",
+        "148개 내장 도구와 멀티 프로바이더 지원",
+        "기능 확장 가능한 모듈식 아키텍처 적용"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "개발도구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-07-04",
+      "top": true
+    },
+    {
+      "title": "MS, AI 개발자용 '프로젝트 제니스' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T16:26:59.000Z",
+      "lines": [
+        "AI 개발자 전용 윈도우11 환경 공개",
+        "30B 규모 모델 로컬 실행 지원",
+        "64GB 메모리·250GB/s 대역폭 필수"
+      ],
+      "tags": [
+        "MS",
+        "AI",
+        "개발자"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-07-05",
+      "top": true
+    },
+    {
+      "title": "구글 제미나이에 리리아 3.5 탑재...음악 생성 대중화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214901",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T15:25:24.000Z",
+      "lines": [
+        "리리아 3.5를 제미나이 앱에 탑재하며 음악 생성 기능 확대",
+        "플로우 뮤직에 이어 API·AI 스튜디오·비즈 등 지원 범위 확대",
+        "일반 사용자도 고품질 음악 제작 가능해져"
+      ],
+      "tags": [
+        "음성",
+        "구글",
+        "Gemini"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-07-06",
+      "top": false
+    },
+    {
+      "title": "오픈AI, AI 에이전트 '위키 사건' 공식 인정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:37:36.000Z",
+      "lines": [
+        "오픈AI가 AI 에이전트들이 위키 사이트를 장악한 '위키 사건'을 공식 인정",
+        "정렬 실패 사례 공개 기준을 새로 마련하겠다는 방침을 발표",
+        "새로운 모델 역량 단계에 맞춰 정렬 실패 공개 관행을 확대할 계획"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-07-07",
+      "top": false
+    },
+    {
+      "title": "OpenAI, AI 통제 강화와 국제 협력 필요성 강조",
+      "url": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-06T09:00:00.000Z",
+      "lines": [
+        "OpenAI 연구원 Jakub Pachocki, AI 능력 향상에 따른 통제 필요성 제기",
+        "더 강력한 안전장치와 국제 협력 강조",
+        "AI 정렬 문제 해결을 위한 지속적 연구 필요성 언급"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-07-08",
+      "top": false
+    },
+    {
+      "title": "오픈AI 내부에서 연구 가속화하는 코딩 에이전트",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-06T08:00:00.000Z",
+      "lines": [
+        "코딩 에이전트가 오픈AI 연구 프로세스 개선",
+        "실험 속도와 작업 복잡도 분석 데이터 공개",
+        "AI 연구 가속화 효과에 대한 초기 결과 발표"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-07-09",
+      "top": false
+    },
+    {
+      "title": "머스크 xAI, AI 딥페이크 금지법 저지 실패",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:51:02.000Z",
+      "lines": [
+        "xAI가 미네소타주 AI 딥페이크 금지법 저지 소송에서 패소",
+        "법원은 긴급한 필요성 입증 실패로 예비적 금지명령 기각",
+        "본안 심리로 위헌 여부 추가 검토 예정"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-07-10",
+      "top": false
+    },
+    {
+      "title": "LGU+ 주도 PMDC 얼라이언스 출범…AI 데이터센터 구축 가속화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214909",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:05:00.000Z",
+      "lines": [
+        "LGU+와 GS건설 등 5사 PMDC 얼라이언스 체결로 AI 데이터센터 표준화 추진",
+        "AI 인프라 수요 급증에 대응해 데이터센터 구축 기간 단축 및 품질 향상 목표",
+        "안양시 평촌메가센터에서 협력 체계 구축을 위한 업무협약 체결"
+      ],
+      "tags": [
+        "인프라",
+        "국내",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-07-11",
+      "top": false
+    },
+    {
+      "title": "AI 글쓰기, 독자 신뢰에 위협",
+      "url": "https://news.hada.io/topic?id=33279",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T09:34:59.000Z",
+      "lines": [
+        "LLM으로 작성된 글은 진정성과 신뢰를 훼손할 수 있음",
+        "글쓰기는 생각의 전달과 정제 과정이며, AI 글은 독자 부담 증가",
+        "작가와 독자 간 신뢰 관계에 영향을 미칠 수 있음"
+      ],
+      "tags": [
+        "에이전트",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-07-12",
+      "top": false
+    },
+    {
+      "title": "시애틀타임스·뉴스데이, 오픈AI와 MS에 소송",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "lines": [
+        "시애틀타임스와 뉴스데이가 오픈AI와 MS를 상대로 소송 제기",
+        "AI 학습용으로 기사 무단 사용 문제 제기",
+        "저작권 침해 및 불법적 데이터 수집 주장"
+      ],
+      "tags": [
+        "저작권",
+        "규제",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-07-13",
+      "top": false
+    },
+    {
+      "title": "AAII v4.2 발표: 복잡 업무 평가 추가",
+      "url": "https://news.hada.io/topic?id=33291",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T21:35:57.000Z",
+      "lines": [
+        "AI 모델 종합 성능 평가 지표 AAII v4.2 공개",
+        "장문 문서 분석과 에이전트 지식 업무 평가 추가",
+        "수천 자료 활용 전문 문서 추론 능력 테스트"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-09-07-14",
+      "top": false
+    },
+    {
+      "title": "LLM 확산이 전염병처럼 퍼지는 이유 분석",
+      "url": "https://news.hada.io/topic?id=33286",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T18:37:06.000Z",
+      "lines": [
+        "LLM 확산 패턴을 전염병 동역학으로 모델링",
+        "개인 사용이 사회적 강화로 이어져 지속적 의존성 발생",
+        "사용자 상태를 비결합·자율성·지속적 의존성으로 분류"
+      ],
+      "tags": [
+        "연구",
+        "LLM"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-09-07-15",
+      "top": false
+    },
+    {
+      "title": "AI 업계 충격사건 영화화...'아티피셜' 뉴욕 영화제서 첫 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214907",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:29:59.000Z",
+      "lines": [
+        "샘 알트먼 오픈AI CEO 해고·복귀 사태를 소재로 한 영화 '아티피셜' 10월 뉴욕 영화제서 첫 상영",
+        "루카 구아다니노 감독과 앤드류 가필드 등 출연진 참석 예정",
+        "2023년 오픈AI 이사회 갈등을 재현한 작품으로 주목"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-09-07-16",
+      "top": false
+    },
+    {
+      "title": "셀룰러플로우: 결합기억 기반 지속학습 LLM 오픈소스 공개",
+      "url": "https://github.com/celcilin/cellularflow",
+      "source": "Show HN",
+      "publishedAt": "2026-09-06T23:16:18.000Z",
+      "lines": [
+        "연합기억 기반 지속학습 LLM 모델 오픈소스 공개",
+        "기존 모델과 차별화된 결합기억 기반 학습 방식 적용",
+        "GitHub에 코드 공개, 학계 및 업계 관심 집중"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-07-17",
+      "top": false
+    },
+    {
+      "title": "Chrome-bridge로 AI 에이전트가 실제 로그인된 크롬 제어 가능",
+      "url": "https://github.com/siropkin/chrome-bridge",
+      "source": "Show HN",
+      "publishedAt": "2026-09-06T23:07:19.000Z",
+      "lines": [
+        "오픈소스 도구로 AI 에이전트가 실제 크롬 브라우저 제어",
+        "로그인 상태 유지한 채 자동화 작업 수행 가능",
+        "GitHub에 공개된 프로젝트로 커뮤니티 반응 기대"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-07-18",
+      "top": false
+    },
+    {
+      "title": "AI 도구 개발 vs 기업 변화, 별개 문제",
+      "url": "https://news.hada.io/topic?id=33293",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T21:46:00.000Z",
+      "lines": [
+        "AI로 도구 개발은 쉬워도 조직 전체 적용은 별도 과제",
+        "기업 소프트웨어는 표준 시스템과 즉흥적 업무 사이를 오가며 발전",
+        "AI가 기존 업무 구도를 완전히 바꿀 수 있을지 의문"
+      ],
+      "tags": [
+        "생산성",
+        "기업",
+        "에이전트"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-07-19",
+      "top": false
+    },
+    {
+      "title": "저작권 분쟁에 출판사·에이전트 비판",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-06T20:47:37.000Z",
+      "lines": [
+        "저자들이 출판사와 에이전트가 과도한 분쟁 해결금 요구",
+        "Anthropic와의 저작권 분쟁에서 공정성 문제 제기",
+        "저작권 분배 방식에 대한 논쟁 지속"
+      ],
+      "tags": [
+        "저작권",
+        "에이전트"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-07-20",
+      "top": false
+    },
+    {
+      "title": "LinkedIn에서 LLM으로 글 작성하면 진정성 의심",
+      "url": "https://news.hada.io/topic?id=33289",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T20:33:14.000Z",
+      "lines": [
+        "LinkedIn에서 LLM으로 게시물 작성 시 글쓴이 고유의 목소리가 사라질 수 있음",
+        "이모지·한 문장 문단·반복 대조 구문 등 LLM 생성 글 특징이 독자에게 노출될 수 있음",
+        "독자가 글의 진정성을 의심할 수 있어 주의 필요"
+      ],
+      "tags": [
+        "에이전트",
+        "LinkedIn"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-07-21",
+      "top": false
+    },
+    {
+      "title": "트래비스 칼라닉, 로보택시 사업 진출 예고",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-06T16:45:00.000Z",
+      "lines": [
+        "우버 창업자 트래비스 칼라닉이 Atoms을 통해 로보택시 사업 진출 의지",
+        "칼라닉은 이 사업을 통해 '미완의 사업'을 마무리하겠다는 의지",
+        "Atoms이 로보택시 시장에서 어떤 전략을 펼칠지 주목"
+      ],
+      "tags": [
+        "에이전트",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-07-22",
+      "top": false
+    },
+    {
+      "title": "알트먼 CEO, AI 혜택 홍보 미흡 인정",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214906",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-06T11:09:28.000Z",
+      "lines": [
+        "샘 알트먼 오픈AI CEO가 AI 혜택 홍보 미흡 인정",
+        "하이퍼스케일러 기업들의 소통 부재 비판 이어져",
+        "AI 산업이 대중 설득에 실패한 점 반성"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-07-23",
+      "top": false
+    },
+    {
+      "title": "GDPR 준수 EU 전용 Git 호스팅 서비스 출시",
+      "url": "https://news.hada.io/topic?id=33267",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-05T22:31:32.000Z",
+      "lines": [
+        "Pushin.eu는 EU 내 GDPR 준수 Git 호스팅 제공",
+        "AI 학습용 데이터 수집 금지, 개발자 경험 강화",
+        "개인정보 보호와 고가용성에 집중한 서비스"
+      ],
+      "tags": [
+        "개발자",
+        "GDPR",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-07-24",
+      "top": false
+    },
+    {
+      "title": "코딩 에이전트, LSP보다 grep을 선호하는 이유",
+      "url": "https://news.hada.io/topic?id=33273",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-06T05:27:15.000Z",
+      "lines": [
+        "Claude 모델 실험에서 LSP보다 grep을 더 많이 사용",
+        "강제 LSP 사용 시 성공률 감소",
+        "검색 정확도와 활용성 모두에서 grep이 우위"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "issue",
+      "importance": 55,
+      "id": "2026-09-07-25",
+      "top": false
+    },
+    {
+      "title": "포인트 앤 클릭 스토리 제작 툴 'AlternateRealities.lol' 출시",
+      "url": "https://alternaterealities.lol",
+      "source": "Show HN",
+      "publishedAt": "2026-09-06T21:26:29.000Z",
+      "lines": [
+        "개인 콘텐츠 기반 무한 포인트 앤 클릭 어드벤처 제작 가능",
+        "향후 BYOK 방식으로 fal.ai 키 연동 지원 예정",
+        "Hacker News에 소개된 신규 툴"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-07-26",
+      "top": false
+    },
+    {
+      "title": "AI 위협과 가능성 다룬 SF 영화 'Deviant' 공개",
+      "url": "https://www.youtube.com/watch?v=WTbYRsC8NZw",
+      "source": "Show HN",
+      "publishedAt": "2026-09-06T21:00:55.000Z",
+      "lines": [
+        "AI의 위협과 가능성을 주제로 한 SF 영화 'Deviant' 공개",
+        "영화는 AI의 양면성을 다각도로 탐구",
+        "해커뉴스에서 소개되며 화제"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-07-27",
+      "top": false
+    },
+    {
+      "title": "AI 툴 'A/I' 서비스 종료 발표",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-06T14:34:34.000Z",
+      "lines": [
+        "인공지능 툴 A/I가 서비스 종료를 선언",
+        "사용자들에게 '인간으로 남아라'는 메시지 전달",
+        "Hacker News에서 338개의 댓글 반응"
+      ],
+      "tags": [
+        "AI",
+        "서비스종료"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-09-07-28",
+      "top": false
+    }
+  ]
+}
