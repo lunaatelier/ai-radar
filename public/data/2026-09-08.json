@@ -1,0 +1,401 @@
+{
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T00:10:47.947Z",
+  "briefing": {
+    "highlight": "AI 모델 경쟁 심화",
+    "rest": "에 따른 인프라 투자와 경고, 교육 분야 성과를 확인해 보세요."
+  },
+  "totalCollected": 22,
+  "items": [
+    {
+      "title": "앤트로픽, 클로드 수요 폭증에 695조 인프라 확보",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214933",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T18:12:43.000Z",
+      "lines": [
+        "앤트로픽이 클로드 서비스 수요 증가에 1년간 695조원 규모 인프라 확보",
+        "기존 대비 10배 이상 증가한 14.8GW 컴퓨팅 용량 계약 체결",
+        "코딩·업무 자동화 서비스 '클로드 코드'와 '코워크' 수요 급증 영향"
+      ],
+      "tags": [
+        "앤트로픽",
+        "Claude",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-08-01",
+      "top": true
+    },
+    {
+      "title": "런웨이, 실시간 조작 가능한 가상세계 'GWM 월드 2' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214952",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T17:51:30.000Z",
+      "lines": [
+        "기존 방식과 달리 사용자 입력에 실시간 반응해 무한히 확장되는 가상세계 구현",
+        "키보드·마우스·텍스트 등으로 사용자가 직접 세계에 개입 가능",
+        "초당 24프레임 속도로 실시간 생성되는 가상환경 제공"
+      ],
+      "tags": [
+        "영상",
+        "3D",
+        "구글"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-08-02",
+      "top": true
+    },
+    {
+      "title": "Anthropic의 새로운 AI 모델 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-07T17:39:45.000Z",
+      "lines": [
+        "Anthropic이 새로운 AI 모델 발표",
+        "기존 모델 대비 성능 향상",
+        "안전성과 효율성 강화"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-08-03",
+      "top": true
+    },
+    {
+      "title": "OpenAI, AI 재귀적 자기개선 가능성 경고",
+      "url": "https://news.hada.io/topic?id=33309",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T01:37:17.000Z",
+      "lines": [
+        "OpenAI가 추론 모델 발전이 재귀적 자기개선으로 이어질 수 있다고 경고",
+        "안전성 확보를 위해 개발 속도 제한 필요성 강조",
+        "인간 설계 규칙보다 대규모 최적화로 성장하는 시스템에 대한 우려"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구",
+        "안전성"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-08-04",
+      "top": true
+    },
+    {
+      "title": "GPT-6 Astra 수능 전 영역 만점 달성",
+      "url": "https://news.hada.io/topic?id=33307",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T01:05:02.000Z",
+      "lines": [
+        "개인 개발자 평가에서 GPT-6 Astra가 수능 전 영역 만점 기록",
+        "기존 모델이 어려워하던 사회문화 문제도 해결",
+        "국어·수학 모든 선택과목과 탐구 4과목까지 완벽 정복"
+      ],
+      "tags": [
+        "ChatGPT",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-08-05",
+      "top": true
+    },
+    {
+      "title": "챗GPT, 개인 문체 학습 기능 테스트 진행",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214961",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T18:05:18.000Z",
+      "lines": [
+        "사용자 고유의 글쓰기 습관을 학습해 개인 문체 반영",
+        "AI 작성 티 감소 효과 기대",
+        "이메일·문서·메시지 등 실제 텍스트 참고"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-08-06",
+      "top": false
+    },
+    {
+      "title": "오픈AI 수석 과학자, AI 자기개선 가능성에 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214932",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T17:40:23.000Z",
+      "lines": [
+        "오픈AI 수석 과학자 야쿠부 파초키가 AI 자기개선 가능성에 대해 경고",
+        "재귀적 자기개선(RSI) 단계 진입 가능성 언급하며 안전장치 필요성 강조",
+        "AI 발전 속도가 지속될 경우 기계 지능 급격한 상승에 대비해야"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-08-07",
+      "top": false
+    },
+    {
+      "title": "시애틀타임스·뉴스데이, 오픈AI에 저작권 소송",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-06T23:36:04.000Z",
+      "lines": [
+        "시애틀타임스·뉴스데이가 오픈AI에 저작권 침해 소송 제기",
+        "기사 내용 무단 학습 및 사용자 응답에 재현된 내용 문제",
+        "뉴욕타임스 등 다른 언론사도 유사한 소송 진행 중"
+      ],
+      "tags": [
+        "저작권",
+        "오픈소스",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-08-08",
+      "top": false
+    },
+    {
+      "title": "에임인텔리전스, AI 보안 공백에 대한 경고",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T19:20:00.000Z",
+      "lines": [
+        "에임인텔리전스, AI 에이전트와 피지컬 AI의 통제 불능 리스크 강조",
+        "기업 82%가 그림자 AI 에이전트 보유 중, 절반 이상이 권한 남용 경험",
+        "AGI급 '아스트라'도 보안 공백 존재, 로봇·자율주행 분야에 대한 우려"
+      ],
+      "tags": [
+        "보안",
+        "에이전트",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-08-09",
+      "top": false
+    },
+    {
+      "title": "AI 모델 출시 속도에 '모델 피로감' 등장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214925",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "lines": [
+        "주요 AI 기업들이 일주일 내 4개 모델 출시",
+        "시장 반응은 '또 나왔네'라는 피로감",
+        "CNBC는 이를 '모델 피로감'으로 표현"
+      ],
+      "tags": [
+        "구글",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-08-10",
+      "top": false
+    },
+    {
+      "title": "Rejourney로 유저 유출 현황 분석",
+      "url": "https://rejourney.co/demo/leaks",
+      "source": "Show HN",
+      "publishedAt": "2026-09-07T20:56:38.000Z",
+      "lines": [
+        "유저 세션 리플레이 도구로 실시간 피드백 확인 가능",
+        "AI 분석 기능으로 유저 경로 자동 추적 및 문제점 발견",
+        "기존 도구보다 정밀한 유저 행동 분석 제공"
+      ],
+      "tags": [
+        "디자인",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-08-11",
+      "top": false
+    },
+    {
+      "title": "테런스 타오, AI 수학 문제 해결에 경고",
+      "url": "https://news.hada.io/topic?id=33326",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T16:02:30.000Z",
+      "lines": [
+        "순수수학 난제는 과정도 중요",
+        "AI 단독 해결은 통찰력 훼손 우려",
+        "인간과 협업이 더 가치적"
+      ],
+      "tags": [
+        "연구",
+        "에이전트"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-08-12",
+      "top": false
+    },
+    {
+      "title": "특화 AI 스타트업, 범용 에이전트와 경쟁 어떻게?",
+      "url": "https://news.hada.io/topic?id=33306",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T00:55:02.000Z",
+      "lines": [
+        "Salesforce·Docusign 등 기존 기업이 AI로 업무 확장 중",
+        "일부 업무는 범용 에이전트와 기존 시스템으로 대체 가능",
+        "법률·계약 등 특화 분야는 여전히 전용 AI가 우세"
+      ],
+      "tags": [
+        "에이전트",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-08-13",
+      "top": false
+    },
+    {
+      "title": "AI로 개인 생산성 ↑, 조직은 왜 안 변할까?",
+      "url": "https://news.hada.io/topic?id=33304",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T00:35:02.000Z",
+      "lines": [
+        "기존 시스템과 조직 구조가 AI 전환을 방해",
+        "개인 업무 효율화 vs 조직 간 협업 지연 문제",
+        "역할 정체성으로 인한 권한 분배 갈등"
+      ],
+      "tags": [
+        "생산성",
+        "기업",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-08-14",
+      "top": false
+    },
+    {
+      "title": "오픈소스 Gmail 번들 툴 'Inbundly' 출시",
+      "url": "https://benoror.bearblog.dev/bringing-google-inboxs-bundles-back-to-gmail/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-07T22:58:21.000Z",
+      "lines": [
+        "구글 인박스 스타일 번들 기능 지원",
+        "주말 프로젝트에서 정식 오픈소스로 발전",
+        "AI 에이전트 활용 가능성 강조"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-08-15",
+      "top": false
+    },
+    {
+      "title": "Anubis에 WebAssembly 탑재 1년 소요",
+      "url": "https://news.hada.io/topic?id=33323",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T13:01:08.000Z",
+      "lines": [
+        "AI 스크래핑 공격 차단용 서버 보호 도구",
+        "Hashcash 방식 작업 증명 방식 적용",
+        "WebAssembly 통합으로 성능 향상"
+      ],
+      "tags": [
+        "보안",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-08-16",
+      "top": false
+    },
+    {
+      "title": "AI 업계 핵심 용어 10가지 정리",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-07T19:24:00.000Z",
+      "lines": [
+        "AI 업계에서 자주 등장하는 전문용어 10가지를 설명",
+        "Opaque recurrence 등 신규 용어와 기존 개념 정리",
+        "TechCrunch AI에서 제공하는 AI 용어 사전 소개"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-08-17",
+      "top": false
+    },
+    {
+      "title": "제미나이 등산 추천으로 고립된 등산객 구조",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=214962",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-07T17:59:13.000Z",
+      "lines": [
+        "제미나이 추천으로 산행 계획 세운 3명, 예상보다 긴 시간 소요",
+        "하산 중 길을 잃어 고립, 이튿날 구조",
+        "충분한 준비 없이 산행 강행한 것으로 알려져"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-09-08-18",
+      "top": false
+    },
+    {
+      "title": "AI 생산성 높였지만 사고력 떨어졌다",
+      "url": "https://news.hada.io/topic?id=33327",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T16:33:54.000Z",
+      "lines": [
+        "AI로 업무 효율성 향상했지만 사고력 저하 경험",
+        "2주 휴가로 독서·학습에 집중한 결과",
+        "숏폼 콘텐츠로 인한 집중력 감소 문제 제기"
+      ],
+      "tags": [
+        "생산성",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-08-19",
+      "top": false
+    },
+    {
+      "title": "AI 작업 기다리는 동안 즐길 수 있는 게임",
+      "url": "https://news.hada.io/topic?id=33311",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-07T02:26:56.000Z",
+      "lines": [
+        "AI 개발 작업 중 지루할 때 즐길 수 있는 게임",
+        "Codex Sol Max로 개발한 게임의 퀄리티가 괜찮음",
+        "광고 없는 간편한 게임으로 추천"
+      ],
+      "tags": [
+        "생산성",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-08-20",
+      "top": false
+    }
+  ]
+}
