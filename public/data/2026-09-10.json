@@ -1,0 +1,522 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T00:05:54.701Z",
+  "briefing": {
+    "highlight": "오픈AI 수학 돌파",
+    "rest": "와 폴더블 아이폰 공개 등 5대 소식 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "오픈AI 수학 돌파로 학계 충격",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-09T21:16:34.000Z",
+      "lines": [
+        "밀레니엄상 수학 문제 해결 발표",
+        "경쟁사 선제 공격 논란 제기",
+        "AI 수학 연구 방식 변화 촉구"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "OpenAI"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-10-01",
+      "top": true
+    },
+    {
+      "title": "애플, 아이폰18 프로 시리즈 공개",
+      "url": "https://news.hada.io/topic?id=33454",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-09T21:14:43.000Z",
+      "lines": [
+        "48MP 카메라에 가변 조리개 적용",
+        "A20 프로 칩 GPU 40% 성능 향상",
+        "AI 처리 성능 강화"
+      ],
+      "tags": [
+        "애플",
+        "스마트폰"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-10-02",
+      "top": true
+    },
+    {
+      "title": "애플, 첫 폴더블 아이폰 'iPhone Duo' 공개",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T20:03:43.000Z",
+      "lines": [
+        "애플 첫 폴더블 아이폰 'iPhone Duo' 출시",
+        "항시 청취 기능 탑재된 애플워치 발표",
+        "가을 행사에서 신제품 다수 공개"
+      ],
+      "tags": [
+        "애플",
+        "폴더블",
+        "웨어러블"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-10-03",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 사이버 보안 특화 모델 '아스트라' 준비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215065",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-09T18:54:55.000Z",
+      "lines": [
+        "GPT-6 아스트라 기반 차세대 사이버 모델 출시 예정",
+        "국내 챗GPT 엔터프라이즈 사용자 28배 증가",
+        "서울에서 한국 오피스 1주년 기념 행사 개최"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-10-04",
+      "top": true
+    },
+    {
+      "title": "GPT-6 Astra 출시...3D·애니메이션 성능 개선",
+      "url": "https://news.hada.io/topic?id=33449",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-09T18:40:17.000Z",
+      "lines": [
+        "GPT-5.6 대비 글쓰기·수학·코딩 성능 향상",
+        "3D 렌더링·애니메이션·컴퓨터 사용 분야 진전",
+        "루프형 트랜스포머 구조로 추론 기록 단축"
+      ],
+      "tags": [
+        "3D",
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-10-05",
+      "top": true
+    },
+    {
+      "title": "인셉션, 초당 1107토큰 생성하는 머큐리 2.5 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215057",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-09T18:11:01.000Z",
+      "lines": [
+        "확산 LLM의 느린 속도와 높은 비용 문제를 개선한 머큐리 2.5 출시",
+        "이전 버전 대비 40% 향상된 지능 성능과 초저지연·저비용 특성 유지",
+        "가장 큰 규모의 확산 LLM으로 GPT-5.6 루나 등 경량 모델 대비 우수"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-10-06",
+      "top": false
+    },
+    {
+      "title": "애플, AI 음성 기능 출시와 개인정보 보호 방안 공개",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-09T20:44:43.000Z",
+      "lines": [
+        "Siri Recap·Live Rewind 등 새로운 AI 음성 기능 출시",
+        "음성 데이터는 전용 하드웨어에서 처리, 저장되지 않음",
+        "Secure Exclave 기술로 개인정보 보호 강화"
+      ],
+      "tags": [
+        "음성",
+        "애플",
+        "개인정보"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-10-07",
+      "top": false
+    },
+    {
+      "title": "애플워치 AI 기능, 항상 청취하는 기술에 익숙해질까",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T20:24:48.000Z",
+      "lines": [
+        "애플워치 신규 AI 기능은 주변 대화 기록·요약 가능",
+        "개인 정보 보호와 동의 문제 재조명",
+        "사용자 행동 변화에 대한 우려 제기"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "개인정보보호"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-10-08",
+      "top": false
+    },
+    {
+      "title": "애플, AI 조작 방지 iPhone 카메라 기능 출시",
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-09T19:30:12.000Z",
+      "lines": [
+        "iPhone 18 Pro에 'Reference Image' 기능 도입",
+        "카메라 센서로 모든 픽셀에 디지털 서명",
+        "Private Cloud Compute로 불변 참조 이미지 생성"
+      ],
+      "tags": [
+        "애플",
+        "이미지생성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-10-09",
+      "top": false
+    },
+    {
+      "title": "애플 접이식폰, AI와 3D프린팅으로 힌지 제작",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T19:21:48.000Z",
+      "lines": [
+        "애플이 AI와 3D프린팅 기술로 접이식폰 힌지 제작",
+        "장기간 개발된 접이식폰 출시 예정",
+        "제조 공정 최적화에 AI 활용"
+      ],
+      "tags": [
+        "애플",
+        "3D",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-10-10",
+      "top": false
+    },
+    {
+      "title": "오픈AI 재단 이사회에 폴 크리스티아노 합류",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-09T17:00:00.000Z",
+      "lines": [
+        "AI 정렬·안전 분야 전문가 폴 크리스티아노가 오픈AI 재단 이사회에 합류",
+        "안전 및 보안 위원회에서도 활동하며 AI 표준화에 기여할 예정",
+        "AI 안전 분야 경험을 바탕으로 오픈AI의 전략적 방향 지원"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "안전"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-10-11",
+      "top": false
+    },
+    {
+      "title": "크롬 업데이트 주기 2주로 단축…AI 보안 대응 강화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215051",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-09T18:32:46.000Z",
+      "lines": [
+        "크롬 업데이트 주기 4주에서 2주로 단축",
+        "AI 기반 보안 위협 대응과 취약점 대응 강화",
+        "데스크톱·모바일 동시 적용"
+      ],
+      "tags": [
+        "구글",
+        "보안"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-10-12",
+      "top": false
+    },
+    {
+      "title": "애플 헬스 앱, '건강 연령'과 '준비도 점수' 추가",
+      "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T18:16:29.000Z",
+      "lines": [
+        "AI로 건강 데이터를 분석해 건강 연령과 준비도 점수 제공",
+        "애플 인텔리전스를 활용한 업데이트 적용",
+        "사용자 맞춤형 건강 관리 지원 강화"
+      ],
+      "tags": [
+        "애플",
+        "건강관리",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-10-13",
+      "top": false
+    },
+    {
+      "title": "애플, AI 편집 사진 확인 도구 출시",
+      "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T18:08:35.000Z",
+      "lines": [
+        "애플이 AI 편집 여부 확인용 도구 출시",
+        "사용자가 사진 편집 여부를 확인 가능",
+        "AI로 편집된 사진의 신뢰성 향상"
+      ],
+      "tags": [
+        "애플",
+        "이미지생성"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-10-14",
+      "top": false
+    },
+    {
+      "title": "Anthropic, 활동가 감시용 예측형 시스템 구축 중",
+      "url": "https://news.hada.io/topic?id=33448",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-09T17:33:30.000Z",
+      "lines": [
+        "AI 개발 반대 활동가 및 시위 감시를 위한 시스템 구축",
+        "Samdesk 위협 탐지 서비스와 연계해 예측형 감시 확대",
+        "보안 강화로 인한 인권 우려 논쟁 예상"
+      ],
+      "tags": [
+        "Anthropic",
+        "규제",
+        "인권"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-10-15",
+      "top": false
+    },
+    {
+      "title": "셀프호스팅 기업 OS, 클로드 코드 에이전트 통합",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "source": "Show HN",
+      "publishedAt": "2026-09-09T17:57:55.000Z",
+      "lines": [
+        "개인 개발자가 만든 셀프호스팅 기업 운영 시스템 공개",
+        "클로드 코드·코워크·클라우드 세션 통합 기능 지원",
+        "멀티테넌트 설계로 협업 가능, 로컬/클라우드 모델 모두 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-10-16",
+      "top": false
+    },
+    {
+      "title": "Qwen 3.8가 GPT-5.5 Pro 추론 프릴링을 따른다",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-09T17:24:28.000Z",
+      "lines": [
+        "Qwen 3.8가 GPT-5.5 Pro의 추론 프릴링 방식을 적용",
+        "Hacker News에서 159점과 64개 댓글 기록",
+        "오픈소스 모델 개발에 대한 관심 증가 반영"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-09-10-17",
+      "top": false
+    },
+    {
+      "title": "BiNeuron: 로컬에서만 동작하는 AI 코드 어시스턴트",
+      "url": "https://github.com/just-not-google/BiNeuron",
+      "source": "Show HN",
+      "publishedAt": "2026-09-09T21:30:06.000Z",
+      "lines": [
+        "오픈소스 AI 코드 어시스턴트 BiNeuron 출시",
+        "모든 연산이 로컬에서 처리되어 프라이버시 보호",
+        "GitHub에서 공개된 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-10-18",
+      "top": false
+    },
+    {
+      "title": "최근 사이버보안 사고의 정렬 평가 분석",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFZuQXh2LWp1d0NoNDQ2cHdrTktoZ0dIdDUyeEVrSGVyWDBzT3dsV3lhelR6RXhtYy03MTNSYVlya2hSZm1MMHVkZVFMeEt4RDFJM0Z2TW9SRlFDYTM5eGhxU2YzTWNJOU8yWWktWjU5Y0FUeDdLV0lfdnJ2SW9uZE0zOFFXZw?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-09T19:13:44.000Z",
+      "lines": [
+        "Anthropic이 최근 사이버보안 사고의 정렬 상태 평가",
+        "보안 사고의 원인과 대응 방안 분석",
+        "AI 시스템의 안전성 강화 필요성 제시"
+      ],
+      "tags": [
+        "연구",
+        "보안"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-10-19",
+      "top": false
+    },
+    {
+      "title": "AI ROI 저조? 워크플로우·KPI 재구축이 관건",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215067",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-09T18:42:08.000Z",
+      "lines": [
+        "기업 AI ROI 저조 원인은 업무 방식 불협화음",
+        "AI 관측성·에이전틱 워크플로우·KPI 체감 전환 필요",
+        "코난테크 'AI 서밋'에서 현장 적용 전략 강조"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-10-20",
+      "top": false
+    },
+    {
+      "title": "OECD 경고 'AI 과제 의존 학생 성적 1.5년 떨어져'",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215044",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-09T18:27:07.000Z",
+      "lines": [
+        "AI 과제 의존 학생들 성적 1.5년 치 하락",
+        "OECD 인지적 외주화로 학습 능력 저하 경고",
+        "PISA 2025 결과 AI 미사용 학생 과학 점수 509점"
+      ],
+      "tags": [
+        "연구",
+        "교육"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-10-21",
+      "top": false
+    },
+    {
+      "title": "애플 CEO, 'AI 최적 기기 iPhone' 주장",
+      "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-09T17:36:05.000Z",
+      "lines": [
+        "애플 CEO 존 터너스, AI 최적 기기로 iPhone 강조",
+        "기기 내 AI 모델로 프라이버시 보호 주장",
+        "iPhone의 AI 성능에 대한 애플의 자신감"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "iPhone"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-10-22",
+      "top": false
+    },
+    {
+      "title": "AI로 재현한 70년 연애 이야기",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google Blog",
+      "publishedAt": "2026-09-09T16:00:00.000Z",
+      "lines": [
+        "구글 딥마인과 영화 제작진이 AI로 기록되지 않은 과거를 재현",
+        "단편 영화 'Love, Rendered' 제작 과정 공개",
+        "과거 영상 복원 기술의 새로운 가능성 제시"
+      ],
+      "tags": [
+        "영상",
+        "구글",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-10-23",
+      "top": false
+    },
+    {
+      "title": "AutoShade: MIT 오픈소스 RAW 사진 AI 보정 툴",
+      "url": "https://autoshade.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-09T17:58:59.000Z",
+      "lines": [
+        "MIT 라이선스로 공개된 RAW 사진 AI 보정 도구",
+        "사용자 보정을 학습해 자동으로 사진 처리",
+        "Hacker News에 소개된 신규 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "이미지생성",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-10-24",
+      "top": false
+    },
+    {
+      "title": "ColliePWA: 터미널 에이전트 모바일 인터페이스 출시",
+      "url": "https://colliepwa.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-09T18:11:46.000Z",
+      "lines": [
+        "터미널 멀티플렉서용 모바일 PWA 서비스 공개",
+        "기존 툴과 호환되는 키보드 지원 강화",
+        "다중 머신 관리와 Tailnet 통합 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-10-25",
+      "top": false
+    },
+    {
+      "title": "Rust로 제작된 크로스플랫폼 MCP 서버 공개",
+      "url": "https://github.com/zavora-ai/computer-use-mcp",
+      "source": "Show HN",
+      "publishedAt": "2026-09-09T19:51:51.000Z",
+      "lines": [
+        "Rust 기반 크로스플랫폼 MCP 서버 오픈소스 공개",
+        "GitHub에 호스팅된 프로젝트, 현재 별점 1개",
+        "Hacker News에 소개되지만 아직 반응 없음"
+      ],
+      "tags": [
+        "오픈소스",
+        "Rust"
+      ],
+      "cat": "tool",
+      "importance": 30,
+      "id": "2026-09-10-26",
+      "top": false
+    }
+  ]
+}
