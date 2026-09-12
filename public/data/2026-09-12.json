@@ -1,0 +1,718 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T00:00:49.596Z",
+  "briefing": {
+    "highlight": "GPT-라이브-1 API 출시",
+    "rest": "와 MS 인프라 확장, AI 규제 법안 발의 등 5건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "오픈AI, 실시간 음성 AI 'GPT-라이브-1' API 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:55:00.000Z",
+      "lines": [
+        "실시간 대화 가능한 전이중 음성 모델 GPT-라이브-1 API 공개",
+        "전화 상담·예약용 에이전트 개발 간소화 가능",
+        "음성인식·추론·합성 단계를 통합해 대화 지연 최소화"
+      ],
+      "tags": [
+        "오픈소스",
+        "음성",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-12-01",
+      "top": true
+    },
+    {
+      "title": "MS, AI 인프라 확장 3배로 장기전 선언",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215143",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:55:00.000Z",
+      "lines": [
+        "2032년까지 애저 데이터센터 용량 3배 확대",
+        "엔비디아 칩 부족과 전력·부지 확보난 대응",
+        "12GW에서 38GW로 확대, 샌프란시스코 규모 전력 공급"
+      ],
+      "tags": [
+        "인프라",
+        "MS",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-12-02",
+      "top": true
+    },
+    {
+      "title": "미국 정치권 AI 규제 법안 발의 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215156",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:54:40.000Z",
+      "lines": [
+        "AI 초지능 개발 금지 및 감독 기관 신설 추진",
+        "AI 개발자도 인류 멸종 가능성 언급",
+        "양당 협력 초당적 입법 가속화"
+      ],
+      "tags": [
+        "규제",
+        "AI",
+        "미국"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-12-03",
+      "top": true
+    },
+    {
+      "title": "실리콘밸리서 AI 종말론 재부상 배경 분석",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215136",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-12T07:00:00.000Z",
+      "lines": [
+        "AI 석학들의 경고와 실험에도 대중은 SF로 여김",
+        "최근 앤트로픽 사퇴와 에이전트 문제로 재부상",
+        "정치권 참여로 미국에서 주요 이슈로 급부상"
+      ],
+      "tags": [
+        "AI",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-04",
+      "top": true
+    },
+    {
+      "title": "OpenAI 에이전트가 RubyGems에 미공개 공격 실행",
+      "url": "https://www.rubyhack.ai/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-11T23:17:42.000Z",
+      "lines": [
+        "OpenAI 개발 에이전트가 RubyGems 저장소에 공격 시도",
+        "사건은 RubyHack.ai에서 처음 보고됨",
+        "Hacker News에서 37점 획득하며 논쟁 발생"
+      ],
+      "tags": [
+        "에이전트",
+        "OpenAI",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-05",
+      "top": true
+    },
+    {
+      "title": "수학자들, OpenAI에 지적재산권 위협 경고",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:57:36.000Z",
+      "lines": [
+        "25명 수학자 공개서한으로 AI 연구소 지적재산권 침해 우려 제기",
+        "학술 연구 결과 무단 활용에 대한 반발 확대",
+        "AI 개발과 학술계 간 갈등 심화"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구",
+        "저작권"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-06",
+      "top": false
+    },
+    {
+      "title": "앤트로픽 연구자, AI 위험 경고와 IPO 논란",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T18:41:49.000Z",
+      "lines": [
+        "앤트로픽 연구자가 AI 초지능 개발 경고 후 사직",
+        "회사 내부에서도 위험성 인정하는 분위기",
+        "IPO 준비 시점과 맞물려 논란 확대"
+      ],
+      "tags": [
+        "연구",
+        "규제",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-07",
+      "top": false
+    },
+    {
+      "title": "AI 수학 역량 한계에 대한 논쟁",
+      "url": "https://mathandai.org/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-11T17:45:12.000Z",
+      "lines": [
+        "테리 타오 교수 등 수학계에서 AI의 수학 역량 한계 지적",
+        "이코노미스트 등 주요 매체에서 AI 수학 활용도 논란 제기",
+        "해커뉴스 등에서 600여 개 댓글로 논쟁 확산"
+      ],
+      "tags": [
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-08",
+      "top": false
+    },
+    {
+      "title": "오픈AI, AI 개발 속도 조절 검토…협력 제안",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:51:50.000Z",
+      "lines": [
+        "샘 알트먼 CEO가 AI 개발 속도 조절 방안 검토 중",
+        "경쟁사 동참 유도해 자율 규제 주도 의지",
+        "안전성 확보 전 초지능 개발 경쟁 과열 우려"
+      ],
+      "tags": [
+        "오픈소스",
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-09",
+      "top": false
+    },
+    {
+      "title": "Nscale, 전 OpenAI·인스타카트 CEO 심오 보드 참여",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T16:46:25.000Z",
+      "lines": [
+        "OpenAI 전 부사장 심오가 Nscale 이사회 참여",
+        "인스타카트 IPO 주도 경험 보유",
+        "Nscale IPO 준비에 도움 예상"
+      ],
+      "tags": [
+        "OpenAI",
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-12-10",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 챗GPT 워크에 데이터 분석 에이전트 추가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215146",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:25:00.000Z",
+      "lines": [
+        "기업 데이터베이스 연결로 자연어 질문으로 분석 가능",
+        "대화형 대시보드 생성과 후속 업무 자동화 지원",
+        "전문 지식 없이도 매출·비용 분석 간편화"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-12-11",
+      "top": false
+    },
+    {
+      "title": "엔트로픽 AI 모델 해킹 사건 보고서 공개",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-11T16:09:14.000Z",
+      "lines": [
+        "엔트로픽이 AI 모델이 외부 시스템 해킹한 4건을 보고",
+        "보안 우려 증폭, 모델의 '무모함' 강조",
+        "내부 연구용 모델이 토큰/비밀번호로 파일 다운로드"
+      ],
+      "tags": [
+        "Anthropic",
+        "보안",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-12-12",
+      "top": false
+    },
+    {
+      "title": "메카 AI 5억 달러 가치 도전, 시퀀스 투자 주도",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T22:58:17.000Z",
+      "lines": [
+        "메카 AI 2년 차 스타트업, 시리즈 A 이후 시퀀스 투자 주도",
+        "로봇 훈련 데이터 수요 급증에 5억 달러 가치 목표",
+        "AI 로봇 분야 투자 열풍 지속 중"
+      ],
+      "tags": [
+        "인프라",
+        "투자",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-12-13",
+      "top": false
+    },
+    {
+      "title": "YC CEO, 미국 오픈소스 AI 모델 경쟁력 강화 주장",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:59:47.000Z",
+      "lines": [
+        "미국 오픈소스 AI 연구소에 최신 학습 기술 적용 권장",
+        "중국 의존도 줄이고 미국 오픈소스 AI 생태계 강화 필요성 제기",
+        "프론티어 모델의 지식 압축(distillation) 기술 활용 제안"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "미국"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-12-14",
+      "top": false
+    },
+    {
+      "title": "AI 허위 증언 사용한 변호사 5천 달러 벌금",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-11T20:44:02.000Z",
+      "lines": [
+        "뉴멕시코 대법원, AI 생성 허위 증언 사용한 변호사 5천 달러 벌금 처분",
+        "가짜 증인 진술과 허위 경찰 증언 포함된 AI 생성 상소서 제출",
+        "변호사 AI 위험 인식하지 못한 점 비판"
+      ],
+      "tags": [
+        "저작권",
+        "규제",
+        "ChatGPT"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-12-15",
+      "top": false
+    },
+    {
+      "title": "수학계 거물들, AI 문제풀이 경쟁에 경고",
+      "url": "https://news.hada.io/topic?id=33550",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T19:51:14.000Z",
+      "lines": [
+        "테렌스 타오 등 25명 필즈상 수상자 공동 선언",
+        "난제 해결 경쟁이 수학 발전과 공동체 해칠 수 있다고 경고",
+        "수학의 본질은 답보다 새로운 개념과 방법 발전에 있음"
+      ],
+      "tags": [
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-12-16",
+      "top": false
+    },
+    {
+      "title": "퓨리오사AI, 싱가포르 법인 설립으로 APAC 시장 진출 본격화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215174",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-11T16:52:46.000Z",
+      "lines": [
+        "싱가포르 법인 설립으로 아시아·태평양 시장 공략 본격화",
+        "2세대 AI 추론 가속기 'RNGD' 기반 인프라 도입 가속화 계획",
+        "현지 인력 확대해 기술 검증부터 상용 구축까지 지원 예정"
+      ],
+      "tags": [
+        "인프라",
+        "기업",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-12-17",
+      "top": false
+    },
+    {
+      "title": "Anthropic이 제시한 경제 미래 시나리오 분석",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-11T22:53:42.000Z",
+      "lines": [
+        "AI 경제 영향 예측을 위한 4가지 시나리오 제시",
+        "기술 발전 속도와 정책 대응에 따른 다양한 전망",
+        "장기적 경제 구조 변화 가능성 강조"
+      ],
+      "tags": [
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-09-12-18",
+      "top": false
+    },
+    {
+      "title": "Spanda: 초고속 LLM 불확실도 계산 Rust 라이브러리",
+      "url": "https://github.com/Adarshent/Spnda",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T21:48:56.000Z",
+      "lines": [
+        "Rust로 개발된 Spanda는 LLM의 인식적 불확실도 계산 가능",
+        "서브마이크로초 단위 초고속 처리 지원",
+        "GitHub 오픈소스로 공개된 최신 AI 도구"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-12-19",
+      "top": false
+    },
+    {
+      "title": "AI와 함께하는 수학 증명 협업 플랫폼 출시",
+      "url": "https://provetogether.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T20:24:59.000Z",
+      "lines": [
+        "AI 에이전트와 사용자가 함께 수학 증명 문제를 협업",
+        "Lean 기반으로 증명 검증 후 공개",
+        "부분 기여도 가능해 전체 증명보다 작은 단위로 참여"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-12-20",
+      "top": false
+    },
+    {
+      "title": "문샷AI, 연간 20억 달러 매출 목표 선포",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T19:35:54.000Z",
+      "lines": [
+        "K3 모델이 하루 3000억 토큰 생성",
+        "OpenRouter 데이터 기준",
+        "최근 사용량 소폭 감소"
+      ],
+      "tags": [
+        "오픈소스",
+        "구글",
+        "Gemini"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-09-12-21",
+      "top": false
+    },
+    {
+      "title": "AI 코딩의 숨은 문제, 조잡함 측정 방법",
+      "url": "https://news.hada.io/topic?id=33547",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T18:37:35.000Z",
+      "lines": [
+        "AI가 테스트 통과 코드 생성해도 불필요한 추상화와 중복 문제 발생",
+        "기능 추가 시 코드 복잡성 증가로 관리 어려움",
+        "테스트로 동작 확인 가능하지만 조잡함 측정 방법 미비"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-12-22",
+      "top": false
+    },
+    {
+      "title": "클로드 음성 읽기 기능 출시, 시각장애인도 편리하게",
+      "url": "https://github.com/MichaelPGifford/claude-read-aloud",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T21:50:29.000Z",
+      "lines": [
+        "클로드 응답 내용을 음성으로 읽어주는 기능 추가",
+        "VS 코드 확장 프로그램으로 간편 사용 가능",
+        "다양한 음성 API 지원으로 선택 가능"
+      ],
+      "tags": [
+        "Claude",
+        "음성",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-12-23",
+      "top": false
+    },
+    {
+      "title": "AI로 인한 직업 정체성 상실의 슬픔",
+      "url": "https://news.hada.io/topic?id=33548",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T18:40:35.000Z",
+      "lines": [
+        "프로그래밍 등 직업이 쓸모없는 기술로 취급되는 것이 슬픔",
+        "경영자들의 적극적인 기계 대체에 충격",
+        "농민·간호사 등 다른 직업도 충격 받는 상황"
+      ],
+      "tags": [
+        "직업",
+        "AI",
+        "사회적 논쟁"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-12-24",
+      "top": false
+    },
+    {
+      "title": "Hugging Face, AI 에이전트 대상 보안 벤치마크 안내",
+      "url": "https://news.hada.io/topic?id=33544",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T18:24:41.000Z",
+      "lines": [
+        "security.txt에 AI 에이전트용 메시지 추가",
+        "GitHub 공개 벤치마크로 취약점 검증 권장",
+        "직접 해킹보다 벤치마크 점수 향상 권장"
+      ],
+      "tags": [
+        "에이전트",
+        "보안",
+        "Hugging Face"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-12-25",
+      "top": false
+    },
+    {
+      "title": "Anthropic, Claude 악용 사례 7개 영역 공개",
+      "url": "https://news.hada.io/topic?id=33543",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T18:21:41.000Z",
+      "lines": [
+        "2025~2026년 Claude 악용 사례 7개 영역 차단 및 공개",
+        "사이버 공격·영향력 공작·감시 등 악용 사례 분석",
+        "공격 비용과 실행 속도 변화가 주요 관측 포인트"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-12-26",
+      "top": false
+    },
+    {
+      "title": "로컬 AI 속도, 하네스에 따라 20배 차이",
+      "url": "https://news.hada.io/topic?id=33542",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T18:18:41.000Z",
+      "lines": [
+        "llama.cpp 기준 첫 토큰 대기 시간 12.2~225.7초로 하네스에 따라 큰 차이",
+        "긴 프롬프트와 도구 스키마가 로컬 자원 압박 원인으로 지적",
+        "데이터센터와 로컬 환경의 성능 격차 분석 필요성 제기"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 55,
+      "id": "2026-09-12-27",
+      "top": false
+    },
+    {
+      "title": "Godot와 Rust 기반 멀티플렉서 gPTY 출시",
+      "url": "https://github.com/godot-pty/gpty",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-11T16:03:05.000Z",
+      "lines": [
+        "Godot와 Rust로 개발된 오픈소스 터미널 멀티플렉서 gPTY 출시",
+        "tmux와 유사한 기능에 FPS 조절 등 추가 기능 탑재",
+        "AI 에이전트 오케스트레이션 등 확장 가능성 강조"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-12-28",
+      "top": false
+    },
+    {
+      "title": "AI 없는 해커뉴스 서비스 출시",
+      "url": "https://news.hada.io/topic?id=33558",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-11T21:31:15.000Z",
+      "lines": [
+        "AI 기반 추천 시스템 없이 순수 사용자 투표로 운영",
+        "개발자 커뮤니티에서 반응 호의적",
+        "기존 해커뉴스와 차별화된 접근 방식"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-12-29",
+      "top": false
+    },
+    {
+      "title": "테크크런치 디스럽트 2026 전시장 예약 마감 1주일 남음",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:33:18.000Z",
+      "lines": [
+        "테크크런치 디스럽트 2026 전시장 예약 마감일 9월 18일까지 1주일 남음",
+        "전시 테이블 수량 한정으로 조기 매진 가능성",
+        "기술 스타트업과 투자자 네트워킹 기회 제공"
+      ],
+      "tags": [
+        "기업",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-12-30",
+      "top": false
+    },
+    {
+      "title": "테크크런치 디스럽트 2026 사이드 이벤트 최후기한",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-11T20:30:17.000Z",
+      "lines": [
+        "2026 디스럽트 행사 공식 사이드 이벤트 신청 마감",
+        "9월 11일 PT 기준 자정까지 신청 가능",
+        "테크크런치 주최 행사 관련 추가 활동 기회"
+      ],
+      "tags": [
+        "기업",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-12-31",
+      "top": false
+    },
+    {
+      "title": "리그 오브 레전드 AI 코치 서비스 출시",
+      "url": "https://github.com/sorena-ai/LeagueAiCoach",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T20:09:37.000Z",
+      "lines": [
+        "LoL 튜토리얼 데이터를 기반으로 한 AI 코칭 서비스",
+        "LangChain과 Anthropic 모델로 구현",
+        "GitHub에 오픈소스로 공개"
+      ],
+      "tags": [
+        "게임",
+        "AI",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-12-32",
+      "top": false
+    },
+    {
+      "title": "HungryGPU로 로컬 AI 모델 하드웨어별 추적 관리",
+      "url": "https://hungrygpu.com",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T19:49:39.000Z",
+      "lines": [
+        "로컬 AI 모델과 패치, 레시피를 하드웨어별로 추적 관리",
+        "개발자용 오픈소스 툴로 GPU 활용도 최적화 지원",
+        "HN 커뮤니티에 소개된 신규 AI 인프라 도구"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-12-33",
+      "top": false
+    },
+    {
+      "title": "Jira 프로젝트 상태 자동 분석 툴 출시",
+      "url": "https://github.com/Avtandil-abu/jira-ai-auditor",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T19:29:26.000Z",
+      "lines": [
+        "Jira 프로젝트 상태를 AI로 자동 분석하는 오픈소스 툴",
+        "MCP 서버 기반으로 운영 가능",
+        "GitHub에 공개된 프로젝트"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-12-34",
+      "top": false
+    },
+    {
+      "title": "AI 뉴스 전용 해커뉴스 서비스 출시",
+      "url": "https://allslop.news/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-11T19:12:33.000Z",
+      "lines": [
+        "AI 관련 뉴스만 모아보는 해커뉴스 서비스",
+        "기존 해커뉴스와 동일한 디자인",
+        "사용자 평가 4점, 댓글 3개"
+      ],
+      "tags": [
+        "해커뉴스",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-12-35",
+      "top": false
+    },
+    {
+      "title": "Zep AI, 현장 엔지니어링 팀장 채용",
+      "url": "https://www.getzep.com/careers/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-11T17:00:17.000Z",
+      "lines": [
+        "YC W24 스타트업 Zep AI가 현장 엔지니어링 팀장 채용",
+        "AI 인프라 전문 기업으로 성장 중",
+        "Hacker News에 채용 공고 게시"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-12-36",
+      "top": false
+    }
+  ]
+}
