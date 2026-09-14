@@ -1,0 +1,558 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T00:04:02.540Z",
+  "briefing": {
+    "highlight": "스페이스X AI 컴퓨팅 계약",
+    "rest": "과 구글의 코딩 역량 강화, 엔비디아의 앤트로픽 투자 등 AI 관련 주요 이슈를 확인해 보세요."
+  },
+  "totalCollected": 31,
+  "items": [
+    {
+      "title": "스페이스X, 월 1.5조 규모 AI 컴퓨팅 계약 체결",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215204",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T11:55:17.000Z",
+      "lines": [
+        "미공개 고객과 월 11억달러 규모 AI 데이터센터 호스팅 계약",
+        "우주 항공 기업에서 AI 클라우드 인프라 사업자로 확장",
+        "12월부터 계약 이행 시작"
+      ],
+      "tags": [
+        "인프라",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-14-01",
+      "top": true
+    },
+    {
+      "title": "구글, AI 코딩 역량 강화 위해 메카나이즈 인재 흡수",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T11:37:03.000Z",
+      "lines": [
+        "구글이 AI 코딩 성능 강화 위해 메카나이즈 인재 15억 달러로 영입",
+        "반독점 규제 우회하면서 코딩 기술 역량 단기간 확보",
+        "메카나이즈는 AI 모델의 코드 작성 및 프로그램 수정 기술 전문"
+      ],
+      "tags": [
+        "구글",
+        "AI",
+        "코딩"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-14-02",
+      "top": true
+    },
+    {
+      "title": "엔비디아, 앤트로픽 IPO에 13조 투자 협상 중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215196",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T10:12:36.000Z",
+      "lines": [
+        "엔비디아가 앤트로픽 IPO에 최대 13조 투자 검토",
+        "성사되면 AI 모델 개발사와 인프라 공급사 협력 강화",
+        "투자 규모와 조건은 아직 논의 중"
+      ],
+      "tags": [
+        "엔비디아",
+        "앤트로픽",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 85,
+      "id": "2026-09-14-03",
+      "top": true
+    },
+    {
+      "title": "퍼플렉시티, Astra로 시스템 운영 효율화",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-14T00:00:00.000Z",
+      "lines": [
+        "GPT-6 Astra를 도입해 커뮤니케이션·소프트웨어 변경·시스템 모니터링 자동화",
+        "기존 모델 대비 운영 점검 빈도 대폭 감소",
+        "엔드투엔드 시스템 운영에 AI 활용 확대"
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-14-04",
+      "top": true
+    },
+    {
+      "title": "클로드 Fable 5.1, 370년 된 암호문 해독 성공",
+      "url": "https://news.hada.io/topic?id=33658",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T22:39:36.000Z",
+      "lines": [
+        "클로드 Fable 5.1이 370년 된 미해결 암호문 Cyphral Distich를 44분 만에 해독",
+        "암호 해독의 핵심은 외부 암호표가 아닌 책 자체의 내용 대응 방식",
+        "17만 6천 토큰 처리량으로 추가 개입 없이 완전한 자동 해독 성공"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-14-05",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 아스트라 활용법 공개...지침 줄이고 완료 기준 강조",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215202",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T11:18:20.000Z",
+      "lines": [
+        "GPT-6 아스트라 출시로 코딩 에이전트 활용 방식 재검토 필요",
+        "과거 상세한 지침이 오히려 모델 판단을 방해할 수 있다는 인식",
+        "오픈AI가 아스트라 전용 스킬·프롬프트 설계 원칙 공개"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-14-06",
+      "top": false
+    },
+    {
+      "title": "벤처 시장에서 사라지는 중간 지대",
+      "url": "https://news.hada.io/topic?id=33652",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T21:36:38.000Z",
+      "lines": [
+        "기업가치 1조 달러 스타트업 가능성으로 투자 기준 변화",
+        "AI 분야에 자금과 관심 집중, SaaS·커머스 등 상대적 소외",
+        "자본과 유능한 창업자가 거대 성공을 노리는 분야로 몰림"
+      ],
+      "tags": [
+        "투자",
+        "벤처",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-14-07",
+      "top": false
+    },
+    {
+      "title": "370년 된 암호 'Cyphral Distich' 해독 성공",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-13T21:06:13.000Z",
+      "lines": [
+        "Fable 5.1 버전으로 370년 된 암호 해독",
+        "역사적 암호 해독에 AI 기술 적용",
+        "Hacker News에서 325점 획득"
+      ],
+      "tags": [
+        "AI",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-14-08",
+      "top": false
+    },
+    {
+      "title": "트럼프·존슨, AI 개발 속도 둔화 주장에 반발",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-13T19:41:48.000Z",
+      "lines": [
+        "AI 업계 리더들이 개발 속도 둔화 주장",
+        "트럼프·존슨은 중국 경쟁력 우려로 반대",
+        "AI 주도권 경쟁이 주요 논쟁 배경"
+      ],
+      "tags": [
+        "AI",
+        "정치",
+        "국제경쟁"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-14-09",
+      "top": false
+    },
+    {
+      "title": "AI 업계, '인류 멸망' 경고에 대한 논쟁 심화",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T19:40:15.000Z",
+      "lines": [
+        "AI 산업계에서 인류 멸망 가능성에 대한 논쟁 재점화",
+        "TechCrunch AI에서 AI 위협에 대한 최신 논의 분석",
+        "업계 전문가들 사이에서 의견 분열 심화"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-14-10",
+      "top": false
+    },
+    {
+      "title": "Pinocchio: LLM 결과 검증 툴 공개",
+      "url": "https://pinocchio.goedelmachines.com",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T19:12:51.000Z",
+      "lines": [
+        "LLM의 허구 생성 문제 해결을 위한 Pinocchio 연구 버전 출시",
+        "출처와 계산 과정을 추적·검증하는 기능 탑재",
+        "결과 재현 가능성 보장과 소스 연결 유지"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-14-11",
+      "top": false
+    },
+    {
+      "title": "초파리 뇌 시뮬레이션으로 AI 실험 열풍",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215207",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T17:28:00.000Z",
+      "lines": [
+        "성체 초파리 전체 신경망 시뮬레이션 모델 오픈소스 공개",
+        "가상 초파리로 게임·로봇 제어·암호화폐 매매 등 다양한 실험 진행",
+        "구글·HHMI 공동 연구진이 초파리 뇌와 중추신경계 시뮬레이션 발표"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스",
+        "AI"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-14-12",
+      "top": false
+    },
+    {
+      "title": "Swobu: 로컬 LLM 스위치보드 공유 가능",
+      "url": "https://github.com/swobuforge/swobu",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T22:12:51.000Z",
+      "lines": [
+        "다양한 LLM 제공자 간 세션 관리 및 라우팅 지원",
+        "HTTPS로 다른 기기/사용자와 공유 및 연결 가능",
+        "오픈소스 프로젝트로 개발자 커뮤니티에서 주목"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-14-13",
+      "top": false
+    },
+    {
+      "title": "터미널에서 즐기는 개발자 전용 3D 가상세계 'VibeWorld' 출시",
+      "url": "https://github.com/SorBalda/vibeworld",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T20:00:14.000Z",
+      "lines": [
+        "터미널 기반 3D 가상세계 서비스 출시",
+        "개발자·과학자 간 실시간 음성·텍스트 채팅 지원",
+        "AI 불만 공유 공간 'complaint crater' 등 독특한 기능 제공"
+      ],
+      "tags": [
+        "3D",
+        "개발자",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-14-14",
+      "top": false
+    },
+    {
+      "title": "데이비드 색스 'AI 개발 속도 조절, 정부 규제 불필요' 주장",
+      "url": "https://news.hada.io/topic?id=33643",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T19:49:43.000Z",
+      "lines": [
+        "데이비드 색스가 오픈AI·앤트로픽의 AI 개발 속도 조절론에 반론",
+        "정부 규제 대신 기업 자율적 판단으로 위험 모델 개발 속도 조절 가능 주장",
+        "반독점법 예외나 정부 허가 없이도 기업 스스로 조절 가능성 제시"
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-14-15",
+      "top": false
+    },
+    {
+      "title": "구글, 수상한 광고에 대한 신고 처리 논란",
+      "url": "https://news.hada.io/topic?id=33641",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T19:43:43.000Z",
+      "lines": [
+        "유튜브에서 iPhone 저장 공간 경고 흉내 낸 광고 신고 시 정책 위반 아님 판정",
+        "Gemini는 동일한 광고를 게재 불승인 대상으로 즉시 판단",
+        "이용자들 사이에서 불만 제기 중"
+      ],
+      "tags": [
+        "구글",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-14-16",
+      "top": false
+    },
+    {
+      "title": "Anthropic의 경제 미래 시나리오 분석 발표",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-13T23:53:22.000Z",
+      "lines": [
+        "AI 발전이 경제에 미칠 영향 다양한 시나리오 제시",
+        "고용·소득·산업 구조 변화 전망 분석",
+        "정책 제언 및 대응 방안 제시"
+      ],
+      "tags": [
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-14-17",
+      "top": false
+    },
+    {
+      "title": "에이전트형 AI 데이터 준비 핵심 전략",
+      "url": "https://news.hada.io/topic?id=33657",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T22:02:45.000Z",
+      "lines": [
+        "에이전트는 스스로 데이터 오류와 맥락 보완 불가능",
+        "데이터 품질·의미·사용 권한을 시스템에 명시해야",
+        "데이터 계약으로 형식·최신성·품질 기준 검증 필수"
+      ],
+      "tags": [
+        "에이전트",
+        "데이터"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-14-18",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 전용 QA 플랫폼 'ClientCoded' 출시",
+      "url": "https://clientcoded.com/environments",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T20:22:29.000Z",
+      "lines": [
+        "AI 에이전트 테스트·모니터링을 위한 QA 플랫폼 출시",
+        "35개 플랫폼용 합성 테스트 환경 제공",
+        "반대적 쿼리 200개로 7가지 테스트 수행"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-14-19",
+      "top": false
+    },
+    {
+      "title": "Garry Tan, 오픈웨이트 연구소도 프런티어 모델 증류 허용해야",
+      "url": "https://news.hada.io/topic?id=33638",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T18:34:46.000Z",
+      "lines": [
+        "Y Combinator CEO Garry Tan이 미국 소규모 오픈웨이트 연구소도 프런티어 모델 증류 허용해야 주장",
+        "모델 증류는 다른 모델에 질문해 작동 방식과 추론을 학습하는 기법",
+        "중국 AI 연구소의 모델 증류에 규제 당국이 개입하지 않기를 바라는 입장"
+      ],
+      "tags": [
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-14-20",
+      "top": false
+    },
+    {
+      "title": "7G 필요성 논란: 속도보다 실질적 수요가 먼저",
+      "url": "https://news.hada.io/topic?id=33636",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-13T17:46:20.000Z",
+      "lines": [
+        "6G 이후 7G 필요성은 아직 불분명",
+        "기술 목록만 늘리는 것은 세대 구분 근거 부족",
+        "실질적 수요와 해결 불가능한 문제의 존재가 핵심"
+      ],
+      "tags": [
+        "인프라",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-14-21",
+      "top": false
+    },
+    {
+      "title": "오바마, AI 안전 대책 마련을 민주당에 촉구",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-13T16:30:00.000Z",
+      "lines": [
+        "오바마가 민주당에 AI 정책을 핵심 과제로 삼을 것 강조",
+        "AI의 경제적 영향과 안전성 문제 해결을 위한 구체적 계획 필요성 제기"
+      ],
+      "tags": [
+        "정치",
+        "규제",
+        "미국"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-14-22",
+      "top": false
+    },
+    {
+      "title": "YC 가리 탄, 오픈소스 AI 모델 축소화 촉구",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-13T15:44:38.000Z",
+      "lines": [
+        "YC 가리 탄이 오픈소스 AI 연구소에 최신 모델 축소화 필요성 강조",
+        "미국 오픈소스 AI 연구소가 프론티어 모델을 압축해 활용해야 함",
+        "소규모 연구소도 고성능 모델 개발에 참여할 수 있는 기회 확대"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-14-23",
+      "top": false
+    },
+    {
+      "title": "KAIST에 롯데와 함께하는 미래기술 연구센터 준공",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215203",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-13T10:15:02.000Z",
+      "lines": [
+        "KAIST에 롯데그룹과 협력한 지속가능성 연구센터 개소",
+        "기후변화와 탄소중립 등 미래기술 개발을 위한 산학협력 강화",
+        "롯데그룹의 100억 원 기부금과 KAIST 자체 기금으로 조성"
+      ],
+      "tags": [
+        "연구",
+        "국내",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-14-24",
+      "top": false
+    },
+    {
+      "title": "GPT-2 출시 유보로 인한 논란과 논의",
+      "url": "https://openai.com/index/better-language-models/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-13T23:11:17.000Z",
+      "lines": [
+        "2019년 OpenAI가 GPT-2 출시 유보로 논란 발생",
+        "악성 활용 우려로 모델 공개 연기 결정",
+        "해커뉴스에서 30점, 10개 댓글로 논의"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-09-14-25",
+      "top": false
+    },
+    {
+      "title": "맥OS 전용 AI 명령센터 'Vehla' 출시",
+      "url": "https://vehla.app/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T20:29:33.000Z",
+      "lines": [
+        "맥OS에서 AI 도구 통합 관리 가능",
+        "단축키로 빠르게 AI 서비스 접근",
+        "Hacker News에 소개된 신규 툴"
+      ],
+      "tags": [
+        "생산성",
+        "AI"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-14-26",
+      "top": false
+    },
+    {
+      "title": "Kibble: AI 뉴스·튜토리얼·코드·모델 리더 앱 출시",
+      "url": "https://www.kibblebites.com/app/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T19:39:57.000Z",
+      "lines": [
+        "AI 관련 콘텐츠를 한 곳에서 모아 제공하는 리더 앱",
+        "뉴스·튜토리얼·코드·모델 등 다양한 자료 지원",
+        "Hacker News에 공개된 신규 서비스"
+      ],
+      "tags": [
+        "AI",
+        "도구"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-14-27",
+      "top": false
+    },
+    {
+      "title": "sengi.ai, 채용 난역직군 지원 서비스 출시",
+      "url": "https://sengi.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-13T19:08:14.000Z",
+      "lines": [
+        "인공지능 기반 채용 지원 플랫폼 출시",
+        "난역직군 채용에 특화된 서비스 제공",
+        "HN 커뮤니티에 소개된 신규 스타트업"
+      ],
+      "tags": [
+        "생산성",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-14-28",
+      "top": false
+    }
+  ]
+}
