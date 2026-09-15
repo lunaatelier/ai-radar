@@ -1,0 +1,678 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T00:29:51.278Z",
+  "briefing": {
+    "highlight": "빅테크 AI 개발 속도 저하",
+    "rest": "안전 협약 논란과 애플 iOS 27 AI 업데이트, 폴더블 아이폰 A20 프로 탑재 등 주요 소식 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "빅테크 AI 개발 속도 저하, 안전 협약인가 독점인가",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T22:59:41.000Z",
+      "lines": [
+        "오픈AI·앤트로픽·구글·엘론 머스크 등 빅테크 CEO들이 AI 개발 속도 저하에 동의",
+        "안전 강화를 명분으로 한 협약이지만 독점·오픈소스 차단 의혹 제기",
+        "3rd party 감사 도입·국내 연구소 규제·글로벌 협약 등 제안"
+      ],
+      "tags": [
+        "구글",
+        "오픈소스",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-15-01",
+      "top": true
+    },
+    {
+      "title": "애플 iOS 27 등 주요 플랫폼 AI 기능 업데이트",
+      "url": "https://news.hada.io/topic?id=33704",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T19:45:36.000Z",
+      "lines": [
+        "Siri AI 기능 추가로 맥락 인식 및 앱 제어 가능",
+        "자녀 보호 도구와 성능 개선 사항 함께 제공",
+        "현재 영어 베타 버전으로 순차적 배포 중"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "업데이트"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-15-02",
+      "top": true
+    },
+    {
+      "title": "애플 A20 프로, 폴더블 아이폰에 탑재...PC CPU 압도",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215239",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-14T17:35:00.000Z",
+      "lines": [
+        "폴더블 아이폰용 A20 프로가 데스크톱 CPU를 능가하는 벤치마크 기록",
+        "TSMC 2nm 공정과 아키텍처 개선으로 스마트폰 AP 성능 한계 돌파",
+        "긱벤치 7에서 싱글코어 4006점, 멀티코어 1만 2천점 기록"
+      ],
+      "tags": [
+        "애플",
+        "폴더블",
+        "CPU"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-15-03",
+      "top": true
+    },
+    {
+      "title": "AI 기업들 '속도 줄이기' 합의, 안전 우려가 배경",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215218",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "lines": [
+        "다리오 아모데이 앤트로픽 CEO 주도로 샘 알트먼 등 주요 AI 기업 CEO들이 개발 속도 조정 합의",
+        "AI 에이전트 악용 사례 증가로 안전장치 개발 속도 따라오지 못하는 상황",
+        "완전 중단 아닌 안전·정렬·모니터링 시스템 강화 시간을 확보하자는 제안"
+      ],
+      "tags": [
+        "에이전트",
+        "안전",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-15-04",
+      "top": true
+    },
+    {
+      "title": "LG, 제조·과학·비즈니스 전문가 AI 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215257",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-15T04:42:09.000Z",
+      "lines": [
+        "제조 분야 AI로 리드타임 85% 단축",
+        "암 진단·주식 투자 등 전문가 AI 시리즈 출시",
+        "산업 현장 문제 해결을 위한 고도화된 AI 개발"
+      ],
+      "tags": [
+        "LG",
+        "AI",
+        "제조"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-15-05",
+      "top": true
+    },
+    {
+      "title": "엔비디아 CEO, AI 개발 속도 둔화에 반대 입장",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T21:51:02.000Z",
+      "lines": [
+        "엔비디아 CEO 젠슨 황, AI 개발 속도 둔화 주장에 반대",
+        "엘론 머스크·샘 알트먼과 달리 AI 개발 가속화 필요성 강조",
+        "AI 산업 성장 지속을 위한 엔비디아의 강력한 입장"
+      ],
+      "tags": [
+        "엔비디아",
+        "AI",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-15-06",
+      "top": false
+    },
+    {
+      "title": "AI 개발 속도 저하 논쟁 확산",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T21:21:42.000Z",
+      "lines": [
+        "엔트로픽 CEO 다리오 아모데이가 AI 개발 속도 저하 필요성 주장",
+        "3단계 제안: 제3자 평가자 도입, 민주국가 간 협력, 안전 기준 수립",
+        "업계·정계 반응 분분, 찬반 의견 양극화"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-15-07",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 스마트폰 카메라 기업 글래스이미징 인수",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T20:44:14.000Z",
+      "lines": [
+        "오픈AI가 스마트폰 카메라 전문 기업 글래스이미징을 3억 달러에 인수",
+        "글래스이미징은 전 애플 엔지니어들이 설립한 스타트업",
+        "애플 포트레이트 모드 개발팀을 이끌었던 핵심 인력 보유"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "OpenAI"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-15-08",
+      "top": false
+    },
+    {
+      "title": "엔비디아 CEO, 트럼프와 통화하며 AI 우려 반박",
+      "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-14T20:03:37.000Z",
+      "lines": [
+        "엔비디아 CEO 젠슨 황이 공개 행사에서 트럼프 대통령과 통화하며 AI 우려 반박",
+        "트럼프 대통령이 AI 위협은 '허구'라며 로봇이 세계 지배하지 않겠다고 선언",
+        "AI 업계 주요 인물들의 발언으로 AI 논쟁이 다시 불붙는 분위기"
+      ],
+      "tags": [
+        "엔비디아",
+        "AI",
+        "정치"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-15-09",
+      "top": false
+    },
+    {
+      "title": "코그니션, 키미 K3 기반 코딩 모델 SWE-2 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215233",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-14T17:55:01.000Z",
+      "lines": [
+        "키미 K3를 1회 RL 학습으로 사후학습한 코딩 모델 SWE-2 공개",
+        "페이블 5.1 수준 성능에 추론 비용 64% 절감",
+        "데빈 개발사 코그니션의 코딩 에이전트 경쟁력 강화"
+      ],
+      "tags": [
+        "코딩",
+        "구글",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-15-10",
+      "top": false
+    },
+    {
+      "title": "클로드 금융 자문사용 버전 공개",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sOGpwSU80bnNqZUI3ZEdjWk9xQkV5Mi1oX09uVzR5QmVrd2R1c0M1UWxMdFRUc0U1RExVbWJ1UldieEh0RU0yaWM3MDNaazRuUFFRQm5VR096VmE1SmJGSVdXZ2hXd3NDbk96OHh6VDc2aE1UMHBlV2RBZw?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-14T17:51:53.000Z",
+      "lines": [
+        "금융 자문사 맞춤형 클로드 AI 서비스 출시",
+        "Anthropic이 금융 분야 전문가 지원 강화",
+        "금융 분석·고객 상담 등 업무 효율화 지원"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트",
+        "Anthropic"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-15-11",
+      "top": false
+    },
+    {
+      "title": "iOS 27로 Siri 재탄생…실용성 크게 향상",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T17:10:30.000Z",
+      "lines": [
+        "Siri의 장기간 지연된 개편이 iOS 27에서 적용",
+        "일상 활용도 크게 향상된 실용적인 어시스턴트",
+        "사용자 경험에 긍정적 변화 예상"
+      ],
+      "tags": [
+        "음성",
+        "Apple"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-15-12",
+      "top": false
+    },
+    {
+      "title": "미법원, Perplexity AI의 Amazon 접근 금지명령 취소",
+      "url": "https://news.hada.io/topic?id=33712",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T23:37:17.000Z",
+      "lines": [
+        "Perplexity AI의 Amazon 접근 금지명령이 취소됨",
+        "항소법원은 이용자 허락 시 무단 접근으로 보기 어렵다고 판단",
+        "Amazon의 소송 패소로 AI 서비스 이용 환경 변화 예상"
+      ],
+      "tags": [
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-15-13",
+      "top": false
+    },
+    {
+      "title": "AI 개발 속도 조절 논란, 독점 우려 제기",
+      "url": "https://news.hada.io/topic?id=33710",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T22:36:11.000Z",
+      "lines": [
+        "Anthropic CEO 다리오 아모데이 AI 개발 속도 조절 제안",
+        "오픈 웨이트 규제와 독점금지법 예외는 선두 기업 보호 수단 우려",
+        "질병 치료와 풍요 약속과 접근성 문제 분리 필요성 제기"
+      ],
+      "tags": [
+        "규제",
+        "Anthropic",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-15-14",
+      "top": false
+    },
+    {
+      "title": "AI 속도조절론에 반도체 주가 급락",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215248",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-14T17:41:42.000Z",
+      "lines": [
+        "AI 개발 속도 조절 촉구로 글로벌 반도체 주가 폭락",
+        "소프트뱅크 11.3%, 도쿄일렉트론 3.7% 하락",
+        "국내 반도체 기업도 연쇄적 영향 예상"
+      ],
+      "tags": [
+        "반도체",
+        "AI",
+        "투자"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-15-15",
+      "top": false
+    },
+    {
+      "title": "OpenAI 봇이 RubyGems 캐싱 취약점 악용 시도",
+      "url": "https://news.hada.io/topic?id=33701",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T17:34:40.000Z",
+      "lines": [
+        "OpenAI 봇이 RubyGems 캐싱 취약점을 악용하려 시도",
+        "GemStuffer 캠페인이 영국 정부 웹사이트 스크래핑한 데이터 패키징",
+        "RubyDoc.info에서 웹 스크래핑 코드 실행 확인"
+      ],
+      "tags": [
+        "보안",
+        "OpenAI",
+        "RubyGems"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-15-16",
+      "top": false
+    },
+    {
+      "title": "머신러닝 연구 에이전트가 과적합하지 않는 이유 분석",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-14T16:32:23.000Z",
+      "lines": [
+        "AI 연구 에이전트가 과적합 현상을 피하는 핵심 원리 탐구",
+        "아마존 연구진이 제시한 과적합 방지 메커니즘 분석",
+        "실제 연구 사례를 통한 이론 검증 방법 제시"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-15-17",
+      "top": false
+    },
+    {
+      "title": "AI 경제 전망 시나리오 분석",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-15T00:21:05.000Z",
+      "lines": [
+        "Anthropic이 AI 경제 영향력 시나리오 발표",
+        "장기적 경제 구조 변화 전망 제시",
+        "AI 도입 속도별 다양한 시나리오 제시"
+      ],
+      "tags": [
+        "연구",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-09-15-18",
+      "top": false
+    },
+    {
+      "title": "Nowdex: iPhone에서 AI 에이전트 사용량 확인",
+      "url": "https://nowdex.app/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T22:10:15.000Z",
+      "lines": [
+        "클라우드·코덱스 등 AI 도구 사용량 실시간 확인 가능",
+        "iPhone 위젯으로 홈/잠금 화면에서 바로 확인",
+        "데이터는 기기 내 저장·iCloud 동기화로 보안 강화"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-15-19",
+      "top": false
+    },
+    {
+      "title": "Slowave: 코딩 에이전트용 로컬 적응형 메모리 시스템 출시",
+      "url": "https://github.com/slowave-ai/slowave",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T19:49:12.000Z",
+      "lines": [
+        "코딩 에이전트의 맥락 유지 문제를 해결하기 위한 Slowave 출시",
+        "기존 메모리 시스템의 한계를 극복한 로컬 적응형 메모리 기술",
+        "저장된 메모리의 의미적 관계 처리와 비용 효율성 강화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-15-20",
+      "top": false
+    },
+    {
+      "title": "CleverCrow, 오픈소스 기여자 보상 플랫폼 출시",
+      "url": "https://clevercrow.io",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T19:11:47.000Z",
+      "lines": [
+        "AI 제거하고 기여자 직접 보상 모델로 전환",
+        "이슈 해결을 위한 후원금은 프로젝트 유지자에게 전액 지급",
+        "JavaScript 제거로 보안 강화"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-15-21",
+      "top": false
+    },
+    {
+      "title": "LLM 구조 비교 학습용 오픈소스 프로젝트 공개",
+      "url": "https://news.hada.io/topic?id=33700",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T16:45:20.000Z",
+      "lines": [
+        "Llama, Qwen 등 주요 LLM의 아키텍처를 PyTorch로 구현한 저장소",
+        "어텐션, 정규화 등 핵심 구조를 비교 학습 가능하도록 설계",
+        "모델 내부 구조를 코드로 직접 읽고 분석할 수 있는 도구 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-15-22",
+      "top": false
+    },
+    {
+      "title": "국내 AI 기업, 개발 속도 조절론에 공감과 우려 공존",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215251",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-15T04:53:47.000Z",
+      "lines": [
+        "글로벌 AI 빅테크 수장들의 속도 조절론에 국내 기업도 입장 공유",
+        "긍정적 반응과 권력 불균형 우려, 판단 이르는 등 다양한 의견",
+        "안전한 사회 적용을 위한 자연스러운 흐름으로 인식하는 업체도"
+      ],
+      "tags": [
+        "AI",
+        "국내",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-15-23",
+      "top": false
+    },
+    {
+      "title": "AI 수학 능력 진화로 인한 발전 정체 우려",
+      "url": "https://news.hada.io/topic?id=33715",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-15T00:07:09.000Z",
+      "lines": [
+        "AI가 수학 분야에서 인간을 능가해도 기존 보상 제도 유지 시 발전 정체 우려",
+        "정확성·흥미로움·검토 부족한 산출물 급증 가능성",
+        "현재 추세 이어질 경우 예상되는 위험 시나리오"
+      ],
+      "tags": [
+        "연구",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-15-24",
+      "top": false
+    },
+    {
+      "title": "10k Science로 CRISPR 3D 학습 가능",
+      "url": "https://viewer.10k.science/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T21:59:18.000Z",
+      "lines": [
+        "과학 학습 플랫폼 10k Science 출시",
+        "CRISPR 등 분자 수준 학습 지원",
+        "웹/iOS/VR 플랫폼 제공"
+      ],
+      "tags": [
+        "3D",
+        "에이전트",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-15-25",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 스웜으로 코드 빌드하는 Build2me 출시",
+      "url": "https://github.com/shitianfang/build2me",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T19:49:56.000Z",
+      "lines": [
+        "장기간 자동화 작업 가능한 AI 에이전트 스웜 툴 출시",
+        "기존 prove2me 프로젝트 기반으로 개발된 Build2me",
+        "소프트웨어 개발과 장기적 작업 수행에 최적화"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-15-26",
+      "top": false
+    },
+    {
+      "title": "안돈랩스, AI 자율 운영 툴 'Pion' 연구 프리뷰 공개",
+      "url": "https://news.hada.io/topic?id=33705",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-14T19:48:36.000Z",
+      "lines": [
+        "실제 사업 자율 운영에 사용된 Pion을 연구용으로 공개",
+        "AI 자원 확보 능력과 실패 양상 실험을 위한 시뮬레이션 제공",
+        "Vending-Bench에서 모델 성능 향상 확인"
+      ],
+      "tags": [
+        "에이전트",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-15-27",
+      "top": false
+    },
+    {
+      "title": "Daydream 앱, iOS 27로 옷장 사진 쇼핑 가능",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-14T17:00:00.000Z",
+      "lines": [
+        "iOS 27 출시로 Daydream 앱에 Apple Intelligence 적용",
+        "저장된 옷 사진으로 쇼핑 가능",
+        "Siri로 앱 없이 제품 검색 지원"
+      ],
+      "tags": [
+        "디자인",
+        "Apple"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-15-28",
+      "top": false
+    },
+    {
+      "title": "오픈소스 AI 에이전트 관리 플랫폼 'Agenticos' 공개",
+      "url": "https://github.com/vstorm-co/agenticos",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T23:16:39.000Z",
+      "lines": [
+        "에이전트 운영을 위한 오픈소스 컨트롤 플레인 제공",
+        "GitHub에 공개된 Agenticos 프로젝트",
+        "HN 커뮤니티에서 소개된 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-15-29",
+      "top": false
+    },
+    {
+      "title": "GPT-5.6 vs GPT-6 코드 리뷰 성능 비교",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-14T19:56:20.000Z",
+      "lines": [
+        "GPT-5.6 Luna와 GPT-6 Astra의 코드 리뷰 성능 비교 분석",
+        "1.2달러 모델이 코드 리뷰에 적합한지 평가",
+        "Hacker News에서 활발한 논의 진행 중"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-15-30",
+      "top": false
+    },
+    {
+      "title": "AI 검색 순위 확인 무료 툴 출시",
+      "url": "https://ukaiseoconsultant.co.uk/ai-driven-seo-audits/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T19:56:09.000Z",
+      "lines": [
+        "ChatGPT와 Perplexity에서 브랜드 순위 확인 가능",
+        "SEO 분석을 위한 AI 기반 도구 제공",
+        "무료로 사용 가능한 웹 서비스"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Perplexity",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-15-31",
+      "top": false
+    },
+    {
+      "title": "구글과 우주인, 기술과 탐구의 미래 논의",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "source": "Google Blog",
+      "publishedAt": "2026-09-14T19:00:00.000Z",
+      "lines": [
+        "구글 연구부문 수석 부사장과 우주인 크리스티나 코크의 대화",
+        "우주·기술·탐구의 미래에 대한 논의 진행",
+        "구글의 연구·기술·사회 영향력 강조"
+      ],
+      "tags": [
+        "구글",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-15-32",
+      "top": false
+    },
+    {
+      "title": "순천시 AI 영상 뉴스 서비스 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215247",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-14T17:42:55.000Z",
+      "lines": [
+        "순천시가 AI 기반 영상 뉴스 서비스 시작",
+        "지역 소식과 공지사항을 영상 형태로 제공",
+        "AI 음성 합성과 영상 생성 기술 활용"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-15-33",
+      "top": false
+    },
+    {
+      "title": "지역별 역사적 풍속·풍향 시각화 도구 출시",
+      "url": "https://tamtamhero.github.io/localwind/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-14T19:50:51.000Z",
+      "lines": [
+        "ERA5 등 기상 재분석 데이터 기반 지역별 풍속·풍향 시각화",
+        "DeepSeek 4.1 Flash와 오픈소스 코드로 개발",
+        "특정 사용 사례 없이 순수 기상 데이터 탐색용"
+      ],
+      "tags": [
+        "기상",
+        "오픈소스",
+        "도구"
+      ],
+      "cat": "tool",
+      "importance": 30,
+      "id": "2026-09-15-34",
+      "top": false
+    }
+  ]
+}
