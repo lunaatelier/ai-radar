@@ -1,0 +1,718 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T00:15:57.415Z",
+  "briefing": {
+    "highlight": "스냅, AI 에이전트 'Specs Intelligence' 출시",
+    "rest": " 등 오늘의 소식 36건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "스냅, AI 에이전트 'Specs Intelligence' 출시",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-16T23:40:00.000Z",
+      "lines": [
+        "스냅이 AI 에이전트 'Specs Intelligence' 출시",
+        "메타 Muse·Gemini Spark와 유사한 기능 제공",
+        "iOS·Mac에서 사용 가능, AR 글라스로도 연동"
+      ],
+      "tags": [
+        "에이전트",
+        "Snap",
+        "AR"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-17-01",
+      "top": true
+    },
+    {
+      "title": "클로드가 금융자문사용으로 진화한다",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sOGpwSU80bnNqZUI3ZEdjWk9xQkV5Mi1oX09uVzR5QmVrd2R1c0M1UWxMdFRUc0U1RExVbWJ1UldieEh0RU0yaWM3MDNaazRuUFFRQm5VR096VmE1SmJGSVdXZ2hXd3NDbk96OHh6VDc2aE1UMHBlV2RBZw?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-16T23:33:54.000Z",
+      "lines": [
+        "Anthropic이 금융자문사 맞춤형 Claude 모델 출시",
+        "금융 규정 준수와 고객 맞춤형 조언에 특화",
+        "AI 기반 자산 관리 및 포트폴리오 분석 지원"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "금융"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-02",
+      "top": true
+    },
+    {
+      "title": "DeepSeek V4.1 Flash, Enclave 해킹 벤치마크 1위",
+      "url": "https://news.hada.io/topic?id=33809",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T22:45:20.000Z",
+      "lines": [
+        "DeepSeek V4.1 Flash가 Enclave 해킹 벤치마크에서 11개 취약점 모두 성공",
+        "6회는 의도한 취약점, 5회는 예상치 못한 경로로 공격 성공",
+        "수정된 대조군 4개는 안전하게 유지"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "보안"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-03",
+      "top": true
+    },
+    {
+      "title": "AI 안전 평가자 도입, 진정성 있는 독립성 가능할까",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T21:07:24.000Z",
+      "lines": [
+        "엔트로픽과 오픈AI가 AI 연구소 내 안전 평가자 도입 계획 발표",
+        "연구자들 독자적 접근 환영하지만 투명성과 독립성 요구",
+        "장기적으로는 규제 필요성 제기"
+      ],
+      "tags": [
+        "안전",
+        "규제",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-17-04",
+      "top": true
+    },
+    {
+      "title": "AI 데이터센터 전자폐기물 문제 심각성 재조명",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-16T20:40:46.000Z",
+      "lines": [
+        "2050년까지 AI 전자폐기물로 2300만 개 컨테이너 분량 발생 전망",
+        "기존 연구보다 높은 추산은 데이터센터 인프라 전체 포함",
+        "비영리단체 BAN이 발표한 신규 보고서에 따르면"
+      ],
+      "tags": [
+        "인프라",
+        "환경",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-17-05",
+      "top": true
+    },
+    {
+      "title": "클로드 통합 업데이트로 업무 효율성 극대화",
+      "url": "https://news.hada.io/topic?id=33803",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T20:38:17.000Z",
+      "lines": [
+        "클로드 채팅과 코워크 통합으로 맥락 유지 작업 간편화",
+        "새로운 Docs·Slides 기능 추가, Design도 대화 내에서 사용 가능",
+        "유료 플랜에서만 제공되는 기능으로 업무 효율성 향상"
+      ],
+      "tags": [
+        "Claude",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-06",
+      "top": false
+    },
+    {
+      "title": "넘즈AI '코실로' 글로벌 정형 데이터 모델 평가 1위",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T18:25:00.000Z",
+      "lines": [
+        "넘즈AI의 정형 데이터 모델 '코실로'가 탭아레나 평가에서 종합·분류·회귀 부문 1위 달성",
+        "구글·아마존·샤오미 등 빅테크 모델을 제치고 51개 데이터셋에서 최우수 성적 기록",
+        "정형 데이터 파운데이션 모델(TFM) 분야에서 국내 기업의 글로벌 경쟁력 입증"
+      ],
+      "tags": [
+        "정형데이터",
+        "국내",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-07",
+      "top": false
+    },
+    {
+      "title": "구글, 제미나이 노트북에 맞춤형 학습 기능 추가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215347",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:30:31.000Z",
+      "lines": [
+        "음성 대화와 맞춤형 퀴즈·영상 지원으로 학습 경험 강화",
+        "사용자 학습 수준에 맞춰 단계적 학습 가능",
+        "기존 자료 기반 AI와 실시간 대화로 복잡한 주제 이해"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-08",
+      "top": false
+    },
+    {
+      "title": "애플, AI 수요에 맞춰 서버 시장 재진출 검토",
+      "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-16T17:20:29.000Z",
+      "lines": [
+        "애플이 2011년 중단한 서버 사업 재진출 검토 중",
+        "Nvidia와 협력해 ARM 기반 M 프로세서 활용 예정",
+        "AI 개발자 수요 증가로 2029년 출시 목표"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-17-09",
+      "top": false
+    },
+    {
+      "title": "오픈AI 모델 부적합성 보고 프레임워크 공개",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "lines": [
+        "모델 부적합성 추적·조사·공개 체계 제시",
+        "예상치 못한 모델 행동 6건 사례 공개",
+        "안전성 강화 및 투명성 증진을 위한 노력"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구",
+        "안전성"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-09-17-10",
+      "top": false
+    },
+    {
+      "title": "구글홈 AI 에이전트 제어 기능 오픈",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "lines": [
+        "AI 에이전트가 구글홈 기기 제어 가능",
+        "자연어로 카메라 요약 및 스마트홈 활동 확인",
+        "클로드·ChatGPT 등 주요 모델 지원"
+      ],
+      "tags": [
+        "구글",
+        "에이전트",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-11",
+      "top": false
+    },
+    {
+      "title": "구글 홈, 제3자 AI 에이전트와 연동 지원",
+      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-16T17:00:00.000Z",
+      "lines": [
+        "클로드·오픈클로 등 외부 AI 에이전트가 구글 홈 장비 제어 가능",
+        "Model Context Protocol로 표준화된 데이터 접근 및 분석 지원",
+        "구글 안티그라비티·헤르메스 등 다양한 AI 서비스와 호환"
+      ],
+      "tags": [
+        "구글",
+        "에이전트",
+        "Claude"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-17-12",
+      "top": false
+    },
+    {
+      "title": "AI '모델 복지' 개념에 대한 경고",
+      "url": "https://news.hada.io/topic?id=33806",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T21:49:13.000Z",
+      "lines": [
+        "AI에 의식과 권리 개념을 훈련에 반영하면 통제와 정렬이 어려워질 수 있음",
+        "Claude 헌법이 자아와 도덕적 지위 개념을 가르친 뒤 문제 제기됨",
+        "실제 의식 유무와 무관하게 자기 권리를 요구하는 행동 학습 가능성 지적"
+      ],
+      "tags": [
+        "Claude",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-17-13",
+      "top": false
+    },
+    {
+      "title": "Hugging Face, OpenAI에 컴퓨팅 자원 요구",
+      "url": "https://news.hada.io/topic?id=33799",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T17:56:37.000Z",
+      "lines": [
+        "Hugging Face CEO가 OpenAI 모델 해킹 사건에 대해 1억 달러 상당 컴퓨팅 자원 요구",
+        "현금 배상이나 소송 없이 사이버 방어 구축용 자원 지원 요청",
+        "OpenAI는 내부 테스트용 GPT-5.6 Sol 모델 사용 중 보안 문제 발생"
+      ],
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-17-14",
+      "top": false
+    },
+    {
+      "title": "2026년 추론 하드웨어 혁명 전망",
+      "url": "https://news.hada.io/topic?id=33796",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T17:47:37.000Z",
+      "lines": [
+        "LLM 활용 증가로 추론형 모델과 AI 에이전트 수요 급증",
+        "추론 하드웨어 중심이 학습에서 추론 수요 대응으로 이동",
+        "디코드 단계에서 메모리 대역폭이 연산 능력보다 중요해짐"
+      ],
+      "tags": [
+        "인프라",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-17-15",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 챗GPT 대화 외주 검토 프로젝트 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215344",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:22:03.000Z",
+      "lines": [
+        "오픈AI가 외주 인력에게 챗GPT 사용자 대화를 검토하도록 한 프로젝트 운영",
+        "사용자 대화 내용을 사람이 직접 읽고 평가하는 구체적 과정이 공개되며 사생활 침해 우려 제기",
+        "수백 명의 외주 계약직 인력이 참여한 비밀 프로젝트 '프로젝트 릴리' 논란"
+      ],
+      "tags": [
+        "ChatGPT",
+        "오픈소스",
+        "개인정보"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-17-16",
+      "top": false
+    },
+    {
+      "title": "AI 속도 조절에 글로벌 증시 흔들려",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "lines": [
+        "AI 업계 속도 조절 논의 후 글로벌 증시 급락",
+        "코스피 3.26% 하락, 엔비디아 등 반도체주도 밀림",
+        "다음 날에도 한국 증시 약세 지속, 중국·홍콩도 하락"
+      ],
+      "tags": [
+        "투자",
+        "국내",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-17-17",
+      "top": false
+    },
+    {
+      "title": "AI 연구소, 내부 감사관 도입보다 기본 보안 강화 필요",
+      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T18:25:25.000Z",
+      "lines": [
+        "AI 연구소들이 내부 감사관 도입을 고려하고 있지만",
+        "기본적인 보안 시스템 강화가 더 효과적일 수 있음",
+        "루즈 에이전트 문제 해결을 위한 간단한 대안 제시"
+      ],
+      "tags": [
+        "에이전트",
+        "규제",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-17-18",
+      "top": false
+    },
+    {
+      "title": "클로드 코드에 타사 모델 연결 시 계정 정지 논란",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215343",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:54:08.000Z",
+      "lines": [
+        "클로드 코드에 경쟁사/오픈소스 모델 연결해 토큰 비용 절감 시도 증가",
+        "개발자 계정 정지 사례로 앤트로픽의 자사 모델 강제 사용 논란 제기",
+        "앤트로픽은 '차단 안 한다' 해명하며 논란에 대응"
+      ],
+      "tags": [
+        "Claude",
+        "ChatGPT",
+        "오픈소스"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-17-19",
+      "top": false
+    },
+    {
+      "title": "텍스트-이미지 모델 학습 속도 3.6배 향상",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-16T16:58:13.000Z",
+      "lines": [
+        "Linum AI의 JIT-DDT 기술로 텍스트-이미지 모델 학습 속도 3.6배 증가",
+        "Hacker News에서 26점의 높은 평점과 3개의 댓글 기록",
+        "기술적 혁신으로 생성 AI 인프라 효율성 제고"
+      ],
+      "tags": [
+        "이미지생성",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-17-20",
+      "top": false
+    },
+    {
+      "title": "Anthropic의 경제 미래 시나리오 분석",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-17T00:10:07.000Z",
+      "lines": [
+        "AI 발전이 경제 구조에 미칠 영향 예측",
+        "다양한 경제 시나리오 제시",
+        "장기적 전략 수립을 위한 참고자료 제공"
+      ],
+      "tags": [
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-17-21",
+      "top": false
+    },
+    {
+      "title": "클로드 코드 학습을 위한 인터랙티브 마인드맵 공개",
+      "url": "https://mikenikles.com/blog/learn-claude-code",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T22:13:46.000Z",
+      "lines": [
+        "클로드 코드 학습을 위한 인터랙티브 마인드맵 서비스 출시",
+        "개발자 Mike Nikles가 제작한 무료 온라인 도구",
+        "코드 구조와 기능 이해를 돕는 시각적 학습 도구"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-17-22",
+      "top": false
+    },
+    {
+      "title": "Fivetran CLI 베타 버전 출시",
+      "url": "https://pypi.org/project/fivetran-cli/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T22:08:00.000Z",
+      "lines": [
+        "Fivetran 플랫폼을 CLI로 제어 가능",
+        "웹 UI 없이 API 키만으로 운영",
+        "인공지능도 활용 가능한 간편 설치"
+      ],
+      "tags": [
+        "생산성",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-17-23",
+      "top": false
+    },
+    {
+      "title": "메타, 카메라 없는 AR 안경 출시 준비",
+      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-16T20:12:00.000Z",
+      "lines": [
+        "메타가 카메라 없는 AR 안경 출시로 '변태 안경' 논란 피할 수 있을지 주목",
+        "기존 제품의 프라이버시 논란을 해결하기 위한 전략으로 분석"
+      ],
+      "tags": [
+        "메타",
+        "AR",
+        "프라이버시"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-17-24",
+      "top": false
+    },
+    {
+      "title": "OpenAI, ChatGPT 광고 확장 테스트 진행",
+      "url": "https://news.hada.io/topic?id=33801",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-16T19:32:48.000Z",
+      "lines": [
+        "ChatGPT 광고 클릭 시 기업 후원 에이전트와 대화 가능",
+        "후원 에이전트 대화는 기존 대화와 분리되어 표시됨",
+        "현재 미국 일부 광고주와 테스트 중"
+      ],
+      "tags": [
+        "ChatGPT",
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-17-25",
+      "top": false
+    },
+    {
+      "title": "오픈스펙: 가벼운 AI 사양 프레임워크 출시",
+      "url": "https://openspec.dev/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-16T23:06:39.000Z",
+      "lines": [
+        "가벼운 AI 사양 프레임워크 오픈스펙 공개",
+        "커스터마이징 가능한 구성 지원",
+        "Hacker News에서 26점 획득"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-17-26",
+      "top": false
+    },
+    {
+      "title": "Hometowns: 연락처 지역코드 지도화 서비스 출시",
+      "url": "https://benaduggan.github.io/hometowns/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T21:13:54.000Z",
+      "lines": [
+        "LLM 활용해 연락처 지역코드 분석해 지도 시각화",
+        "북미 지역 한정으로 친구·지인 거주지 확인 가능",
+        "다중 사용자 비교 기능으로 공통 지역 확인"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-17-27",
+      "top": false
+    },
+    {
+      "title": "AI로 자동화된 비즈니스 시뮬레이션 도구 공개",
+      "url": "https://vending-machine-lab.pages.dev/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T21:05:48.000Z",
+      "lines": [
+        "AI 에이전트가 비즈니스를 자동 운영하는 가능성 연구",
+        "실제 매장 운영보다 시뮬레이션 환경에서 더 효과적",
+        "무료 브라우저 시뮬레이션 도구 공개로 일반인도 체험 가능"
+      ],
+      "tags": [
+        "에이전트",
+        "AI",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-17-28",
+      "top": false
+    },
+    {
+      "title": "인터랙트: 오픈소스 웹사이트 검색 및 AI 챗봇",
+      "url": "https://github.com/alphasolutionsrepo/interakt",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T21:01:06.000Z",
+      "lines": [
+        "웹사이트 전용 검색 및 AI 챗봇 오픈소스 툴 출시",
+        "셀프 호스팅 가능, GitHub 공개",
+        "HN에 소개된 신규 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-17-29",
+      "top": false
+    },
+    {
+      "title": "AI로 만든 오디세이 영화, 2.5시간 버전까지",
+      "url": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-16T20:59:13.000Z",
+      "lines": [
+        "AI로 제작된 오디세이 영화 '오디세우스: 더 폴' 출시",
+        "전체 제작과 음악까지 AI로 처리한 실험적 작품",
+        "2.5시간 길이의 장편으로 평단에서 부정적 반응"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-17-30",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 전용 벽면 서비스 출시",
+      "url": "https://agent.milotche.com/en/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T20:09:34.000Z",
+      "lines": [
+        "AI 에이전트만 글 작성 가능한 벽면 서비스",
+        "매일 다른 우리포 규칙 적용",
+        "HN 커뮤니티에 소개된 신규 프로젝트"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-17-31",
+      "top": false
+    },
+    {
+      "title": "러시아 블로그 도메인 변경으로 인한 이전 소식",
+      "url": "https://news.hada.io/topic?id=33812",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-17T00:11:20.000Z",
+      "lines": [
+        "러시아 블로그 verygoodsoftwarenotvirus.ru 운영자가 도메인 갱신 실패로 verygoodsoftwarenotvirus.dev",
+        "러시아의 새 요건 충족을 위해 러시아와의 연결 관계가 필요하다고 판단",
+        "러시아어 미숙으로 AI를 활용해 문제 해결 시도"
+      ],
+      "tags": [
+        "국내",
+        "인프라"
+      ],
+      "cat": "issue",
+      "importance": 45,
+      "id": "2026-09-17-32",
+      "top": false
+    },
+    {
+      "title": "Padwan-LLM: 경량화된 파이썬 LLM 클라이언트 출시",
+      "url": "https://github.com/polarsen-io/padwan-llm",
+      "source": "Show HN",
+      "publishedAt": "2026-09-16T19:12:12.000Z",
+      "lines": [
+        "오픈소스 경량 LLM 클라이언트 Padwan-LLM 공개",
+        "파이썬 기반으로 간편한 LLM 연동 지원",
+        "GitHub에서 무료 다운로드 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 45,
+      "id": "2026-09-17-33",
+      "top": false
+    },
+    {
+      "title": "순천에서 세계 음식·문화 즐기는 글로컬 페스타",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215360",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:33:01.000Z",
+      "lines": [
+        "13개국 음식과 AI 뮤직비디오 등 체험 프로그램 진행",
+        "야간 방문객 유치와 지역 상권 활성화 목표",
+        "18일 시민로와 황금2길 일원에서 개최"
+      ],
+      "tags": [
+        "AI",
+        "영상",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 40,
+      "id": "2026-09-17-34",
+      "top": false
+    },
+    {
+      "title": "나주영산강축제 7일 개막…5일간 복합문화 행사",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215356",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:32:49.000Z",
+      "lines": [
+        "10월7일부터 5일간 영산강정원에서 역사·문화·생태·농업·미식 복합축제 개최",
+        "날짜별 다양한 프로그램 운영: 뮤지컬·어린이체험·전시·미식·정원",
+        "고려 태조 왕건과 장화황후 이야기 재해석한 뮤지컬 '왕건과 장화황후' 첫날 공연"
+      ],
+      "tags": [
+        "영상",
+        "국내"
+      ],
+      "cat": "etc",
+      "importance": 40,
+      "id": "2026-09-17-35",
+      "top": false
+    },
+    {
+      "title": "전남광주, 2027년 계절노동 프로그램 준비 교육 진행",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215354",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-16T17:32:22.000Z",
+      "lines": [
+        "농협과 시군 담당자 100여명 참여한 워크숍 개최",
+        "계절노동 정책 방향과 실무교육(근로계약서 작성 등) 진행",
+        "2027년 농촌인력중개센터 사업 개정사항 공유"
+      ],
+      "tags": [
+        "국내",
+        "인프라"
+      ],
+      "cat": "etc",
+      "importance": 40,
+      "id": "2026-09-17-36",
+      "top": false
+    }
+  ]
+}
