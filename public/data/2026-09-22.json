@@ -1,0 +1,717 @@
+{
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T00:46:43.028Z",
+  "briefing": {
+    "highlight": "스텝 5 프리뷰 공개",
+    "rest": "와 AI 킬 스위치 논의, 미래 예측 AI 1위 등 주요 AI 소식 3건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "스텝펀, 에이전트·금융 특화 MoE 모델 '스텝 5 프리뷰' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215519",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-21T17:26:00.000Z",
+      "lines": [
+        "6000억 매개변수 중 270억개만 활성화하는 희소 전문가 혼합(MoE) 구조 적용",
+        "최대 100만 토큰 컨텍스트 창과 시각적 멀티모달 입력 지원",
+        "에이전트·코딩·전문 지식·금융 분석에 특화된 차세대 플래그십 모델"
+      ],
+      "tags": [
+        "에이전트",
+        "MoE",
+        "중국"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-22-01",
+      "top": true
+    },
+    {
+      "title": "Anthropic 신규 AI 모델 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-21T16:37:53.000Z",
+      "lines": [
+        "Anthropic이 신규 AI 모델 출시",
+        "기존 모델 대비 성능 향상",
+        "안전성과 효율성 강조"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "cat": "tool",
+      "importance": 80,
+      "id": "2026-09-22-02",
+      "top": true
+    },
+    {
+      "title": "AI 킬 스위치 논의 확대…실제 적용 가능성은?",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215518",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "lines": [
+        "미국 의회와 캘리포니아주에서 AI 킬 스위치 의무화 법안 발의",
+        "AI 비상 정지 기능은 위험한 행동 시 시스템 정지 또는 접근 차단",
+        "실제 적용 시 단순 정지보다 복잡한 기술적·윤리적 문제 예상"
+      ],
+      "tags": [
+        "규제",
+        "연구",
+        "미국"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-22-03",
+      "top": true
+    },
+    {
+      "title": "뉴로퓨전, 미래 예측 AI 벤치마크 1위 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215547",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-22T04:54:46.000Z",
+      "lines": [
+        "국내 스타트업 뉴로퓨전이 답을 알 수 없는 글로벌 AI 미래 예측 벤치마크에서 1위 달성",
+        "금융 AI 투자 플랫폼 밸리 AI 운영사, 포캐스트벤치 선행 리더보드에서 우수성 입증",
+        "과적합 문제 제기가 많은 리더보드 평가에서 공정성 있는 성과 기록"
+      ],
+      "tags": [
+        "국내",
+        "기술력",
+        "투자"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-04",
+      "top": true
+    },
+    {
+      "title": "클라우드플레어 Python 워커 공식 출시",
+      "url": "https://news.hada.io/topic?id=34087",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T22:36:54.000Z",
+      "lines": [
+        "Python이 클라우드플레어 공식 지원 언어로 추가",
+        "FastAPI·Django·Flask 등 웹 프레임워크 실행 가능",
+        "웹 서버 없이 전 세계 배포 가능"
+      ],
+      "tags": [
+        "클라우드플레어",
+        "Python",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-05",
+      "top": true
+    },
+    {
+      "title": "캘리포니아 AI 데이터센터 에너지·물 사용 규제 강화",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-21T20:29:45.000Z",
+      "lines": [
+        "캘리포니아 주정부 AI 데이터센터 전력·물 사용량 공개 의무화",
+        "인프라 업그레이드 비용 데이터센터가 부담하도록 규정",
+        "지역 전력망·수자원 시스템 강화를 위한 추가 조치 포함"
+      ],
+      "tags": [
+        "인프라",
+        "규제",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-22-06",
+      "top": false
+    },
+    {
+      "title": "메타의 Muse, ChatGPT 모바일 출시 초기 성적 뒤집어",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T19:19:21.000Z",
+      "lines": [
+        "메타 Muse 모바일 출시 후 미국/캐나다 다운로드 수 ChatGPT 초기 기록 돌파",
+        "Appfigures 추정치에 따르면 일일 활성 사용자도 더 많은 것으로 분석",
+        "Meta AI 에이전트 경쟁력 입증"
+      ],
+      "tags": [
+        "메타",
+        "ChatGPT",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-22-07",
+      "top": false
+    },
+    {
+      "title": "개인 하드웨어에서 프론티어 AI 실행 가능성",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-21T18:53:01.000Z",
+      "lines": [
+        "개인용 하드웨어에서도 고성능 AI 모델 실행 가능성 제시",
+        "오픈소스 프로젝트 DLAB의 주간 업데이트 발표",
+        "하드웨어 최적화 기법으로 비용 절감 효과 강조"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "인프라"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-22-08",
+      "top": false
+    },
+    {
+      "title": "알리바바, 2.3초 지연 AI 통역 모델 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215516",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-21T18:20:59.000Z",
+      "lines": [
+        "오디오와 텍스트를 동시에 처리해 통역 지연 시간 2.3초로 단축",
+        "인터리브 아키텍처로 충실도·유창성·간결성 향상",
+        "대화 중 음성 종료 기다리지 않고 실시간 번역 가능"
+      ],
+      "tags": [
+        "음성",
+        "알리바바",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-09",
+      "top": false
+    },
+    {
+      "title": "LLM 내부에서 '고통 축' 발견...행동 변화까지",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215520",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-21T18:07:02.000Z",
+      "lines": [
+        "LLM 내부에서 고통과 유사한 개념을 표현하는 벡터 발견",
+        "고통 방향 조작 시 모델 출력과 행동에 일관된 변화 발생",
+        "미국·독일 연구진 25개 오픈웨이트 모델 분석 결과"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-09-22-10",
+      "top": false
+    },
+    {
+      "title": "M5 Ultra Mac Studio 리뷰: 로컬 AI 에이전트 최적 기기",
+      "url": "https://news.hada.io/topic?id=34079",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T17:55:36.000Z",
+      "lines": [
+        "M5 Ultra Mac Studio는 로컬 AI 에이전트 실용화 가능",
+        "Qwen3.8-Flash-Next 모델로 M3 대비 성능 향상",
+        "256GB RAM으로 대용량 모델 실행 최적화"
+      ],
+      "tags": [
+        "에이전트",
+        "Apple",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-11",
+      "top": false
+    },
+    {
+      "title": "앤돈랩스, 기업 자율 운영 AI 플랫폼 '파이온' 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215537",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-21T17:51:38.000Z",
+      "lines": [
+        "AI 에이전트가 기업 업무 전체를 자율적으로 수행하는 플랫폼 출시",
+        "이메일·전화·금융 계좌 권한 부여로 경영 전담 구조 구현",
+        "2년간의 가상 시뮬레이션 실험을 바탕으로 개발"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-12",
+      "top": false
+    },
+    {
+      "title": "오픈아트, AI 모델 평가 플랫폼 '아레나' 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215531",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-21T17:41:48.000Z",
+      "lines": [
+        "용도별 최적의 이미지·비디오 생성 모델을 비교하는 벤치마크 공개",
+        "구글 출신 창업진이 운영하는 크리에이티브 AI 스타트업의 서비스",
+        "모델 라우팅 중요성 강조하며 초기 순위 결과 발표"
+      ],
+      "tags": [
+        "이미지생성",
+        "영상",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-13",
+      "top": false
+    },
+    {
+      "title": "Tabby로 회계사 대체하는 AI 도구 출시",
+      "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T16:38:51.000Z",
+      "lines": [
+        "실시간 재무 분석과 서류 자동 처리 지원",
+        "전 회계사가 개발한 AI 기반 회계 도구",
+        "소기업 대상 실시간 손익 데이터 제공"
+      ],
+      "tags": [
+        "AI",
+        "생산성",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-14",
+      "top": false
+    },
+    {
+      "title": "구글, 제미니 최적화 노트북 '구글북' 출시",
+      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T14:39:22.000Z",
+      "lines": [
+        "제미니 AI를 노트북 운영체제 전역에 통합한 신제품",
+        "가격 899달러로 AI 전용 하드웨어 시장에 도전",
+        "AI 음성입력·위젯 등 데스크톱 경험 강화"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "노트북"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-22-15",
+      "top": false
+    },
+    {
+      "title": "AI 챗봇 금융 질문 오류율 57%…복잡 질문 88% 오답",
+      "url": "https://news.hada.io/topic?id=34070",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T14:31:22.000Z",
+      "lines": [
+        "ChatGPT·Gemini 등 18개 AI 모델이 금융 질문에서 평균 57% 오답률 기록",
+        "복잡한 질문에서는 오류율이 88%까지 급증",
+        "1만 건 이상 질의 테스트에서 정확도 한계 확인"
+      ],
+      "tags": [
+        "ChatGPT",
+        "Gemini",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-22-16",
+      "top": false
+    },
+    {
+      "title": "애플, 시리 AI 불만 해결로 250억 원 보상",
+      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-21T13:36:52.000Z",
+      "lines": [
+        "애플이 시리 AI 기능 미달로 250억 원 보상",
+        "iPhone 15 Pro·16 모델 사용자 25~95달러 지원",
+        "미국 내 2024년 6월~2025년 3월 구매자 대상"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "소송"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-22-17",
+      "top": false
+    },
+    {
+      "title": "KAIST, 온디바이스 AI로 서버 호출 57% 감소",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215545",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-22T05:01:17.000Z",
+      "lines": [
+        "기기 내 저장된 지식을 재사용해 서버 의존도 낮춤",
+        "추가 학습 없이 대형 모델 효율성 향상",
+        "난이도별 연산량 조절로 협업 프레임워크 개발"
+      ],
+      "tags": [
+        "연구",
+        "인프라",
+        "국내"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-22-18",
+      "top": false
+    },
+    {
+      "title": "프론티어 AI 개발 속도 측정 방법 연구 발표",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-22T00:25:42.000Z",
+      "lines": [
+        "Anthropic이 AI 개발 속도 측정 프레임워크 제안",
+        "프론티어 AI 연구소 내부 개발 과정 분석 방법 공개",
+        "AI 발전 속도 예측을 위한 새로운 접근 방식 제시"
+      ],
+      "tags": [
+        "연구",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-22-19",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트와 협업하는 팀 메시징 플랫폼 'Praxos' 출시",
+      "url": "https://www.praxos.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-21T21:40:19.000Z",
+      "lines": [
+        "YC S24 스타트업 Praxos가 AI 에이전트와 협업하는 팀 메시징 플랫폼 출시",
+        "대화 컨텍스트를 기억해 이후 작업 재개 시 추가 설명 없이 바로 업무 진행 가능",
+        "AI 에이전트와 인간 간 협업 효율성 향상을 목표로 한 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-22-20",
+      "top": false
+    },
+    {
+      "title": "OpenAI 수학 자문단 구성…AI로 100개 이상 미해결 문제 해결",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T20:15:58.000Z",
+      "lines": [
+        "OpenAI가 수학 분야 자문단을 구성해 AI 연구 지원",
+        "AI 시스템이 100개 이상의 미해결 수학 문제를 해결",
+        "자문단은 연구 방향 변경 권한은 없음"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-22-21",
+      "top": false
+    },
+    {
+      "title": "메타 AI 에이전트, 아마존 차단 당해",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T17:55:18.000Z",
+      "lines": [
+        "메타의 AI 에이전트 'Muse'가 아마존 사이트 접근 차단",
+        "아마존 자체 AI 모델과 인프라 보유로 협력 필요성 없어",
+        "법적 의무 없으면 경쟁사 서비스 차단 가능성"
+      ],
+      "tags": [
+        "에이전트",
+        "Meta",
+        "아마존"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-22-22",
+      "top": false
+    },
+    {
+      "title": "애플 신임 CEO 존 터너스 첫 제품 출시",
+      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-21T14:00:00.000Z",
+      "lines": [
+        "존 터너스 신임 CEO가 첫 제품 출시 행사 진행",
+        "애플 첫 접이식 스마트폰 아이폰 듀오 공개",
+        "애플 하드웨어 행사 스토리 전략에 주목"
+      ],
+      "tags": [
+        "애플",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-22-23",
+      "top": false
+    },
+    {
+      "title": "DeepSeek Flash v4.1, 초고속 코딩 추론 지원",
+      "url": "https://www.coralbricks.ai",
+      "source": "Show HN",
+      "publishedAt": "2026-09-21T22:12:48.000Z",
+      "lines": [
+        "DeepSeek Flash v4.1 모델, 초고속 코딩 추론 지원",
+        "469 tok/s 속도 달성, 코딩 작업 최적화",
+        "CoralBricks AI에서 개발 및 공개"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 65,
+      "id": "2026-09-22-24",
+      "top": false
+    },
+    {
+      "title": "WebGCM: 브라우저에서 실행되는 글로벌 기후 모델",
+      "url": "https://gcm.echorelay.net/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-21T21:15:04.000Z",
+      "lines": [
+        "4년 6개월 만에 개발된 WebGPU 기반 기후 모델",
+        "교육용으로 제작된 웹 브라우저 기반 기후 시뮬레이션",
+        "초기 실패 후 AI 발전으로 재도전 성공"
+      ],
+      "tags": [
+        "에이전트",
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-22-25",
+      "top": false
+    },
+    {
+      "title": "Fable 5 추론량 22% 감소 분석 결과 공개",
+      "url": "https://news.hada.io/topic?id=34081",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T18:34:05.000Z",
+      "lines": [
+        "Claude Code 사용자 분석 결과 Fable 5 추론 토큰 21.9% 감소",
+        "동일한 고추론 설정에서도 실제 추론량 감소 확인",
+        "모델 호출 방식 변경으로 인한 성능 저하 가능성 제기"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 65,
+      "id": "2026-09-22-26",
+      "top": false
+    },
+    {
+      "title": "애플 스토어 설계자, AI 쇼핑에 회의적",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T23:44:28.000Z",
+      "lines": [
+        "애플 스토어 설계자 론 존슨이 AI 쇼핑에 회의적",
+        "애플의 성공은 인력에 있다고 강조",
+        "실리콘밸리의 AI 쇼핑 투자에 경고"
+      ],
+      "tags": [
+        "애플",
+        "AI",
+        "소비자"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-22-27",
+      "top": false
+    },
+    {
+      "title": "맥에서 Apple Intelligence 기능 비활성화 방법",
+      "url": "https://news.hada.io/topic?id=34084",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T20:32:31.000Z",
+      "lines": [
+        "시스템/앱 설정에서 Siri AI·요약·개인화 답장 기능 끌 수 있음",
+        "Siri Classic으로 전환해 기존 Siri 사용 가능",
+        "메시지·이메일·알림 등 개별 기능도 제한 가능"
+      ],
+      "tags": [
+        "Apple",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-22-28",
+      "top": false
+    },
+    {
+      "title": "AI 코딩으로 CI 병목 현상 발생…Linear의 대처 방안",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-21T19:23:33.000Z",
+      "lines": [
+        "AI 코딩 확산으로 CI 파이프라인 병목 현상 발생",
+        "Linear이 CI 시스템 개편으로 대응 방안 제시",
+        "개발 효율성 향상을 위한 지속적 통합 최적화 필요성 제기"
+      ],
+      "tags": [
+        "생산성",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-22-29",
+      "top": false
+    },
+    {
+      "title": "벤치마크 파트너십이 밝힌 차세대 스타트업 전망",
+      "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T15:00:00.000Z",
+      "lines": [
+        "벤치마크 파트너십이 테크크런치 디스럽트 2026에서 차세대 스타트업 전망 발표",
+        "9월 25일까지 200달러 할인 혜택 제공",
+        "테크크런치 디스럽트 2026에서 주요 발표 예정"
+      ],
+      "tags": [
+        "투자",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-22-30",
+      "top": false
+    },
+    {
+      "title": "OpenAI 수학·AI 자문위원회 구성",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "lines": [
+        "OpenAI가 수학·AI 분야 자문위원회를 설립",
+        "신규 AI 연구 결과 검토 및 소통 지원",
+        "독립적 전문가 그룹으로 운영"
+      ],
+      "tags": [
+        "OpenAI",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-22-31",
+      "top": false
+    },
+    {
+      "title": "카카오 독립형 AI 서비스 '카나나' 종료",
+      "url": "https://news.hada.io/topic?id=34089",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-22T00:20:02.000Z",
+      "lines": [
+        "카나나 앱과 PC 서비스가 2026년 10월 15일 종료",
+        "정식 출시 없이 약 1년 5개월 운영",
+        "AI 메이트 대화와 이미지 생성 기능 제공"
+      ],
+      "tags": [
+        "국내",
+        "카카오"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-09-22-32",
+      "top": false
+    },
+    {
+      "title": "SoTA Feed: 주요 연구실 오픈소스 모델 업데이트 모니터링 서비스 출시",
+      "url": "https://sota.borgcloud.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-21T22:19:31.000Z",
+      "lines": [
+        "최신 오픈소스 AI 모델 업데이트 실시간 추적 서비스",
+        "주요 연구실의 오픈소스 모델만 필터링 제공",
+        "HN 커뮤니티에서 소개된 신규 툴"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-22-33",
+      "top": false
+    },
+    {
+      "title": "에이전트 반응용 Emote API 출시",
+      "url": "https://useemote.com",
+      "source": "Show HN",
+      "publishedAt": "2026-09-21T19:46:54.000Z",
+      "lines": [
+        "AI 에이전트 반응 전용 API 서비스 Emote 출시",
+        "개발자 대상 오픈 소스 프로젝트로 무료 제공",
+        "HN 커뮤니티에 소개된 신규 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-22-34",
+      "top": false
+    },
+    {
+      "title": "macOS 27에서 AI 모델 다운로드 차단 방법 공개",
+      "url": "https://news.hada.io/topic?id=34083",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-21T19:31:28.000Z",
+      "lines": [
+        "Siri 비활성화 시에도 AI 모델 자동 다운로드 발생",
+        "저장 공간 확보를 위한 우회 방법 공유",
+        "네트워크 저데이터 모드 활용 등 2가지 방법 제시"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "update",
+      "importance": 50,
+      "id": "2026-09-22-35",
+      "top": false
+    },
+    {
+      "title": "테크크런치 디스럽트 2026 할인 티켓 마지막 기회",
+      "url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-21T19:25:00.000Z",
+      "lines": [
+        "테크크런치 디스럽트 2026 티켓 200달러 할인",
+        "10,000명 참여자 예상, 9월 25일까지 할인",
+        "산프란시스코 모스콘 웨스트에서 개최"
+      ],
+      "tags": [
+        "국내",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 30,
+      "id": "2026-09-22-36",
+      "top": false
+    }
+  ]
+}
