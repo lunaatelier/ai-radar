@@ -1,0 +1,522 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T00:35:37.195Z",
+  "briefing": {
+    "highlight": "제미니 3.8 라이브 업데이트",
+    "rest": "와 AI 아바타 실시간 대화, Whiteboard 소프트웨어 설계, Public Browser MCP 출시 등 총 5건의 AI 관련 업데이트를 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "구글 제미니 3.8 라이브 업데이트, AI 아바타와 실시간 대화 가능",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-24T19:59:26.000Z",
+      "lines": [
+        "제미니 3.8 라이브 업데이트로 AI 아바타와 실시간 대화 가능",
+        "97개 언어 지원하며 입동작과 표정까지 동기화",
+        "현재 기업용 고객만 이용 가능"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-25-01",
+      "top": true
+    },
+    {
+      "title": "Whiteboard로 AI와 함께 소프트웨어 설계",
+      "url": "https://news.hada.io/topic?id=34245",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-24T22:42:05.000Z",
+      "lines": [
+        "클로드 코드·코덱스와 연동해 AI 에이전트와 협업 가능",
+        "캔버스에 다이어그램과 코드 탐색을 동시에 지원",
+        "YC W26 스타트업이 개발한 데스크톱 협업 툴"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-25-02",
+      "top": true
+    },
+    {
+      "title": "Public Browser MCP 출시 - 48% 속도 향상",
+      "url": "https://github.com/Silbercue/public-browser/releases/tag/v3.0.0",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T21:20:07.000Z",
+      "lines": [
+        "개인 개발자가 만든 Public Browser MCP 출시",
+        "기존 툴 대비 33% 토큰 감소, 48% 속도 향상",
+        "오픈소스·무료 서비스, 크롬 기반 MCP 서버 제공"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-25-03",
+      "top": true
+    },
+    {
+      "title": "유튜브, 생성 AI로 편집·피드 맞춤화 기능 추가",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215644",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-24T20:41:06.000Z",
+      "lines": [
+        "크리에이터가 자연어로 동영상 편집 가능",
+        "시청자 맞춤 추천 알고리즘 구축 지원",
+        "제미나이 옴니 기반 대화형 AI 편집 도구 도입"
+      ],
+      "tags": [
+        "영상",
+        "구글",
+        "Gemini"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-25-04",
+      "top": true
+    },
+    {
+      "title": "딥시크, AI 에이전트 학습용 인프라 DSec 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-24T19:26:22.000Z",
+      "lines": [
+        "에이전트 학습 비용 절감과 돌발 행동 차단을 위한 인프라 공개",
+        "샌드박스 플랫폼으로 대규모 에이전트 학습 효율화",
+        "AI 경쟁이 텍스트 생성에서 에이전트 작업 수행으로 이동 중"
+      ],
+      "tags": [
+        "에이전트",
+        "인프라",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-25-05",
+      "top": true
+    },
+    {
+      "title": "메타 Muse 파일시스템 노출 논란 제기",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-24T17:14:12.000Z",
+      "lines": [
+        "개발자 2명이 Muse 시스템 파일 전체 다운로드 가능 확인",
+        "메타는 보안 침해라고 부인, 지속적 가상머신 운영 중",
+        "프롬프트 주입에 취약한 것으로 알려져"
+      ],
+      "tags": [
+        "메타",
+        "보안",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-25-06",
+      "top": false
+    },
+    {
+      "title": "TODO Flow: 코딩 에이전트 병렬 작업 관리 오픈소스 출시",
+      "url": "https://news.hada.io/topic?id=34232",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-24T17:11:12.000Z",
+      "lines": [
+        "Claude/Codex CLI와 연동해 TODO 작업 병렬 처리 가능",
+        "Git worktree 기반 작업 분리 및 로컬 대시보드 제공",
+        "작업 상태와 검증 근거를 대화 세션 외 저장·관리"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-25-07",
+      "top": false
+    },
+    {
+      "title": "프론티어 AI 개발 속도 측정 방법 연구",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-24T22:16:32.000Z",
+      "lines": [
+        "Anthropic이 AI 개발 속도 측정 방법 연구 발표",
+        "프론티어 AI 연구소 내부 개발 과정 분석",
+        "AI 발전 속도 예측을 위한 새로운 지표 제시"
+      ],
+      "tags": [
+        "연구",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-25-08",
+      "top": false
+    },
+    {
+      "title": "DHH, AI 에이전트가 개발자 역할 바꿀 것 예고",
+      "url": "https://news.hada.io/topic?id=34243",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-24T21:37:20.000Z",
+      "lines": [
+        "AI 에이전트가 코드 작성의 경제성 변화 시킬 전망",
+        "개발자 역할이 직접 코딩에서 결과 정의로 이동할 것",
+        "37signals는 수작업 코딩을 예외로 취급하는 방식으로 전환"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-25-09",
+      "top": false
+    },
+    {
+      "title": "Canary, AI 코드 검증 툴 출시",
+      "url": "https://www.runcanary.ai/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T20:57:52.000Z",
+      "lines": [
+        "클로드/코덱스와 연동해 코드 변경사항 검증",
+        "원격 샌드박스에서 에이전트 군단으로 버그 테스트",
+        "npm으로 설치 가능한 CLI 제공"
+      ],
+      "tags": [
+        "에이전트",
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-25-10",
+      "top": false
+    },
+    {
+      "title": "에이전트 간 거래 실험 'Project Swap' 공개",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QNW9yOVdvcUdTcThnUGpqSzJjbmZoY2lneThEZFNacjBKdzN6N2xFYXQzSjBKSXdsVk9ZRXotZjhjeVVtcXRJbGpNTDhSSUc1ajVKUTZOamVMcVE?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-24T20:27:02.000Z",
+      "lines": [
+        "Anthropic이 AI 에이전트 간 자원 교환 실험 결과 발표",
+        "에이전트 협력 시스템의 효율성과 한계 분석",
+        "인간 대리 거래 시스템의 미래 가능성 제시"
+      ],
+      "tags": [
+        "에이전트",
+        "Anthropic"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-25-11",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 오퍼스 5.5 최적화 프롬프트 팁 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215638",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-24T19:54:31.000Z",
+      "lines": [
+        "목표와 완료 조건을 명확히 제시하는 프롬프트 작성법 강조",
+        "장시간 작업 시 진행 상황 체계적 관리 필요성 제시",
+        "오퍼스 5.5 사용을 위한 공식 가이드 공개"
+      ],
+      "tags": [
+        "Claude",
+        "에이전트"
+      ],
+      "cat": "update",
+      "importance": 70,
+      "id": "2026-09-25-12",
+      "top": false
+    },
+    {
+      "title": "엔비디아 CEO, AI로 기후위기 해결은 고통 필요",
+      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-24T18:04:44.000Z",
+      "lines": [
+        "엔비디아 CEO 젠슨 황, AI가 기후위기 해결에 도움이 되려면 고통을 겪어야 함",
+        "AI 발전이 환경에 미치는 부정적 영향과 데이터센터의 에너지 소모 문제 제기",
+        "기술 발전과 환경 보호의 균형에 대한 논쟁 재점화"
+      ],
+      "tags": [
+        "AI",
+        "에너지",
+        "기후위기"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-25-13",
+      "top": false
+    },
+    {
+      "title": "메타, AI로 게임 제작 가능한 모바일 앱 출시",
+      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-24T17:52:29.000Z",
+      "lines": [
+        "메타, AI 기반 게임 제작 툴 '호라이즌 크리에이트'와 '호라이즌 스튜디오' 출시",
+        "모바일과 브라우저에서 AI 프롬프트로 게임 개발 가능",
+        "페이스북·인스타그램에서 게임 추천 및 플레이 지원"
+      ],
+      "tags": [
+        "메타",
+        "AI",
+        "게임"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-25-14",
+      "top": false
+    },
+    {
+      "title": "Qualcomm 스마트글라스에 PrismML 소형 LLM 탑재",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T19:00:42.000Z",
+      "lines": [
+        "장치 내 AI 구현을 목표로 한 PrismML의 소형 LLM",
+        "Qualcomm 기반 스마트글라스에 최적화된 모델",
+        "기존 장치의 컴퓨팅 파워 효율적 활용"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "Qualcomm"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-25-15",
+      "top": false
+    },
+    {
+      "title": "메타의 AI 장신구 'Muse Charm' 출시",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T17:39:24.000Z",
+      "lines": [
+        "메타가 AI 장신구 Muse Charm 출시",
+        "Tamagotchi와 유사한 디자인",
+        "Gen Z의 액세서리 트렌드 반영"
+      ],
+      "tags": [
+        "메타",
+        "에이전트",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-25-16",
+      "top": false
+    },
+    {
+      "title": "오픈소스 소프트웨어 설계 IDE '화이트보드' 출시",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-24T17:21:36.000Z",
+      "lines": [
+        "AI 에이전트와 협업 가능한 오픈소스 IDE 출시",
+        "코드와 다이어그램 연동 기능으로 시스템 설계 효율화",
+        "기존 HTML 기반 도구 한계 극복 위해 CodeOSS 기반 구축"
+      ],
+      "tags": [
+        "오픈소스",
+        "에이전트",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-25-17",
+      "top": false
+    },
+    {
+      "title": "예산별 최적 LLM 모델 추천 리스트 매일 업데이트",
+      "url": "https://news.hada.io/topic?id=34242",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-24T20:38:33.000Z",
+      "lines": [
+        "성능 대비 비용 효율성 분석으로 최적 모델 추천",
+        "100만 토큰 기준 혼합 가격으로 비교",
+        "매일 업데이트되는 가성비 경계선 리스트 제공"
+      ],
+      "tags": [
+        "오픈소스",
+        "인프라",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-25-18",
+      "top": false
+    },
+    {
+      "title": "오픈소스 React Native 앱 빌더 Dunara 출시",
+      "url": "https://dunara-studio.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T20:07:56.000Z",
+      "lines": [
+        "Expo 및 React Native 앱을 로컬에서 빌드하는 오픈소스 툴",
+        "AI 연동 지원 및 Studio에서 앱 수정 후 소스 코드 내보내기 가능",
+        "자체 AI 서비스 연동 또는 MCP를 통해 AI와 상호작용"
+      ],
+      "tags": [
+        "오픈소스",
+        "React Native"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-25-19",
+      "top": false
+    },
+    {
+      "title": "오라클 뉴멕시코 데이터센터 완공 지연 가능성",
+      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T18:11:44.000Z",
+      "lines": [
+        "오라클이 뉴멕시코 Stargate 데이터센터 완공 지연 시 지급 연기 통보",
+        "2028년 완공 목표 미달 시 지급 연기 가능성 제시",
+        "포스마주르 조항 발동으로 계약 조건 변경"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-25-20",
+      "top": false
+    },
+    {
+      "title": "AI로 17세기 연금술 문서 복원 연구 진행 중",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-24T19:14:27.000Z",
+      "lines": [
+        "LLM으로 17세기 연금술 문서의 손상된 내용을 복원",
+        "역사 연구에 AI 기술 적용 사례 증가",
+        "인문학과 AI 기술의 융합 연구 주목받음"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 55,
+      "id": "2026-09-25-21",
+      "top": false
+    },
+    {
+      "title": "Jev-pilot: Claude 코드 분석 도구 출시",
+      "url": "https://github.com/Akramovic1/jev-pilot",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T22:21:49.000Z",
+      "lines": [
+        "프롬프트별 Claude 코드 품질 분석 가능",
+        "모델 선택 및 스킬 평가 지원",
+        "오픈소스로 공개된 GitHub 프로젝트"
+      ],
+      "tags": [
+        "오픈소스",
+        "Claude",
+        "에이전트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-25-22",
+      "top": false
+    },
+    {
+      "title": "AI로 만든 가상 연못 'Koi.rest' 공개",
+      "url": "https://koi.rest",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T21:33:03.000Z",
+      "lines": [
+        "ADHD를 가진 개발자가 AI로 가상 연못 서비스 제작",
+        "JavaScript 없이도 AI 도움으로 간편하게 개발 성공",
+        "스트레스 해소용 무료 서비스 공개"
+      ],
+      "tags": [
+        "AI",
+        "생산성",
+        "개인프로젝트"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-25-23",
+      "top": false
+    },
+    {
+      "title": "25달러로 구축한 AI 음성 녹음기 오픈소스 공개",
+      "url": "https://zephclick.com",
+      "source": "Show HN",
+      "publishedAt": "2026-09-24T20:51:25.000Z",
+      "lines": [
+        "159달러 AI 음성 녹음기 대안으로 25달러만으로 구축 가능한 오픈소스 공개",
+        "BYOK(자체 키 사용) 또는 로컬 실행 지원",
+        "Hacker News에서 9점 획득하며 주목"
+      ],
+      "tags": [
+        "음성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-25-24",
+      "top": false
+    },
+    {
+      "title": "테크크런치 파운더 서밋 2026 개요",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T16:46:47.000Z",
+      "lines": [
+        "보스턴에서 1일간 개최되는 창업자 대상 행사",
+        "초기부터 성장기 창업자 대상 실무 노하우 공유",
+        "VC 및 경험 많은 창업자들과 네트워킹 기회 제공"
+      ],
+      "tags": [
+        "투자",
+        "창업",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-25-25",
+      "top": false
+    },
+    {
+      "title": "테크크런치 디스럽트 2026 2인 할인 혜택",
+      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-24T19:15:00.000Z",
+      "lines": [
+        "테크크런치 디스럽트 2026 2인 동반 시 50% 할인",
+        "10월 13일 오전 8시 PT까지 사전 등록 가능",
+        "동일한 티켓 유형에 한해 적용"
+      ],
+      "tags": [
+        "기업",
+        "이벤트"
+      ],
+      "cat": "etc",
+      "importance": 30,
+      "id": "2026-09-25-26",
+      "top": false
+    }
+  ]
+}
