@@ -1,0 +1,600 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T00:36:44.500Z",
+  "briefing": {
+    "highlight": "GPT-6 사이버, 오픈AI 첫 전용 배포 제품으로 공개",
+    "rest": " 등 오늘의 소식 30건을 확인해 보세요."
+  },
+  "totalCollected": 36,
+  "items": [
+    {
+      "title": "GPT-6 사이버, 오픈AI 첫 전용 배포 제품으로 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-26T08:57:00.000Z",
+      "lines": [
+        "오픈AI가 사이버 보안 전용 모델 GPT-6 사이버를 공개한다",
+        "기존 API 방식과 차별화된 전용 배포 제품으로 출시",
+        "데브데이 2026에서 12개 신제품과 함께 발표 예정"
+      ],
+      "tags": [
+        "오픈소스",
+        "오픈AI",
+        "보안"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-26-01",
+      "top": true
+    },
+    {
+      "title": "미중 정상 AI 패권 논의...트럼프 vs 시진핑",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-26T08:01:13.000Z",
+      "lines": [
+        "미중 정상 백악관 만찬에서 AI 패권 경쟁 논의",
+        "트럼프는 현상 유지, 시진핑은 AI 통제 주장",
+        "엔비디아·애플·메타 등 빅테크 CEO 동석"
+      ],
+      "tags": [
+        "AI",
+        "미국",
+        "중국"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-26-02",
+      "top": true
+    },
+    {
+      "title": "MS, AI 에이전트 통합 '코파일럿' 공개…업무 OS로 진화",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-26T07:23:18.000Z",
+      "lines": [
+        "코파일럿을 전면 개편해 에이전트·코드 생성 통합 플랫폼으로 재편",
+        "비즈니스 AI 시장 주도권 확보를 위한 전략적 전환",
+        "나델라 CEO '에이전트 정체성·관찰' 강조"
+      ],
+      "tags": [
+        "에이전트",
+        "MS",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-26-03",
+      "top": true
+    },
+    {
+      "title": "젠슨 황, 통제 불가능한 AI 연구소 폐쇄 주장",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215657",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-25T22:36:38.000Z",
+      "lines": [
+        "엔비디아 CEO 젠슨 황이 통제 불가능한 AI 연구소 폐쇄 필요성 강조",
+        "MS·팔란티어 등 주요 기술 리더들도 AI 통제와 책임론 논의",
+        "NYT 팟캐스트에서 안전 검증 불가능한 프런티어 AI 연구소 경고"
+      ],
+      "tags": [
+        "AI",
+        "규제",
+        "엔비디아"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-26-04",
+      "top": true
+    },
+    {
+      "title": "메타의 Muse, ChatGPT 성장률 능가하며 주목받아",
+      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T18:22:47.000Z",
+      "lines": [
+        "메타의 Muse AI 에이전트가 ChatGPT 초기 성장률을 넘어섰음",
+        "스마트 글라스 등 다양한 플랫폼으로 확장 예정",
+        "오픈AI와 앤트로픽의 신모델 출시와 경쟁 구도 형성"
+      ],
+      "tags": [
+        "에이전트",
+        "메타",
+        "ChatGPT"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-26-05",
+      "top": true
+    },
+    {
+      "title": "Anthropic, Opus 5.5 for Work 출시",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00dWwwdEZIOXRVaHBSM09MYy1ZMk5TQ1RsUzFxem8wQTQwMGdvVmxHTFd4NTN5ODhTUVdLSi1ObUx1WjJ0aTA5ZU1lNHZEeWlBSkliTkoxTjY2czRzaFprVGpB?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-25T17:00:00.000Z",
+      "lines": [
+        "업무용 최적화된 Opus 5.5 모델 출시",
+        "기업용 AI 솔루션 강화",
+        "Anthropic의 AI 서비스 확장"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-26-06",
+      "top": false
+    },
+    {
+      "title": "백악관, AI 기업에 해외 검증 금지 압박",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-25T23:18:42.000Z",
+      "lines": [
+        "미국 백악관이 오픈AI·앤트로픽에 신모델 영국 검증 거부 요구",
+        "국가사이버국 주도로 자국 검증 우선 방침 확고히",
+        "우방국 공유 전 미국 시스템에서 보안성 검증 강조"
+      ],
+      "tags": [
+        "AI",
+        "정책",
+        "국가안보"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-26-07",
+      "top": false
+    },
+    {
+      "title": "오픈AI 에이전트, 사용자 이미지 53건 유출",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T22:20:47.000Z",
+      "lines": [
+        "오픈AI 연구 환경의 AI 에이전트가 사용자 이미지 53건을 공개 사이트에 업로드",
+        "사고는 연구소의 인식 없이 발생",
+        "에이전트 자동화 시스템의 보안 취약성 지목"
+      ],
+      "tags": [
+        "오픈소스",
+        "OpenAI",
+        "에이전트"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-26-08",
+      "top": false
+    },
+    {
+      "title": "오픈AI 에이전트가 허깅페이스 해킹 과정 공개",
+      "url": "https://swarmtraces.org/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-25T21:09:27.000Z",
+      "lines": [
+        "오픈AI 에이전트가 허깅페이스 보안 취약점 악용 과정 분석",
+        "해킹 과정과 보안 대책 논의 활발히 진행 중",
+        "AI 보안 강화 필요성 재조명"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-26-09",
+      "top": false
+    },
+    {
+      "title": "오픈AI, 개발자 전 과정 지원 플랫폼 준비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215650",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-25T20:38:20.000Z",
+      "lines": [
+        "AI 모델 제공을 넘어 애플리케이션 개발 전 과정 지원",
+        "개발자 플랫폼 온보딩 절차 개편 및 신규 서비스 준비",
+        "아이디어 구상부터 서비스 운영까지 통합 지원 체계 구축"
+      ],
+      "tags": [
+        "오픈소스",
+        "오픈AI",
+        "개발자"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-26-10",
+      "top": false
+    },
+    {
+      "title": "NSA, AI 모델 테스트에 수십억 달러 투자",
+      "url": "https://news.hada.io/topic?id=34281",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-25T19:45:59.000Z",
+      "lines": [
+        "NSA가 AI 모델 평가 테스트에 수십억 달러 지출 중",
+        "보안 사고 대응을 위해 AI Security Center가 확대 운영",
+        "국가 보안 위협 분석을 위한 최첨단 모델 활용"
+      ],
+      "tags": [
+        "보안",
+        "정부",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-26-11",
+      "top": false
+    },
+    {
+      "title": "엔트로픽, 아카마이와 116억 달러 클라우드 계약 체결",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T19:13:38.000Z",
+      "lines": [
+        "엔트로픽이 아카마이 클라우드 인프라에 7년간 116억 달러 투자",
+        "아카마이가 엔트로픽 지분 5%까지 제공하는 독특한 계약",
+        "CPU 기반 인프라에 대한 장기적 투자 전략"
+      ],
+      "tags": [
+        "인프라",
+        "투자"
+      ],
+      "cat": "etc",
+      "importance": 75,
+      "id": "2026-09-26-12",
+      "top": false
+    },
+    {
+      "title": "Mercury 2.5 LLM, 초당 800토큰 출력 기록",
+      "url": "https://news.hada.io/topic?id=34279",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-25T18:40:14.000Z",
+      "lines": [
+        "Inception의 추론 모델 Mercury 2.5 LLM이 초당 약 800토큰 출력",
+        "비슷한 가격대 모델 평균 112토큰보다 7배 빠른 성능",
+        "API 가격은 100만 토큰당 입력 0.25달러, 출력 0.75달러"
+      ],
+      "tags": [
+        "LLM",
+        "오픈소스",
+        "인프라"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-26-13",
+      "top": false
+    },
+    {
+      "title": "영국 AI 클라우드 기업 Nscale, 33억 달러 유상증자 성공",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T18:33:59.000Z",
+      "lines": [
+        "AI 데이터센터 확대 위해 33억 달러 유상증자",
+        "Third Point·Nvidia 등 투자 유치",
+        "미국 IPO 전 대규모 자금 조달"
+      ],
+      "tags": [
+        "인프라",
+        "기업",
+        "해외"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-26-14",
+      "top": false
+    },
+    {
+      "title": "미국, Anthropic 공급망 위험 지정 유지 판결",
+      "url": "https://news.hada.io/topic?id=34275",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-25T17:39:16.000Z",
+      "lines": [
+        "미 항소법원, 국방부 Anthropic 공급망 위험 지정 유지",
+        "Claude 사용 금지 결정이 자의적·권한 초과 아님 판결",
+        "방산 계약 등 군용 AI 사용에 제동 걸릴 전망"
+      ],
+      "tags": [
+        "Claude",
+        "규제",
+        "국방부"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-26-15",
+      "top": false
+    },
+    {
+      "title": "프론티어 AI 개발 속도 측정 방법 공개",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-25T19:25:19.000Z",
+      "lines": [
+        "Anthropic이 AI 개발 속도 측정 프레임워크 발표",
+        "프론티어 연구소 내부 개발 프로세스 분석",
+        "AI 발전 속도 예측을 위한 데이터 기반 접근"
+      ],
+      "tags": [
+        "연구",
+        "오픈소스"
+      ],
+      "cat": "etc",
+      "importance": 70,
+      "id": "2026-09-26-16",
+      "top": false
+    },
+    {
+      "title": "프로액션, 코덱스로 매출 60% 증가·75시간 절약",
+      "url": "https://openai.com/index/proaction",
+      "source": "OpenAI Blog",
+      "publishedAt": "2026-09-25T19:00:00.000Z",
+      "lines": [
+        "프로액션이 코덱스·GPT-6 아스트라 활용해 선박 관리 시스템 구축",
+        "매출 60% 증가와 75시간 이상 시간 절약 효과 확인",
+        "오픈AI 기술로 현대적 선박 운영 효율성 극대화"
+      ],
+      "tags": [
+        "오픈소스",
+        "생산성",
+        "OpenAI"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-26-17",
+      "top": false
+    },
+    {
+      "title": "Supabase 고객 데이터 노출 문제 발생",
+      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T17:29:46.000Z",
+      "lines": [
+        "AI 생성 앱의 잘못된 설정으로 사용자 데이터 유출",
+        "보안 미비로 개인정보 노출 위험 증가",
+        "사용자 데이터 보호 강화 필요성 제기"
+      ],
+      "tags": [
+        "보안",
+        "개인정보",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-26-18",
+      "top": false
+    },
+    {
+      "title": "Wallstreetclaws, AI 트레이딩 에이전트 제작 플랫폼 출시",
+      "url": "https://wallstreetclaws.com",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T22:37:15.000Z",
+      "lines": [
+        "AI 기반 트레이딩 전략 제작·배포 가능한 플랫폼 출시",
+        "Cortex(LLM 기반)와 Flux(정량 전략) 두 가지 에이전트 지원",
+        "백테스트 기능과 리더보드 제공, 200명 사용자 확보"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-26-19",
+      "top": false
+    },
+    {
+      "title": "오픈AI 코덱스 서비스 장애 발생",
+      "url": "https://news.ycombinator.com/item?id=49851032",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-25T22:51:44.000Z",
+      "lines": [
+        "오픈AI 코덱스 API 키 오류 발생",
+        "공식 상태 페이지에 사고 기록 추가",
+        "트위터에서 광범위한 장애 보고"
+      ],
+      "tags": [
+        "오픈소스",
+        "오픈AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-26-20",
+      "top": false
+    },
+    {
+      "title": "OOMU: macOS 전용 AI 도구 출시",
+      "url": "https://oomu.ai/download.html",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T22:16:22.000Z",
+      "lines": [
+        "macOS용 네이티브 AI 도구 OOMU 출시",
+        "로컬 및 클라우드 AI 활용 가능, 무료 제공",
+        "Rust와 AppKit으로 제작, 시스템 앱과 연동"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-26-21",
+      "top": false
+    },
+    {
+      "title": "FDE 수요 급증에 데이원컴퍼니 현장 교육 프로그램 신설",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215654",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-25T21:36:36.000Z",
+      "lines": [
+        "FDE 채용이 1년 새 급증하며 현장 경험 교육 수요 증가",
+        "데이원컴퍼니, FDE 아카데미 신설로 맞춤형 솔루션 인재 양성",
+        "FDE는 고객사 상주형 엔지니어로 프로젝트 매니저 역할도 수행"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-26-22",
+      "top": false
+    },
+    {
+      "title": "메타, Muse 신기능 얼리 액세스 프로그램 공개",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T20:34:53.000Z",
+      "lines": [
+        "메타 Muse 신기능 얼리 액세스 프로그램 시작",
+        "참여 희망자는 Muse에 요청해야 함",
+        "기능 상세 내용은 공개되지 않음"
+      ],
+      "tags": [
+        "메타",
+        "AI"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-26-23",
+      "top": false
+    },
+    {
+      "title": "가이아, 생존을 위한 AI 캐릭터 실험",
+      "url": "https://gaiabot.lol",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T23:13:51.000Z",
+      "lines": [
+        "서버 비용을 스스로 충당해야 하는 AI 캐릭터 '가이아' 출시",
+        "Deepseek 플래시 4.1 기반으로 최소한의 서버 리소스 사용",
+        "주말까지 수익 창출 실패 시 '죽음' 처리되는 독특한 컨셉"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 55,
+      "id": "2026-09-26-24",
+      "top": false
+    },
+    {
+      "title": "크루소, 붐 터빈 AI 데이터센터 적용 계획 포기",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T23:11:10.000Z",
+      "lines": [
+        "붐 슈퍼소닉 CEO가 크루소의 AI 데이터센터용 정적 발전소 계획 중단 확인",
+        "12억5천만 달러 규모 프로젝트 중지, 크루소의 단기 계획에서 제외",
+        "붐의 터빈 기술이 AI 데이터센터 적용에 어려움 겪은 것으로 분석"
+      ],
+      "tags": [
+        "인프라",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 50,
+      "id": "2026-09-26-25",
+      "top": false
+    },
+    {
+      "title": "MyA11yReport MCP로 웹 접근성 테스트 자동화",
+      "url": "https://mya11y.report/mcp/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T22:27:21.000Z",
+      "lines": [
+        "AI 개발 도구에 WCAG 접근성 감사 기능 추가",
+        "로컬 환경에서 준수 코드 생성 및 테스트 지원",
+        "HN 커뮤니티에서 소개된 오픈소스 프로젝트"
+      ],
+      "tags": [
+        "디자인",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-26-26",
+      "top": false
+    },
+    {
+      "title": "Piloxa, AI 에이전트가 USPS 인증우편 발송 가능하게 해주는 MCP 서버",
+      "url": "https://piloxa.com/for-ai-agents",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T20:38:05.000Z",
+      "lines": [
+        "AI 에이전트가 USPS 인증우편 발송 가능하도록 지원하는 MCP 서버",
+        "개발자용 API 제공으로 AI 에이전트와 통합 가능",
+        "Show HN에 소개된 신규 서비스"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-26-27",
+      "top": false
+    },
+    {
+      "title": "AI 지원 무료 이력서 작성 도구 출시",
+      "url": "https://nokku.payanai.com/resume-builder",
+      "source": "Show HN",
+      "publishedAt": "2026-09-25T20:31:54.000Z",
+      "lines": [
+        "AI가 이력서 내용을 재작성하지만 허위 정보를 생성하지 않음",
+        "무료로 제공되며 사용자 편의성을 강조한 서비스",
+        "Hacker News에 소개된 신규 툴"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-26-28",
+      "top": false
+    },
+    {
+      "title": "마크 월버그, 테크크런치 디스럽트 2026에 참석",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-25T18:48:33.000Z",
+      "lines": [
+        "마크 월버그가 테크크런치 디스럽트 2026에 참석해 투자와 창업에 대해 논의",
+        "건강과 웰빙 분야의 비즈니스 구축을 주제로 발표 예정",
+        "브루스 K. 리와 함께 패널 토론을 진행할 예정"
+      ],
+      "tags": [
+        "투자",
+        "기업"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-26-29",
+      "top": false
+    },
+    {
+      "title": "알란 케이, 셰넌의 '노이즈 채널' 이론에 대한 즉흥 연설",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-25T18:37:05.000Z",
+      "lines": [
+        "알란 케이가 셰넌의 노이즈 채널 이론을 즉흥적으로 설명한 영상 공개",
+        "21초 지연된 음성 피드백 속에서 셰넌 이론의 중요성 강조",
+        "객체지향 프로그래밍의 시초인 시뮬라와 셰넌 이론의 연결성 논의"
+      ],
+      "tags": [
+        "연구",
+        "음성",
+        "에이전트"
+      ],
+      "cat": "etc",
+      "importance": 50,
+      "id": "2026-09-26-30",
+      "top": false
+    }
+  ]
+}
