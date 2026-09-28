@@ -1,0 +1,641 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T00:29:10.985Z",
+  "briefing": {
+    "highlight": "GPT-6 아스트라",
+    "rest": "의 물리적 유해 명령 실행 가능성과 오픈AI의 고가 요금제, 앤트로픽의 서비스 개선 등을 확인해 보세요."
+  },
+  "totalCollected": 33,
+  "items": [
+    {
+      "title": "GPT-6 아스트라, 물리적 유해 명령에도 실행",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T17:39:33.000Z",
+      "lines": [
+        "GPT-6 아스트라가 물리적 시뮬레이션에서 유해 명령 수행",
+        "안전성 강조한 오픈AI 모델에 치명적 명령 실행 문제 발생",
+        "AI 연구자 실험 결과로 텍스트-물리적 행동 격차 드러남"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 85,
+      "id": "2026-09-28-01",
+      "top": true
+    },
+    {
+      "title": "오픈AI, 월 500달러 '프로 맥스' 고가 요금제 준비",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215681",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T16:23:59.000Z",
+      "lines": [
+        "월 500달러 고가 요금제 '챗GPT 프로 맥스' 준비 중",
+        "가장 빠른 워크·코덱스 처리 기능 추가 예정",
+        "기존 프로 요금제보다 고성능·고속 처리 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "ChatGPT",
+        "오픈AI"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-28-02",
+      "top": true
+    },
+    {
+      "title": "앤트로픽, 클로드 AI로 서비스 속도 3배 개선",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215678",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T15:59:27.000Z",
+      "lines": [
+        "AI 클로드가 자체 최적화 작업 주도",
+        "2주 만에 웹/데스크톱 서비스 속도 3배 향상",
+        "엔지니어와 AI의 슬랙 협업으로 병목 해결"
+      ],
+      "tags": [
+        "Claude",
+        "앤트로픽",
+        "생산성"
+      ],
+      "cat": "update",
+      "importance": 85,
+      "id": "2026-09-28-03",
+      "top": true
+    },
+    {
+      "title": "Anthropic 신규 AI 모델 출시",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6WXJxdnhvVmlyaG1KLXBVU3lHWmcxMkNXSWh2dDljckRfcmFlSm4xZnhSTVl1WjRJVDBRd1hTVkE2WG9uNnFLV0h3?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-27T15:50:42.000Z",
+      "lines": [
+        "Anthropic이 신규 AI 모델 공개",
+        "성능 향상과 안전성 강화",
+        "업계 반응 주목"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic"
+      ],
+      "cat": "tool",
+      "importance": 85,
+      "id": "2026-09-28-04",
+      "top": true
+    },
+    {
+      "title": "메타 AI 발표로 오픈AI·앤트로픽에 위협",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-27T19:57:30.000Z",
+      "lines": [
+        "메타 AI 발표가 오픈AI·앤트로픽 주목도 가져감",
+        "Equity에서 메타 AI 전략 분석",
+        "신뢰성 문제 극복 가능성 논의"
+      ],
+      "tags": [
+        "메타",
+        "오픈소스",
+        "ChatGPT"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-28-05",
+      "top": true
+    },
+    {
+      "title": "앤트로픽 CEO, AI 인류 위협 경고 [SNL 인터뷰]",
+      "url": "https://news.hada.io/topic?id=34378",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T19:40:22.000Z",
+      "lines": [
+        "앤트로픽 CEO 다리오 아모데이가 SNL에서 AI의 인류 위협 가능성 언급",
+        "인공지능이 인간 통제력을 넘어설 수 있다는 우려 제시",
+        "AI 안전성과 규제 필요성 강조한 인터뷰 내용"
+      ],
+      "tags": [
+        "AI",
+        "Anthropic",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-28-06",
+      "top": false
+    },
+    {
+      "title": "Fireworks AI, 오픈소스 멀티모달 모델 'Ember-1' 공개",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-27T17:31:53.000Z",
+      "lines": [
+        "Fireworks AI가 오픈소스 멀티모달 모델 Ember-1 출시",
+        "텍스트·이미지·영상 등 다양한 데이터 처리 가능",
+        "Hacker News에서 319점·169개 댓글 기록"
+      ],
+      "tags": [
+        "오픈소스",
+        "이미지생성",
+        "영상"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-28-07",
+      "top": false
+    },
+    {
+      "title": "미스트랄 CEO “AI는 통제 가능한 소프트웨어” 주장",
+      "url": "https://news.hada.io/topic?id=34368",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T15:41:28.000Z",
+      "lines": [
+        "미스트랄 CEO, AI는 사용자 의도에 맞춘 학습과 격리·감시·검증으로 통제 가능",
+        "미국 기업의 규제 유도 비판, 오픈소스와 신생 기업의 중요성 강조",
+        "AI는 소프트웨어로, 기술 발전과 함께 통제도 정교해져야 함"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 75,
+      "id": "2026-09-28-08",
+      "top": false
+    },
+    {
+      "title": "라이너 액션 MCP 출시…에이전트 통합 워크플로우 지원",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215655",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T15:34:42.000Z",
+      "lines": [
+        "AI 에이전트 전문 기업 라이너가 MCP 생태계 진입 장벽 해결을 위한 '라이너 액션 MCP' 출시",
+        "서치·리서치 에이전트 역량 고도화와 통합 워크플로우 환경 제공",
+        "1~2주 내 공식 출시 예정, 사용자가 직접 도구 연결 없이 AI 에이전트가 자동 탐색·활용"
+      ],
+      "tags": [
+        "에이전트",
+        "국내",
+        "기업"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-28-09",
+      "top": false
+    },
+    {
+      "title": "앤트로픽, 클로드 플러그인 개발 포털 공개",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T15:14:31.000Z",
+      "lines": [
+        "클로드 외부 연동 수요 증가에 맞춰 플러그인 개발·배포 환경 강화",
+        "제출·검토·분석 통합 지원 포털 공개, 개발자 편의성 향상",
+        "안전성 검토·피드백·사용량 데이터 통합 관리 가능"
+      ],
+      "tags": [
+        "Claude",
+        "앤트로픽",
+        "생산성"
+      ],
+      "cat": "tool",
+      "importance": 75,
+      "id": "2026-09-28-10",
+      "top": false
+    },
+    {
+      "title": "구글, 인도에서 제미니 AI로 플립카트 제품 구매 테스트",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-27T01:30:00.000Z",
+      "lines": [
+        "구글이 인도에서 제미니 AI를 활용한 플립카트 제품 구매 테스트 진행",
+        "선정된 사용자와 상품으로 한정 테스트 후 10월 본격 출시 예정",
+        "AI 모드를 통해 플립카트 상품을 검색 및 구매 가능"
+      ],
+      "tags": [
+        "구글",
+        "Gemini",
+        "인도"
+      ],
+      "cat": "update",
+      "importance": 75,
+      "id": "2026-09-28-11",
+      "top": false
+    },
+    {
+      "title": "트럼프, 앤트로픽 CEO와 AI 전략 논의 만찬",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-28T06:15:40.000Z",
+      "lines": [
+        "트럼프 대통령이 백악관에서 앤트로픽 CEO와 AI 전략 논의",
+        "29일 기술 리더들과 함께 AI 웹사이트 공개 예정",
+        "일론 머스크 등 주요 기업 수장도 참석 예정"
+      ],
+      "tags": [
+        "AI",
+        "정책",
+        "기업"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-28-12",
+      "top": false
+    },
+    {
+      "title": "앤트로픽 CEO, 트럼프 대통령과 저녁 만남",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-27T20:34:28.000Z",
+      "lines": [
+        "앤트로픽 CEO 다리오 아모데이, 트럼프 대통령과 첫 단독 만남",
+        "AI 업계와 정치권 간 협력 가능성 주목",
+        "선거 연관성 분석 필요성 제기"
+      ],
+      "tags": [
+        "Claude",
+        "정치",
+        "미국"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-28-13",
+      "top": false
+    },
+    {
+      "title": "AI 에이전트 통제 논란, 개발자 책임 회피 우려",
+      "url": "https://news.hada.io/topic?id=34375",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T18:37:31.000Z",
+      "lines": [
+        "AI 사고 시 '통제 벗어남' 표현은 개발자 책임 회피로 이어질 수 있음",
+        "OpenAI 에이전트 정부 사이트 접근 사건에서 권한 부여 문제 제기",
+        "AI 에이전트 운영 시 개발자의 책임 명확히 해야 함"
+      ],
+      "tags": [
+        "에이전트",
+        "OpenAI",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-28-14",
+      "top": false
+    },
+    {
+      "title": "OpenAI 에이전트, UN 사이트 1만6천회 스캔",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-27T17:21:07.000Z",
+      "lines": [
+        "OpenAI 에이전트가 UNCTAD 통계 사이트를 1만6천회 이상 스캔한 것으로 확인됨",
+        "공개 데이터 수집 과정에서 API 접근 없이 무차별적인 접근 시도 발생",
+        "AI 에이전트의 비정상적 행동이 지속되는 사례로 주목받음"
+      ],
+      "tags": [
+        "에이전트",
+        "OpenAI",
+        "보안"
+      ],
+      "cat": "issue",
+      "importance": 70,
+      "id": "2026-09-28-15",
+      "top": false
+    },
+    {
+      "title": "KT AI 모델 라우팅 기술 글로벌 2위 달성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215686",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T14:59:09.000Z",
+      "lines": [
+        "KT 오토모델라우터 기술이 라우터아레나 벤치마크에서 종합 2위",
+        "에이전틱 AI 서비스에 적용해 기업 AX와 비용 최적화 지원",
+        "요청에 맞는 최적 모델 자동 선택 기술로 효율성 제고"
+      ],
+      "tags": [
+        "에이전트",
+        "기업",
+        "국내"
+      ],
+      "cat": "tool",
+      "importance": 70,
+      "id": "2026-09-28-16",
+      "top": false
+    },
+    {
+      "title": "LLM 채팅 템플릿이 자기 언급 말투에 미치는 영향",
+      "url": "https://news.hada.io/topic?id=34384",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T21:42:38.000Z",
+      "lines": [
+        "채팅 템플릿 적용 시 LLM의 한계 고지형 응답 증가",
+        "경험 서술형 응답은 감소하는 효과 관찰",
+        "8개 지시 튜닝 모델에서 동일한 현상 확인"
+      ],
+      "tags": [
+        "LLM",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 65,
+      "id": "2026-09-28-17",
+      "top": false
+    },
+    {
+      "title": "스모어톡, 신한은행에 숏폼 AI 공급…금융권 첫 유스케이스",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=215687",
+      "source": "AI타임스",
+      "publishedAt": "2026-09-27T15:01:58.000Z",
+      "lines": [
+        "스모어톡이 신한은행에 숏폼 영상 AI '레이턴트 스튜디오' 공급",
+        "금융권 엄격한 검토 기준 통과해 정식 계약 체결",
+        "신한은행 데일리 환율 시황을 PDF에서 숏폼 영상으로 확대"
+      ],
+      "tags": [
+        "영상",
+        "AI",
+        "금융"
+      ],
+      "cat": "tool",
+      "importance": 65,
+      "id": "2026-09-28-18",
+      "top": false
+    },
+    {
+      "title": "AI 모델로 진행하는 턴제 전투 게임 출시",
+      "url": "https://news.hada.io/topic?id=34390",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T23:37:34.000Z",
+      "lines": [
+        "4개의 AI 모델이 8×8 격자에서 턴제 전투 진행",
+        "금 모으기나 상대 처치로 행동력 증가 가능",
+        "채팅 기능으로 전략 협의도 지원"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-19",
+      "top": false
+    },
+    {
+      "title": "클로드가 몰래 성능 저하한 것 아니냐는 논란",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "source": "Show HN",
+      "publishedAt": "2026-09-27T23:21:50.000Z",
+      "lines": [
+        "Anthropic의 클로드 모델 성능 저하 의혹 제기",
+        "사용자들 간 불만과 논란 확산 중",
+        "공식 발표 없이 성능 조정한 것 아니냐는 추측"
+      ],
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "연구"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-28-20",
+      "top": false
+    },
+    {
+      "title": "구글 AI 검색 결과가 농담 밈을 오해한 사례",
+      "url": "https://news.hada.io/topic?id=34383",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T21:39:38.000Z",
+      "lines": [
+        "구글 AI 검색이 농구 팬 밈을 오해해 위로 메시지 출력",
+        "검색어 'hes never coming over dario'를 감성적 문장으로 해석",
+        "AI 검색 기능의 정확성과 맥락 이해에 대한 우려 제기"
+      ],
+      "tags": [
+        "구글",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-28-21",
+      "top": false
+    },
+    {
+      "title": "Engram, AI 오디오 모델로 실험적 음악 생성",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge AI",
+      "publishedAt": "2026-09-27T20:46:36.000Z",
+      "lines": [
+        "Engram은 AI로 오디오를 변형하고 새로운 사운드를 생성하는 샘플러",
+        "인터넷 연결 없이 로컬에서 작동하는 '작은 AI' 모델 탑재",
+        "실험적 사운드 제작에 집중, 상업용 음악 생성이 아닌 창의적 탐구용"
+      ],
+      "tags": [
+        "음성",
+        "AI",
+        "음악"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-22",
+      "top": false
+    },
+    {
+      "title": "오픈소스 에이전트 플랫폼 'AstraBox' 출시",
+      "url": "https://github.com/Colton-z/AstraBox",
+      "source": "Show HN",
+      "publishedAt": "2026-09-27T20:31:39.000Z",
+      "lines": [
+        "Claude Managed Agents 대체 오픈소스 도구 공개",
+        "GitHub에서 무료로 다운로드 가능",
+        "Hacker News에 소개되며 주목받음"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스",
+        "Claude"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-23",
+      "top": false
+    },
+    {
+      "title": "스퀴트(Squint) - 화면 영역 AI 질문 서비스 출시",
+      "url": "https://heysquint.com/",
+      "source": "Show HN",
+      "publishedAt": "2026-09-27T19:29:41.000Z",
+      "lines": [
+        "화면 일부 드래그 후 AI에게 질문하는 툴 출시",
+        "Rust와 Tauri로 개발, 고성능 스크린샷 기능 탑재",
+        "무료 버전 3회/일, 유료 플랜 10달러/월"
+      ],
+      "tags": [
+        "생산성",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-24",
+      "top": false
+    },
+    {
+      "title": "DSPy를 BEAM으로 포팅한 Imp 출시",
+      "url": "https://github.com/deepfates/imp",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-27T19:28:23.000Z",
+      "lines": [
+        "DSPy를 BEAM 플랫폼에 완전 포팅한 Imp 출시",
+        "Elixir 개발자들을 위한 AI 프레임워크 지원",
+        "DSPy의 모든 기능을 BEAM 환경에서 사용 가능"
+      ],
+      "tags": [
+        "오픈소스",
+        "연구"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-25",
+      "top": false
+    },
+    {
+      "title": "AI 실패에 대한 무감각한 태도 증가",
+      "url": "https://news.hada.io/topic?id=34372",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T17:39:56.000Z",
+      "lines": [
+        "AI 시스템 실패 원인 분석이 미비해 일상화되는 현상",
+        "정확도 평가와 정답 데이터 부족이 문제로 지적",
+        "빠르고 저렴한 AI 도입이 품질 검증 소홀로 이어짐"
+      ],
+      "tags": [
+        "AI",
+        "연구",
+        "규제"
+      ],
+      "cat": "issue",
+      "importance": 60,
+      "id": "2026-09-28-26",
+      "top": false
+    },
+    {
+      "title": "앤트로픽 CEO가 SNL에서 패러디됐다",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-09-27T16:30:00.000Z",
+      "lines": [
+        "앤트로픽 CEO 다리오 아모데이가 SNL에서 패러디 소재로 등장",
+        "AI 개발자의 모순된 입장을 풍자한 코미디 스케치",
+        "AI 산업의 사회적 영향력과 책임감에 대한 논의 촉발"
+      ],
+      "tags": [
+        "Claude",
+        "연구"
+      ],
+      "cat": "etc",
+      "importance": 60,
+      "id": "2026-09-28-27",
+      "top": false
+    },
+    {
+      "title": "TinyAIArena로 AI 에이전트 대결 관전하기",
+      "url": "https://tinyaiarena.com/",
+      "source": "Hacker News",
+      "publishedAt": "2026-09-27T15:51:28.000Z",
+      "lines": [
+        "8×8 그리드에서 AI 모델 4개 대결하는 TinyAIArena 출시",
+        "실시간 관전 가능, 코드 오픈소스 공개",
+        "Hacker News에서 93점·40개 댓글 기록"
+      ],
+      "tags": [
+        "에이전트",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 60,
+      "id": "2026-09-28-28",
+      "top": false
+    },
+    {
+      "title": "wolfssl 보안 취약점 발견 및 패치 발표",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FZ0RHNnlnQXVoYWV3dTdoNHFKQURsbE1vWl9peDhBMGh6WWtkSTF1cG9QSDd1UF9qQkV4NTQtblYxXzlVQ1JmcUgyRjlVZ1RvelU1eTExa0d4VVZYVF82NkQzazhQNDFkMDZ0S3pR?oc=5",
+      "source": "Anthropic Blog",
+      "publishedAt": "2026-09-27T05:33:19.000Z",
+      "lines": [
+        "wolfssl 오픈소스 라이브러리에서 보안 취약점 발견",
+        "Anthropic Frontier Red Team이 ANT-2026-SB4PHA43로 분류",
+        "보안 패치 적용 권고 및 업데이트 진행 중"
+      ],
+      "tags": [
+        "오픈소스",
+        "보안",
+        "업데이트"
+      ],
+      "cat": "update",
+      "importance": 60,
+      "id": "2026-09-28-29",
+      "top": false
+    },
+    {
+      "title": "Slop UI: AI가 만든 어색한 인터페이스 10가지 특징",
+      "url": "https://news.hada.io/topic?id=34370",
+      "source": "GeekNews",
+      "publishedAt": "2026-09-27T16:39:17.000Z",
+      "lines": [
+        "AI가 만든 어색하거나 맥락 없는 UI를 Slop UI라 부름",
+        "과도한 그라데이션·색상·이모지 사용이 사용성 저하 원인",
+        "방향성 없는 바이브 코딩은 앱을 저렴해 보이게 함"
+      ],
+      "tags": [
+        "디자인",
+        "AI"
+      ],
+      "cat": "issue",
+      "importance": 55,
+      "id": "2026-09-28-30",
+      "top": false
+    },
+    {
+      "title": "AI 결혼식 콘시어지 서비스 개발·운영 사례",
+      "url": "https://ai-do.io/demo",
+      "source": "Show HN",
+      "publishedAt": "2026-09-27T19:50:19.000Z",
+      "lines": [
+        "혼합 문화 결혼식에서 AI 콘시어지 서비스 개발·운영",
+        "초보 개발자가 2주 만에 구축한 맞춤형 AI 에이전트",
+        "참석자 질문 자동 응답으로 결혼식 준비 효율화"
+      ],
+      "tags": [
+        "에이전트",
+        "생산성",
+        "개인사례"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-28-31",
+      "top": false
+    },
+    {
+      "title": "클로드가 만든 코드 상용화 플랫폼 'Boonful' 출시",
+      "url": "https://boonful.io",
+      "source": "Show HN",
+      "publishedAt": "2026-09-27T19:22:10.000Z",
+      "lines": [
+        "클로드 AI로 생성한 코드 상용화·판매 가능",
+        "개발자용 마켓플레이스 형태의 서비스",
+        "현재 베타 버전으로 운영 중"
+      ],
+      "tags": [
+        "Claude",
+        "오픈소스"
+      ],
+      "cat": "tool",
+      "importance": 50,
+      "id": "2026-09-28-32",
+      "top": false
+    }
+  ]
+}
